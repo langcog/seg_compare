@@ -1,0 +1,145 @@
+Lexicon: biki	tukA	duludA	lAtizi	givApigu	zupAbAvu	
+
+Training Sentences:
+zupAbAvu
+givApigu
+zupAbAvu
+zupAbAvu
+givApigu
+biki
+givApigu
+lAtizi
+lAtizi
+biki
+tukA
+duludA
+duludA
+zupAbAvu
+duludA
+tukA
+lAtizi
+lAtizi
+duludA
+biki
+duludA
+lAtizi
+tukA
+givApigu
+tukA
+tukA
+givApigu
+givApigu
+zupAbAvu
+biki
+zupAbAvu
+tukA
+lAtizi
+zupAbAvu
+givApigu
+biki
+tukA
+biki
+duludA
+duludA
+
+Test Items:
+biki	Avub
+duludA	udAlAt
+zupAbAvu	iguzupAb
+lAtizi	udAlAt
+givApigu	izigivAp
+duludA	ukAdul
+biki	Avub
+zupAbAvu	iguzupAb
+givApigu	izigivAp
+zupAbAvu	iguzupAb
+biki	ikit
+tukA	Avub
+lAtizi	ukAdul
+duludA	ukAdul
+givApigu	iguzupAb
+zupAbAvu	iguzupAb
+givApigu	izigivAp
+tukA	Avub
+zupAbAvu	iguzupAb
+biki	ikit
+zupAbAvu	iguzupAb
+duludA	udAlAt
+lAtizi	ukAdul
+zupAbAvu	iguzupAb
+lAtizi	udAlAt
+tukA	ikit
+lAtizi	ukAdul
+duludA	udAlAt
+lAtizi	ukAdul
+duludA	udAlAt
+biki	Avub
+zupAbAvu	iguzupAb
+biki	Avub
+tukA	ikit
+biki	Avub
+givApigu	iguzupAb
+zupAbAvu	iguzupAb
+givApigu	izigivAp
+duludA	ukAdul
+zupAbAvu	iguzupAb
+lAtizi	udAlAt
+duludA	ukAdul
+biki	Avub
+zupAbAvu	iguzupAb
+tukA	Avub
+zupAbAvu	izigivAp
+duludA	ukAdul
+tukA	ikit
+lAtizi	udAlAt
+givApigu	izigivAp
+lAtizi	udAlAt
+zupAbAvu	iguzupAb
+biki	Avub
+tukA	ikit
+duludA	udAlAt
+biki	ikit
+lAtizi	ukAdul
+zupAbAvu	izigivAp
+duludA	ukAdul
+tukA	Avub
+givApigu	izigivAp
+tukA	Avub
+duludA	udAlAt
+zupAbAvu	iguzupAb
+lAtizi	udAlAt
+zupAbAvu	iguzupAb
+biki	ikit
+lAtizi	udAlAt
+givApigu	iguzupAb
+zupAbAvu	izigivAp
+givApigu	iguzupAb
+zupAbAvu	izigivAp
+lAtizi	udAlAt
+duludA	ukAdul
+givApigu	izigivAp
+biki	ikit
+duludA	udAlAt
+lAtizi	ukAdul
+zupAbAvu	izigivAp
+lAtizi	ukAdul
+biki	ikit
+duludA	udAlAt
+lAtizi	ukAdul
+biki	Avub
+duludA	udAlAt
+tukA	Avub
+biki	Avub
+zupAbAvu	izigivAp
+biki	ikit
+zupAbAvu	iguzupAb
+lAtizi	udAlAt
+biki	Avub
+tukA	ikit
+zupAbAvu	iguzupAb
+tukA	Avub
+duludA	ukAdul
+givApigu	izigivAp
+zupAbAvu	iguzupAb
+biki	ikit
+duludA	ukAdul

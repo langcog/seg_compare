@@ -1,0 +1,42 @@
+Lexicon: LJ	Kpn	PdTz	tb	Mlf	
+
+Training Sentences:
+tbLJPdTzMlf
+LJMlftbKpn
+MlfLJKpntb
+tbLJKpnPdTz
+KpnMlfLJPdTz
+KpnMlftbPdTz
+PdTzMlftbLJ
+
+Test Items:
+tb	fL
+Mlf	JKp
+LJ	zt
+tb	fL
+Kpn	bMl
+LJ	fL
+Mlf	JKp
+LJ	zt
+Kpn	bMl
+LJ	fL
+tb	zt
+Kpn	bMl
+PdTz	nPdT
+LJ	fL
+tb	zt
+Kpn	bMl
+Mlf	JKp
+LJ	fL
+tb	fL
+LJ	fL
+Mlf	bMl
+PdTz	nPdT
+Mlf	JKp
+Kpn	JKp
+tb	fL
+Mlf	bMl
+PdTz	nPdT
+Kpn	bMl
+Mlf	JKp
+PdTz	nPdT

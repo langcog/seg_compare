@@ -1,0 +1,110 @@
+Lexicon: bT	LP	vlK	GgZ	tdpk	zBVD	
+
+Training Sentences:
+tdpkzBVDvlKLPGgZtdpkvlKGgZ
+tdpkbTvlKLPvlKtdpkGgZzBVD
+LPtdpkvlKtdpkLPGgZzBVDvlK
+tdpkGgZLPGgZbTtdpkLPzBVD
+tdpkvlKGgZtdpkvlKzBVDbTGgZ
+GgZbTGgZtdpkzBVDbTzBVDtdpk
+GgZLPvlKbTLPvlKGgZzBVD
+LPvlKtdpkzBVDLPzBVDvlKbT
+zBVDLPtdpkbTtdpkzBVDLPbT
+LPGgZtdpkGgZvlKbTtdpkzBVD
+LPGgZbTGgZzBVDbTvlKtdpk
+GgZtdpkvlKbTzBVDGgZtdpkzBVD
+LPtdpkzBVDtdpkzBVDLPvlKbT
+zBVDtdpkbTvlKzBVDLPGgZvlK
+LPvlKzBVDtdpkGgZLPvlKGgZ
+GgZvlKtdpkGgZLPvlKzBVDLP
+LPzBVDtdpkvlKbTLPvlKbT
+LPGgZtdpkvlKzBVDbTzBVDLP
+LPtdpkbTLPbTtdpkvlKGgZ
+tdpkLPbTtdpkGgZbTLPzBVD
+bTLPGgZtdpkGgZbTLPzBVD
+bTvlKbTLPzBVDvlKGgZzBVD
+tdpkzBVDGgZvlKGgZLPtdpkvlK
+GgZbTvlKbTzBVDGgZtdpkzBVD
+GgZtdpkzBVDvlKbTvlKtdpkbT
+bTGgZvlKzBVDvlKzBVDGgZtdpk
+GgZvlKzBVDGgZLPtdpkvlKtdpk
+LPbTvlKzBVDLPbTGgZtdpk
+LPtdpkLPGgZvlKGgZvlKbT
+LPtdpkvlKLPvlKbTtdpkzBVD
+vlKLPbTvlKtdpkbTGgZLP
+bTvlKbTtdpkGgZtdpkLPzBVD
+LPbTvlKGgZzBVDvlKGgZzBVD
+LPGgZvlKzBVDbTvlKbTzBVD
+tdpkGgZtdpkvlKbTGgZvlKbT
+GgZvlKLPvlKGgZtdpkzBVDbT
+vlKGgZtdpkvlKGgZbTLPzBVD
+zBVDLPbTtdpkzBVDGgZvlKtdpk
+tdpkLPvlKzBVDtdpkzBVDvlKGgZ
+tdpkGgZbTzBVDtdpkGgZLPbT
+bTGgZbTGgZLPvlKLPtdpk
+tdpkbTvlKtdpkLPvlKzBVDGgZ
+GgZvlKzBVDbTtdpkzBVDLPtdpk
+bTzBVDLPtdpkLPGgZtdpkvlK
+tdpkGgZbTtdpkvlKbTGgZzBVD
+zBVDLPGgZLPzBVDtdpkGgZvlK
+bTvlKbTvlKLPGgZzBVDLP
+LPGgZbTtdpkbTGgZtdpkzBVD
+LPGgZbTzBVDbTGgZLPtdpk
+vlKbTzBVDLPtdpkLPbTvlK
+tdpkLPzBVDbTGgZvlKGgZvlK
+bTzBVDvlKGgZbTGgZLPzBVD
+GgZzBVDvlKGgZvlKzBVDtdpkLP
+zBVDLPbTtdpkbTvlKzBVDvlK
+vlKGgZLPtdpkzBVDLPvlKbT
+vlKLPGgZtdpkzBVDLPvlKzBVD
+tdpkvlKzBVDvlKzBVDtdpkLPbT
+vlKbTGgZbTLPzBVDtdpkLP
+zBVDbTzBVDLPtdpkvlKbTtdpk
+bTLPzBVDGgZzBVDLPbTvlK
+bTzBVDGgZvlKGgZvlKbTLP
+LPGgZzBVDLPGgZtdpkzBVDbT
+LPbTzBVDtdpkLPGgZzBVDbT
+LPbTzBVDGgZvlKbTvlKtdpk
+zBVDbTtdpkGgZbTtdpkGgZLP
+tdpkvlKGgZvlKtdpkGgZzBVDbT
+zBVDGgZLPbTvlKbTLPvlK
+LPtdpkGgZtdpkLPzBVDbTzBVD
+vlKLPbTGgZLPzBVDtdpkbT
+tdpkvlKLPGgZvlKLPzBVDbT
+bTLPzBVDtdpkbTLPtdpkGgZ
+tdpkbTGgZvlKzBVDvlKLPtdpk
+LPGgZtdpkGgZbTtdpkvlKzBVD
+bTLPzBVDbTtdpkzBVDtdpkvlK
+bTzBVDGgZzBVDLPGgZzBVDzBVD
+
+Test Items:
+zBVD	kzBV
+bT	TL
+tdpk	Ztdp
+zBVD	kzBV
+tdpk	Ztdp
+vlK	KGg
+tdpk	kzBV
+GgZ	Pvl
+zBVD	kzBV
+tdpk	Ztdp
+zBVD	kzBV
+LP	TL
+vlK	KGg
+zBVD	Ztdp
+vlK	Pvl
+bT	Db
+vlK	Pvl
+LP	Db
+vlK	KGg
+GgZ	Pvl
+bT	TL
+zBVD	Ztdp
+LP	Db
+zBVD	kzBV
+LP	Db
+vlK	KGg
+zBVD	Ztdp
+GgZ	Pvl
+zBVD	kzBV
+GgZ	Pvl

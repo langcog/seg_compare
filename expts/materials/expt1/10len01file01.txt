@@ -1,0 +1,75 @@
+Lexicon: zugu	dutu	kAbidA	vApAzi	pikigivu	lAbAluti	
+
+Training Sentences:
+vApAzi
+vApAzi
+kAbidA
+kAbidA
+lAbAluti
+vApAzi
+kAbidA
+dutu
+pikigivu
+zugu
+zugu
+lAbAluti
+pikigivu
+lAbAluti
+dutu
+dutu
+vApAzi
+kAbidA
+vApAzi
+lAbAluti
+pikigivu
+pikigivu
+lAbAluti
+dutu
+lAbAluti
+pikigivu
+dutu
+vApAzi
+vApAzi
+kAbidA
+zugu
+pikigivu
+kAbidA
+zugu
+dutu
+lAbAluti
+pikigivu
+zugu
+kAbidA
+zugu
+
+Test Items:
+vApAzi	idAvAp
+dutu	ugud
+lAbAluti	Azipikig
+zugu	utiz
+vApAzi	idAvAp
+lAbAluti	Azipikig
+pikigivu	ivulAbAl
+lAbAluti	Azipikig
+kAbidA	utukAb
+vApAzi	idAvAp
+kAbidA	utukAb
+dutu	utiz
+lAbAluti	Azipikig
+pikigivu	ivulAbAl
+lAbAluti	Azipikig
+zugu	ugud
+kAbidA	idAvAp
+vApAzi	idAvAp
+pikigivu	ivulAbAl
+kAbidA	utukAb
+pikigivu	Azipikig
+vApAzi	utukAb
+zugu	ugud
+kAbidA	idAvAp
+pikigivu	Azipikig
+kAbidA	utukAb
+dutu	utiz
+lAbAluti	ivulAbAl
+zugu	ugud
+lAbAluti	ivulAbAl

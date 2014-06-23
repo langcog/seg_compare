@@ -1,0 +1,57 @@
+Lexicon: tizi	gidu	gukApi	vuzulu	pAtubibA	dAvAkilA	
+
+Training Sentences:
+gidupAtubibAdAvAkilAgukApi
+gukApidAvAkilAtizivuzulu
+gukApitizidAvAkilAvuzulu
+dAvAkilAvuzulutizigidu
+dAvAkilApAtubibAgidutizi
+tizigukApipAtubibAdAvAkilA
+gukApidAvAkilApAtubibAgidu
+tizipAtubibAgukApigidu
+vuzulugidudAvAkilApAtubibA
+vuzulugukApidAvAkilApAtubibA
+gukApitizigidudAvAkilA
+giduvuzulupAtubibAtizi
+gukApivuzuludAvAkilAgidu
+pAtubibAtizivuzulugukApi
+gukApigidudAvAkilApAtubibA
+pAtubibAdAvAkilAtizigidu
+vuzulupAtubibAgukApitizi
+vuzulutizigidugukApi
+giduvuzulutizigukApi
+tizivuzulugukApigidu
+pAtubibAdAvAkilAvuzulugidu
+dAvAkilApAtubibAvuzulutizi
+
+Test Items:
+vuzulu	iduguk
+dAvAkilA	ibAdAvAk
+gukApi	Apivuz
+gidu	ilAt
+tizi	ilAt
+pAtubibA	ulupAtub
+vuzulu	iduguk
+dAvAkilA	ibAdAvAk
+tizi	ilAt
+dAvAkilA	ibAdAvAk
+gukApi	iduguk
+tizi	izig
+gidu	ilAt
+gukApi	iduguk
+tizi	izig
+vuzulu	iduguk
+gidu	izig
+tizi	ilAt
+dAvAkilA	ulupAtub
+gidu	izig
+dAvAkilA	ibAdAvAk
+pAtubibA	ulupAtub
+tizi	ilAt
+dAvAkilA	ibAdAvAk
+gukApi	Apivuz
+gidu	izig
+vuzulu	iduguk
+gukApi	Apivuz
+pAtubibA	ulupAtub
+tizi	ilAt

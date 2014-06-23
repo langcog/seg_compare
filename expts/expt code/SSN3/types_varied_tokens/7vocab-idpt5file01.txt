@@ -1,0 +1,42 @@
+Lexicon: DT	ZlB	pmtf	Mk	vzK	
+
+Training Sentences:
+vzKDTpmtfZlB
+DTpmtfvzKZlB
+vzKMkDTZlB
+MkpmtfDTvzK
+DTpmtfMkvzK
+pmtfMkDTZlB
+ZlBpmtfvzKMk
+
+Test Items:
+Mk	fM
+DT	KD
+ZlB	kvz
+Mk	fM
+ZlB	TZl
+DT	KD
+vzK	kvz
+Mk	fM
+vzK	TZl
+DT	fM
+pmtf	Bpmt
+ZlB	kvz
+DT	fM
+Mk	KD
+ZlB	TZl
+vzK	TZl
+DT	KD
+pmtf	Bpmt
+DT	fM
+vzK	kvz
+DT	KD
+pmtf	Bpmt
+ZlB	kvz
+Mk	KD
+vzK	kvz
+Mk	fM
+vzK	kvz
+Mk	KD
+ZlB	kvz
+DT	fM

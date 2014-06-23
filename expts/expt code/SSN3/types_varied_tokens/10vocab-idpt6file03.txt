@@ -1,0 +1,45 @@
+Lexicon: bP	KMN	FBfz	lD	mTR	rgkJ	
+
+Training Sentences:
+rgkJlDFBfzmTR
+bPlDrgkJmTR
+KMNmTRbPFBfz
+lDKMNrgkJFBfz
+lDmTRbPKMN
+KMNlDFBfzbP
+rgkJbPFBfzlD
+rgkJbPmTRKMN
+lDrgkJmTRKMN
+FBfzbPKMNmTR
+
+Test Items:
+FBfz	Rrgk
+KMN	DmT
+rgkJ	NFBf
+FBfz	NFBf
+mTR	DmT
+FBfz	NFBf
+bP	zl
+KMN	DmT
+FBfz	Rrgk
+rgkJ	NFBf
+lD	zl
+KMN	DmT
+FBfz	Rrgk
+mTR	PKM
+rgkJ	Rrgk
+lD	zl
+bP	Jb
+KMN	PKM
+lD	zl
+bP	Jb
+KMN	PKM
+mTR	DmT
+lD	Jb
+bP	zl
+FBfz	NFBf
+mTR	PKM
+lD	Jb
+mTR	PKM
+KMN	DmT
+lD	Jb

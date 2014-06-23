@@ -1,0 +1,49 @@
+Lexicon: bivA	kizi	dAgudu	gipAlA	bAtulukA	vutizupi	
+
+Training Sentences:
+vutizupigipAlA
+gipAlAvutizupi
+dAgudubivA
+dAgudubAtulukA
+dAguduvutizupi
+bivAkizi
+kizivutizupi
+bAtulukAgipAlA
+kizibivA
+bAtulukAkizi
+gipAlAdAgudu
+bivAvutizupi
+bAtulukAbivA
+bAtulukAkizi
+
+Test Items:
+bAtulukA	ukAvutiz
+kizi	ivAk
+vutizupi	ukAvutiz
+kizi	ivAk
+dAgudu	udugip
+bAtulukA	ukAvutiz
+vutizupi	AlAbAtul
+gipAlA	udugip
+dAgudu	izidAg
+kizi	upib
+bivA	ivAk
+bAtulukA	AlAbAtul
+vutizupi	ukAvutiz
+bAtulukA	AlAbAtul
+kizi	ivAk
+bAtulukA	ukAvutiz
+dAgudu	udugip
+kizi	upib
+dAgudu	izidAg
+vutizupi	ukAvutiz
+bAtulukA	AlAbAtul
+gipAlA	udugip
+bAtulukA	AlAbAtul
+gipAlA	udugip
+bAtulukA	ukAvutiz
+gipAlA	izidAg
+bivA	ivAk
+vutizupi	AlAbAtul
+gipAlA	izidAg
+vutizupi	AlAbAtul

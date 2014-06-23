@@ -1,0 +1,49 @@
+Lexicon: tizu	duvu	pikivA	gipAdA	bilubAgu	tukAlAzi	
+
+Training Sentences:
+bilubAgupikivA
+bilubAgupikivA
+bilubAgupikivA
+tukAlAzitizu
+gipAdAtukAlAzi
+tizutukAlAzi
+duvutizu
+duvutukAlAzi
+tizutukAlAzi
+duvugipAdA
+pikivAgipAdA
+pikivAduvu
+tizubilubAgu
+duvugipAdA
+
+Test Items:
+gipAdA	ivAgip
+duvu	Azit
+tukAlAzi	AdAbilub
+tizu	izud
+duvu	Azit
+bilubAgu	AdAbilub
+duvu	Azit
+tukAlAzi	AgutukAl
+gipAdA	uvupik
+tizu	izud
+pikivA	uvupik
+gipAdA	ivAgip
+duvu	izud
+tizu	Azit
+bilubAgu	AdAbilub
+tukAlAzi	AgutukAl
+pikivA	ivAgip
+gipAdA	uvupik
+bilubAgu	AdAbilub
+tukAlAzi	AgutukAl
+duvu	Azit
+tukAlAzi	AgutukAl
+pikivA	uvupik
+gipAdA	ivAgip
+tukAlAzi	AgutukAl
+duvu	Azit
+gipAdA	uvupik
+pikivA	uvupik
+duvu	izud
+gipAdA	ivAgip

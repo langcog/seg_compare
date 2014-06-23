@@ -1,0 +1,48 @@
+Lexicon: tubA	lAlu	pigugi	kidAvu	bikApAzi	tivAduzu	
+
+Training Sentences:
+tivAduzukidAvubikApAzi
+lAlukidAvutivAduzu
+bikApAzitubAlAlu
+tivAduzubikApAzikidAvu
+tivAduzukidAvulAlu
+tubAbikApAzikidAvu
+pigugitubAtivAduzu
+pigugitubAlAlu
+tubAtivAduzukidAvu
+kidAvupigugilAlu
+tubAlAlupigugi
+pigugibikApAzitubA
+pigugibikApAzitivAduzu
+
+Test Items:
+tubA	ubAl
+pigugi	Alupig
+tivAduzu	AzitivAd
+kidAvu	Alupig
+tivAduzu	AvubikAp
+tubA	uzut
+tivAduzu	AvubikAp
+pigugi	Alupig
+lAlu	ubAl
+tivAduzu	AzitivAd
+lAlu	ubAl
+kidAvu	Alupig
+lAlu	ubAl
+kidAvu	Alupig
+pigugi	ugikid
+tivAduzu	AzitivAd
+tubA	uzut
+pigugi	Alupig
+kidAvu	ugikid
+pigugi	Alupig
+tubA	ubAl
+kidAvu	Alupig
+tivAduzu	AzitivAd
+kidAvu	ugikid
+tubA	uzut
+tivAduzu	AzitivAd
+tubA	uzut
+tivAduzu	AzitivAd
+lAlu	uzut
+tubA	uzut

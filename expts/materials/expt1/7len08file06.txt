@@ -1,0 +1,38 @@
+Lexicon: kAzi	kidA	pApibA	givubi	lutivAgu	lAzudutu	
+
+Training Sentences:
+lAzudutupApibAgivubikidAgivubipApibAkAzilutivAgu
+kAzilAzudutulutivAgukidAkAzilutivAgugivubilAzudutu
+givubilutivAgukidApApibAkidAkAzipApibAlAzudutu
+
+Test Items:
+lutivAgu	AgulAzud
+kidA	Azik
+lutivAgu	ubilutiv
+givubi	ibAgiv
+kAzi	Azik
+givubi	ibAgiv
+lutivAgu	AgulAzud
+givubi	idApAp
+lutivAgu	ubilutiv
+kAzi	Azik
+givubi	ibAgiv
+kidA	Azik
+givubi	idApAp
+lutivAgu	AgulAzud
+kAzi	utuk
+givubi	ibAgiv
+pApibA	ibAgiv
+givubi	idApAp
+lutivAgu	AgulAzud
+pApibA	idApAp
+lutivAgu	AgulAzud
+kAzi	Azik
+lutivAgu	AgulAzud
+kidA	Azik
+givubi	ibAgiv
+pApibA	idApAp
+lutivAgu	AgulAzud
+kAzi	Azik
+lAzudutu	AgulAzud
+kAzi	utuk

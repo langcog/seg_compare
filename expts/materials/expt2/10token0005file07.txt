@@ -1,0 +1,36 @@
+Lexicon: pAki	tivu	pilukA	tudAgu	bAbigizi	zuvAlAdu	
+
+Training Sentences:
+bAbigizizuvAlAdutivupilukA
+
+Test Items:
+bAbigizi	izizuvAl
+pilukA	ukAtud
+bAbigizi	AgubAbig
+tudAgu	ivupil
+tivu	Adup
+bAbigizi	izizuvAl
+pAki	Akit
+tivu	Adup
+pilukA	ivupil
+tivu	Adup
+pilukA	ukAtud
+tivu	Akit
+zuvAlAdu	izizuvAl
+pilukA	ivupil
+zuvAlAdu	AgubAbig
+tivu	Akit
+zuvAlAdu	AgubAbig
+tivu	Adup
+pilukA	ivupil
+tivu	Akit
+bAbigizi	izizuvAl
+zuvAlAdu	AgubAbig
+pilukA	ivupil
+tivu	Adup
+pAki	Akit
+bAbigizi	izizuvAl
+tivu	Akit
+bAbigizi	AgubAbig
+pAki	Adup
+tudAgu	ivupil

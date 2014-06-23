@@ -1,0 +1,42 @@
+Lexicon: zibA	guzu	tukipA	kAbigi	dAtipivA	ludulAvu	
+
+Training Sentences:
+kAbigitukipAludulAvudAtipivA
+kAbigizibAtukipAguzu
+ludulAvutukipAguzuzibA
+guzuludulAvuzibAdAtipivA
+ludulAvukAbigidAtipivAguzu
+ludulAvudAtipivAtukipAzibA
+kAbigidAtipivAtukipAzibA
+
+Test Items:
+zibA	Avuz
+ludulAvu	igidAtip
+kAbigi	ipAkAb
+guzu	Avuz
+ludulAvu	igidAtip
+tukipA	uzutuk
+kAbigi	ipAkAb
+zibA	ibAg
+kAbigi	uzutuk
+ludulAvu	igidAtip
+guzu	Avuz
+zibA	ibAg
+ludulAvu	ivAludul
+dAtipivA	igidAtip
+zibA	Avuz
+kAbigi	ipAkAb
+dAtipivA	igidAtip
+zibA	ibAg
+guzu	Avuz
+ludulAvu	ivAludul
+kAbigi	uzutuk
+dAtipivA	ivAludul
+tukipA	uzutuk
+zibA	ibAg
+tukipA	uzutuk
+guzu	ibAg
+tukipA	uzutuk
+dAtipivA	igidAtip
+ludulAvu	ivAludul
+dAtipivA	igidAtip

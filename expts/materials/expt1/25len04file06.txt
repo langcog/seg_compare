@@ -1,0 +1,115 @@
+Lexicon: lAdu	tulu	vugudA	givAbi	zutizipi	pAkAbAki	
+
+Training Sentences:
+pAkAbAkigivAbivugudAzutizipi
+givAbilAduvugudApAkAbAki
+givAbizutizipilAdutulu
+pAkAbAkituluvugudAgivAbi
+tulupAkAbAkivugudAlAdu
+lAduvugudApAkAbAkizutizipi
+pAkAbAkizutizipitululAdu
+vugudAgivAbitululAdu
+pAkAbAkizutizipitulugivAbi
+givAbilAduzutizipivugudA
+
+Test Items:
+givAbi	udAgiv
+lAdu	Adut
+givAbi	udAgiv
+vugudA	uluvug
+tulu	Adut
+pAkAbAki	Abizutiz
+givAbi	uluvug
+vugudA	uluvug
+tulu	Adut
+givAbi	uluvug
+zutizipi	ipipAkAb
+tulu	Akil
+givAbi	udAgiv
+tulu	Adut
+givAbi	uluvug
+tulu	Akil
+vugudA	udAgiv
+givAbi	uluvug
+tulu	Akil
+pAkAbAki	Abizutiz
+givAbi	udAgiv
+pAkAbAki	ipipAkAb
+givAbi	uluvug
+lAdu	Akil
+zutizipi	ipipAkAb
+lAdu	Akil
+zutizipi	Abizutiz
+lAdu	Akil
+tulu	Adut
+vugudA	uluvug
+givAbi	udAgiv
+lAdu	Adut
+tulu	Akil
+zutizipi	Abizutiz
+tulu	Akil
+pAkAbAki	ipipAkAb
+lAdu	Akil
+tulu	Adut
+givAbi	uluvug
+tulu	Adut
+givAbi	uluvug
+vugudA	udAgiv
+zutizipi	Abizutiz
+vugudA	udAgiv
+tulu	Akil
+givAbi	uluvug
+vugudA	udAgiv
+pAkAbAki	ipipAkAb
+lAdu	Akil
+vugudA	udAgiv
+lAdu	Akil
+tulu	Adut
+lAdu	Akil
+pAkAbAki	Abizutiz
+givAbi	uluvug
+pAkAbAki	Abizutiz
+givAbi	uluvug
+lAdu	Adut
+tulu	Akil
+vugudA	udAgiv
+zutizipi	Abizutiz
+pAkAbAki	Abizutiz
+lAdu	Adut
+zutizipi	Abizutiz
+lAdu	Akil
+zutizipi	Abizutiz
+givAbi	udAgiv
+zutizipi	ipipAkAb
+lAdu	Adut
+vugudA	udAgiv
+zutizipi	ipipAkAb
+pAkAbAki	Abizutiz
+zutizipi	ipipAkAb
+pAkAbAki	Abizutiz
+vugudA	uluvug
+pAkAbAki	Abizutiz
+zutizipi	Abizutiz
+lAdu	Adut
+vugudA	uluvug
+lAdu	Adut
+vugudA	udAgiv
+tulu	Akil
+zutizipi	ipipAkAb
+givAbi	uluvug
+pAkAbAki	Abizutiz
+zutizipi	ipipAkAb
+lAdu	Adut
+pAkAbAki	Abizutiz
+tulu	Adut
+lAdu	Akil
+vugudA	udAgiv
+zutizipi	Abizutiz
+pAkAbAki	ipipAkAb
+zutizipi	Abizutiz
+pAkAbAki	ipipAkAb
+lAdu	Akil
+tulu	Adut
+givAbi	udAgiv
+pAkAbAki	ipipAkAb
+zutizipi	Abizutiz

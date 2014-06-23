@@ -1,0 +1,41 @@
+Lexicon: zL	gfm	bRJl	Dr	
+
+Training Sentences:
+bRJlDrzLgfm
+gfmDrbRJlzL
+bRJlzLgfmDr
+zLbRJlDrgfm
+gfmbRJlzLDr
+DrzLbRJlgfm
+
+Test Items:
+bRJl	mbRJ
+Dr	lD
+zL	rz
+bRJl	mbRJ
+zL	rz
+Dr	rz
+zL	rz
+Dr	lD
+gfm	Lgf
+zL	lD
+Dr	rz
+gfm	Lgf
+Dr	lD
+zL	lD
+bRJl	mbRJ
+zL	lD
+bRJl	mbRJ
+gfm	Lgf
+Dr	lD
+bRJl	mbRJ
+Dr	rz
+bRJl	mbRJ
+gfm	Lgf
+bRJl	mbRJ
+Dr	rz
+gfm	Lgf
+Dr	rz
+bRJl	mbRJ
+Dr	rz
+zL	rz

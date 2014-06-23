@@ -1,0 +1,42 @@
+Lexicon: fm	VRZ	BJPg	zn	
+
+Training Sentences:
+fmVRZznBJPg
+znVRZfmBJPg
+BJPgVRZznfm
+fmBJPgznVRZ
+znfmBJPgVRZ
+znfmBJPgVRZ
+BJPgfmVRZzn
+
+Test Items:
+VRZ	mVR
+fm	nf
+VRZ	mVR
+BJPg	ZBJP
+fm	gz
+zn	nf
+VRZ	mVR
+BJPg	ZBJP
+fm	nf
+BJPg	ZBJP
+VRZ	mVR
+BJPg	ZBJP
+fm	nf
+zn	nf
+BJPg	ZBJP
+zn	nf
+BJPg	ZBJP
+VRZ	mVR
+BJPg	ZBJP
+VRZ	mVR
+zn	gz
+BJPg	ZBJP
+zn	gz
+fm	nf
+VRZ	mVR
+fm	gz
+BJPg	ZBJP
+fm	nf
+zn	gz
+BJPg	ZBJP

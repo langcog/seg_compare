@@ -1,0 +1,65 @@
+Lexicon: luti	zigu	bApAvu	zulAkA	dugidAtu	kivApibi	
+
+Training Sentences:
+zigubApAvudugidAtuzulAkA
+bApAvudugidAtuziguluti
+dugidAtulutizulAkAbApAvu
+lutikivApibizulAkAbApAvu
+kivApibizulAkAzigudugidAtu
+zulAkAzigukivApibiluti
+dugidAtuziguzulAkAkivApibi
+dugidAtubApAvukivApibizulAkA
+dugidAtuzulAkAlutikivApibi
+lutizulAkAbApAvuzigu
+lutizulAkAdugidAtuzigu
+kivApibiziguzulAkAbApAvu
+lutizulAkAdugidAtukivApibi
+kivApibizigulutidugidAtu
+zigudugidAtulutibApAvu
+bApAvuzulAkAkivApibidugidAtu
+kivApibibApAvuziguluti
+zulAkAzigulutidugidAtu
+bApAvuzigulutidugidAtu
+lutidugidAtuzulAkAbApAvu
+lutikivApibibApAvudugidAtu
+bApAvuzigudugidAtuluti
+kivApibidugidAtubApAvuzigu
+dugidAtubApAvulutizigu
+zigukivApibilutizulAkA
+kivApibizulAkAzigubApAvu
+zulAkAkivApibidugidAtuluti
+zulAkAkivApibizigubApAvu
+zulAkAlutikivApibizigu
+bApAvukivApibibApAvukivApibi
+
+Test Items:
+dugidAtu	AtukivAp
+zigu	utiz
+dugidAtu	AkAdugid
+kivApibi	AtukivAp
+luti	ibil
+zigu	utiz
+zulAkA	Avuzul
+luti	utiz
+bApAvu	Avuzul
+zigu	ibil
+dugidAtu	AkAdugid
+zulAkA	Avuzul
+dugidAtu	AkAdugid
+kivApibi	AtukivAp
+dugidAtu	AkAdugid
+bApAvu	igubAp
+luti	utiz
+dugidAtu	AkAdugid
+luti	utiz
+dugidAtu	AtukivAp
+kivApibi	AkAdugid
+dugidAtu	AtukivAp
+bApAvu	Avuzul
+luti	ibil
+bApAvu	Avuzul
+luti	utiz
+kivApibi	AtukivAp
+zigu	ibil
+zulAkA	igubAp
+kivApibi	AkAdugid

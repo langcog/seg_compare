@@ -1,0 +1,185 @@
+Lexicon: FD	trZ	vmkb	fn	RVd	KTNP	
+
+Training Sentences:
+vmkbFDfntrZ
+FDtrZvmkbKTNP
+KTNPtrZFDvmkb
+RVdKTNPtrZfn
+FDRVdvmkbfn
+RVdfnKTNPtrZ
+fnRVdFDKTNP
+trZvmkbFDfn
+vmkbtrZRVdFD
+RVdKTNPfnFD
+FDRVdfnKTNP
+KTNPFDtrZfn
+fnFDtrZKTNP
+RVdFDfnKTNP
+FDRVdvmkbKTNP
+vmkbFDtrZKTNP
+FDvmkbfntrZ
+vmkbtrZRVdFD
+RVdtrZFDKTNP
+vmkbfntrZFD
+KTNPRVdtrZFD
+RVdKTNPFDtrZ
+RVdfnFDKTNP
+fnRVdFDvmkb
+FDtrZvmkbKTNP
+vmkbtrZfnKTNP
+vmkbRVdfntrZ
+trZvmkbRVdfn
+RVdFDtrZfn
+trZRVdKTNPvmkb
+RVdKTNPvmkbFD
+RVdtrZFDKTNP
+fntrZvmkbFD
+vmkbfnFDKTNP
+KTNPRVdvmkbFD
+RVdfnFDvmkb
+fntrZFDvmkb
+RVdvmkbfnKTNP
+trZFDRVdvmkb
+fnRVdKTNPFD
+KTNPvmkbFDtrZ
+trZRVdvmkbfn
+vmkbfnFDKTNP
+FDvmkbKTNPtrZ
+vmkbfnRVdFD
+fnRVdtrZvmkb
+vmkbtrZKTNPFD
+trZRVdKTNPvmkb
+vmkbtrZFDfn
+KTNPFDfnRVd
+trZfnvmkbKTNP
+trZfnFDRVd
+KTNPfnFDvmkb
+fnKTNPRVdFD
+vmkbfnKTNPFD
+FDfnKTNPtrZ
+vmkbRVdfnFD
+trZvmkbFDRVd
+FDvmkbKTNPtrZ
+fntrZKTNPvmkb
+RVdfnKTNPFD
+KTNPFDtrZfn
+vmkbtrZFDRVd
+RVdfnvmkbFD
+KTNPfntrZvmkb
+KTNPfnvmkbtrZ
+fnKTNPFDRVd
+KTNPfnvmkbFD
+trZFDfnRVd
+FDRVdvmkbtrZ
+fnRVdvmkbtrZ
+vmkbRVdtrZFD
+fnvmkbKTNPtrZ
+vmkbtrZFDRVd
+vmkbRVdKTNPtrZ
+FDKTNPvmkbRVd
+fnRVdvmkbFD
+vmkbtrZFDfn
+trZvmkbFDRVd
+trZfnKTNPvmkb
+RVdKTNPvmkbfn
+RVdtrZKTNPfn
+vmkbfnRVdFD
+RVdvmkbFDKTNP
+trZFDRVdKTNP
+KTNPtrZRVdfn
+fnRVdFDtrZ
+FDfnvmkbRVd
+fnRVdKTNPvmkb
+trZRVdvmkbfn
+fntrZvmkbKTNP
+FDtrZfnKTNP
+fntrZKTNPFD
+KTNPFDRVdvmkb
+fntrZvmkbFD
+trZvmkbKTNPfn
+trZvmkbfnFD
+vmkbFDRVdfn
+vmkbKTNPtrZFD
+trZKTNPFDRVd
+fnRVdtrZKTNP
+RVdKTNPFDfn
+fnKTNPvmkbRVd
+FDRVdKTNPtrZ
+KTNPtrZvmkbfn
+vmkbtrZfnKTNP
+vmkbRVdKTNPtrZ
+KTNPvmkbtrZRVd
+vmkbfnKTNPFD
+vmkbRVdfnKTNP
+RVdvmkbtrZfn
+trZKTNPfnFD
+vmkbtrZfnRVd
+FDvmkbKTNPfn
+KTNPfntrZRVd
+KTNPFDRVdvmkb
+KTNPtrZFDfn
+trZKTNPRVdfn
+FDfnRVdKTNP
+RVdvmkbtrZKTNP
+vmkbRVdKTNPFD
+FDRVdfntrZ
+RVdFDKTNPfn
+fnRVdKTNPFD
+trZRVdfnKTNP
+FDfnRVdKTNP
+FDtrZKTNPvmkb
+FDtrZRVdvmkb
+vmkbKTNPtrZfn
+trZRVdfnvmkb
+vmkbtrZFDKTNP
+trZFDvmkbRVd
+vmkbFDRVdKTNP
+KTNPvmkbtrZRVd
+vmkbKTNPtrZFD
+trZfnFDKTNP
+vmkbtrZfnFD
+vmkbKTNPRVdtrZ
+fnKTNPRVdtrZ
+fnRVdKTNPvmkb
+RVdtrZfnvmkb
+trZKTNPRVdFD
+fnRVdKTNPtrZ
+RVdvmkbtrZfn
+RVdvmkbfnKTNP
+fnKTNPtrZRVd
+RVdKTNPtrZfn
+RVdFDKTNPfn
+RVdFDtrZvmkb
+FDRVdvmkbRVd
+
+Test Items:
+RVd	nRV
+vmkb	Zvmk
+FD	PF
+fn	bf
+vmkb	dKTN
+KTNP	Zvmk
+fn	bf
+trZ	Dtr
+vmkb	dKTN
+fn	bf
+trZ	Dtr
+FD	bf
+fn	PF
+vmkb	dKTN
+KTNP	Zvmk
+vmkb	Zvmk
+RVd	Dtr
+vmkb	dKTN
+KTNP	Zvmk
+fn	PF
+KTNP	dKTN
+trZ	nRV
+RVd	Dtr
+trZ	nRV
+FD	PF
+fn	bf
+KTNP	dKTN
+FD	PF
+RVd	Dtr
+fn	bf

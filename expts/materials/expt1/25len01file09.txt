@@ -1,0 +1,145 @@
+Lexicon: kidA	kAbi	pAvuzu	bAvApi	tulAdulu	zigugiti	
+
+Training Sentences:
+kAbi
+tulAdulu
+pAvuzu
+kAbi
+kAbi
+pAvuzu
+tulAdulu
+kAbi
+kidA
+kidA
+zigugiti
+pAvuzu
+zigugiti
+kidA
+tulAdulu
+bAvApi
+kAbi
+zigugiti
+tulAdulu
+pAvuzu
+pAvuzu
+bAvApi
+kidA
+zigugiti
+kidA
+pAvuzu
+kAbi
+kidA
+bAvApi
+bAvApi
+bAvApi
+bAvApi
+zigugiti
+pAvuzu
+kidA
+zigugiti
+tulAdulu
+zigugiti
+tulAdulu
+tulAdulu
+
+Test Items:
+kidA	itik
+kAbi	idAk
+bAvApi	AbipAv
+kAbi	itik
+tulAdulu	uluzigug
+zigugiti	ApitulAd
+bAvApi	uzubAv
+tulAdulu	uluzigug
+kAbi	itik
+bAvApi	AbipAv
+kidA	idAk
+bAvApi	AbipAv
+pAvuzu	uzubAv
+tulAdulu	ApitulAd
+bAvApi	uzubAv
+pAvuzu	uzubAv
+bAvApi	AbipAv
+kAbi	itik
+kidA	itik
+tulAdulu	uluzigug
+kAbi	itik
+zigugiti	ApitulAd
+tulAdulu	ApitulAd
+kidA	idAk
+tulAdulu	ApitulAd
+pAvuzu	uzubAv
+zigugiti	ApitulAd
+bAvApi	AbipAv
+pAvuzu	uzubAv
+kAbi	idAk
+tulAdulu	uluzigug
+zigugiti	ApitulAd
+bAvApi	AbipAv
+zigugiti	ApitulAd
+kidA	idAk
+pAvuzu	AbipAv
+zigugiti	uluzigug
+kidA	itik
+zigugiti	ApitulAd
+tulAdulu	uluzigug
+pAvuzu	AbipAv
+bAvApi	uzubAv
+kAbi	idAk
+bAvApi	uzubAv
+kidA	itik
+tulAdulu	uluzigug
+kAbi	idAk
+pAvuzu	AbipAv
+tulAdulu	uluzigug
+kidA	itik
+pAvuzu	uzubAv
+tulAdulu	uluzigug
+pAvuzu	uzubAv
+kAbi	itik
+bAvApi	AbipAv
+zigugiti	uluzigug
+kidA	idAk
+zigugiti	uluzigug
+bAvApi	uzubAv
+pAvuzu	AbipAv
+tulAdulu	uluzigug
+kAbi	idAk
+tulAdulu	ApitulAd
+bAvApi	uzubAv
+tulAdulu	uluzigug
+zigugiti	uluzigug
+tulAdulu	ApitulAd
+bAvApi	AbipAv
+tulAdulu	ApitulAd
+pAvuzu	uzubAv
+bAvApi	AbipAv
+zigugiti	uluzigug
+pAvuzu	uzubAv
+kidA	idAk
+zigugiti	ApitulAd
+bAvApi	uzubAv
+tulAdulu	uluzigug
+kidA	itik
+kAbi	itik
+tulAdulu	uluzigug
+kAbi	idAk
+zigugiti	ApitulAd
+bAvApi	uzubAv
+pAvuzu	AbipAv
+kidA	idAk
+bAvApi	AbipAv
+zigugiti	ApitulAd
+bAvApi	AbipAv
+tulAdulu	uluzigug
+kidA	itik
+pAvuzu	uzubAv
+kidA	itik
+bAvApi	AbipAv
+kAbi	idAk
+zigugiti	uluzigug
+bAvApi	AbipAv
+kAbi	idAk
+tulAdulu	ApitulAd
+pAvuzu	uzubAv
+bAvApi	AbipAv

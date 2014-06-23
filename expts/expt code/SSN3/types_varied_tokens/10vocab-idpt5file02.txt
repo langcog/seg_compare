@@ -1,0 +1,45 @@
+Lexicon: NV	bFD	RzmG	pL	dfg	
+
+Training Sentences:
+RzmGpLNVbFD
+bFDNVRzmGdfg
+pLdfgNVbFD
+dfgNVRzmGpL
+RzmGdfgbFDNV
+bFDpLdfgRzmG
+dfgNVbFDRzmG
+RzmGbFDpLNV
+dfgpLNVRzmG
+pLbFDdfgpL
+
+Test Items:
+bFD	Ldf
+RzmG	DRzm
+pL	Gp
+RzmG	DRzm
+NV	Gp
+RzmG	DRzm
+NV	Gp
+pL	gN
+NV	Gp
+bFD	VbF
+NV	Gp
+pL	Gp
+NV	gN
+dfg	VbF
+NV	gN
+pL	Gp
+bFD	VbF
+NV	Gp
+RzmG	DRzm
+NV	Gp
+RzmG	DRzm
+NV	Gp
+dfg	Ldf
+RzmG	DRzm
+dfg	Ldf
+pL	Gp
+bFD	VbF
+pL	Gp
+dfg	Ldf
+pL	gN

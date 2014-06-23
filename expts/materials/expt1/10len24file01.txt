@@ -1,0 +1,36 @@
+Lexicon: zudu	kAtu	gutivu	ludAlA	kipAgipi	bAbivAzi	
+
+Training Sentences:
+kAtugutivukAtuludAlAgutivuludAlAgutivukAtubAbivAzikAtuludAlAzuduludAlAkipAgipizudukipAgipibAbivAzikipAgipibAbivAzizudubAbivAzizudugutivukipAgipi
+
+Test Items:
+ludAlA	ivulud
+bAbivAzi	AlAkipAg
+kAtu	Aziz
+ludAlA	Atugut
+bAbivAzi	ipibAbiv
+gutivu	ivulud
+kipAgipi	AlAkipAg
+ludAlA	Atugut
+kipAgipi	AlAkipAg
+ludAlA	Atugut
+kAtu	Aziz
+bAbivAzi	AlAkipAg
+ludAlA	ivulud
+gutivu	Atugut
+ludAlA	Atugut
+kAtu	Aziz
+gutivu	ivulud
+ludAlA	Atugut
+bAbivAzi	AlAkipAg
+ludAlA	Atugut
+gutivu	Atugut
+bAbivAzi	ipibAbiv
+zudu	uduk
+gutivu	Atugut
+kipAgipi	ipibAbiv
+ludAlA	Atugut
+gutivu	ivulud
+bAbivAzi	ipibAbiv
+kAtu	Aziz
+kipAgipi	AlAkipAg

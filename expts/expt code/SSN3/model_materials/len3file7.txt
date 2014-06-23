@@ -1,0 +1,465 @@
+Lexicon: lAdA	tizi	vukAbA	vAtuzu	kilugipi	bipAgudu	
+
+Training Sentences:
+lAdAvAtuzutizi
+vAtuzukilugipibipAgudu
+bipAgudutizivukAbA
+tizivAtuzukilugipi
+vAtuzukilugipitizi
+vAtuzutizibipAgudu
+vukAbAtizilAdA
+bipAgudukilugipivukAbA
+bipAguduvukAbAkilugipi
+bipAgudutizivAtuzu
+tizilAdAkilugipi
+kilugipitizilAdA
+lAdAvukAbAvAtuzu
+bipAguduvukAbAlAdA
+vukAbAlAdAtizi
+bipAgudulAdAkilugipi
+lAdAvukAbAtizi
+bipAgudukilugipilAdA
+bipAgudukilugipilAdA
+lAdAvukAbAbipAgudu
+vukAbAbipAguduvAtuzu
+tizibipAguduvAtuzu
+vAtuzubipAgudutizi
+vukAbAvAtuzutizi
+vukAbAlAdAbipAgudu
+bipAgudukilugipivAtuzu
+kilugipivAtuzubipAgudu
+tizilAdAbipAgudu
+kilugipivukAbAlAdA
+kilugipilAdAvAtuzu
+bipAgudulAdAvukAbA
+bipAgudukilugipitizi
+tizilAdAkilugipi
+vukAbAbipAgudutizi
+bipAgudulAdAvAtuzu
+kilugipivukAbAlAdA
+bipAguduvukAbAtizi
+tizilAdAvAtuzu
+lAdAkilugipivAtuzu
+kilugipitizivAtuzu
+vAtuzubipAguduvukAbA
+bipAguduvukAbAtizi
+vukAbAvAtuzubipAgudu
+tizivAtuzukilugipi
+bipAgudukilugipilAdA
+lAdAvukAbAkilugipi
+kilugipitizivAtuzu
+vukAbAlAdAbipAgudu
+lAdAvAtuzubipAgudu
+vAtuzuvukAbAbipAgudu
+vAtuzulAdAbipAgudu
+lAdAvukAbAbipAgudu
+kilugipibipAgudutizi
+vukAbAbipAgudukilugipi
+vAtuzukilugipitizi
+vukAbAvAtuzulAdA
+lAdAvukAbAbipAgudu
+bipAguduvAtuzuvukAbA
+vukAbAlAdAvAtuzu
+vAtuzubipAguduvukAbA
+bipAgudulAdAkilugipi
+vAtuzuvukAbAlAdA
+bipAguduvukAbAvAtuzu
+vAtuzulAdAkilugipi
+vAtuzukilugipibipAgudu
+vukAbAkilugipivAtuzu
+vukAbAkilugipitizi
+kilugipibipAguduvukAbA
+kilugipivukAbAlAdA
+tizivAtuzuvukAbA
+vAtuzulAdAvukAbA
+tizikilugipibipAgudu
+tizikilugipivAtuzu
+tizibipAgudukilugipi
+tizilAdAvAtuzu
+bipAgudutizilAdA
+tizivukAbAbipAgudu
+vukAbAtizivAtuzu
+bipAguduvAtuzukilugipi
+kilugipivAtuzubipAgudu
+tizibipAgudukilugipi
+lAdAtizivAtuzu
+tizikilugipivukAbA
+lAdAtizibipAgudu
+vukAbAvAtuzukilugipi
+vAtuzutizivukAbA
+lAdAvAtuzutizi
+vAtuzubipAgudukilugipi
+lAdAtizikilugipi
+lAdAtizivukAbA
+bipAgudutizivAtuzu
+vAtuzuvukAbAbipAgudu
+tizivAtuzuvukAbA
+bipAgudutizivAtuzu
+bipAguduvukAbAvAtuzu
+tizivAtuzulAdA
+vukAbAkilugipitizi
+vukAbAtizivAtuzu
+kilugipivukAbAtizi
+vukAbAvAtuzulAdA
+lAdAvukAbAvAtuzu
+kilugipivAtuzubipAgudu
+tizikilugipivAtuzu
+vukAbAlAdAvAtuzu
+vukAbAvAtuzutizi
+kilugipitizivAtuzu
+vAtuzubipAgudulAdA
+vukAbAtizilAdA
+bipAgudukilugipivukAbA
+vAtuzuvukAbAlAdA
+vAtuzukilugipitizi
+vukAbAbipAgudulAdA
+lAdAkilugipitizi
+bipAgudukilugipivAtuzu
+vukAbAbipAgudukilugipi
+vAtuzulAdAtizi
+bipAguduvAtuzukilugipi
+bipAgudukilugipivAtuzu
+vukAbAlAdAbipAgudu
+bipAgudutizivAtuzu
+kilugipitizivukAbA
+kilugipilAdAbipAgudu
+bipAgudutizivukAbA
+kilugipivAtuzuvukAbA
+vAtuzuvukAbAtizi
+tizikilugipilAdA
+kilugipibipAguduvAtuzu
+kilugipivAtuzutizi
+kilugipilAdAvAtuzu
+lAdAvAtuzuvukAbA
+lAdAbipAguduvAtuzu
+lAdAbipAguduvukAbA
+bipAgudukilugipitizi
+lAdAvukAbAbipAgudu
+lAdAvAtuzutizi
+kilugipilAdAbipAgudu
+vukAbAbipAgudutizi
+bipAgudukilugipivukAbA
+kilugipilAdAvukAbA
+bipAgudutizivukAbA
+kilugipilAdAtizi
+tizibipAgudukilugipi
+kilugipibipAguduvukAbA
+lAdAtizivukAbA
+vAtuzuvukAbAtizi
+bipAguduvukAbAvAtuzu
+lAdAvAtuzuvukAbA
+lAdAvAtuzubipAgudu
+vukAbAvAtuzukilugipi
+vukAbAlAdAvAtuzu
+vAtuzubipAgudukilugipi
+bipAgudukilugipitizi
+kilugipivAtuzulAdA
+vukAbAkilugipivAtuzu
+vukAbAbipAgudutizi
+kilugipilAdAbipAgudu
+tizivukAbAlAdA
+lAdAkilugipivAtuzu
+tizibipAguduvAtuzu
+vAtuzulAdAbipAgudu
+lAdAtizikilugipi
+kilugipivAtuzuvukAbA
+bipAgudukilugipivAtuzu
+bipAgudukilugipilAdA
+vukAbAtizilAdA
+lAdAtizivukAbA
+vAtuzukilugipitizi
+kilugipilAdAtizi
+tizivukAbAkilugipi
+vukAbAtizikilugipi
+vukAbAvAtuzutizi
+tizikilugipivukAbA
+tizibipAguduvukAbA
+lAdAbipAgudutizi
+lAdAbipAgudutizi
+kilugipivAtuzutizi
+vukAbAbipAgudutizi
+bipAgudutizivukAbA
+vAtuzukilugipitizi
+vAtuzubipAguduvukAbA
+vukAbAbipAgudutizi
+lAdAbipAgudutizi
+vukAbAlAdAbipAgudu
+kilugipivukAbAvAtuzu
+vukAbAbipAguduvAtuzu
+kilugipibipAguduvAtuzu
+kilugipilAdAvAtuzu
+lAdAvukAbAvAtuzu
+lAdAvAtuzuvukAbA
+tizikilugipivukAbA
+lAdAkilugipibipAgudu
+lAdAbipAgudukilugipi
+lAdAtizivukAbA
+vukAbAtizibipAgudu
+vukAbAtizikilugipi
+bipAgudukilugipitizi
+kilugipivukAbAtizi
+kilugipivAtuzubipAgudu
+tizikilugipivAtuzu
+kilugipilAdAvukAbA
+vAtuzukilugipibipAgudu
+vAtuzuvukAbAtizi
+bipAguduvukAbAlAdA
+tizibipAgudulAdA
+bipAgudulAdAtizi
+tizivukAbAbipAgudu
+lAdAtizivAtuzu
+lAdAvAtuzukilugipi
+vukAbAkilugipilAdA
+vAtuzulAdAvukAbA
+vAtuzukilugipilAdA
+vukAbAkilugipibipAgudu
+bipAgudukilugipivAtuzu
+lAdAvukAbAbipAgudu
+tizilAdAbipAgudu
+kilugipivAtuzuvukAbA
+lAdAvAtuzutizi
+lAdAvAtuzutizi
+tizibipAguduvukAbA
+kilugipivukAbAlAdA
+bipAguduvukAbAkilugipi
+vukAbAkilugipibipAgudu
+lAdAbipAgudukilugipi
+vukAbAbipAgudukilugipi
+kilugipilAdAtizi
+bipAguduvAtuzulAdA
+vAtuzubipAgudutizi
+lAdAvukAbAbipAgudu
+vAtuzubipAgudulAdA
+vAtuzutizikilugipi
+vAtuzuvukAbAlAdA
+vAtuzubipAgudutizi
+vAtuzukilugipilAdA
+tizikilugipibipAgudu
+kilugipivukAbAtizi
+vAtuzutizilAdA
+vAtuzutizilAdA
+bipAgudukilugipilAdA
+bipAgudutizilAdA
+tizivukAbAbipAgudu
+vAtuzutizivukAbA
+lAdAvukAbAbipAgudu
+kilugipivAtuzuvukAbA
+vAtuzukilugipivukAbA
+kilugipilAdAvAtuzu
+bipAgudukilugipivukAbA
+kilugipivukAbAlAdA
+kilugipivukAbAlAdA
+tizivAtuzubipAgudu
+kilugipitizilAdA
+tizikilugipivukAbA
+vAtuzulAdAtizi
+kilugipivAtuzuvukAbA
+vAtuzutizikilugipi
+tizikilugipivAtuzu
+kilugipibipAgudulAdA
+vAtuzukilugipitizi
+tizilAdAbipAgudu
+kilugipivAtuzutizi
+vAtuzulAdAkilugipi
+bipAguduvAtuzulAdA
+vAtuzuvukAbAbipAgudu
+vukAbAvAtuzukilugipi
+tizivAtuzuvukAbA
+kilugipitizivukAbA
+lAdAvukAbAbipAgudu
+bipAgudulAdAtizi
+bipAgudutizilAdA
+kilugipivAtuzulAdA
+lAdAtizivAtuzu
+tizibipAgudulAdA
+kilugipivukAbAbipAgudu
+lAdAvAtuzuvukAbA
+vukAbAlAdAbipAgudu
+lAdAkilugipitizi
+bipAgudutizilAdA
+kilugipitizivukAbA
+kilugipitizivAtuzu
+vAtuzubipAgudutizi
+kilugipivukAbAtizi
+tizikilugipibipAgudu
+kilugipibipAgudulAdA
+vukAbAkilugipilAdA
+kilugipivukAbAbipAgudu
+vukAbAbipAgudulAdA
+lAdAbipAguduvukAbA
+lAdAvAtuzutizi
+bipAguduvukAbAlAdA
+vukAbAvAtuzubipAgudu
+tizibipAgudulAdA
+vukAbAvAtuzubipAgudu
+tizilAdAbipAgudu
+tizivukAbAlAdA
+kilugipivukAbAbipAgudu
+kilugipibipAguduvAtuzu
+tizivAtuzulAdA
+vAtuzubipAgudutizi
+bipAgudukilugipivAtuzu
+bipAgudulAdAtizi
+kilugipivukAbAbipAgudu
+lAdAkilugipitizi
+lAdAvukAbAvAtuzu
+bipAgudutizikilugipi
+lAdAvAtuzukilugipi
+tizikilugipivAtuzu
+vukAbAlAdAvAtuzu
+lAdAvukAbAtizi
+lAdAvAtuzutizi
+bipAguduvukAbAkilugipi
+lAdAkilugipivAtuzu
+vAtuzutizivukAbA
+kilugipilAdAvukAbA
+vukAbAvAtuzubipAgudu
+tizikilugipilAdA
+bipAguduvAtuzulAdA
+vukAbAbipAgudukilugipi
+lAdAvukAbAkilugipi
+vukAbAbipAgudukilugipi
+vukAbAlAdAtizi
+lAdAkilugipitizi
+lAdAbipAgudukilugipi
+bipAgudukilugipivAtuzu
+tizivukAbAkilugipi
+lAdAvukAbAkilugipi
+vukAbAlAdAtizi
+vukAbAvAtuzukilugipi
+tizikilugipivAtuzu
+tizivukAbAlAdA
+kilugipitizivukAbA
+bipAgudulAdAvukAbA
+bipAgudukilugipivukAbA
+vAtuzuvukAbAtizi
+lAdAvukAbAvAtuzu
+tizivAtuzubipAgudu
+tizilAdAvukAbA
+bipAguduvukAbAlAdA
+lAdAvAtuzutizi
+lAdAkilugipitizi
+bipAguduvukAbAlAdA
+kilugipivAtuzutizi
+bipAgudukilugipivAtuzu
+vAtuzulAdAvukAbA
+lAdAbipAguduvukAbA
+vukAbAtizibipAgudu
+bipAgudukilugipivAtuzu
+kilugipitizivukAbA
+lAdAvAtuzutizi
+tizikilugipivukAbA
+vAtuzukilugipilAdA
+bipAgudulAdAvAtuzu
+bipAgudulAdAkilugipi
+lAdAvukAbAtizi
+vAtuzulAdAvukAbA
+tizilAdAbipAgudu
+vAtuzubipAguduvukAbA
+tizilAdAvAtuzu
+kilugipilAdAbipAgudu
+lAdAtizibipAgudu
+vAtuzutizibipAgudu
+vAtuzutizilAdA
+lAdAkilugipitizi
+bipAgudulAdAkilugipi
+kilugipivukAbAbipAgudu
+tizibipAgudulAdA
+vAtuzubipAgudulAdA
+tizibipAguduvAtuzu
+tizivAtuzukilugipi
+tizikilugipibipAgudu
+tizivukAbAlAdA
+vAtuzulAdAtizi
+vukAbAbipAgudukilugipi
+vukAbAtizilAdA
+tizibipAguduvAtuzu
+vukAbAtizilAdA
+vAtuzuvukAbAkilugipi
+tizivAtuzulAdA
+tizikilugipilAdA
+vukAbAkilugipilAdA
+vukAbAvAtuzukilugipi
+vukAbAkilugipivAtuzu
+kilugipivukAbAvAtuzu
+lAdAtizibipAgudu
+vAtuzulAdAtizi
+bipAguduvAtuzutizi
+vAtuzulAdAbipAgudu
+tizibipAguduvAtuzu
+kilugipilAdAvAtuzu
+vAtuzuvukAbAbipAgudu
+bipAguduvAtuzukilugipi
+bipAguduvAtuzulAdA
+tizivukAbAkilugipi
+lAdAvukAbAtizi
+vAtuzukilugipilAdA
+vukAbAkilugipitizi
+vukAbAkilugipitizi
+bipAgudukilugipivukAbA
+vukAbAkilugipitizi
+bipAguduvukAbAvAtuzu
+bipAgudukilugipivAtuzu
+kilugipibipAgudukilugipi
+
+Test Items:
+tizi	dAti
+bipAgudu	zukilugi
+lAdA	dAti
+vAtuzu	zivukA
+lAdA	dulA
+vAtuzu	bAvAtu
+bipAgudu	zukilugi
+kilugipi	pibipAgu
+vukAbA	zivukA
+vAtuzu	bAvAtu
+bipAgudu	zukilugi
+vukAbA	bAvAtu
+bipAgudu	zukilugi
+tizi	dulA
+vukAbA	bAvAtu
+kilugipi	pibipAgu
+vukAbA	zivukA
+tizi	dAti
+vukAbA	bAvAtu
+vAtuzu	zivukA
+vukAbA	bAvAtu
+lAdA	dulA
+bipAgudu	zukilugi
+tizi	dAti
+kilugipi	pibipAgu
+lAdA	dAti
+vAtuzu	bAvAtu
+kilugipi	zukilugi
+vukAbA	zivukA
+lAdA	dAti
+bipAgudu	zukilugi
+kilugipi	pibipAgu
+tizi	dulA
+vAtuzu	zivukA
+tizi	dAti
+vukAbA	zivukA
+bipAgudu	pibipAgu
+tizi	dulA
+bipAgudu	pibipAgu
+kilugipi	zukilugi
+bipAgudu	pibipAgu
+tizi	dAti
+vAtuzu	zivukA
+bipAgudu	zukilugi
+kilugipi	pibipAgu
+lAdA	dAti
+tizi	dulA
+vAtuzu	bAvAtu
+tizi	dulA
+lAdA	dAti
+tizi	dulA
+vukAbA	zivukA
+tizi	dAti
+vukAbA	zivukA
+tizi	dAti
+bipAgudu	pibipAgu
+kilugipi	zukilugi
+bipAgudu	zukilugi
+lAdA	dAti
+vAtuzu	zivukA

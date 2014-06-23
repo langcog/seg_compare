@@ -1,0 +1,42 @@
+Lexicon: rp	MbF	dzJD	kL	
+
+Training Sentences:
+kLdzJDrpMbF
+MbFdzJDrpkL
+rpkLdzJDMbF
+MbFkLdzJDrp
+kLdzJDrpMbF
+MbFdzJDkLrp
+dzJDkLrpMbF
+
+Test Items:
+MbF	pMb
+rp	Lr
+dzJD	FdzJ
+rp	Dk
+kL	Dk
+MbF	pMb
+dzJD	FdzJ
+rp	Dk
+kL	Dk
+dzJD	FdzJ
+kL	Lr
+rp	Dk
+kL	Lr
+dzJD	FdzJ
+kL	Lr
+dzJD	FdzJ
+rp	Lr
+kL	Lr
+rp	Dk
+MbF	pMb
+kL	Dk
+dzJD	FdzJ
+kL	Dk
+MbF	pMb
+dzJD	FdzJ
+rp	Dk
+kL	Dk
+dzJD	FdzJ
+rp	Lr
+kL	Dk

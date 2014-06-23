@@ -1,0 +1,37 @@
+Lexicon: zudu	vAgi	vukigu	lAtibi	pipAtuzi	dAbAkAlu	
+
+Training Sentences:
+dAbAkAlupipAtuzivukiguzudu
+zudupipAtuzivukiguvAgi
+
+Test Items:
+lAtibi	igulAt
+pipAtuzi	uzidAbAk
+dAbAkAlu	ibipipAt
+pipAtuzi	uzidAbAk
+zudu	Aluz
+dAbAkAlu	ibipipAt
+lAtibi	Agivuk
+pipAtuzi	uzidAbAk
+lAtibi	Agivuk
+pipAtuzi	ibipipAt
+dAbAkAlu	uzidAbAk
+pipAtuzi	ibipipAt
+lAtibi	igulAt
+vAgi	uduv
+zudu	Aluz
+vukigu	igulAt
+lAtibi	igulAt
+pipAtuzi	uzidAbAk
+dAbAkAlu	ibipipAt
+pipAtuzi	uzidAbAk
+zudu	uduv
+dAbAkAlu	uzidAbAk
+pipAtuzi	ibipipAt
+lAtibi	Agivuk
+dAbAkAlu	uzidAbAk
+vAgi	uduv
+lAtibi	igulAt
+pipAtuzi	ibipipAt
+lAtibi	igulAt
+dAbAkAlu	uzidAbAk

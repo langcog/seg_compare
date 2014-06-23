@@ -1,0 +1,57 @@
+Lexicon: pitu	bAdA	vugibi	duguti	lulAkAzu	pAzikivA	
+
+Training Sentences:
+dugutipAzikivAlulAkAzupitu
+lulAkAzubAdApituvugibi
+pituvugibilulAkAzuduguti
+bAdApAzikivAvugibipitu
+lulAkAzupitupAzikivAduguti
+vugibilulAkAzudugutipAzikivA
+vugibipAzikivApitululAkAzu
+vugibipAzikivAdugutilulAkAzu
+dugutipAzikivAbAdAvugibi
+bAdAvugibipAzikivAduguti
+pitubAdAvugibilulAkAzu
+pitupAzikivAbAdAlulAkAzu
+pAzikivAbAdAvugibipitu
+dugutivugibibAdAlulAkAzu
+pitululAkAzudugutibAdA
+dugutibAdAvugibipitu
+pAzikivAlulAkAzupituduguti
+pAzikivAvugibibAdAduguti
+bAdAvugibidugutipAzikivA
+bAdAdugutipAzikivAlulAkAzu
+lulAkAzupitubAdApAzikivA
+dugutipitululAkAzuvugibi
+
+Test Items:
+pitu	ivAp
+bAdA	itub
+duguti	AdAvug
+lulAkAzu	utilulAk
+pitu	itub
+pAzikivA	AzupAzik
+bAdA	itub
+vugibi	ibidug
+duguti	AdAvug
+vugibi	ibidug
+pitu	ivAp
+duguti	AdAvug
+pitu	ivAp
+vugibi	ibidug
+bAdA	ivAp
+pAzikivA	AzupAzik
+vugibi	AdAvug
+pitu	ivAp
+vugibi	ibidug
+pitu	ivAp
+duguti	ibidug
+bAdA	itub
+duguti	AdAvug
+pAzikivA	AzupAzik
+lulAkAzu	utilulAk
+vugibi	AdAvug
+pitu	itub
+duguti	AdAvug
+vugibi	ibidug
+lulAkAzu	utilulAk

@@ -1,0 +1,185 @@
+Lexicon: MZ	Bfb	vtnl	
+
+Training Sentences:
+MZBfbMZvtnl
+MZBfbBfbMZ
+BfbBfbMZMZ
+MZvtnlMZvtnl
+MZBfbvtnlvtnl
+MZBfbvtnlvtnl
+BfbMZvtnlMZ
+BfbBfbvtnlMZ
+vtnlvtnlBfbMZ
+vtnlMZMZBfb
+BfbBfbMZvtnl
+vtnlvtnlBfbMZ
+vtnlvtnlBfbMZ
+vtnlMZMZBfb
+MZBfbBfbMZ
+MZvtnlvtnlMZ
+BfbBfbvtnlMZ
+MZvtnlMZvtnl
+BfbMZBfbMZ
+vtnlMZMZvtnl
+vtnlvtnlBfbBfb
+BfbMZBfbMZ
+MZMZvtnlBfb
+BfbBfbMZMZ
+BfbBfbvtnlMZ
+MZvtnlvtnlMZ
+MZBfbBfbvtnl
+BfbBfbvtnlvtnl
+BfbMZBfbMZ
+MZBfbvtnlvtnl
+BfbBfbvtnlvtnl
+MZvtnlvtnlBfb
+MZBfbBfbMZ
+vtnlMZMZBfb
+MZMZBfbvtnl
+vtnlMZMZvtnl
+vtnlMZMZBfb
+vtnlMZBfbMZ
+MZvtnlBfbMZ
+MZBfbMZBfb
+BfbvtnlvtnlBfb
+MZMZBfbvtnl
+BfbBfbvtnlMZ
+BfbvtnlBfbMZ
+BfbBfbvtnlMZ
+MZvtnlvtnlBfb
+vtnlMZvtnlMZ
+vtnlBfbBfbvtnl
+MZMZvtnlvtnl
+BfbvtnlMZMZ
+BfbMZMZvtnl
+MZvtnlBfbBfb
+MZvtnlvtnlBfb
+vtnlvtnlBfbBfb
+vtnlvtnlBfbBfb
+BfbBfbvtnlvtnl
+vtnlBfbBfbvtnl
+MZBfbMZBfb
+MZMZBfbBfb
+vtnlBfbMZvtnl
+vtnlvtnlMZBfb
+BfbvtnlBfbvtnl
+BfbvtnlvtnlBfb
+BfbMZvtnlBfb
+MZvtnlMZvtnl
+MZMZvtnlvtnl
+MZMZBfbBfb
+MZBfbMZBfb
+MZBfbBfbMZ
+vtnlMZBfbMZ
+vtnlBfbMZvtnl
+vtnlMZvtnlBfb
+vtnlMZBfbMZ
+vtnlBfbvtnlMZ
+BfbvtnlMZvtnl
+MZMZBfbvtnl
+vtnlvtnlBfbBfb
+BfbBfbvtnlMZ
+vtnlMZBfbBfb
+BfbBfbvtnlvtnl
+vtnlMZMZBfb
+vtnlMZvtnlMZ
+MZBfbMZvtnl
+vtnlvtnlMZBfb
+MZvtnlvtnlMZ
+vtnlBfbBfbMZ
+MZvtnlvtnlBfb
+vtnlMZBfbMZ
+MZvtnlMZvtnl
+BfbvtnlMZvtnl
+MZvtnlvtnlMZ
+vtnlBfbBfbMZ
+MZBfbMZBfb
+vtnlBfbvtnlBfb
+vtnlMZvtnlBfb
+MZMZBfbvtnl
+MZBfbBfbvtnl
+BfbvtnlMZvtnl
+BfbvtnlvtnlMZ
+BfbMZBfbvtnl
+MZMZvtnlvtnl
+BfbvtnlMZvtnl
+BfbvtnlMZBfb
+MZBfbMZBfb
+BfbMZMZBfb
+BfbBfbvtnlMZ
+MZvtnlMZBfb
+MZBfbvtnlvtnl
+vtnlMZvtnlMZ
+vtnlMZvtnlBfb
+vtnlBfbBfbvtnl
+MZMZBfbBfb
+BfbMZvtnlBfb
+vtnlMZMZvtnl
+BfbBfbvtnlvtnl
+BfbBfbvtnlMZ
+BfbBfbMZvtnl
+MZMZvtnlBfb
+BfbBfbvtnlMZ
+BfbvtnlvtnlMZ
+vtnlMZvtnlMZ
+vtnlvtnlBfbMZ
+MZvtnlMZBfb
+vtnlBfbBfbvtnl
+MZBfbMZvtnl
+BfbBfbvtnlMZ
+BfbBfbMZMZ
+MZvtnlBfbvtnl
+MZBfbvtnlBfb
+MZMZvtnlvtnl
+vtnlvtnlMZBfb
+vtnlMZBfbMZ
+vtnlBfbvtnlBfb
+BfbMZBfbMZ
+MZBfbBfbMZ
+MZMZvtnlBfb
+vtnlvtnlMZMZ
+BfbBfbvtnlvtnl
+BfbMZBfbMZ
+vtnlvtnlMZBfb
+MZBfbvtnlvtnl
+MZMZBfbvtnl
+vtnlMZBfbMZ
+MZMZBfbBfb
+BfbvtnlBfbvtnl
+BfbvtnlBfbMZ
+BfbBfbvtnlvtnl
+vtnlBfbMZvtnl
+vtnlMZvtnlBfb
+vtnlBfbBfbMZ
+
+Test Items:
+Bfb	ZBf
+MZ	lM
+vtnl	bvtn
+MZ	lM
+vtnl	bvtn
+MZ	lM
+vtnl	bvtn
+Bfb	ZBf
+MZ	lM
+Bfb	ZBf
+MZ	lM
+vtnl	bvtn
+MZ	lM
+vtnl	bvtn
+Bfb	ZBf
+vtnl	bvtn
+Bfb	ZBf
+vtnl	bvtn
+Bfb	ZBf
+MZ	lM
+vtnl	bvtn
+MZ	lM
+vtnl	bvtn
+Bfb	ZBf
+vtnl	bvtn
+MZ	lM
+Bfb	ZBf
+vtnl	bvtn
+Bfb	ZBf
+MZ	lM

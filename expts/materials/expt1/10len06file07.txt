@@ -1,0 +1,41 @@
+Lexicon: zubA	dAzi	vAlubi	pAlAdu	gutugiki	vupitikA	
+
+Training Sentences:
+pAlAduvAlubigutugikivupitikAzubAdAzi
+vAlubivupitikApAlAdudAzizubAgutugiki
+zubAvAlubipAlAduvupitikAdAzigutugiki
+zubAvAlubidAzipAlAduvupitikAgutugiki
+pAlAdudAzivAlubizubAvupitikAgutugiki
+gutugikidAzivAlubivupitikApAlAduzubA
+
+Test Items:
+vAlubi	ubipAl
+zubA	ubAd
+vupitikA	ikivupit
+vAlubi	ubipAl
+pAlAdu	AzivAl
+zubA	ikAz
+vupitikA	Adugutug
+dAzi	ubAd
+vupitikA	Adugutug
+zubA	ubAd
+pAlAdu	AzivAl
+zubA	ubAd
+gutugiki	ikivupit
+vupitikA	Adugutug
+gutugiki	ikivupit
+dAzi	ikAz
+zubA	ubAd
+gutugiki	ikivupit
+vupitikA	Adugutug
+gutugiki	ikivupit
+pAlAdu	ubipAl
+dAzi	ubAd
+zubA	ikAz
+vupitikA	ikivupit
+pAlAdu	AzivAl
+zubA	ikAz
+gutugiki	ikivupit
+pAlAdu	AzivAl
+zubA	ikAz
+gutugiki	ikivupit

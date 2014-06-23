@@ -1,0 +1,38 @@
+Lexicon: tigu	bAvA	kipikA	tubipA	lAvuzigi	dAzuludu	
+
+Training Sentences:
+tubipAlAvuzigikipikAtigubAvAtigukipikAlAvuzigidAzuludubAvAtubipAdAzuludu
+tubipAdAzuludutubipAbAvAdAzuludubAvAkipikAtigukipikAtigulAvuzigitubipA
+lAvuzigikipikAlAvuzigidAzuludubAvAkipikAtigudAzuludutubipAtigubAvAtubipA
+
+Test Items:
+tubipA	ikAtub
+dAzuludu	ipAlAvuz
+tigu	igub
+tubipA	AvAkip
+bAvA	igub
+dAzuludu	ipAlAvuz
+tubipA	AvAkip
+kipikA	AvAkip
+tubipA	ikAtub
+bAvA	igub
+tubipA	ikAtub
+tigu	igub
+bAvA	udut
+lAvuzigi	ipAlAvuz
+tigu	igub
+kipikA	ikAtub
+tubipA	ikAtub
+kipikA	AvAkip
+tubipA	ikAtub
+kipikA	AvAkip
+dAzuludu	igidAzul
+bAvA	udut
+tigu	igub
+tubipA	AvAkip
+dAzuludu	ipAlAvuz
+kipikA	AvAkip
+tubipA	ikAtub
+dAzuludu	igidAzul
+lAvuzigi	ipAlAvuz
+tigu	udut

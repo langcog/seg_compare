@@ -1,0 +1,185 @@
+Lexicon: Lr	JbN	Znlt	
+
+Training Sentences:
+LrJbNJbNZnlt
+JbNLrLrJbN
+LrJbNLrZnlt
+ZnltLrLrJbN
+JbNZnltJbNLr
+LrLrZnltJbN
+JbNJbNZnltZnlt
+JbNZnltZnltJbN
+LrJbNLrJbN
+JbNLrZnltJbN
+JbNZnltJbNLr
+ZnltLrLrZnlt
+LrLrZnltZnlt
+ZnltJbNZnltLr
+ZnltZnltJbNJbN
+LrLrJbNJbN
+LrJbNZnltJbN
+ZnltZnltJbNLr
+JbNZnltJbNZnlt
+JbNJbNLrZnlt
+LrZnltLrZnlt
+JbNLrLrZnlt
+JbNJbNLrZnlt
+JbNJbNZnltLr
+ZnltLrJbNJbN
+LrZnltJbNLr
+LrJbNZnltZnlt
+LrZnltZnltLr
+ZnltLrLrJbN
+LrLrJbNJbN
+JbNJbNLrLr
+JbNZnltZnltJbN
+JbNLrZnltLr
+JbNLrZnltJbN
+ZnltZnltLrJbN
+ZnltZnltLrJbN
+JbNZnltJbNLr
+LrJbNZnltZnlt
+ZnltLrJbNZnlt
+LrZnltLrJbN
+JbNZnltLrZnlt
+LrJbNZnltZnlt
+JbNZnltJbNZnlt
+LrLrZnltJbN
+LrZnltLrJbN
+LrJbNZnltZnlt
+LrZnltJbNJbN
+JbNLrJbNZnlt
+LrZnltLrJbN
+JbNZnltLrLr
+JbNLrJbNLr
+JbNJbNLrLr
+ZnltJbNLrLr
+ZnltLrLrZnlt
+LrLrJbNJbN
+LrZnltLrZnlt
+LrJbNLrJbN
+LrJbNLrZnlt
+JbNLrJbNLr
+ZnltJbNZnltJbN
+JbNJbNZnltLr
+LrJbNJbNLr
+JbNJbNLrLr
+LrLrZnltZnlt
+JbNJbNLrLr
+JbNZnltZnltLr
+LrJbNLrZnlt
+LrJbNLrZnlt
+ZnltZnltJbNJbN
+ZnltLrZnltJbN
+ZnltZnltJbNLr
+LrLrJbNZnlt
+ZnltZnltJbNJbN
+ZnltLrLrJbN
+JbNZnltJbNZnlt
+LrJbNLrZnlt
+JbNZnltJbNLr
+LrJbNLrZnlt
+JbNJbNLrLr
+JbNLrLrJbN
+JbNLrZnltZnlt
+ZnltJbNZnltLr
+JbNZnltLrLr
+LrJbNZnltLr
+JbNLrJbNLr
+LrJbNLrZnlt
+JbNJbNZnltZnlt
+JbNZnltJbNZnlt
+ZnltLrJbNJbN
+ZnltJbNZnltLr
+ZnltJbNJbNLr
+JbNZnltJbNLr
+ZnltZnltJbNJbN
+ZnltJbNJbNLr
+LrLrJbNZnlt
+LrLrZnltZnlt
+LrJbNZnltZnlt
+ZnltJbNJbNZnlt
+JbNJbNLrZnlt
+ZnltZnltLrJbN
+JbNJbNZnltLr
+ZnltZnltJbNLr
+ZnltLrZnltLr
+ZnltZnltLrLr
+LrJbNJbNZnlt
+JbNJbNLrZnlt
+JbNJbNLrLr
+LrZnltLrZnlt
+JbNJbNZnltLr
+ZnltLrLrJbN
+LrZnltZnltLr
+ZnltLrZnltJbN
+ZnltLrZnltLr
+JbNJbNZnltZnlt
+LrJbNLrJbN
+LrJbNLrZnlt
+LrZnltJbNJbN
+LrJbNZnltLr
+LrLrJbNJbN
+ZnltZnltLrJbN
+LrJbNLrZnlt
+JbNZnltJbNLr
+LrJbNZnltLr
+LrJbNZnltZnlt
+ZnltZnltLrLr
+ZnltJbNZnltLr
+ZnltZnltJbNLr
+JbNJbNLrZnlt
+JbNLrLrZnlt
+ZnltJbNZnltJbN
+JbNLrJbNLr
+ZnltJbNLrLr
+LrJbNLrZnlt
+ZnltZnltJbNJbN
+JbNZnltZnltLr
+JbNLrLrJbN
+JbNLrLrZnlt
+ZnltLrLrZnlt
+ZnltLrJbNJbN
+ZnltZnltLrJbN
+JbNZnltJbNZnlt
+ZnltJbNZnltLr
+ZnltZnltJbNLr
+LrJbNJbNZnlt
+ZnltZnltLrJbN
+ZnltZnltLrLr
+ZnltZnltJbNLr
+ZnltZnltLrJbN
+ZnltZnltZnltZnlt
+ZnltZnltZnltZnlt
+
+Test Items:
+Znlt	NZnl
+JbN	rJb
+Lr	tL
+Znlt	NZnl
+Lr	tL
+Znlt	NZnl
+JbN	rJb
+Znlt	NZnl
+JbN	rJb
+Znlt	NZnl
+Lr	tL
+Znlt	NZnl
+Lr	tL
+Znlt	NZnl
+Lr	tL
+JbN	rJb
+Znlt	NZnl
+JbN	rJb
+Znlt	NZnl
+JbN	rJb
+Lr	tL
+JbN	rJb
+Znlt	NZnl
+JbN	rJb
+Znlt	NZnl
+Lr	tL
+Znlt	NZnl
+JbN	rJb
+Znlt	NZnl
+Lr	tL

@@ -1,0 +1,38 @@
+Lexicon: ld	tk	KDP	vpV	ZBbL	gzTG	
+
+Training Sentences:
+ldtkKDPZBbL
+gzTGldvpVZBbL
+tkvpVgzTGKDP
+
+Test Items:
+KDP	Pvp
+tk	dt
+gzTG	LgzT
+ld	dt
+gzTG	LgzT
+ld	dt
+KDP	Pvp
+ld	dt
+KDP	Pvp
+gzTG	VZBb
+vpV	kKD
+ld	Gl
+ZBbL	VZBb
+vpV	kKD
+gzTG	VZBb
+KDP	Pvp
+ld	Gl
+ZBbL	LgzT
+tk	Gl
+ld	dt
+ZBbL	VZBb
+ld	Gl
+vpV	Pvp
+ld	Gl
+tk	dt
+ZBbL	VZBb
+ld	dt
+tk	Gl
+ZBbL	LgzT
+tk	Gl

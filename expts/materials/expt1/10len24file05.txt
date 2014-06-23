@@ -1,0 +1,36 @@
+Lexicon: vAkA	dAtu	pApibi	lubAgi	dulAtivu	zuzikigu	
+
+Training Sentences:
+lubAgipApibidAtuvAkAzuzikigulubAgizuzikigudAtupApibidulAtivulubAgipApibivAkApApibidAtulubAgivAkAdAtudulAtivuzuzikiguvAkAdulAtivuzuzikigudulAtivu
+
+Test Items:
+dulAtivu	AgidulAt
+vAkA	iguv
+dulAtivu	ivuzuzik
+zuzikigu	AgidulAt
+dulAtivu	ivuzuzik
+dAtu	AkAd
+vAkA	iguv
+lubAgi	AtupAp
+dulAtivu	ivuzuzik
+zuzikigu	AgidulAt
+dulAtivu	ivuzuzik
+lubAgi	ibilub
+vAkA	AkAd
+pApibi	AtupAp
+zuzikigu	AgidulAt
+dAtu	AkAd
+pApibi	ibilub
+zuzikigu	AgidulAt
+dulAtivu	ivuzuzik
+lubAgi	AtupAp
+dAtu	iguv
+dulAtivu	ivuzuzik
+dAtu	AkAd
+lubAgi	AtupAp
+dAtu	iguv
+pApibi	AtupAp
+lubAgi	ibilub
+pApibi	AtupAp
+zuzikigu	ivuzuzik
+pApibi	AtupAp

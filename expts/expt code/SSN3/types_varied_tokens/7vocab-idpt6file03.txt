@@ -1,0 +1,42 @@
+Lexicon: DR	rGL	vlPZ	np	VfJ	BMzk	
+
+Training Sentences:
+vlPZnprGLVfJ
+npBMzkvlPZVfJ
+DRnpBMzkvlPZ
+rGLBMzkDRVfJ
+DRrGLVfJvlPZ
+rGLDRBMzknp
+VfJBMzkDRvlPZ
+
+Test Items:
+np	kD
+vlPZ	LvlP
+DR	kD
+BMzk	JBMz
+np	Zn
+rGL	pVf
+BMzk	LvlP
+VfJ	RrG
+DR	kD
+rGL	RrG
+DR	Zn
+VfJ	RrG
+rGL	pVf
+vlPZ	LvlP
+rGL	pVf
+np	Zn
+BMzk	LvlP
+DR	Zn
+VfJ	RrG
+DR	kD
+rGL	RrG
+DR	Zn
+BMzk	JBMz
+DR	Zn
+VfJ	RrG
+vlPZ	JBMz
+VfJ	RrG
+vlPZ	JBMz
+BMzk	LvlP
+vlPZ	JBMz

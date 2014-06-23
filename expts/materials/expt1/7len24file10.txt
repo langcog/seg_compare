@@ -1,0 +1,36 @@
+Lexicon: kivu	lAbA	vAtulu	dupAdA	kAzibipi	gigutizu	
+
+Training Sentences:
+gigutizukAzibipidupAdAkivulAbAdupAdAvAtulukAzibipigigutizudupAdAgigutizukivulAbAkAzibipikivulAbAgigutizuvAtulukivudupAdAvAtulukAzibipivAtululAbA
+
+Test Items:
+kAzibipi	AdAkAzib
+dupAdA	AbAvAt
+gigutizu	ipigigut
+lAbA	izuk
+vAtulu	uludup
+gigutizu	ipigigut
+kAzibipi	AdAkAzib
+gigutizu	ipigigut
+vAtulu	uludup
+dupAdA	AbAvAt
+gigutizu	AdAkAzib
+vAtulu	uludup
+lAbA	ivul
+dupAdA	uludup
+kivu	ivul
+kAzibipi	AdAkAzib
+kivu	izuk
+kAzibipi	ipigigut
+kivu	izuk
+dupAdA	uludup
+lAbA	ivul
+gigutizu	ipigigut
+vAtulu	AbAvAt
+kivu	ivul
+lAbA	izuk
+gigutizu	AdAkAzib
+kAzibipi	ipigigut
+gigutizu	AdAkAzib
+kAzibipi	AdAkAzib
+lAbA	ivul

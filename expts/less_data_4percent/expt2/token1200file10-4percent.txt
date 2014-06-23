@@ -1,0 +1,47 @@
+Lexicon: PZ	LV	pvd	KTg	kzGB	tDlb	
+
+Training Sentences:
+pvdKTgLVPZ
+pvdKTgPZkzGB
+KTgtDlbkzGBLV
+LVtDlbPZpvd
+tDlbKTgkzGBpvd
+KTgLVpvdkzGB
+LVtDlbkzGBPZ
+pvdLVPZkzGB
+LVpvdkzGBPZ
+KTgkzGBtDlbLV
+tDlbKTgpvdPZ
+tDlbKTgPZtDlb
+
+Test Items:
+KTg	Vpv
+pvd	dKT
+PZ	ZL
+KTg	dKT
+LV	ZL
+kzGB	BtDl
+pvd	Vpv
+tDlb	gkzG
+pvd	Vpv
+KTg	dKT
+LV	ZL
+PZ	bP
+kzGB	BtDl
+LV	bP
+kzGB	gkzG
+pvd	Vpv
+LV	bP
+PZ	ZL
+LV	bP
+kzGB	BtDl
+LV	bP
+PZ	ZL
+KTg	Vpv
+kzGB	gkzG
+pvd	dKT
+tDlb	BtDl
+KTg	dKT
+tDlb	BtDl
+pvd	dKT
+kzGB	BtDl

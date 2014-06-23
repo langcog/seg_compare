@@ -1,0 +1,42 @@
+Lexicon: mg	KDV	Rvrl	Jk	TMZ	
+
+Training Sentences:
+JkKDVTMZRvrl
+TMZKDVJkmg
+RvrlJkmgKDV
+RvrlTMZJkmg
+mgJkRvrlTMZ
+mgKDVTMZRvrl
+KDVTMZRvrlmg
+
+Test Items:
+mg	Zm
+Rvrl	VRvr
+mg	Zm
+Jk	lJ
+TMZ	gKD
+Rvrl	VRvr
+KDV	kTM
+Rvrl	VRvr
+TMZ	gKD
+Rvrl	VRvr
+mg	lJ
+Jk	lJ
+mg	Zm
+TMZ	gKD
+Rvrl	VRvr
+TMZ	kTM
+Rvrl	VRvr
+KDV	kTM
+Jk	Zm
+mg	lJ
+Rvrl	VRvr
+TMZ	gKD
+KDV	kTM
+Rvrl	VRvr
+TMZ	kTM
+mg	Zm
+Jk	lJ
+KDV	gKD
+TMZ	kTM
+Rvrl	VRvr

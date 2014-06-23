@@ -1,0 +1,60 @@
+Lexicon: Fd	VTk	Mgvz	Zp	
+
+Training Sentences:
+FdMgvzZpVTk
+MgvzFdVTkZp
+FdZpMgvzVTk
+VTkMgvzFdZp
+MgvzVTkFdZp
+ZpVTkMgvzFd
+ZpMgvzVTkFd
+VTkFdZpMgvz
+FdMgvzVTkZp
+VTkFdMgvzZp
+ZpVTkMgvzFd
+ZpVTkFdMgvz
+ZpFdVTkMgvz
+ZpFdMgvzVTk
+VTkMgvzZpFd
+VTkFdZpMgvz
+VTkZpFdMgvz
+FdMgvzZpVTk
+VTkFdMgvzZp
+FdVTkMgvzZp
+VTkZpFdMgvz
+MgvzZpFdVTk
+ZpVTkMgvzFd
+MgvzZpVTkFd
+ZpFdMgvzVTk
+
+Test Items:
+Fd	pF
+VTk	dVT
+Fd	pF
+VTk	dVT
+Zp	pF
+Fd	zZ
+VTk	dVT
+Fd	pF
+Zp	zZ
+Mgvz	kMgv
+Zp	zZ
+Mgvz	kMgv
+Zp	pF
+VTk	dVT
+Fd	pF
+Zp	zZ
+VTk	dVT
+Fd	pF
+VTk	dVT
+Mgvz	kMgv
+Zp	zZ
+VTk	dVT
+Mgvz	kMgv
+VTk	dVT
+Fd	pF
+Zp	zZ
+VTk	dVT
+Fd	pF
+VTk	dVT
+Mgvz	kMgv

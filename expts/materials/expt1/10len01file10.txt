@@ -1,0 +1,75 @@
+Lexicon: zubA	vAtu	ziluti	duvupA	gudApibi	lAkigikA	
+
+Training Sentences:
+duvupA
+lAkigikA
+ziluti
+zubA
+vAtu
+vAtu
+duvupA
+duvupA
+gudApibi
+lAkigikA
+gudApibi
+vAtu
+ziluti
+zubA
+vAtu
+ziluti
+ziluti
+zubA
+vAtu
+zubA
+zubA
+zubA
+gudApibi
+lAkigikA
+ziluti
+lAkigikA
+ziluti
+duvupA
+duvupA
+gudApibi
+duvupA
+gudApibi
+gudApibi
+ziluti
+gudApibi
+vAtu
+lAkigikA
+zubA
+vAtu
+duvupA
+
+Test Items:
+ziluti	Atuzil
+duvupA	utiduv
+vAtu	ubAv
+lAkigikA	upAgudAp
+vAtu	ikAz
+zubA	ubAv
+lAkigikA	ibilAkig
+vAtu	ubAv
+zubA	ikAz
+gudApibi	ibilAkig
+lAkigikA	upAgudAp
+gudApibi	ibilAkig
+zubA	ikAz
+duvupA	utiduv
+vAtu	ubAv
+gudApibi	upAgudAp
+duvupA	utiduv
+zubA	ubAv
+vAtu	ikAz
+zubA	ubAv
+duvupA	utiduv
+vAtu	ikAz
+ziluti	utiduv
+zubA	ikAz
+lAkigikA	upAgudAp
+duvupA	Atuzil
+vAtu	ubAv
+duvupA	utiduv
+vAtu	ubAv
+duvupA	Atuzil

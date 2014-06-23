@@ -1,0 +1,145 @@
+Lexicon: pivA	dudA	gutupA	bAlAbi	zilutiki	kAzuvugi	
+
+Training Sentences:
+kAzuvugi
+pivA
+pivA
+gutupA
+dudA
+bAlAbi
+kAzuvugi
+zilutiki
+bAlAbi
+gutupA
+pivA
+bAlAbi
+bAlAbi
+kAzuvugi
+zilutiki
+zilutiki
+pivA
+bAlAbi
+zilutiki
+gutupA
+dudA
+kAzuvugi
+pivA
+kAzuvugi
+dudA
+bAlAbi
+kAzuvugi
+bAlAbi
+dudA
+gutupA
+gutupA
+gutupA
+kAzuvugi
+dudA
+dudA
+zilutiki
+zilutiki
+gutupA
+zilutiki
+pivA
+
+Test Items:
+bAlAbi	upAbAl
+gutupA	udAgut
+bAlAbi	upAbAl
+zilutiki	Abizilut
+dudA	ivAd
+bAlAbi	udAgut
+gutupA	udAgut
+kAzuvugi	Abizilut
+pivA	ugip
+dudA	ivAd
+zilutiki	ikikAzuv
+kAzuvugi	Abizilut
+gutupA	udAgut
+pivA	ivAd
+dudA	ugip
+kAzuvugi	ikikAzuv
+zilutiki	ikikAzuv
+bAlAbi	udAgut
+dudA	ugip
+gutupA	udAgut
+zilutiki	Abizilut
+kAzuvugi	ikikAzuv
+bAlAbi	upAbAl
+zilutiki	Abizilut
+gutupA	udAgut
+zilutiki	ikikAzuv
+kAzuvugi	ikikAzuv
+bAlAbi	udAgut
+gutupA	udAgut
+zilutiki	ikikAzuv
+kAzuvugi	Abizilut
+gutupA	udAgut
+bAlAbi	upAbAl
+pivA	ugip
+zilutiki	ikikAzuv
+bAlAbi	udAgut
+zilutiki	ikikAzuv
+bAlAbi	upAbAl
+gutupA	udAgut
+pivA	ivAd
+zilutiki	Abizilut
+bAlAbi	upAbAl
+kAzuvugi	ikikAzuv
+bAlAbi	udAgut
+zilutiki	Abizilut
+gutupA	upAbAl
+zilutiki	Abizilut
+pivA	ugip
+bAlAbi	upAbAl
+kAzuvugi	Abizilut
+bAlAbi	upAbAl
+dudA	ivAd
+pivA	ugip
+kAzuvugi	Abizilut
+zilutiki	ikikAzuv
+pivA	ugip
+kAzuvugi	ikikAzuv
+pivA	ivAd
+dudA	ugip
+gutupA	upAbAl
+bAlAbi	udAgut
+kAzuvugi	Abizilut
+dudA	ugip
+kAzuvugi	ikikAzuv
+zilutiki	Abizilut
+gutupA	upAbAl
+pivA	ugip
+bAlAbi	udAgut
+zilutiki	ikikAzuv
+pivA	ugip
+dudA	ivAd
+zilutiki	ikikAzuv
+gutupA	upAbAl
+pivA	ugip
+kAzuvugi	ikikAzuv
+pivA	ivAd
+gutupA	udAgut
+dudA	ivAd
+bAlAbi	udAgut
+dudA	ugip
+pivA	ivAd
+zilutiki	Abizilut
+kAzuvugi	ikikAzuv
+bAlAbi	udAgut
+kAzuvugi	ikikAzuv
+bAlAbi	upAbAl
+pivA	ivAd
+dudA	ugip
+kAzuvugi	Abizilut
+dudA	ugip
+kAzuvugi	Abizilut
+zilutiki	ikikAzuv
+kAzuvugi	Abizilut
+bAlAbi	udAgut
+kAzuvugi	Abizilut
+bAlAbi	upAbAl
+kAzuvugi	Abizilut
+pivA	ugip
+dudA	ivAd
+bAlAbi	udAgut

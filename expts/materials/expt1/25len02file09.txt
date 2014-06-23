@@ -1,0 +1,125 @@
+Lexicon: zugi	kibi	gulAtu	tipAvA	dAlukAbA	zipiduvu	
+
+Training Sentences:
+kibizugi
+dAlukAbAzipiduvu
+zipiduvutipAvA
+zipiduvukibi
+tipAvAdAlukAbA
+zugidAlukAbA
+dAlukAbAzipiduvu
+tipAvAgulAtu
+tipAvAkibi
+gulAtudAlukAbA
+dAlukAbAgulAtu
+kibizipiduvu
+zugigulAtu
+kibizugi
+tipAvAgulAtu
+zugitipAvA
+gulAtuzugi
+zipiduvuzugi
+dAlukAbAgulAtu
+tipAvAkibi
+
+Test Items:
+zipiduvu	AbAzipid
+tipAvA	Atutip
+zugi	ugik
+tipAvA	ibigul
+zipiduvu	AbAzipid
+kibi	uvuz
+gulAtu	Atutip
+tipAvA	ibigul
+zipiduvu	AbAzipid
+tipAvA	ibigul
+zugi	uvuz
+zipiduvu	AvAdAluk
+kibi	ugik
+gulAtu	ibigul
+zipiduvu	AvAdAluk
+dAlukAbA	AbAzipid
+zipiduvu	AbAzipid
+kibi	ugik
+gulAtu	ibigul
+zugi	uvuz
+kibi	ugik
+zugi	uvuz
+gulAtu	Atutip
+zugi	uvuz
+tipAvA	ibigul
+gulAtu	Atutip
+zugi	ugik
+gulAtu	ibigul
+dAlukAbA	AvAdAluk
+tipAvA	Atutip
+zugi	ugik
+tipAvA	Atutip
+zugi	ugik
+dAlukAbA	AbAzipid
+gulAtu	ibigul
+kibi	uvuz
+dAlukAbA	AvAdAluk
+zugi	ugik
+kibi	ugik
+zipiduvu	AbAzipid
+kibi	ugik
+dAlukAbA	AbAzipid
+kibi	uvuz
+zugi	ugik
+dAlukAbA	AbAzipid
+kibi	ugik
+tipAvA	ibigul
+kibi	uvuz
+tipAvA	Atutip
+zipiduvu	AvAdAluk
+tipAvA	Atutip
+zugi	uvuz
+gulAtu	Atutip
+kibi	ugik
+zipiduvu	AbAzipid
+dAlukAbA	AvAdAluk
+gulAtu	ibigul
+zugi	uvuz
+zipiduvu	AbAzipid
+gulAtu	Atutip
+dAlukAbA	AvAdAluk
+zipiduvu	AbAzipid
+kibi	ugik
+gulAtu	ibigul
+zipiduvu	AvAdAluk
+dAlukAbA	AbAzipid
+kibi	ugik
+zipiduvu	AbAzipid
+tipAvA	Atutip
+dAlukAbA	AbAzipid
+zipiduvu	AvAdAluk
+kibi	uvuz
+zugi	ugik
+dAlukAbA	AvAdAluk
+zipiduvu	AvAdAluk
+kibi	ugik
+zipiduvu	AvAdAluk
+zugi	ugik
+tipAvA	Atutip
+kibi	uvuz
+tipAvA	ibigul
+zipiduvu	AbAzipid
+tipAvA	ibigul
+gulAtu	Atutip
+zipiduvu	AvAdAluk
+zugi	uvuz
+gulAtu	ibigul
+dAlukAbA	AbAzipid
+tipAvA	Atutip
+gulAtu	ibigul
+dAlukAbA	AbAzipid
+zugi	ugik
+tipAvA	ibigul
+gulAtu	Atutip
+zugi	uvuz
+dAlukAbA	AbAzipid
+zipiduvu	AvAdAluk
+tipAvA	Atutip
+gulAtu	ibigul
+tipAvA	Atutip

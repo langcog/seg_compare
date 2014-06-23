@@ -1,0 +1,36 @@
+Lexicon: gigu	kAzu	bAtuki	vulAzi	tiduluvA	pApibidA	
+
+Training Sentences:
+giguvulAzitiduluvApApibidA
+
+Test Items:
+pApibidA	Azitidul
+kAzu	iguk
+bAtuki	AzubAt
+pApibidA	Azitidul
+tiduluvA	uvApApib
+gigu	idAg
+pApibidA	Azitidul
+gigu	iguk
+bAtuki	ukivul
+kAzu	iguk
+tiduluvA	uvApApib
+kAzu	iguk
+bAtuki	ukivul
+vulAzi	AzubAt
+gigu	idAg
+vulAzi	AzubAt
+pApibidA	Azitidul
+bAtuki	ukivul
+vulAzi	AzubAt
+kAzu	idAg
+pApibidA	Azitidul
+tiduluvA	uvApApib
+kAzu	idAg
+bAtuki	ukivul
+gigu	iguk
+bAtuki	AzubAt
+pApibidA	uvApApib
+gigu	idAg
+bAtuki	ukivul
+pApibidA	Azitidul

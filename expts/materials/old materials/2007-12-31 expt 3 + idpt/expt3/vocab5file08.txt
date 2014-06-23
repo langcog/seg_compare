@@ -1,0 +1,185 @@
+Lexicon: Rp	BbF	vnJD	Lz	Grl	
+
+Training Sentences:
+BbFLzRpvnJD
+vnJDLzBbFRp
+vnJDGrlLzBbF
+vnJDRpBbFLz
+BbFLzvnJDRp
+RpLzGrlBbF
+LzGrlRpBbF
+RpLzBbFGrl
+GrlBbFLzRp
+RpGrlvnJDBbF
+LzRpGrlvnJD
+BbFGrlvnJDRp
+RpvnJDGrlBbF
+vnJDBbFLzRp
+LzvnJDGrlRp
+BbFvnJDGrlRp
+LzvnJDBbFGrl
+RpBbFLzGrl
+BbFLzRpvnJD
+vnJDRpGrlLz
+BbFvnJDLzRp
+RpBbFLzvnJD
+RpBbFGrlLz
+vnJDBbFGrlLz
+LzGrlvnJDBbF
+GrlBbFLzRp
+GrlRpLzvnJD
+BbFRpGrlvnJD
+GrlRpvnJDBbF
+RpvnJDGrlBbF
+vnJDLzGrlBbF
+LzvnJDRpBbF
+BbFvnJDGrlLz
+RpGrlLzBbF
+LzvnJDBbFGrl
+BbFvnJDRpLz
+GrlvnJDBbFRp
+BbFGrlLzvnJD
+vnJDRpBbFLz
+LzvnJDRpBbF
+LzGrlRpvnJD
+LzGrlvnJDBbF
+LzGrlBbFRp
+RpLzGrlvnJD
+RpvnJDBbFLz
+BbFGrlvnJDRp
+vnJDBbFGrlLz
+GrlBbFLzvnJD
+RpLzBbFvnJD
+GrlLzBbFvnJD
+RpvnJDGrlLz
+RpBbFLzGrl
+BbFRpLzvnJD
+RpLzBbFGrl
+GrlvnJDLzRp
+LzGrlvnJDRp
+RpLzvnJDGrl
+BbFRpLzvnJD
+LzGrlBbFvnJD
+RpvnJDGrlLz
+RpGrlBbFLz
+vnJDGrlBbFLz
+LzGrlBbFvnJD
+RpvnJDGrlLz
+GrlBbFRpvnJD
+vnJDLzBbFGrl
+BbFvnJDRpGrl
+vnJDBbFRpGrl
+vnJDBbFRpLz
+RpBbFGrlvnJD
+vnJDRpLzGrl
+RpvnJDBbFLz
+RpBbFvnJDGrl
+LzBbFvnJDGrl
+vnJDBbFRpLz
+BbFLzGrlvnJD
+RpGrlBbFvnJD
+RpLzvnJDGrl
+LzBbFvnJDRp
+vnJDGrlRpLz
+LzBbFGrlRp
+GrlLzRpvnJD
+RpvnJDLzGrl
+GrlLzBbFRp
+GrlRpBbFvnJD
+GrlRpLzvnJD
+RpLzBbFvnJD
+LzBbFvnJDRp
+vnJDBbFRpLz
+vnJDLzRpBbF
+GrlRpBbFLz
+LzGrlBbFRp
+vnJDLzRpGrl
+RpBbFvnJDLz
+BbFLzvnJDGrl
+BbFLzGrlRp
+GrlvnJDBbFLz
+GrlvnJDBbFRp
+GrlRpvnJDLz
+BbFGrlLzRp
+RpvnJDBbFGrl
+LzRpGrlBbF
+RpvnJDGrlLz
+BbFLzvnJDRp
+vnJDRpBbFLz
+BbFLzvnJDGrl
+LzvnJDGrlBbF
+BbFRpvnJDGrl
+RpLzGrlvnJD
+BbFGrlRpvnJD
+GrlBbFRpLz
+LzGrlBbFRp
+BbFGrlRpLz
+RpLzBbFvnJD
+GrlvnJDLzBbF
+LzvnJDGrlRp
+GrlBbFLzRp
+vnJDBbFLzRp
+RpBbFvnJDLz
+BbFRpLzGrl
+BbFGrlRpvnJD
+vnJDGrlRpBbF
+GrlRpvnJDLz
+vnJDBbFGrlLz
+vnJDBbFRpLz
+LzvnJDBbFRp
+GrlvnJDLzRp
+LzvnJDGrlBbF
+GrlBbFRpvnJD
+BbFRpGrlLz
+BbFvnJDGrlLz
+BbFRpvnJDGrl
+RpBbFLzvnJD
+GrlRpBbFvnJD
+LzGrlvnJDBbF
+RpvnJDGrlLz
+BbFGrlRpvnJD
+GrlBbFvnJDRp
+BbFLzGrlvnJD
+LzvnJDGrlRp
+LzGrlBbFvnJD
+LzBbFvnJDGrl
+RpBbFGrlLz
+LzGrlRpvnJD
+vnJDGrlBbFLz
+LzRpBbFGrl
+RpGrlvnJDBbF
+GrlRpLzBbF
+RpGrlGrlRp
+GrlRpGrlGrl
+
+Test Items:
+BbF	pBb
+Grl	zGr
+Lz	lR
+BbF	pBb
+vnJD	FvnJ
+Rp	lR
+Lz	DL
+BbF	zGr
+Grl	zGr
+vnJD	FvnJ
+Grl	zGr
+vnJD	FvnJ
+BbF	pBb
+Grl	zGr
+Rp	DL
+vnJD	FvnJ
+Rp	lR
+vnJD	FvnJ
+Rp	lR
+Grl	pBb
+Lz	lR
+BbF	zGr
+Lz	lR
+Rp	DL
+Lz	DL
+BbF	pBb
+vnJD	FvnJ
+Grl	pBb
+Rp	lR
+vnJD	FvnJ

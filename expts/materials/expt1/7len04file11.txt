@@ -1,0 +1,42 @@
+Lexicon: luvu	pAkA	lAvAgu	tuzuki	dubAbiti	gipidAzi	
+
+Training Sentences:
+gipidAzilAvAgutuzukipAkA
+pAkAlAvAgudubAbitiluvu
+dubAbitituzukiluvulAvAgu
+pAkAlAvAgugipidAziluvu
+dubAbitipAkAtuzukilAvAgu
+luvutuzukigipidAzipAkA
+gipidAzituzukidubAbitiluvu
+
+Test Items:
+dubAbiti	itigipid
+lAvAgu	AkAlAv
+dubAbiti	itigipid
+tuzuki	Agutuz
+lAvAgu	AkAlAv
+tuzuki	Agutuz
+dubAbiti	ukidubAb
+tuzuki	AkAlAv
+lAvAgu	AkAlAv
+pAkA	uvup
+tuzuki	AkAlAv
+gipidAzi	itigipid
+luvu	uvup
+tuzuki	Agutuz
+dubAbiti	itigipid
+lAvAgu	AkAlAv
+gipidAzi	itigipid
+luvu	uvup
+pAkA	Azil
+luvu	uvup
+lAvAgu	Agutuz
+pAkA	uvup
+lAvAgu	Agutuz
+luvu	Azil
+lAvAgu	AkAlAv
+gipidAzi	ukidubAb
+lAvAgu	Agutuz
+luvu	uvup
+tuzuki	AkAlAv
+dubAbiti	itigipid

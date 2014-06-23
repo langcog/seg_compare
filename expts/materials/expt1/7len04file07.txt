@@ -1,0 +1,42 @@
+Lexicon: lAgu	pipA	lubidA	tizuvu	kibAkAgi	zituvAdu	
+
+Training Sentences:
+kibAkAgitizuvuzituvAdulAgu
+lubidAlAgukibAkAgipipA
+pipAlAgukibAkAgitizuvu
+lAguzituvAdulubidApipA
+zituvAdukibAkAgilAgupipA
+zituvAdukibAkAgitizuvulubidA
+lubidAtizuvupipAzituvAdu
+
+Test Items:
+lAgu	Adul
+lubidA	idAtiz
+zituvAdu	Agizituv
+lubidA	ipAlub
+kibAkAgi	Agizituv
+tizuvu	idAtiz
+zituvAdu	uvukibAk
+lubidA	idAtiz
+tizuvu	ipAlub
+zituvAdu	uvukibAk
+kibAkAgi	Agizituv
+lAgu	Agup
+kibAkAgi	uvukibAk
+lAgu	Adul
+kibAkAgi	Agizituv
+lAgu	Adul
+lubidA	idAtiz
+pipA	Adul
+zituvAdu	Agizituv
+pipA	Agup
+tizuvu	ipAlub
+kibAkAgi	Agizituv
+lAgu	Adul
+zituvAdu	Agizituv
+lubidA	ipAlub
+zituvAdu	Agizituv
+pipA	Adul
+lAgu	Agup
+tizuvu	ipAlub
+lAgu	Adul

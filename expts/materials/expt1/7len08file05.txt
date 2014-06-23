@@ -1,0 +1,38 @@
+Lexicon: zubA	vuzi	vAgidu	lAtipA	lukidApi	bitugukA	
+
+Training Sentences:
+lAtipAvuzivAgidubitugukAzubAvuzilAtipAbitugukA
+zubAvAgidubitugukAlukidApizubAlAtipAvuzilukidApi
+bitugukAlukidApibitugukAvAgiduzubAvAgidulAtipAzubA
+
+Test Items:
+bitugukA	Apibitug
+vuzi	ubAv
+lAtipA	idulAt
+lukidApi	ipAlukid
+lAtipA	uzivAg
+vuzi	ubAv
+bitugukA	ipAlukid
+vAgidu	uzivAg
+lAtipA	idulAt
+vAgidu	idulAt
+vuzi	ukAz
+bitugukA	ipAlukid
+lAtipA	idulAt
+lukidApi	Apibitug
+bitugukA	ipAlukid
+vAgidu	uzivAg
+lAtipA	uzivAg
+vAgidu	idulAt
+bitugukA	ipAlukid
+vAgidu	uzivAg
+lAtipA	idulAt
+vuzi	ukAz
+vAgidu	idulAt
+bitugukA	ipAlukid
+zubA	ubAv
+lukidApi	ipAlukid
+vAgidu	idulAt
+lAtipA	uzivAg
+vuzi	ukAz
+lAtipA	idulAt

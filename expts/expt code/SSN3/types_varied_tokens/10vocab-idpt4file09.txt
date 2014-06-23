@@ -1,0 +1,45 @@
+Lexicon: bg	zmP	KGLZ	Vn	
+
+Training Sentences:
+VnzmPbgKGLZ
+bgKGLZVnzmP
+zmPKGLZVnbg
+zmPbgVnKGLZ
+bgKGLZzmPVn
+bgKGLZVnzmP
+KGLZbgzmPVn
+zmPKGLZbgVn
+KGLZVnbgzmP
+KGLZbgzmPVn
+
+Test Items:
+zmP	gzm
+KGLZ	PKGL
+Vn	ZV
+zmP	gzm
+bg	nb
+Vn	ZV
+bg	nb
+zmP	gzm
+bg	ZV
+KGLZ	PKGL
+Vn	nb
+zmP	gzm
+bg	nb
+Vn	ZV
+KGLZ	PKGL
+bg	ZV
+Vn	nb
+bg	ZV
+KGLZ	PKGL
+bg	nb
+Vn	ZV
+zmP	gzm
+Vn	ZV
+KGLZ	PKGL
+Vn	ZV
+bg	nb
+KGLZ	PKGL
+zmP	gzm
+Vn	ZV
+KGLZ	PKGL

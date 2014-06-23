@@ -1,0 +1,36 @@
+Lexicon: kAti	tudu	luzivu	zuguki	dAlAvAgi	bibApipA	
+
+Training Sentences:
+dAlAvAgikAtizugukitudukAtidAlAvAgibibApipAdAlAvAgizugukiluzivubibApipAluzivubibApipAluzivutudukAtitudukAtizugukiluzivubibApipAdAlAvAgizugukitudu
+
+Test Items:
+zuguki	uduluz
+tudu	ipAk
+bibApipA	AgibibAp
+tudu	ipAk
+zuguki	ivuzug
+dAlAvAgi	AgibibAp
+zuguki	ivuzug
+dAlAvAgi	ukidAlAv
+tudu	Atit
+bibApipA	AgibibAp
+luzivu	ivuzug
+zuguki	uduluz
+bibApipA	AgibibAp
+dAlAvAgi	ukidAlAv
+luzivu	ivuzug
+zuguki	uduluz
+dAlAvAgi	AgibibAp
+bibApipA	ukidAlAv
+dAlAvAgi	AgibibAp
+bibApipA	ukidAlAv
+kAti	ipAk
+zuguki	ivuzug
+luzivu	uduluz
+kAti	ipAk
+bibApipA	AgibibAp
+tudu	ipAk
+dAlAvAgi	AgibibAp
+kAti	Atit
+luzivu	ivuzug
+zuguki	uduluz

@@ -1,0 +1,185 @@
+Lexicon: Mr	JFz	gZDm	Rn	Gvf	
+
+Training Sentences:
+MrgZDmGvfRn
+JFzGvfRngZDm
+gZDmRnMrJFz
+GvfgZDmMrJFz
+gZDmRnMrGvf
+gZDmJFzRnGvf
+RnMrGvfJFz
+RnGvfMrgZDm
+GvfMrRnJFz
+GvfRnJFzgZDm
+gZDmRnJFzMr
+gZDmMrRnGvf
+JFzGvfMrgZDm
+GvfRnJFzMr
+gZDmGvfMrJFz
+gZDmGvfRnJFz
+RnMrJFzgZDm
+MrJFzGvfRn
+RngZDmJFzGvf
+MrRnGvfJFz
+JFzGvfgZDmRn
+MrRnGvfgZDm
+MrgZDmGvfJFz
+JFzGvfRnMr
+JFzMrGvfgZDm
+gZDmRnJFzMr
+JFzGvfRnMr
+MrgZDmRnGvf
+JFzRnGvfgZDm
+MrRnGvfJFz
+gZDmMrJFzRn
+MrRnJFzGvf
+MrGvfgZDmJFz
+gZDmGvfJFzRn
+MrgZDmJFzGvf
+GvfJFzRngZDm
+JFzgZDmMrGvf
+RnGvfJFzMr
+JFzGvfMrRn
+MrJFzgZDmRn
+JFzRnGvfgZDm
+RnJFzMrGvf
+gZDmGvfJFzRn
+JFzgZDmGvfMr
+RngZDmGvfMr
+gZDmJFzRnMr
+RnJFzGvfMr
+MrgZDmRnJFz
+GvfRnMrJFz
+MrGvfJFzRn
+JFzRnMrGvf
+RnJFzGvfMr
+gZDmJFzMrGvf
+GvfMrJFzgZDm
+gZDmMrGvfJFz
+gZDmRnJFzMr
+gZDmMrRnGvf
+JFzRnGvfMr
+GvfgZDmJFzMr
+RnGvfJFzgZDm
+RnJFzGvfgZDm
+JFzgZDmGvfRn
+GvfJFzMrRn
+GvfgZDmMrJFz
+gZDmJFzMrRn
+gZDmRnGvfMr
+gZDmRnJFzGvf
+MrgZDmGvfJFz
+MrgZDmJFzRn
+gZDmJFzGvfRn
+MrRngZDmGvf
+GvfMrRnJFz
+GvfgZDmRnMr
+gZDmJFzMrGvf
+gZDmGvfMrJFz
+gZDmGvfRnJFz
+RnMrGvfgZDm
+MrJFzRnGvf
+GvfJFzRnMr
+MrgZDmRnJFz
+RnJFzGvfMr
+GvfMrRnJFz
+MrJFzGvfgZDm
+MrGvfJFzgZDm
+gZDmGvfMrRn
+JFzMrgZDmRn
+JFzGvfRnMr
+JFzMrRngZDm
+gZDmRnJFzMr
+RngZDmGvfMr
+gZDmJFzGvfMr
+gZDmMrJFzGvf
+JFzgZDmMrGvf
+JFzRngZDmMr
+JFzRngZDmGvf
+GvfMrRnJFz
+JFzRnMrgZDm
+GvfRngZDmMr
+RngZDmJFzGvf
+GvfMrRngZDm
+gZDmMrGvfRn
+RnMrGvfJFz
+GvfgZDmMrRn
+GvfRngZDmMr
+MrJFzGvfRn
+RngZDmJFzMr
+gZDmMrJFzGvf
+RngZDmMrGvf
+gZDmMrGvfRn
+RngZDmMrJFz
+MrgZDmGvfRn
+gZDmRnMrGvf
+GvfRngZDmJFz
+JFzgZDmRnMr
+MrgZDmRnJFz
+GvfgZDmJFzRn
+JFzMrRngZDm
+RnGvfMrJFz
+MrgZDmGvfJFz
+GvfRngZDmJFz
+JFzRnMrgZDm
+MrJFzGvfRn
+JFzMrRnGvf
+JFzGvfgZDmMr
+RnJFzGvfgZDm
+RnMrgZDmJFz
+GvfJFzgZDmMr
+gZDmRnJFzGvf
+gZDmRnGvfMr
+GvfgZDmMrJFz
+gZDmRnJFzGvf
+gZDmGvfJFzRn
+GvfgZDmJFzMr
+GvfgZDmRnMr
+MrgZDmJFzRn
+JFzGvfgZDmRn
+MrJFzGvfgZDm
+gZDmMrJFzGvf
+JFzGvfRngZDm
+RngZDmMrJFz
+RngZDmMrGvf
+GvfgZDmMrRn
+JFzgZDmRnMr
+GvfgZDmJFzRn
+GvfgZDmRnJFz
+GvfRnMrJFz
+gZDmRnMrJFz
+RnMrGvfgZDm
+RnMrgZDmRn
+gZDmMrgZDmgZDm
+
+Test Items:
+Rn	fM
+JFz	nGv
+Gvf	rJF
+Rn	mR
+JFz	nGv
+gZDm	zgZD
+JFz	nGv
+Gvf	rJF
+gZDm	zgZD
+Mr	fM
+Rn	mR
+Mr	fM
+gZDm	zgZD
+Mr	mR
+JFz	rJF
+Rn	mR
+JFz	nGv
+gZDm	zgZD
+Rn	mR
+gZDm	zgZD
+Mr	mR
+Rn	fM
+JFz	nGv
+Rn	mR
+Mr	fM
+Rn	mR
+JFz	rJF
+Mr	mR
+gZDm	zgZD
+Rn	fM

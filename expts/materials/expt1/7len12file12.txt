@@ -1,0 +1,37 @@
+Lexicon: bApA	lAvu	dukitu	tipidA	kAgigulu	zizubivA	
+
+Training Sentences:
+bApAdukitutipidAkAgigulutipidAzizubivAdukitubApAlAvukAgiguluzizubivAlAvu
+bApAzizubivAtipidAzizubivAdukitulAvukAgigulutipidAlAvudukitukAgigulubApA
+
+Test Items:
+tipidA	Avuduk
+dukitu	itutip
+zizubivA	uluzizub
+tipidA	Avuduk
+zizubivA	uluzizub
+lAvu	ivAb
+dukitu	itutip
+tipidA	Avuduk
+bApA	ivAb
+dukitu	Avuduk
+zizubivA	idAkAgig
+bApA	ivAb
+lAvu	ApAl
+bApA	ivAb
+tipidA	Avuduk
+dukitu	itutip
+lAvu	ApAl
+dukitu	itutip
+bApA	ivAb
+dukitu	itutip
+lAvu	ApAl
+tipidA	Avuduk
+zizubivA	idAkAgig
+bApA	ApAl
+kAgigulu	idAkAgig
+zizubivA	idAkAgig
+bApA	ivAb
+zizubivA	idAkAgig
+dukitu	Avuduk
+bApA	ivAb

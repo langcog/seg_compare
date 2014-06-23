@@ -1,0 +1,41 @@
+Lexicon: kg	tvJ	VzRp	mL	ZbK	
+
+Training Sentences:
+VzRpmLkgZbK
+mLkgZbKVzRp
+tvJZbKVzRpmL
+kgZbKmLtvJ
+tvJZbKVzRpkg
+kgtvJVzRpmL
+
+Test Items:
+ZbK	LZb
+VzRp	JVzR
+mL	Kk
+kg	pm
+ZbK	gtv
+mL	pm
+ZbK	gtv
+kg	pm
+tvJ	LZb
+mL	pm
+ZbK	gtv
+VzRp	JVzR
+mL	pm
+kg	Kk
+mL	pm
+ZbK	gtv
+VzRp	JVzR
+tvJ	LZb
+VzRp	JVzR
+ZbK	gtv
+VzRp	JVzR
+mL	pm
+kg	Kk
+mL	pm
+tvJ	gtv
+ZbK	LZb
+mL	Kk
+kg	pm
+ZbK	LZb
+kg	pm

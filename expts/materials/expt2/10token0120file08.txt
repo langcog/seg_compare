@@ -1,0 +1,65 @@
+Lexicon: lAbA	tivu	pAzivA	luzupi	kikAtubi	gigududA	
+
+Training Sentences:
+gigududAluzupilAbAkikAtubi
+luzupigigududAlAbApAzivA
+pAzivAtivugigududAlAbA
+lAbAgigududAtivupAzivA
+tivupAzivAgigududAkikAtubi
+kikAtubitivugigududAlAbA
+lAbAgigududAluzupikikAtubi
+luzupikikAtubigigududApAzivA
+tivugigududApAzivAkikAtubi
+kikAtubipAzivAtivulAbA
+gigududAtivuluzupilAbA
+luzupigigududApAzivAkikAtubi
+luzupipAzivAgigududAlAbA
+gigududAlAbApAzivAkikAtubi
+lAbApAzivAluzupigigududA
+luzupitivukikAtubilAbA
+tivuluzupipAzivAlAbA
+lAbAgigududAluzupikikAtubi
+gigududAkikAtubiluzupipAzivA
+tivukikAtubiluzupigigududA
+luzupigigududApAzivAtivu
+tivukikAtubiluzupilAbA
+gigududApAzivAlAbAtivu
+kikAtubipAzivAluzupitivu
+tivukikAtubiluzupilAbA
+tivuluzupikikAtubigigududA
+luzupitivupAzivAlAbA
+kikAtubipAzivAtivulAbA
+kikAtubipAzivAlAbAluzupi
+tivupAzivAkikAtubitivu
+
+Test Items:
+tivu	AbAt
+lAbA	udAl
+gigududA	ubigigud
+lAbA	udAl
+kikAtubi	upikikAt
+pAzivA	ivupAz
+lAbA	udAl
+pAzivA	ivupAz
+tivu	udAl
+kikAtubi	ubigigud
+luzupi	ivAluz
+gigududA	ubigigud
+luzupi	ivupAz
+tivu	AbAt
+gigududA	upikikAt
+luzupi	ivAluz
+tivu	AbAt
+gigududA	upikikAt
+pAzivA	ivupAz
+lAbA	udAl
+gigududA	ubigigud
+tivu	udAl
+gigududA	ubigigud
+tivu	udAl
+luzupi	ivAluz
+kikAtubi	upikikAt
+pAzivA	ivAluz
+luzupi	ivupAz
+tivu	udAl
+pAzivA	ivAluz

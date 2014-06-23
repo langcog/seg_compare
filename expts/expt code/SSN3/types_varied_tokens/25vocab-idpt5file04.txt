@@ -1,0 +1,60 @@
+Lexicon: Fv	RGN	bMfK	TB	tnD	
+
+Training Sentences:
+RGNTBbMfKtnD
+bMfKRGNTBFv
+tnDFvbMfKTB
+FvTBbMfKtnD
+TBtnDbMfKRGN
+bMfKFvtnDTB
+bMfKRGNFvTB
+bMfKtnDFvTB
+TBFvtnDbMfK
+tnDFvbMfKTB
+FvRGNbMfKTB
+RGNtnDFvbMfK
+RGNtnDFvTB
+RGNTBFvbMfK
+tnDRGNFvbMfK
+FvRGNTBtnD
+TBRGNtnDFv
+tnDRGNTBFv
+bMfKTBFvRGN
+bMfKtnDRGNTB
+FvbMfKRGNtnD
+RGNbMfKtnDTB
+RGNTBFvtnD
+RGNbMfKtnDFv
+RGNbMfKtnDRGN
+
+Test Items:
+Fv	KT
+RGN	Btn
+bMfK	NbMf
+RGN	vRG
+bMfK	NbMf
+RGN	Btn
+Fv	DF
+TB	DF
+bMfK	NbMf
+Fv	KT
+TB	KT
+bMfK	NbMf
+TB	DF
+Fv	DF
+tnD	vRG
+RGN	Btn
+bMfK	NbMf
+Fv	DF
+TB	KT
+Fv	DF
+RGN	Btn
+TB	DF
+tnD	vRG
+bMfK	NbMf
+RGN	vRG
+bMfK	NbMf
+Fv	KT
+tnD	Btn
+bMfK	NbMf
+tnD	vRG

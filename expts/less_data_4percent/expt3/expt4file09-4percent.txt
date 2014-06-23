@@ -1,0 +1,41 @@
+Lexicon: Nz	fPr	Vkdb	MK	
+
+Training Sentences:
+MKVkdbNzfPr
+MKVkdbNzfPr
+MKfPrVkdbNz
+fPrNzMKVkdb
+fPrNzVkdbMK
+MKVkdbNzfPr
+
+Test Items:
+fPr	zfP
+Nz	KN
+Vkdb	rVkd
+MK	KN
+Vkdb	rVkd
+Nz	bM
+Vkdb	rVkd
+Nz	bM
+fPr	zfP
+Nz	bM
+fPr	zfP
+Nz	KN
+MK	KN
+fPr	zfP
+Nz	KN
+MK	bM
+Nz	bM
+fPr	zfP
+Vkdb	rVkd
+Nz	bM
+MK	bM
+Nz	KN
+Vkdb	rVkd
+Nz	bM
+MK	KN
+Vkdb	rVkd
+Nz	KN
+Vkdb	rVkd
+MK	bM
+Nz	KN

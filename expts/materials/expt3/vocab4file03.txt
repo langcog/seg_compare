@@ -1,0 +1,185 @@
+Lexicon: Fl	rbP	tpRJ	dV	
+
+Training Sentences:
+FltpRJrbPdV
+dVrbPFltpRJ
+rbPFltpRJdV
+FlrbPtpRJdV
+FldVtpRJrbP
+tpRJdVrbPFl
+rbPtpRJdVFl
+FltpRJdVrbP
+dVtpRJrbPFl
+FltpRJdVrbP
+dVrbPtpRJFl
+rbPtpRJFldV
+FlrbPdVtpRJ
+FldVrbPtpRJ
+FltpRJrbPdV
+dVFlrbPtpRJ
+rbPFltpRJdV
+dVtpRJFlrbP
+FldVtpRJrbP
+rbPFldVtpRJ
+rbPdVFltpRJ
+tpRJrbPFldV
+rbPFldVtpRJ
+tpRJFldVrbP
+rbPtpRJFldV
+dVtpRJrbPFl
+rbPtpRJFldV
+tpRJdVFlrbP
+rbPtpRJdVFl
+rbPdVtpRJFl
+rbPFldVtpRJ
+FlrbPdVtpRJ
+tpRJFldVrbP
+rbPdVtpRJFl
+dVtpRJFlrbP
+dVtpRJFlrbP
+rbPtpRJdVFl
+dVtpRJrbPFl
+dVtpRJrbPFl
+dVrbPtpRJFl
+tpRJrbPdVFl
+FlrbPtpRJdV
+dVtpRJFlrbP
+dVFltpRJrbP
+tpRJFlrbPdV
+rbPFldVtpRJ
+dVrbPFltpRJ
+tpRJFlrbPdV
+tpRJFlrbPdV
+dVtpRJFlrbP
+dVtpRJrbPFl
+FlrbPdVtpRJ
+rbPFltpRJdV
+rbPtpRJFldV
+FlrbPdVtpRJ
+dVFltpRJrbP
+rbPtpRJFldV
+dVFltpRJrbP
+rbPdVtpRJFl
+rbPFltpRJdV
+rbPdVFltpRJ
+rbPFltpRJdV
+FltpRJrbPdV
+rbPFldVtpRJ
+rbPdVFltpRJ
+FldVtpRJrbP
+dVrbPtpRJFl
+rbPFltpRJdV
+tpRJFldVrbP
+dVrbPFltpRJ
+rbPdVtpRJFl
+dVFltpRJrbP
+dVFltpRJrbP
+FltpRJrbPdV
+tpRJdVrbPFl
+FlrbPtpRJdV
+rbPFltpRJdV
+dVFlrbPtpRJ
+FlrbPdVtpRJ
+FldVrbPtpRJ
+rbPtpRJFldV
+FlrbPdVtpRJ
+dVrbPFltpRJ
+FldVtpRJrbP
+dVFltpRJrbP
+tpRJrbPdVFl
+rbPtpRJFldV
+tpRJdVrbPFl
+rbPFltpRJdV
+tpRJrbPFldV
+rbPtpRJFldV
+rbPdVFltpRJ
+FlrbPtpRJdV
+tpRJFlrbPdV
+FldVtpRJrbP
+dVtpRJFlrbP
+FlrbPtpRJdV
+dVtpRJrbPFl
+FltpRJrbPdV
+tpRJFldVrbP
+FltpRJdVrbP
+tpRJrbPFldV
+dVFlrbPtpRJ
+dVFltpRJrbP
+rbPtpRJdVFl
+tpRJrbPFldV
+tpRJFlrbPdV
+rbPtpRJdVFl
+rbPFldVtpRJ
+rbPFltpRJdV
+tpRJFlrbPdV
+FldVrbPtpRJ
+tpRJFlrbPdV
+rbPdVtpRJFl
+FltpRJrbPdV
+tpRJrbPFldV
+FlrbPdVtpRJ
+tpRJFlrbPdV
+tpRJFldVrbP
+FltpRJrbPdV
+tpRJFlrbPdV
+dVtpRJFlrbP
+dVFlrbPtpRJ
+tpRJrbPFldV
+rbPFldVtpRJ
+FltpRJrbPdV
+rbPtpRJFldV
+dVrbPFltpRJ
+rbPdVFltpRJ
+tpRJFldVrbP
+dVrbPFltpRJ
+rbPdVtpRJFl
+rbPtpRJdVFl
+FlrbPdVtpRJ
+FlrbPdVtpRJ
+dVtpRJFlrbP
+dVFlrbPtpRJ
+FlrbPtpRJdV
+dVtpRJFlrbP
+tpRJrbPdVFl
+FltpRJrbPdV
+FltpRJdVrbP
+dVtpRJrbPFl
+tpRJdVFlrbP
+dVrbPFltpRJ
+rbPtpRJdVFl
+dVtpRJFlrbP
+tpRJrbPFldV
+rbPtpRJFldV
+rbPdVFltpRJ
+
+Test Items:
+rbP	lrb
+dV	Jd
+Fl	Jd
+rbP	lrb
+Fl	VF
+rbP	lrb
+Fl	Jd
+rbP	lrb
+Fl	VF
+tpRJ	PtpR
+Fl	Jd
+rbP	lrb
+Fl	VF
+rbP	lrb
+tpRJ	PtpR
+Fl	VF
+tpRJ	PtpR
+Fl	VF
+tpRJ	PtpR
+rbP	lrb
+tpRJ	PtpR
+Fl	VF
+rbP	lrb
+dV	VF
+Fl	Jd
+rbP	lrb
+tpRJ	PtpR
+rbP	lrb
+Fl	VF
+rbP	lrb

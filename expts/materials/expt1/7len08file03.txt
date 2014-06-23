@@ -1,0 +1,38 @@
+Lexicon: dApi	vuvA	bigidu	bAzigu	lulAtitu	kAzukipA	
+
+Training Sentences:
+bAzigubigidubAzigubigidululAtitudApikAzukipAvuvA
+lulAtitubigidubAziguvuvAbigiduvuvAkAzukipAlulAtitu
+kAzukipAvuvAdApivuvAkAzukipAdApilulAtitubAzigu
+
+Test Items:
+bAzigu	uvAbig
+kAzukipA	itukAzuk
+bigidu	uvAbig
+bAzigu	idubAz
+dApi	Apiv
+vuvA	ipAd
+dApi	Apiv
+bAzigu	idubAz
+vuvA	ipAd
+kAzukipA	igululAt
+dApi	Apiv
+kAzukipA	itukAzuk
+lulAtitu	itukAzuk
+bAzigu	uvAbig
+kAzukipA	itukAzuk
+lulAtitu	itukAzuk
+vuvA	Apiv
+bAzigu	idubAz
+kAzukipA	itukAzuk
+dApi	Apiv
+vuvA	Apiv
+dApi	ipAd
+bAzigu	uvAbig
+vuvA	Apiv
+lulAtitu	itukAzuk
+vuvA	ipAd
+bigidu	idubAz
+vuvA	ipAd
+dApi	Apiv
+lulAtitu	itukAzuk

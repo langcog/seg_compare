@@ -1,0 +1,145 @@
+Lexicon: vAzu	tuti	dugukA	lAvuki	pipAzibA	dAbigilu	
+
+Training Sentences:
+dAbigilu
+vAzu
+lAvuki
+pipAzibA
+dAbigilu
+vAzu
+pipAzibA
+dAbigilu
+lAvuki
+dAbigilu
+tuti
+vAzu
+tuti
+vAzu
+pipAzibA
+dugukA
+lAvuki
+pipAzibA
+dugukA
+vAzu
+tuti
+lAvuki
+tuti
+tuti
+pipAzibA
+dugukA
+dugukA
+lAvuki
+dAbigilu
+vAzu
+dugukA
+tuti
+dugukA
+pipAzibA
+lAvuki
+dugukA
+tuti
+vAzu
+lAvuki
+dAbigilu
+
+Test Items:
+lAvuki	utidug
+dAbigilu	ukipipAz
+dugukA	utidug
+tuti	Azut
+lAvuki	ukAlAv
+tuti	iluv
+dAbigilu	ibAdAbig
+pipAzibA	ukipipAz
+dAbigilu	ukipipAz
+lAvuki	ukAlAv
+vAzu	iluv
+tuti	Azut
+dugukA	ukAlAv
+vAzu	iluv
+dAbigilu	ukipipAz
+lAvuki	utidug
+dAbigilu	ibAdAbig
+vAzu	Azut
+dAbigilu	ukipipAz
+tuti	iluv
+dAbigilu	ukipipAz
+vAzu	iluv
+lAvuki	ukAlAv
+vAzu	Azut
+pipAzibA	ukipipAz
+dugukA	utidug
+lAvuki	ukAlAv
+tuti	Azut
+dugukA	ukAlAv
+tuti	Azut
+vAzu	Azut
+lAvuki	utidug
+vAzu	Azut
+pipAzibA	ukipipAz
+tuti	Azut
+dAbigilu	ukipipAz
+pipAzibA	ukipipAz
+dugukA	ukAlAv
+lAvuki	utidug
+tuti	Azut
+pipAzibA	ukipipAz
+dAbigilu	ukipipAz
+pipAzibA	ukipipAz
+tuti	iluv
+lAvuki	ukAlAv
+dugukA	utidug
+lAvuki	ukAlAv
+tuti	Azut
+pipAzibA	ukipipAz
+lAvuki	ukAlAv
+pipAzibA	ibAdAbig
+tuti	iluv
+lAvuki	utidug
+tuti	Azut
+pipAzibA	ukipipAz
+lAvuki	utidug
+dAbigilu	ukipipAz
+tuti	iluv
+pipAzibA	ibAdAbig
+tuti	iluv
+lAvuki	utidug
+dugukA	ukAlAv
+dAbigilu	ibAdAbig
+vAzu	iluv
+lAvuki	ukAlAv
+dugukA	utidug
+vAzu	Azut
+dAbigilu	ibAdAbig
+tuti	iluv
+pipAzibA	ibAdAbig
+tuti	Azut
+dAbigilu	ukipipAz
+tuti	Azut
+vAzu	iluv
+dugukA	ukAlAv
+lAvuki	utidug
+pipAzibA	ukipipAz
+dugukA	utidug
+pipAzibA	ibAdAbig
+dAbigilu	ibAdAbig
+pipAzibA	ukipipAz
+dAbigilu	ibAdAbig
+vAzu	Azut
+dAbigilu	ibAdAbig
+vAzu	iluv
+dAbigilu	ukipipAz
+lAvuki	utidug
+dAbigilu	ibAdAbig
+dugukA	ukAlAv
+vAzu	Azut
+pipAzibA	ibAdAbig
+tuti	Azut
+dugukA	utidug
+pipAzibA	ibAdAbig
+lAvuki	utidug
+pipAzibA	ukipipAz
+tuti	iluv
+dAbigilu	ukipipAz
+lAvuki	utidug
+dAbigilu	ibAdAbig

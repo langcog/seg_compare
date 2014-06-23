@@ -1,0 +1,50 @@
+Lexicon: zigu	bikA	lApAlu	givudu	kizudAbA	pitituvA	
+
+Training Sentences:
+givudupitituvAkizudAbAzigu
+givudukizudAbAlApAlupitituvA
+givudulApAluzigubikA
+givudubikAlApAluzigu
+pitituvAgivudubikAkizudAbA
+pitituvAbikAkizudAbAlApAlu
+pitituvAkizudAbAlApAlubikA
+kizudAbAzigubikApitituvA
+pitituvAlApAlugivuduzigu
+bikAzigugivudulApAlu
+zigubikAkizudAbApitituvA
+bikAkizudAbAgivudulApAlu
+givuduzigukizudAbAlApAlu
+givudulApAlukizudAbAzigu
+pitituvAbikAzigupitituvA
+
+Test Items:
+bikA	uvAz
+lApAlu	ikAlAp
+zigu	uvAz
+lApAlu	ikAlAp
+bikA	igub
+zigu	uvAz
+kizudAbA	AbApitit
+bikA	igub
+kizudAbA	udukizud
+lApAlu	Alugiv
+kizudAbA	udukizud
+bikA	uvAz
+lApAlu	Alugiv
+kizudAbA	udukizud
+bikA	uvAz
+lApAlu	ikAlAp
+pitituvA	udukizud
+zigu	uvAz
+givudu	Alugiv
+lApAlu	Alugiv
+kizudAbA	udukizud
+lApAlu	ikAlAp
+bikA	uvAz
+kizudAbA	AbApitit
+lApAlu	Alugiv
+pitituvA	AbApitit
+kizudAbA	udukizud
+givudu	Alugiv
+zigu	uvAz
+pitituvA	AbApitit

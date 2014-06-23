@@ -1,0 +1,45 @@
+Lexicon: BR	PpJ	TdlV	gN	
+
+Training Sentences:
+PpJBRgNTdlV
+PpJgNTdlVBR
+BRPpJgNTdlV
+BRPpJgNTdlV
+TdlVgNPpJBR
+BRTdlVPpJgN
+PpJBRgNTdlV
+TdlVBRPpJgN
+BRTdlVPpJgN
+gNBRPpJTdlV
+
+Test Items:
+BR	Vg
+PpJ	RPp
+gN	Vg
+TdlV	JTdl
+gN	NB
+PpJ	RPp
+gN	Vg
+BR	Vg
+gN	Vg
+TdlV	JTdl
+PpJ	RPp
+BR	NB
+gN	Vg
+TdlV	JTdl
+BR	Vg
+gN	NB
+PpJ	RPp
+BR	Vg
+gN	Vg
+TdlV	JTdl
+PpJ	RPp
+gN	Vg
+BR	NB
+PpJ	RPp
+TdlV	JTdl
+BR	Vg
+TdlV	JTdl
+gN	NB
+BR	NB
+TdlV	JTdl

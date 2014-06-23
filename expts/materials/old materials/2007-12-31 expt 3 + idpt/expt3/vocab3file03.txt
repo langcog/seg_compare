@@ -1,0 +1,185 @@
+Lexicon: Dz	NZp	tgvm	
+
+Training Sentences:
+tgvmNZptgvmDz
+NZpDzNZptgvm
+DztgvmNZpDz
+DztgvmNZpDz
+DzNZptgvmDz
+NZptgvmNZptgvm
+DztgvmNZptgvm
+NZptgvmNZptgvm
+tgvmDzNZptgvm
+NZptgvmNZpDz
+NZptgvmNZpDz
+DzNZptgvmNZp
+NZpDztgvmDz
+tgvmDzNZptgvm
+tgvmDzNZpDz
+NZpDzNZpDz
+tgvmDztgvmNZp
+tgvmDzNZptgvm
+tgvmDzNZpDz
+DzNZptgvmDz
+DztgvmNZpDz
+tgvmDzNZpDz
+tgvmDztgvmNZp
+tgvmNZptgvmNZp
+DztgvmNZpDz
+NZptgvmDztgvm
+NZptgvmDzNZp
+DzNZpDztgvm
+NZpDzNZpDz
+tgvmDzNZpDz
+DzNZptgvmDz
+DzNZptgvmDz
+DztgvmNZptgvm
+tgvmDzNZpDz
+DztgvmDzNZp
+DztgvmDztgvm
+DzNZpDztgvm
+NZptgvmNZpDz
+tgvmNZpDztgvm
+NZpDztgvmNZp
+tgvmDztgvmNZp
+tgvmDzNZpDz
+tgvmDztgvmDz
+NZpDzNZptgvm
+NZpDztgvmNZp
+DzNZptgvmDz
+NZptgvmNZptgvm
+NZpDztgvmDz
+NZpDzNZpDz
+NZpDzNZpDz
+tgvmDztgvmNZp
+tgvmNZpDzNZp
+NZptgvmNZpDz
+DzNZptgvmNZp
+tgvmNZptgvmNZp
+NZptgvmDztgvm
+DzNZptgvmDz
+tgvmNZpDzNZp
+tgvmNZpDzNZp
+tgvmNZpDzNZp
+NZpDzNZptgvm
+DzNZpDztgvm
+DzNZptgvmNZp
+DzNZpDzNZp
+DztgvmDztgvm
+DzNZpDztgvm
+NZpDztgvmNZp
+NZpDzNZpDz
+tgvmNZpDztgvm
+DztgvmDztgvm
+DztgvmNZptgvm
+tgvmNZptgvmDz
+DzNZpDztgvm
+DztgvmNZptgvm
+NZpDzNZpDz
+DzNZpDztgvm
+DzNZptgvmNZp
+tgvmNZptgvmDz
+DzNZptgvmNZp
+NZpDztgvmDz
+DztgvmNZptgvm
+tgvmNZptgvmNZp
+NZptgvmDztgvm
+tgvmNZptgvmNZp
+NZpDzNZpDz
+tgvmNZptgvmNZp
+tgvmNZpDztgvm
+tgvmDztgvmDz
+NZpDzNZptgvm
+NZpDzNZpDz
+DzNZpDzNZp
+tgvmNZptgvmDz
+tgvmDzNZpDz
+NZpDztgvmDz
+tgvmNZptgvmDz
+tgvmDztgvmNZp
+NZptgvmDzNZp
+tgvmDztgvmNZp
+DztgvmNZptgvm
+NZpDzNZptgvm
+NZpDztgvmNZp
+DztgvmDzNZp
+DztgvmDzNZp
+tgvmNZpDztgvm
+NZpDzNZpDz
+tgvmDzNZptgvm
+tgvmDztgvmNZp
+DzNZpDztgvm
+NZpDztgvmDz
+DzNZpDzNZp
+NZptgvmNZptgvm
+NZptgvmNZpDz
+tgvmNZptgvmNZp
+NZptgvmNZptgvm
+tgvmDzNZptgvm
+NZpDztgvmDz
+DzNZpDzNZp
+tgvmDzNZptgvm
+tgvmNZptgvmDz
+DztgvmNZptgvm
+DztgvmNZpDz
+tgvmNZptgvmNZp
+tgvmDztgvmDz
+DzNZptgvmDz
+tgvmNZpDzNZp
+DztgvmDztgvm
+DztgvmDzNZp
+NZptgvmNZptgvm
+NZpDzNZpDz
+tgvmNZptgvmNZp
+DztgvmDztgvm
+DztgvmDztgvm
+tgvmNZpDzNZp
+NZptgvmNZptgvm
+NZpDzNZptgvm
+DzNZpDztgvm
+tgvmNZptgvmDz
+NZptgvmDztgvm
+tgvmDzNZptgvm
+NZpDztgvmDz
+tgvmNZpDztgvm
+DzNZptgvmDz
+tgvmNZpDzNZp
+NZptgvmDzNZp
+DztgvmDzNZp
+NZptgvmNZptgvm
+DztgvmNZpDz
+DztgvmDzNZp
+tgvmDztgvmDz
+DzNZptgvmtgvm
+
+Test Items:
+tgvm	ptgv
+NZp	zNZ
+tgvm	ptgv
+NZp	zNZ
+tgvm	ptgv
+Dz	mD
+NZp	zNZ
+tgvm	ptgv
+Dz	mD
+tgvm	ptgv
+Dz	mD
+NZp	zNZ
+Dz	mD
+NZp	zNZ
+tgvm	ptgv
+NZp	zNZ
+tgvm	ptgv
+NZp	zNZ
+Dz	mD
+NZp	zNZ
+tgvm	ptgv
+NZp	zNZ
+Dz	mD
+NZp	zNZ
+tgvm	ptgv
+Dz	mD
+tgvm	ptgv
+Dz	mD
+tgvm	ptgv
+Dz	mD

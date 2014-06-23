@@ -1,0 +1,50 @@
+Lexicon: pibA	vAzu	pAdulA	guvugi	zibikikA	tidAtulu	
+
+Training Sentences:
+guvugizibikikApibAvAzu
+vAzuzibikikAtidAtulupAdulA
+vAzupAdulAzibikikAguvugi
+zibikikAvAzupibApAdulA
+pAdulAguvugipibAzibikikA
+guvugitidAtulupAdulAvAzu
+pibAtidAtuluguvugipAdulA
+guvugivAzupibAtidAtulu
+guvugipibAtidAtuluzibikikA
+vAzupibApAdulAguvugi
+tidAtulupibAvAzuzibikikA
+tidAtuluguvugizibikikApAdulA
+tidAtuluvAzuzibikikApAdulA
+vAzupibAzibikikAtidAtulu
+guvugitidAtulupibApAdulA
+
+Test Items:
+tidAtulu	ikAtidAt
+pibA	ibAv
+pAdulA	ulAguv
+tidAtulu	ugizibik
+zibikikA	ikAtidAt
+tidAtulu	ikAtidAt
+pAdulA	ulAguv
+guvugi	AzupAd
+pibA	ibAv
+zibikikA	ugizibik
+tidAtulu	ikAtidAt
+guvugi	ulAguv
+tidAtulu	ikAtidAt
+pibA	ibAv
+pAdulA	ulAguv
+guvugi	AzupAd
+pAdulA	AzupAd
+pibA	ibAv
+zibikikA	ugizibik
+pibA	ibAv
+pAdulA	AzupAd
+guvugi	ulAguv
+pibA	ulup
+guvugi	AzupAd
+tidAtulu	ugizibik
+guvugi	ulAguv
+tidAtulu	ugizibik
+vAzu	ulup
+tidAtulu	ugizibik
+pibA	ibAv

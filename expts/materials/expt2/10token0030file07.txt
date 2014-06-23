@@ -1,0 +1,42 @@
+Lexicon: pilA	gikA	tudAvu	lukivA	tidubApA	zugubizi	
+
+Training Sentences:
+tidubApAzugubizitudAvulukivA
+gikAlukivApilAtidubApA
+tidubApApilAgikAtudAvu
+gikAzugubizitudAvutidubApA
+zugubizipilAtidubApAgikA
+zugubizitudAvulukivApilA
+gikAlukivAzugubizitudAvu
+
+Test Items:
+pilA	ilAg
+tidubApA	ApAzugub
+tudAvu	Avuluk
+zugubizi	ivAtidub
+lukivA	Avuluk
+gikA	ilAg
+zugubizi	ApAzugub
+gikA	ilAg
+zugubizi	ApAzugub
+lukivA	ikAtud
+zugubizi	ApAzugub
+lukivA	Avuluk
+gikA	izip
+tudAvu	ikAtud
+gikA	ilAg
+tudAvu	Avuluk
+pilA	ilAg
+lukivA	ikAtud
+zugubizi	ApAzugub
+lukivA	ikAtud
+pilA	ilAg
+gikA	izip
+tidubApA	ApAzugub
+zugubizi	ivAtidub
+gikA	ilAg
+lukivA	Avuluk
+gikA	ilAg
+zugubizi	ApAzugub
+lukivA	Avuluk
+zugubizi	ApAzugub

@@ -1,0 +1,36 @@
+Lexicon: zt	TV	pKb	Lkl	PgvZ	dDBG	
+
+Training Sentences:
+LklTVpKbzt
+
+Test Items:
+pKb	bLk
+zt	Gz
+pKb	VpK
+TV	tT
+zt	Gz
+PgvZ	ZdDB
+pKb	bLk
+Lkl	bLk
+zt	Gz
+pKb	bLk
+PgvZ	ZdDB
+dDBG	lPgv
+PgvZ	ZdDB
+pKb	VpK
+Lkl	bLk
+pKb	VpK
+zt	tT
+dDBG	lPgv
+pKb	VpK
+zt	tT
+TV	Gz
+Lkl	bLk
+pKb	VpK
+dDBG	lPgv
+PgvZ	ZdDB
+dDBG	lPgv
+Lkl	bLk
+dDBG	lPgv
+pKb	bLk
+dDBG	ZdDB

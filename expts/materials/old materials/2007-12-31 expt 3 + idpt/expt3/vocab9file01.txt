@@ -1,0 +1,185 @@
+Lexicon: Ml	VrR	fTKt	Bn	dvL	ZbGP	mz	NDJ	Fpkg	
+
+Training Sentences:
+VrRfTKtBnFpkg
+mzfTKtBnVrR
+ZbGPFpkgVrRdvL
+FpkgNDJZbGPfTKt
+BndvLMlfTKt
+fTKtdvLVrRBn
+MlfTKtZbGPmz
+FpkgZbGPBnfTKt
+NDJFpkgVrRZbGP
+MlVrRmzfTKt
+dvLVrRZbGPNDJ
+dvLFpkgZbGPVrR
+dvLFpkgNDJVrR
+BnMlmzFpkg
+mzFpkgdvLBn
+ZbGPFpkgmzNDJ
+FpkgVrRMlNDJ
+VrRNDJMlmz
+fTKtNDJVrRBn
+VrRfTKtdvLmz
+BnFpkgMldvL
+ZbGPfTKtVrRdvL
+fTKtmzBnMl
+mzBnNDJMl
+mzMlNDJfTKt
+MlmzBnfTKt
+mzZbGPFpkgfTKt
+fTKtMlNDJZbGP
+NDJZbGPMlBn
+ZbGPFpkgNDJMl
+mzfTKtNDJBn
+dvLMlmzfTKt
+fTKtVrRmzZbGP
+NDJZbGPfTKtBn
+BnZbGPdvLfTKt
+NDJFpkgZbGPmz
+VrRFpkgfTKtmz
+fTKtNDJVrRBn
+BnNDJFpkgmz
+NDJBnMlfTKt
+FpkgBnNDJVrR
+FpkgdvLVrRmz
+fTKtmzZbGPdvL
+BnFpkgMlNDJ
+NDJdvLVrRmz
+VrRmzFpkgdvL
+FpkgZbGPBnNDJ
+dvLZbGPVrRBn
+ZbGPBnmzNDJ
+MlFpkgmzNDJ
+VrRdvLBnZbGP
+BnmzfTKtVrR
+MlVrRZbGPdvL
+NDJFpkgBnMl
+MlZbGPdvLFpkg
+mzNDJZbGPMl
+FpkgMlZbGPdvL
+dvLMlmzVrR
+FpkgNDJdvLBn
+FpkgNDJMlmz
+ZbGPdvLVrRfTKt
+MlNDJmzFpkg
+MlBnZbGPfTKt
+FpkgNDJVrRdvL
+ZbGPVrRMlNDJ
+mzBnVrRZbGP
+mzVrRMldvL
+fTKtMlmzBn
+VrRdvLMlNDJ
+BndvLNDJfTKt
+NDJdvLBnZbGP
+mzNDJFpkgZbGP
+FpkgMlfTKtVrR
+BnZbGPfTKtdvL
+dvLVrRfTKtBn
+dvLmzZbGPMl
+BndvLFpkgmz
+fTKtmzBnFpkg
+MlNDJmzVrR
+fTKtdvLMlZbGP
+FpkgNDJfTKtMl
+dvLNDJfTKtZbGP
+NDJdvLFpkgVrR
+BnmzVrRZbGP
+ZbGPMlBnFpkg
+ZbGPVrRFpkgBn
+dvLZbGPmzfTKt
+FpkgZbGPNDJBn
+MlfTKtmzFpkg
+ZbGPFpkgVrRBn
+dvLmzZbGPVrR
+VrRfTKtFpkgmz
+ZbGPfTKtFpkgNDJ
+mzVrRNDJfTKt
+dvLNDJZbGPVrR
+VrRfTKtZbGPBn
+MlZbGPdvLFpkg
+NDJFpkgVrRfTKt
+NDJFpkgZbGPdvL
+FpkgdvLMlfTKt
+BnmzFpkgZbGP
+VrRMlBnNDJ
+fTKtdvLNDJmz
+ZbGPfTKtVrRBn
+fTKtmzVrRZbGP
+NDJMlfTKtmz
+VrRZbGPdvLmz
+MlmzfTKtFpkg
+FpkgMlBnfTKt
+ZbGPmzBnNDJ
+mzMlBnZbGP
+fTKtFpkgMlVrR
+FpkgmzBnMl
+dvLFpkgVrRfTKt
+mzNDJMlBn
+fTKtdvLVrRFpkg
+dvLfTKtFpkgZbGP
+VrRMlfTKtFpkg
+MlFpkgZbGPBn
+MlFpkgNDJVrR
+MlFpkgVrRBn
+dvLNDJFpkgmz
+MldvLZbGPfTKt
+FpkgdvLNDJZbGP
+dvLMlVrRmz
+dvLfTKtZbGPMl
+ZbGPNDJFpkgfTKt
+BnmzfTKtVrR
+MlVrRFpkgdvL
+BnmzMlfTKt
+mzVrRZbGPfTKt
+VrRBnZbGPdvL
+NDJmzdvLZbGP
+NDJMlVrRBn
+BnmzMlZbGP
+BnNDJVrRdvL
+BnVrRMlNDJ
+MldvLfTKtBn
+ZbGPMldvLVrR
+dvLmzVrRFpkg
+MlNDJdvLmz
+NDJdvLFpkgmz
+MlNDJBnZbGP
+FpkgNDJMlfTKt
+MlNDJVrRdvL
+BnVrRmzNDJ
+BndvLZbGPfTKt
+fTKtBndvLNDJ
+FpkgBnNDJdvL
+mzMlBndvL
+
+Test Items:
+ZbGP	RfTK
+NDJ	lVr
+Ml	tB
+fTKt	LZbG
+Bn	Pm
+fTKt	LZbG
+mz	tB
+Bn	gM
+NDJ	lVr
+Ml	tB
+VrR	lVr
+mz	Pm
+VrR	lVr
+mz	tB
+Bn	Pm
+VrR	lVr
+ZbGP	RfTK
+NDJ	ndv
+Ml	tB
+mz	gM
+NDJ	lVr
+Ml	gM
+mz	Pm
+Ml	gM
+NDJ	lVr
+Fpkg	LZbG
+Ml	Pm
+Bn	gM
+NDJ	zND
+Fpkg	RfTK

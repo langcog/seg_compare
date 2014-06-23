@@ -1,0 +1,42 @@
+Lexicon: lAbi	luzu	vugiki	duvAtu	pApizidA	tibAgukA	
+
+Training Sentences:
+lAbipApizidAduvAtuvugiki
+lAbiduvAtutibAgukAluzu
+lAbiduvAtuvugikiluzu
+lAbitibAgukApApizidAduvAtu
+tibAgukAvugikipApizidAduvAtu
+pApizidAluzuvugikitibAgukA
+lAbipApizidAvugikitibAgukA
+
+Test Items:
+pApizidA	AtupApiz
+lAbi	ukAl
+tibAgukA	AtupApiz
+pApizidA	idAtibAg
+duvAtu	ikiduv
+luzu	Abil
+duvAtu	ikiduv
+vugiki	uzuvug
+pApizidA	AtupApiz
+duvAtu	ikiduv
+tibAgukA	idAtibAg
+duvAtu	uzuvug
+lAbi	ukAl
+luzu	Abil
+lAbi	ukAl
+tibAgukA	idAtibAg
+vugiki	ikiduv
+duvAtu	uzuvug
+pApizidA	AtupApiz
+luzu	ukAl
+pApizidA	idAtibAg
+lAbi	ukAl
+pApizidA	idAtibAg
+vugiki	ikiduv
+pApizidA	idAtibAg
+vugiki	ikiduv
+duvAtu	uzuvug
+tibAgukA	idAtibAg
+pApizidA	AtupApiz
+vugiki	ikiduv

@@ -1,0 +1,41 @@
+Lexicon: rP	TNt	ZBpl	RL	
+
+Training Sentences:
+TNtZBplRLrP
+rPTNtZBplRL
+TNtZBplRLrP
+TNtZBplRLrP
+rPRLTNtZBpl
+ZBplRLrPTNt
+
+Test Items:
+ZBpl	tZBp
+TNt	PTN
+RL	Lr
+TNt	PTN
+rP	lR
+ZBpl	tZBp
+TNt	PTN
+RL	Lr
+ZBpl	tZBp
+TNt	PTN
+rP	lR
+ZBpl	tZBp
+rP	lR
+RL	Lr
+ZBpl	tZBp
+rP	lR
+ZBpl	tZBp
+rP	lR
+TNt	PTN
+rP	lR
+RL	Lr
+TNt	PTN
+rP	lR
+ZBpl	tZBp
+rP	lR
+RL	Lr
+ZBpl	tZBp
+TNt	PTN
+ZBpl	tZBp
+RL	Lr

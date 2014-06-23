@@ -1,0 +1,45 @@
+Lexicon: pAlu	vAdA	vudulA	tuzibi	zukAtiki	gubAgipi	
+
+Training Sentences:
+vudulAtuzibivAdAgubAgipi
+pAluvudulAzukAtikituzibi
+pAlutuzibigubAgipivudulA
+vAdAtuzibivudulAzukAtiki
+gubAgipizukAtikivAdApAlu
+gubAgipivAdAvudulApAlu
+tuzibizukAtikigubAgipivAdA
+gubAgipivudulAtuzibipAlu
+zukAtikivAdApAlutuzibi
+pAluvudulAzukAtikigubAgipi
+
+Test Items:
+gubAgipi	ibizukAt
+pAlu	ipip
+zukAtiki	ikigubAg
+vAdA	ipip
+vudulA	ulAtuz
+zukAtiki	ibizukAt
+gubAgipi	ikigubAg
+vAdA	ipip
+tuzibi	ulAtuz
+pAlu	Aluv
+zukAtiki	ikigubAg
+tuzibi	ulAtuz
+pAlu	ipip
+zukAtiki	ikigubAg
+tuzibi	AdAvud
+gubAgipi	ikigubAg
+tuzibi	AdAvud
+vAdA	ipip
+pAlu	Aluv
+zukAtiki	ikigubAg
+tuzibi	AdAvud
+vudulA	ulAtuz
+vAdA	Aluv
+gubAgipi	ibizukAt
+tuzibi	AdAvud
+zukAtiki	ikigubAg
+pAlu	Aluv
+gubAgipi	ikigubAg
+pAlu	ipip
+zukAtiki	ikigubAg

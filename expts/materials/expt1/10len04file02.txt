@@ -1,0 +1,45 @@
+Lexicon: kidA	ziti	zudubA	pAtuvA	vubigupi	lAkAlugi	
+
+Training Sentences:
+kidAlAkAlugizitipAtuvA
+lAkAlugikidAzitizudubA
+lAkAlugivubigupizitizudubA
+zitilAkAlugipAtuvAzudubA
+pAtuvAvubigupikidAziti
+vubigupipAtuvAlAkAlugikidA
+vubigupilAkAlugikidApAtuvA
+zudubApAtuvAvubigupiziti
+vubigupizitizudubAkidA
+pAtuvAkidAzudubAvubigupi
+
+Test Items:
+lAkAlugi	uvAvubig
+ziti	ugik
+vubigupi	uvAvubig
+lAkAlugi	uvAvubig
+vubigupi	upilAkAl
+zudubA	ubApAt
+lAkAlugi	upilAkAl
+vubigupi	uvAvubig
+pAtuvA	itizud
+lAkAlugi	uvAvubig
+ziti	ugik
+vubigupi	upilAkAl
+zudubA	ubApAt
+ziti	ugik
+pAtuvA	itizud
+zudubA	ubApAt
+pAtuvA	itizud
+ziti	idAz
+kidA	ugik
+vubigupi	uvAvubig
+lAkAlugi	upilAkAl
+ziti	idAz
+pAtuvA	ubApAt
+vubigupi	uvAvubig
+pAtuvA	itizud
+lAkAlugi	upilAkAl
+ziti	idAz
+zudubA	ubApAt
+vubigupi	upilAkAl
+ziti	ugik

@@ -1,0 +1,185 @@
+Lexicon: VK	Lpk	Zbgf	RJ	tDn	
+
+Training Sentences:
+RJZbgfLpkVK
+VKZbgfLpkRJ
+tDnRJZbgfVK
+LpkZbgfRJVK
+tDnLpkZbgfRJ
+LpkZbgftDnRJ
+ZbgfVKRJLpk
+RJVKtDnLpk
+LpkZbgftDnRJ
+VKZbgftDnLpk
+RJtDnVKLpk
+VKLpkZbgfRJ
+RJtDnVKZbgf
+tDnVKZbgfLpk
+ZbgftDnVKRJ
+VKtDnRJZbgf
+RJZbgfLpkVK
+tDnZbgfRJLpk
+RJLpktDnZbgf
+RJZbgfLpktDn
+tDnZbgfRJLpk
+tDnRJVKZbgf
+tDnZbgfRJLpk
+tDnZbgfLpkVK
+RJVKtDnLpk
+ZbgftDnLpkVK
+tDnZbgfVKLpk
+LpkZbgfRJVK
+tDnRJLpkZbgf
+LpkZbgftDnVK
+LpktDnRJZbgf
+tDnZbgfLpkRJ
+ZbgftDnLpkVK
+tDnRJVKLpk
+tDnZbgfRJVK
+ZbgfVKtDnRJ
+LpkRJVKtDn
+VKZbgfLpkRJ
+ZbgfVKLpkRJ
+LpktDnVKRJ
+VKRJZbgftDn
+RJLpkZbgftDn
+ZbgfRJLpkVK
+VKtDnLpkRJ
+tDnLpkVKRJ
+tDnZbgfLpkRJ
+RJtDnLpkVK
+LpkRJtDnZbgf
+tDnLpkVKRJ
+RJZbgfVKLpk
+LpkZbgftDnVK
+RJtDnZbgfLpk
+tDnVKRJZbgf
+LpkVKtDnRJ
+LpkZbgfRJVK
+tDnLpkVKRJ
+ZbgfVKtDnRJ
+RJVKLpktDn
+tDnLpkRJVK
+RJtDnLpkZbgf
+tDnVKLpkRJ
+tDnRJVKLpk
+RJVKtDnLpk
+RJZbgftDnLpk
+tDnLpkVKZbgf
+VKRJLpkZbgf
+VKLpktDnZbgf
+VKLpkRJtDn
+VKtDnLpkRJ
+RJLpktDnVK
+LpkZbgfVKtDn
+ZbgftDnRJLpk
+RJLpkZbgftDn
+RJVKLpktDn
+tDnRJLpkVK
+tDnVKLpkZbgf
+VKRJLpktDn
+VKLpkZbgftDn
+RJLpkVKZbgf
+LpktDnVKRJ
+VKZbgfRJLpk
+tDnVKZbgfLpk
+tDnLpkRJVK
+tDnZbgfRJLpk
+ZbgfRJVKLpk
+tDnZbgfLpkRJ
+tDnZbgfRJLpk
+ZbgfRJVKtDn
+LpkRJVKZbgf
+tDnZbgfLpkRJ
+RJtDnZbgfVK
+RJZbgftDnVK
+VKZbgfRJLpk
+ZbgfRJtDnLpk
+VKtDnZbgfRJ
+RJVKZbgfLpk
+LpktDnRJVK
+ZbgfVKLpkRJ
+ZbgfRJLpktDn
+ZbgfVKLpktDn
+VKtDnLpkZbgf
+tDnRJLpkVK
+tDnVKRJLpk
+ZbgfVKRJtDn
+LpktDnRJVK
+RJVKZbgfLpk
+RJZbgfLpktDn
+tDnRJZbgfVK
+LpktDnRJZbgf
+ZbgfVKtDnRJ
+tDnVKZbgfRJ
+ZbgfLpkVKRJ
+ZbgfRJVKtDn
+VKtDnZbgfLpk
+RJLpkZbgftDn
+ZbgfRJVKtDn
+VKZbgftDnLpk
+RJZbgfLpkVK
+ZbgfLpkVKRJ
+VKtDnZbgfLpk
+RJVKLpkZbgf
+ZbgftDnLpkVK
+ZbgfVKLpktDn
+ZbgftDnRJLpk
+ZbgftDnLpkVK
+ZbgfVKtDnRJ
+VKZbgftDnLpk
+VKtDnZbgfRJ
+tDnLpkZbgfVK
+RJVKZbgfLpk
+RJtDnVKZbgf
+VKRJtDnZbgf
+RJLpktDnVK
+RJZbgfLpkVK
+ZbgfVKLpkRJ
+VKLpkRJtDn
+tDnVKZbgfRJ
+ZbgfLpktDnVK
+LpktDnRJZbgf
+LpktDnVKZbgf
+tDnVKZbgfRJ
+LpkZbgfRJVK
+tDnRJZbgfVK
+tDnLpkZbgfVK
+ZbgftDnRJLpk
+RJVKLpkZbgf
+tDnZbgfRJVK
+VKZbgftDnLpk
+ZbgftDnVKZbgf
+tDnZbgfVKVK
+
+Test Items:
+VK	fR
+Zbgf	kZbg
+RJ	fR
+tDn	JtD
+Lpk	KLp
+VK	fR
+Zbgf	kZbg
+VK	fR
+tDn	JtD
+RJ	nV
+Zbgf	kZbg
+VK	fR
+Zbgf	kZbg
+Lpk	JtD
+RJ	nV
+Lpk	KLp
+RJ	fR
+VK	nV
+Lpk	KLp
+VK	fR
+tDn	JtD
+VK	nV
+tDn	JtD
+Zbgf	kZbg
+tDn	KLp
+Zbgf	kZbg
+Lpk	JtD
+RJ	nV
+Zbgf	kZbg
+Lpk	KLp

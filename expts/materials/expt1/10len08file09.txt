@@ -1,0 +1,40 @@
+Lexicon: dugi	gubA	kititu	pAdAlA	bivulukA	zuzipivA	
+
+Training Sentences:
+zuzipivApAdAlAgubAzuzipivAdugikititugubAdugi
+bivulukAgubAdugipAdAlAkititupAdAlAzuzipivAgubA
+zuzipivAdugibivulukAdugikititugubAzuzipivAgubA
+pAdAlAdugigubAbivulukApAdAlAkitituzuzipivAbivulukA
+bivulukAkitituzuzipivAdugikititubivulukApAdAlApAdAlA
+
+Test Items:
+gubA	ugig
+bivulukA	ukAzuzip
+dugi	ugig
+kititu	ubAkit
+dugi	ivAd
+gubA	ugig
+kititu	itupAd
+zuzipivA	ukAzuzip
+bivulukA	AlAbivul
+gubA	ugig
+kititu	itupAd
+bivulukA	AlAbivul
+zuzipivA	ukAzuzip
+pAdAlA	itupAd
+gubA	ugig
+kititu	ubAkit
+gubA	ivAd
+dugi	ugig
+gubA	ivAd
+kititu	itupAd
+bivulukA	AlAbivul
+pAdAlA	itupAd
+bivulukA	ukAzuzip
+dugi	ivAd
+kititu	ubAkit
+gubA	ugig
+dugi	ivAd
+pAdAlA	ubAkit
+kititu	itupAd
+bivulukA	ukAzuzip

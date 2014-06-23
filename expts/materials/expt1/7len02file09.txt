@@ -1,0 +1,49 @@
+Lexicon: vulu	bigu	kAbAdu	gituzi	tizulAdA	pApikivA	
+
+Training Sentences:
+vulugituzi
+bigukAbAdu
+vulukAbAdu
+tizulAdAbigu
+tizulAdApApikivA
+tizulAdAbigu
+pApikivAgituzi
+vulukAbAdu
+pApikivAgituzi
+pApikivAkAbAdu
+gituzivulu
+gituzikAbAdu
+tizulAdAbigu
+pApikivAvulu
+
+Test Items:
+bigu	ivAv
+tizulAdA	AdApApik
+vulu	ivAv
+bigu	ivAv
+kAbAdu	igukAb
+pApikivA	AdApApik
+kAbAdu	igukAb
+bigu	ulub
+vulu	ulub
+tizulAdA	AdApApik
+bigu	ivAv
+gituzi	Adugit
+vulu	ulub
+tizulAdA	AdApApik
+pApikivA	uzitizul
+vulu	ulub
+bigu	ivAv
+kAbAdu	igukAb
+vulu	ivAv
+bigu	ulub
+tizulAdA	uzitizul
+gituzi	igukAb
+vulu	ulub
+pApikivA	uzitizul
+kAbAdu	igukAb
+vulu	ivAv
+gituzi	Adugit
+bigu	ulub
+tizulAdA	uzitizul
+kAbAdu	igukAb

@@ -1,0 +1,41 @@
+Lexicon: Ld	pFl	fkbm	Rt	
+
+Training Sentences:
+pFlLdfkbmRt
+RtpFlLdfkbm
+fkbmLdRtpFl
+pFlLdfkbmRt
+RtpFlfkbmLd
+RtpFlfkbmLd
+
+Test Items:
+Ld	mR
+fkbm	lfkb
+Ld	mR
+Rt	mR
+pFl	dpF
+Rt	tL
+Ld	mR
+pFl	dpF
+fkbm	lfkb
+pFl	dpF
+fkbm	lfkb
+Ld	tL
+fkbm	lfkb
+pFl	dpF
+fkbm	lfkb
+pFl	dpF
+Ld	mR
+pFl	dpF
+fkbm	lfkb
+Ld	tL
+fkbm	lfkb
+Ld	tL
+fkbm	lfkb
+pFl	dpF
+fkbm	lfkb
+Ld	tL
+fkbm	lfkb
+pFl	dpF
+Rt	tL
+pFl	dpF

@@ -1,0 +1,115 @@
+Lexicon: tibi	bAtu	pAvAkA	giluzu	kidAdulA	gupizivu	
+
+Training Sentences:
+kidAdulAgiluzugupizivubAtu
+pAvAkAtibigiluzubAtu
+bAtugupizivupAvAkAgiluzu
+gupizivupAvAkAkidAdulAtibi
+kidAdulAtibigiluzubAtu
+giluzupAvAkAgupizivubAtu
+kidAdulApAvAkAbAtugupizivu
+bAtupAvAkAgupizivukidAdulA
+kidAdulAgiluzugupizivutibi
+tibipAvAkAgiluzukidAdulA
+
+Test Items:
+pAvAkA	AkAgil
+tibi	ibib
+pAvAkA	AtupAv
+tibi	ibib
+gupizivu	ulAgupiz
+bAtu	ivut
+gupizivu	ulAgupiz
+pAvAkA	AkAgil
+gupizivu	uzukidAd
+kidAdulA	ulAgupiz
+gupizivu	uzukidAd
+bAtu	ibib
+giluzu	AkAgil
+tibi	ibib
+kidAdulA	ulAgupiz
+pAvAkA	AkAgil
+tibi	ivut
+bAtu	ibib
+gupizivu	uzukidAd
+pAvAkA	AtupAv
+bAtu	ibib
+gupizivu	uzukidAd
+giluzu	AkAgil
+gupizivu	ulAgupiz
+tibi	ibib
+pAvAkA	AkAgil
+giluzu	AtupAv
+tibi	ibib
+bAtu	ivut
+gupizivu	uzukidAd
+pAvAkA	AkAgil
+bAtu	ibib
+tibi	ivut
+gupizivu	uzukidAd
+bAtu	ivut
+gupizivu	uzukidAd
+kidAdulA	ulAgupiz
+pAvAkA	AkAgil
+tibi	ibib
+giluzu	AkAgil
+pAvAkA	AtupAv
+giluzu	AkAgil
+gupizivu	uzukidAd
+pAvAkA	AtupAv
+gupizivu	ulAgupiz
+pAvAkA	AtupAv
+giluzu	AkAgil
+kidAdulA	ulAgupiz
+gupizivu	uzukidAd
+pAvAkA	AtupAv
+gupizivu	ulAgupiz
+pAvAkA	AkAgil
+giluzu	AtupAv
+bAtu	ibib
+gupizivu	uzukidAd
+tibi	ibib
+bAtu	ivut
+kidAdulA	ulAgupiz
+gupizivu	uzukidAd
+pAvAkA	AtupAv
+bAtu	ibib
+kidAdulA	uzukidAd
+pAvAkA	AtupAv
+giluzu	AkAgil
+kidAdulA	uzukidAd
+tibi	ibib
+kidAdulA	ulAgupiz
+tibi	ivut
+gupizivu	ulAgupiz
+bAtu	ivut
+tibi	ibib
+gupizivu	uzukidAd
+giluzu	AtupAv
+pAvAkA	AkAgil
+bAtu	ibib
+gupizivu	ulAgupiz
+giluzu	AtupAv
+kidAdulA	uzukidAd
+giluzu	AtupAv
+bAtu	ivut
+gupizivu	uzukidAd
+kidAdulA	ulAgupiz
+giluzu	AkAgil
+bAtu	ivut
+pAvAkA	AkAgil
+giluzu	AtupAv
+bAtu	ivut
+pAvAkA	AkAgil
+kidAdulA	ulAgupiz
+gupizivu	uzukidAd
+kidAdulA	ulAgupiz
+bAtu	ibib
+tibi	ivut
+gupizivu	ulAgupiz
+tibi	ibib
+bAtu	ivut
+pAvAkA	AkAgil
+giluzu	AtupAv
+gupizivu	uzukidAd
+bAtu	ibib

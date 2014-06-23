@@ -1,0 +1,60 @@
+Lexicon: Rk	vnd	rKzJ	pF	
+
+Training Sentences:
+pFRkrKzJvnd
+RkvndrKzJpF
+RkrKzJvndpF
+rKzJRkpFvnd
+RkrKzJpFvnd
+rKzJpFvndRk
+RkrKzJpFvnd
+RkvndpFrKzJ
+vndpFRkrKzJ
+rKzJRkvndpF
+pFvndrKzJRk
+vndRkrKzJpF
+pFvndrKzJRk
+RkvndpFrKzJ
+rKzJpFRkvnd
+pFrKzJRkvnd
+RkpFrKzJvnd
+vndpFRkrKzJ
+RkpFvndrKzJ
+RkpFrKzJvnd
+RkvndrKzJpF
+rKzJpFvndRk
+vndpFRkrKzJ
+vndRkrKzJpF
+RkvndrKzJpF
+
+Test Items:
+rKzJ	drKz
+vnd	kvn
+rKzJ	drKz
+pF	Jp
+rKzJ	drKz
+Rk	FR
+pF	Jp
+vnd	kvn
+pF	Jp
+Rk	Jp
+pF	Jp
+rKzJ	drKz
+Rk	FR
+rKzJ	drKz
+vnd	kvn
+Rk	Jp
+vnd	kvn
+Rk	Jp
+pF	FR
+vnd	kvn
+pF	Jp
+rKzJ	drKz
+pF	Jp
+Rk	Jp
+rKzJ	drKz
+pF	FR
+vnd	kvn
+pF	Jp
+Rk	FR
+rKzJ	drKz

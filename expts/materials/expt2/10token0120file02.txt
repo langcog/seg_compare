@@ -1,0 +1,65 @@
+Lexicon: zugi	pAki	gudukA	luziti	vAvubAlA	pitubidA	
+
+Training Sentences:
+pAkizugipitubidAluziti
+pAkigudukApitubidAvAvubAlA
+gudukAvAvubAlApitubidApAki
+zugivAvubAlAluzitipitubidA
+vAvubAlAzugigudukApAki
+vAvubAlAluzitipitubidApAki
+luzitigudukAvAvubAlApAki
+pAkiluzitivAvubAlAgudukA
+zugigudukAluzitipitubidA
+gudukAzugipitubidAluziti
+luzitipitubidApAkivAvubAlA
+luzitivAvubAlAgudukAzugi
+pAkigudukAluzitivAvubAlA
+zugivAvubAlAluzitigudukA
+pitubidAgudukAzugivAvubAlA
+pAkizugigudukApitubidA
+pitubidAgudukAluzitizugi
+gudukApitubidAzugipAki
+gudukAluzitipitubidApAki
+pitubidAgudukAzugivAvubAlA
+luzitipAkizugipitubidA
+pitubidApAkizugivAvubAlA
+vAvubAlApAkiluzitizugi
+pitubidAzugipAkigudukA
+pAkivAvubAlAluzitipitubidA
+pAkipitubidAzugiluziti
+vAvubAlAzugigudukAluziti
+zugiluzitipAkigudukA
+vAvubAlAzugigudukApitubidA
+luzitivAvubAlApAkivAvubAlA
+
+Test Items:
+vAvubAlA	AlApitub
+luziti	ukAluz
+pitubidA	itivAvub
+luziti	Akigud
+vAvubAlA	itivAvub
+luziti	Akigud
+zugi	ugip
+vAvubAlA	AlApitub
+gudukA	Akigud
+pAki	idAz
+gudukA	Akigud
+pAki	idAz
+gudukA	ukAluz
+pAki	idAz
+pitubidA	AlApitub
+vAvubAlA	itivAvub
+zugi	ugip
+luziti	ukAluz
+gudukA	Akigud
+vAvubAlA	AlApitub
+zugi	ugip
+luziti	Akigud
+pitubidA	AlApitub
+zugi	ugip
+pitubidA	itivAvub
+vAvubAlA	AlApitub
+pitubidA	AlApitub
+pAki	idAz
+pitubidA	itivAvub
+vAvubAlA	AlApitub

@@ -1,0 +1,45 @@
+Lexicon: RF	rlG	ptnB	Md	
+
+Training Sentences:
+RFMdptnBrlG
+MdRFptnBrlG
+MdrlGRFptnB
+rlGptnBRFMd
+MdrlGptnBRF
+rlGMdptnBRF
+RFptnBrlGMd
+rlGRFMdptnB
+rlGptnBMdRF
+MdRFrlGptnB
+
+Test Items:
+rlG	Frl
+Md	dR
+RF	BM
+ptnB	Gptn
+rlG	Frl
+ptnB	Gptn
+rlG	Frl
+ptnB	Gptn
+rlG	Frl
+RF	dR
+rlG	Frl
+Md	dR
+rlG	Frl
+ptnB	Gptn
+rlG	Frl
+RF	BM
+ptnB	Gptn
+rlG	Frl
+RF	BM
+rlG	Frl
+RF	dR
+rlG	Frl
+Md	BM
+ptnB	Gptn
+rlG	Frl
+Md	dR
+RF	BM
+rlG	Frl
+RF	BM
+ptnB	Gptn

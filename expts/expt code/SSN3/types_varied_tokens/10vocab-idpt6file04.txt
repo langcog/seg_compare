@@ -1,0 +1,45 @@
+Lexicon: rP	vzp	RDKF	lf	MTZ	Bndk	
+
+Training Sentences:
+lfRDKFvzprP
+BndkRDKFlfMTZ
+rPBndkRDKFvzp
+MTZvzprPRDKF
+BndkMTZlfrP
+BndkMTZlfrP
+MTZRDKFlfvzp
+vzpBndkrPRDKF
+lfBndkRDKFMTZ
+MTZrPvzplf
+
+Test Items:
+MTZ	Pvz
+vzp	fMT
+MTZ	fMT
+vzp	Pvz
+Bndk	pRDK
+lf	Fl
+Bndk	ZBnd
+rP	kr
+lf	Fl
+RDKF	pRDK
+MTZ	Pvz
+RDKF	pRDK
+MTZ	Pvz
+Bndk	ZBnd
+vzp	fMT
+rP	Fl
+MTZ	fMT
+RDKF	pRDK
+Bndk	ZBnd
+lf	Fl
+RDKF	ZBnd
+Bndk	pRDK
+RDKF	ZBnd
+vzp	Pvz
+rP	kr
+lf	Fl
+vzp	fMT
+RDKF	ZBnd
+MTZ	Pvz
+lf	Fl

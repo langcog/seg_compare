@@ -1,0 +1,118 @@
+Lexicon: zubA	vugu	dApAzi	tugiki	pibidukA	vAlAtilu	
+
+Training Sentences:
+pibidukAvAlAtiluzubA
+vugupibidukAzubA
+pibidukAzubAtugiki
+vAlAtiluzubAvugu
+vAlAtiludApAzizubA
+pibidukAvuguvAlAtilu
+vAlAtilutugikipibidukA
+tugikidApAzizubA
+dApAzivugutugiki
+tugikidApAzivugu
+tugikipibidukAdApAzi
+zubAdApAzivAlAtilu
+vugutugikivAlAtilu
+
+Test Items:
+tugiki	ugudAp
+dApAzi	ugudAp
+tugiki	Azitug
+pibidukA	ikipibid
+dApAzi	ugudAp
+zubA	ubAv
+tugiki	ugudAp
+vAlAtilu	ukAvAlAt
+dApAzi	Azitug
+tugiki	ugudAp
+vAlAtilu	ikipibid
+vugu	iluz
+zubA	ubAv
+tugiki	Azitug
+pibidukA	ikipibid
+zubA	iluz
+vAlAtilu	ikipibid
+tugiki	Azitug
+pibidukA	ikipibid
+vugu	ubAv
+pibidukA	ikipibid
+vugu	iluz
+dApAzi	Azitug
+pibidukA	ukAvAlAt
+vugu	iluz
+dApAzi	Azitug
+pibidukA	ukAvAlAt
+vugu	iluz
+tugiki	Azitug
+vAlAtilu	ikipibid
+tugiki	ugudAp
+pibidukA	ikipibid
+vugu	ubAv
+vAlAtilu	ikipibid
+zubA	ubAv
+vugu	iluz
+pibidukA	ikipibid
+dApAzi	ugudAp
+zubA	iluz
+dApAzi	ugudAp
+vAlAtilu	ukAvAlAt
+pibidukA	ikipibid
+tugiki	Azitug
+pibidukA	ikipibid
+vAlAtilu	ukAvAlAt
+dApAzi	ugudAp
+tugiki	Azitug
+vugu	iluz
+dApAzi	ugudAp
+vAlAtilu	ukAvAlAt
+pibidukA	ikipibid
+vugu	ubAv
+dApAzi	ugudAp
+vAlAtilu	ikipibid
+pibidukA	ukAvAlAt
+tugiki	ugudAp
+pibidukA	ikipibid
+vAlAtilu	ukAvAlAt
+dApAzi	ugudAp
+vugu	iluz
+dApAzi	ugudAp
+vAlAtilu	ukAvAlAt
+dApAzi	Azitug
+vAlAtilu	ukAvAlAt
+pibidukA	ikipibid
+zubA	iluz
+tugiki	Azitug
+vAlAtilu	ukAvAlAt
+vugu	iluz
+vAlAtilu	ikipibid
+zubA	iluz
+dApAzi	Azitug
+pibidukA	ukAvAlAt
+dApAzi	Azitug
+pibidukA	ukAvAlAt
+tugiki	Azitug
+vAlAtilu	ukAvAlAt
+dApAzi	Azitug
+zubA	ubAv
+tugiki	ugudAp
+pibidukA	ikipibid
+tugiki	ugudAp
+zubA	iluz
+vugu	ubAv
+zubA	iluz
+dApAzi	Azitug
+vugu	ubAv
+dApAzi	Azitug
+vAlAtilu	ukAvAlAt
+pibidukA	ikipibid
+dApAzi	ugudAp
+vAlAtilu	ukAvAlAt
+vugu	ubAv
+zubA	iluz
+pibidukA	ikipibid
+dApAzi	ugudAp
+tugiki	Azitug
+vugu	ubAv
+vAlAtilu	ikipibid
+pibidukA	ikipibid

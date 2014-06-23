@@ -1,0 +1,125 @@
+Lexicon: pibi	tuzi	bAlupA	gigukA	kilAduti	zuvAdAvu	
+
+Training Sentences:
+zuvAdAvukilAduti
+pibikilAduti
+bAlupApibi
+gigukAzuvAdAvu
+tuzizuvAdAvu
+pibikilAduti
+zuvAdAvutuzi
+pibituzi
+gigukApibi
+bAlupAkilAduti
+zuvAdAvutuzi
+tuzibAlupA
+tuzipibi
+tuzigigukA
+pibibAlupA
+kilAdutibAlupA
+kilAdutigigukA
+bAlupAkilAduti
+zuvAdAvubAlupA
+gigukAzuvAdAvu
+
+Test Items:
+pibi	ibit
+kilAduti	ukAkilAd
+zuvAdAvu	utizuvAd
+bAlupA	uzibAl
+kilAduti	utizuvAd
+tuzi	Avup
+bAlupA	upAgig
+tuzi	Avup
+zuvAdAvu	utizuvAd
+pibi	Avup
+gigukA	upAgig
+bAlupA	upAgig
+pibi	ibit
+bAlupA	uzibAl
+pibi	Avup
+gigukA	uzibAl
+zuvAdAvu	ukAkilAd
+bAlupA	upAgig
+zuvAdAvu	utizuvAd
+gigukA	uzibAl
+zuvAdAvu	ukAkilAd
+tuzi	ibit
+pibi	Avup
+kilAduti	utizuvAd
+gigukA	uzibAl
+bAlupA	upAgig
+zuvAdAvu	utizuvAd
+pibi	ibit
+tuzi	Avup
+zuvAdAvu	utizuvAd
+tuzi	ibit
+kilAduti	ukAkilAd
+bAlupA	upAgig
+zuvAdAvu	utizuvAd
+gigukA	upAgig
+zuvAdAvu	utizuvAd
+kilAduti	ukAkilAd
+pibi	ibit
+zuvAdAvu	utizuvAd
+pibi	ibit
+gigukA	upAgig
+bAlupA	uzibAl
+pibi	ibit
+bAlupA	upAgig
+kilAduti	utizuvAd
+tuzi	ibit
+bAlupA	upAgig
+tuzi	ibit
+bAlupA	upAgig
+pibi	Avup
+kilAduti	utizuvAd
+bAlupA	uzibAl
+zuvAdAvu	ukAkilAd
+kilAduti	utizuvAd
+pibi	Avup
+bAlupA	uzibAl
+tuzi	Avup
+bAlupA	upAgig
+tuzi	Avup
+gigukA	upAgig
+tuzi	ibit
+bAlupA	upAgig
+gigukA	uzibAl
+zuvAdAvu	utizuvAd
+tuzi	ibit
+gigukA	uzibAl
+kilAduti	utizuvAd
+zuvAdAvu	ukAkilAd
+gigukA	uzibAl
+tuzi	Avup
+kilAduti	ukAkilAd
+bAlupA	uzibAl
+zuvAdAvu	utizuvAd
+bAlupA	upAgig
+gigukA	uzibAl
+bAlupA	upAgig
+pibi	Avup
+gigukA	upAgig
+pibi	Avup
+kilAduti	utizuvAd
+gigukA	uzibAl
+bAlupA	upAgig
+pibi	Avup
+bAlupA	upAgig
+kilAduti	utizuvAd
+zuvAdAvu	ukAkilAd
+tuzi	Avup
+zuvAdAvu	utizuvAd
+bAlupA	uzibAl
+pibi	ibit
+gigukA	uzibAl
+pibi	Avup
+bAlupA	upAgig
+zuvAdAvu	utizuvAd
+gigukA	uzibAl
+pibi	Avup
+zuvAdAvu	ukAkilAd
+bAlupA	upAgig
+kilAduti	utizuvAd
+zuvAdAvu	ukAkilAd

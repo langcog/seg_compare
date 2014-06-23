@@ -1,0 +1,55 @@
+Lexicon: dAbi	zivu	pAgizu	vAtugu	dukipikA	lulAbAti	
+
+Training Sentences:
+zivululAbAti
+pAgizudAbi
+lulAbAtidukipikA
+dukipikApAgizu
+zivululAbAti
+zivudukipikA
+dAbidukipikA
+dAbipAgizu
+zivudAbi
+zivululAbAti
+vAtugupAgizu
+lulAbAtivAtugu
+dukipikAvAtugu
+lulAbAtidukipikA
+pAgizudAbi
+pAgizuvAtugu
+zivululAbAti
+vAtugudAbi
+vAtugudAbi
+dukipikApAgizu
+
+Test Items:
+vAtugu	ivupAg
+dukipikA	ugudukip
+vAtugu	ivupAg
+dAbi	Abiz
+pAgizu	ivupAg
+dukipikA	ugudukip
+dAbi	Atid
+pAgizu	ivupAg
+dAbi	Abiz
+dukipikA	ugudukip
+vAtugu	ivupAg
+zivu	Abiz
+dAbi	Atid
+pAgizu	izuvAt
+vAtugu	ivupAg
+pAgizu	izuvAt
+zivu	Abiz
+pAgizu	ivupAg
+dukipikA	ikAlulAb
+vAtugu	izuvAt
+lulAbAti	ugudukip
+dukipikA	ugudukip
+dAbi	Abiz
+lulAbAti	ikAlulAb
+dAbi	Atid
+zivu	Atid
+pAgizu	izuvAt
+lulAbAti	ikAlulAb
+dukipikA	ugudukip
+vAtugu	izuvAt

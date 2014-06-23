@@ -1,0 +1,145 @@
+Lexicon: bidu	vAti	gizukA	kivutu	lulAzigu	pAbApidA	
+
+Training Sentences:
+lulAzigu
+pAbApidA
+vAti
+bidu
+vAti
+lulAzigu
+gizukA
+pAbApidA
+kivutu
+lulAzigu
+kivutu
+kivutu
+vAti
+gizukA
+gizukA
+kivutu
+lulAzigu
+bidu
+lulAzigu
+lulAzigu
+kivutu
+gizukA
+pAbApidA
+kivutu
+bidu
+pAbApidA
+bidu
+bidu
+gizukA
+lulAzigu
+vAti
+vAti
+vAti
+pAbApidA
+vAti
+kivutu
+bidu
+pAbApidA
+gizukA
+pAbApidA
+
+Test Items:
+kivutu	Atigiz
+vAti	iduv
+pAbApidA	igupAbAp
+kivutu	Atigiz
+gizukA	ukAkiv
+lulAzigu	utululAz
+kivutu	Atigiz
+pAbApidA	utululAz
+gizukA	Atigiz
+bidu	idAb
+pAbApidA	igupAbAp
+lulAzigu	utululAz
+gizukA	Atigiz
+kivutu	ukAkiv
+gizukA	Atigiz
+pAbApidA	utululAz
+lulAzigu	utululAz
+gizukA	Atigiz
+kivutu	ukAkiv
+bidu	iduv
+kivutu	ukAkiv
+lulAzigu	igupAbAp
+pAbApidA	utululAz
+bidu	iduv
+gizukA	Atigiz
+pAbApidA	utululAz
+kivutu	ukAkiv
+pAbApidA	igupAbAp
+bidu	idAb
+vAti	iduv
+kivutu	ukAkiv
+gizukA	Atigiz
+kivutu	Atigiz
+pAbApidA	igupAbAp
+gizukA	Atigiz
+bidu	iduv
+vAti	iduv
+pAbApidA	igupAbAp
+lulAzigu	utululAz
+bidu	idAb
+lulAzigu	igupAbAp
+pAbApidA	utululAz
+bidu	idAb
+pAbApidA	igupAbAp
+bidu	iduv
+kivutu	ukAkiv
+lulAzigu	igupAbAp
+vAti	idAb
+kivutu	Atigiz
+gizukA	Atigiz
+bidu	iduv
+lulAzigu	igupAbAp
+vAti	iduv
+kivutu	Atigiz
+pAbApidA	utululAz
+lulAzigu	igupAbAp
+pAbApidA	igupAbAp
+gizukA	ukAkiv
+vAti	idAb
+kivutu	ukAkiv
+lulAzigu	igupAbAp
+vAti	iduv
+bidu	idAb
+pAbApidA	utululAz
+bidu	idAb
+gizukA	Atigiz
+kivutu	ukAkiv
+lulAzigu	utululAz
+vAti	iduv
+lulAzigu	igupAbAp
+vAti	iduv
+gizukA	Atigiz
+vAti	idAb
+lulAzigu	utululAz
+kivutu	ukAkiv
+vAti	iduv
+kivutu	ukAkiv
+vAti	idAb
+kivutu	Atigiz
+vAti	iduv
+bidu	idAb
+gizukA	Atigiz
+kivutu	ukAkiv
+vAti	iduv
+pAbApidA	utululAz
+lulAzigu	igupAbAp
+bidu	iduv
+lulAzigu	utululAz
+vAti	idAb
+gizukA	Atigiz
+pAbApidA	igupAbAp
+bidu	iduv
+lulAzigu	igupAbAp
+gizukA	Atigiz
+kivutu	ukAkiv
+vAti	idAb
+lulAzigu	utululAz
+gizukA	ukAkiv
+pAbApidA	utululAz
+bidu	iduv

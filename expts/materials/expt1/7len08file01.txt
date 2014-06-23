@@ -1,0 +1,38 @@
+Lexicon: pivu	bAti	lAzikA	pAtuvA	gizubigu	kidAludu	
+
+Training Sentences:
+pivulAzikAkidAludugizubigubAtipAtuvAlAzikApivu
+bAtipivupAtuvAkidAludulAzikApAtuvAkidAludubAti
+pAtuvAkidAludubAtigizubigupAtuvAgizubigupivukidAludu
+
+Test Items:
+pivu	ivub
+kidAludu	igukidAl
+bAti	udup
+gizubigu	igukidAl
+bAti	udup
+kidAludu	uvAgizub
+gizubigu	igukidAl
+pivu	udup
+lAzikA	ikApAt
+bAti	udup
+kidAludu	igukidAl
+gizubigu	uvAgizub
+bAti	ivub
+gizubigu	uvAgizub
+kidAludu	igukidAl
+pAtuvA	AtilAz
+pivu	ivub
+gizubigu	igukidAl
+pAtuvA	ikApAt
+gizubigu	uvAgizub
+pAtuvA	ikApAt
+lAzikA	AtilAz
+pivu	ivub
+kidAludu	igukidAl
+gizubigu	uvAgizub
+pAtuvA	ikApAt
+gizubigu	igukidAl
+pAtuvA	ikApAt
+kidAludu	uvAgizub
+pivu	ivub

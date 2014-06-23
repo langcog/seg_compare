@@ -1,0 +1,57 @@
+Lexicon: gupA	giki	kAbibA	vApiti	ziduzulA	tuludAvu	
+
+Training Sentences:
+tuludAvukAbibAziduzulAgupA
+vApitituludAvugikikAbibA
+vApitigupAkAbibAziduzulA
+gikiziduzulAgupAkAbibA
+gikiziduzulAgupAkAbibA
+tuludAvuziduzulAgikikAbibA
+gupAkAbibAtuludAvuziduzulA
+gupAgikivApitiziduzulA
+tuludAvuziduzulAvApitikAbibA
+tuludAvugikigupAkAbibA
+tuludAvukAbibAvApitigupA
+gupAtuludAvuvApitiziduzulA
+vApitigupAgikiziduzulA
+ziduzulAkAbibAvApitigiki
+ziduzulAgikivApitituludAvu
+gikigupAziduzulAvApiti
+gupAvApitikAbibAtuludAvu
+gikivApitituludAvuziduzulA
+gikivApitikAbibAziduzulA
+gikituludAvugupAvApiti
+gikituludAvukAbibAgupA
+gupAgikivApitituludAvu
+
+Test Items:
+ziduzulA	ulAtulud
+vApiti	ibAvAp
+gupA	Avug
+ziduzulA	ulAtulud
+kAbibA	ibAvAp
+ziduzulA	ulAtulud
+kAbibA	ikikAb
+vApiti	ikikAb
+tuludAvu	itiziduz
+kAbibA	ibAvAp
+vApiti	ikikAb
+ziduzulA	itiziduz
+tuludAvu	ulAtulud
+vApiti	ibAvAp
+tuludAvu	itiziduz
+vApiti	ikikAb
+ziduzulA	itiziduz
+vApiti	ibAvAp
+gupA	upAg
+tuludAvu	ulAtulud
+ziduzulA	itiziduz
+tuludAvu	ulAtulud
+vApiti	ikikAb
+tuludAvu	ulAtulud
+gupA	upAg
+kAbibA	ikikAb
+ziduzulA	itiziduz
+vApiti	ibAvAp
+kAbibA	ikikAb
+giki	upAg

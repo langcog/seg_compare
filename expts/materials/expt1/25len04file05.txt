@@ -1,0 +1,115 @@
+Lexicon: tugu	zudA	pidukA	tivuzi	luvAlApA	bikigibA	
+
+Training Sentences:
+tivuziluvAlApApidukAbikigibA
+bikigibAtugupidukAzudA
+bikigibAluvAlApApidukAtugu
+tivuzituguluvAlApApidukA
+zudAbikigibAtivuzitugu
+tugupidukAzudAtivuzi
+zudAbikigibAluvAlApAtivuzi
+zudAtivuziluvAlApAbikigibA
+tuguzudAluvAlApAbikigibA
+pidukAzudAluvAlApAtivuzi
+
+Test Items:
+tivuzi	ukAtiv
+zudA	uguz
+tugu	ibAt
+pidukA	ukAtiv
+zudA	uguz
+tugu	ibAt
+bikigibA	uziluvAl
+pidukA	ukAtiv
+luvAlApA	uziluvAl
+tivuzi	udApid
+tugu	ibAt
+pidukA	udApid
+tivuzi	ukAtiv
+zudA	ibAt
+luvAlApA	uziluvAl
+tivuzi	ukAtiv
+bikigibA	ApAbikig
+pidukA	udApid
+tivuzi	ukAtiv
+zudA	uguz
+luvAlApA	ApAbikig
+tivuzi	ukAtiv
+pidukA	udApid
+bikigibA	ApAbikig
+zudA	ibAt
+luvAlApA	uziluvAl
+tivuzi	ukAtiv
+pidukA	udApid
+zudA	ibAt
+luvAlApA	ApAbikig
+pidukA	ukAtiv
+zudA	ibAt
+bikigibA	ApAbikig
+tivuzi	udApid
+zudA	ibAt
+bikigibA	uziluvAl
+luvAlApA	ApAbikig
+tugu	ibAt
+bikigibA	uziluvAl
+pidukA	udApid
+tugu	ibAt
+tivuzi	ukAtiv
+bikigibA	uziluvAl
+tugu	ibAt
+pidukA	udApid
+tivuzi	ukAtiv
+luvAlApA	uziluvAl
+zudA	uguz
+luvAlApA	uziluvAl
+tugu	ibAt
+luvAlApA	ApAbikig
+bikigibA	uziluvAl
+tivuzi	udApid
+zudA	ibAt
+pidukA	ukAtiv
+tivuzi	ukAtiv
+luvAlApA	ApAbikig
+pidukA	ukAtiv
+luvAlApA	uziluvAl
+pidukA	ukAtiv
+tivuzi	udApid
+bikigibA	uziluvAl
+tivuzi	udApid
+tugu	uguz
+bikigibA	ApAbikig
+tugu	ibAt
+zudA	uguz
+pidukA	udApid
+zudA	uguz
+luvAlApA	ApAbikig
+bikigibA	uziluvAl
+luvAlApA	ApAbikig
+zudA	ibAt
+tugu	uguz
+luvAlApA	uziluvAl
+bikigibA	uziluvAl
+tivuzi	udApid
+bikigibA	uziluvAl
+tivuzi	ukAtiv
+luvAlApA	ApAbikig
+tivuzi	ukAtiv
+bikigibA	uziluvAl
+luvAlApA	uziluvAl
+tugu	ibAt
+pidukA	udApid
+bikigibA	uziluvAl
+zudA	ibAt
+luvAlApA	ApAbikig
+zudA	uguz
+pidukA	ukAtiv
+tugu	uguz
+pidukA	udApid
+tugu	ibAt
+tivuzi	ukAtiv
+luvAlApA	uziluvAl
+bikigibA	ApAbikig
+tugu	ibAt
+pidukA	udApid
+luvAlApA	uziluvAl
+tivuzi	ukAtiv

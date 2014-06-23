@@ -1,0 +1,44 @@
+Lexicon: pAdA	kAgu	tivubA	zupiki	tugizidu	bilAvAlu	
+
+Training Sentences:
+tugizidutivubAbilAvAlu
+zupikibilAvAlutivubA
+tivubAtugizidukAgu
+bilAvAluzupikipAdA
+bilAvAlupAdAkAgu
+kAgubilAvAlutivubA
+zupikipAdAtivubA
+zupikikAgupAdA
+tugizidukAgupAdA
+
+Test Items:
+kAgu	Alup
+pAdA	AdAk
+zupiki	ubAzup
+tivubA	Agutiv
+kAgu	AdAk
+tugizidu	idubilAv
+bilAvAlu	ikitugiz
+zupiki	Agutiv
+tugizidu	idubilAv
+zupiki	Agutiv
+tivubA	ubAzup
+bilAvAlu	ikitugiz
+tivubA	ubAzup
+bilAvAlu	idubilAv
+pAdA	Alup
+kAgu	AdAk
+bilAvAlu	ikitugiz
+tivubA	ubAzup
+pAdA	AdAk
+kAgu	Alup
+tugizidu	idubilAv
+zupiki	Agutiv
+tivubA	ubAzup
+bilAvAlu	idubilAv
+kAgu	Alup
+pAdA	AdAk
+kAgu	Alup
+tugizidu	idubilAv
+kAgu	Alup
+tugizidu	idubilAv

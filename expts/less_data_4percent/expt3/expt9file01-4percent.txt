@@ -1,0 +1,41 @@
+Lexicon: tL	Zfm	dPGK	MR	BbT	gNkJ	ln	rVz	FpDv	
+
+Training Sentences:
+dPGKZfmrVzln
+BbTlngNkJMR
+BbTgNkJrVzZfm
+FpDvdPGKMRtL
+tLFpDvgNkJZfm
+rVzBbTlndPGK
+
+Test Items:
+rVz	RBb
+gNkJ	TgNk
+BbT	nrV
+rVz	RBb
+tL	vt
+BbT	RBb
+Zfm	LZf
+ln	vt
+rVz	nrV
+FpDv	mdPG
+ln	vt
+Zfm	RBb
+BbT	nrV
+FpDv	zFpD
+Zfm	LZf
+FpDv	zFpD
+ln	vt
+gNkJ	zFpD
+tL	KM
+ln	vt
+rVz	nrV
+gNkJ	mdPG
+Zfm	nrV
+dPGK	mdPG
+gNkJ	mdPG
+dPGK	TgNk
+rVz	LZf
+tL	KM
+Zfm	nrV
+dPGK	mdPG

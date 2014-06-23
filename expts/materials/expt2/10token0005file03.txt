@@ -1,0 +1,36 @@
+Lexicon: lAtu	zuti	lukApA	bizidu	pikivAdA	vugugibA	
+
+Training Sentences:
+zutilAtubizidulukApA
+
+Test Items:
+vugugibA	idupikiv
+lAtu	ibAl
+zuti	Atuz
+lAtu	Atuz
+vugugibA	AdAvugug
+lukApA	utiluk
+vugugibA	AdAvugug
+lAtu	Atuz
+bizidu	ApAbiz
+lAtu	ibAl
+zuti	Atuz
+bizidu	utiluk
+zuti	ibAl
+bizidu	utiluk
+zuti	Atuz
+bizidu	utiluk
+zuti	ibAl
+pikivAdA	idupikiv
+zuti	Atuz
+lukApA	ApAbiz
+vugugibA	idupikiv
+pikivAdA	AdAvugug
+lukApA	utiluk
+lAtu	ibAl
+bizidu	utiluk
+vugugibA	AdAvugug
+lAtu	Atuz
+lukApA	ApAbiz
+pikivAdA	idupikiv
+lukApA	utiluk

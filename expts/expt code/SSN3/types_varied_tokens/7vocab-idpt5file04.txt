@@ -1,0 +1,42 @@
+Lexicon: Pg	lnT	DBFR	zt	rNZ	
+
+Training Sentences:
+PgztDBFRlnT
+ztPgDBFRlnT
+DBFRrNZlnTzt
+rNZDBFRlnTzt
+rNZPgDBFRlnT
+lnTrNZPgzt
+DBFRztrNZPg
+
+Test Items:
+rNZ	trN
+lnT	gln
+DBFR	TDBF
+Pg	ZP
+DBFR	TDBF
+lnT	trN
+Pg	ZP
+rNZ	gln
+DBFR	TDBF
+zt	ZP
+lnT	gln
+DBFR	TDBF
+lnT	trN
+zt	ZP
+DBFR	TDBF
+lnT	gln
+Pg	ZP
+lnT	trN
+zt	ZP
+DBFR	TDBF
+rNZ	gln
+DBFR	TDBF
+lnT	trN
+Pg	ZP
+lnT	gln
+rNZ	trN
+zt	ZP
+DBFR	TDBF
+lnT	trN
+zt	ZP

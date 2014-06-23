@@ -1,0 +1,185 @@
+Lexicon: Bp	RZn	rtkN	zM	FKV	bfmD	
+
+Training Sentences:
+FKVrtkNBpbfmD
+zMrtkNbfmDFKV
+bfmDzMrtkNFKV
+bfmDFKVzMRZn
+RZnFKVbfmDrtkN
+RZnrtkNBpzM
+rtkNFKVbfmDRZn
+RZnzMrtkNbfmD
+BprtkNzMbfmD
+FKVBpbfmDzM
+BprtkNzMbfmD
+rtkNFKVRZnzM
+BprtkNzMRZn
+FKVbfmDzMRZn
+zMBprtkNFKV
+RZnrtkNzMbfmD
+FKVRZnrtkNbfmD
+RZnFKVBpbfmD
+bfmDRZnrtkNFKV
+BpzMFKVRZn
+BpFKVbfmDzM
+FKVRZnBpzM
+bfmDFKVrtkNBp
+BpRZnbfmDFKV
+FKVzMRZnBp
+RZnrtkNbfmDzM
+zMRZnFKVbfmD
+bfmDzMFKVrtkN
+rtkNbfmDzMBp
+BpzMRZnFKV
+rtkNBpRZnFKV
+bfmDrtkNRZnBp
+RZnrtkNFKVBp
+BpzMFKVrtkN
+bfmDzMFKVBp
+rtkNFKVRZnbfmD
+zMBpFKVRZn
+FKVrtkNRZnbfmD
+FKVbfmDzMRZn
+bfmDFKVzMBp
+BpzMFKVRZn
+FKVrtkNbfmDzM
+bfmDFKVrtkNBp
+bfmDzMRZnFKV
+rtkNBpbfmDzM
+bfmDzMFKVBp
+RZnbfmDFKVrtkN
+FKVbfmDRZnBp
+BprtkNzMFKV
+rtkNBpFKVRZn
+rtkNBpRZnzM
+bfmDzMBprtkN
+bfmDFKVRZnzM
+zMFKVBpRZn
+BpFKVrtkNRZn
+rtkNzMFKVRZn
+RZnzMrtkNFKV
+RZnbfmDzMrtkN
+BpFKVbfmDrtkN
+zMbfmDBprtkN
+RZnzMFKVrtkN
+bfmDBpRZnzM
+FKVbfmDzMBp
+BpbfmDrtkNzM
+BpFKVRZnzM
+RZnFKVBprtkN
+FKVBpzMbfmD
+bfmDBpRZnzM
+rtkNRZnBpFKV
+rtkNRZnFKVbfmD
+rtkNRZnbfmDBp
+FKVbfmDzMBp
+zMFKVbfmDRZn
+FKVRZnzMrtkN
+BpzMRZnFKV
+bfmDBprtkNRZn
+BpbfmDzMFKV
+rtkNzMRZnbfmD
+FKVBpbfmDRZn
+rtkNzMFKVBp
+RZnFKVzMBp
+RZnrtkNFKVbfmD
+bfmDRZnFKVzM
+RZnFKVBpzM
+bfmDzMFKVrtkN
+BpbfmDFKVrtkN
+rtkNzMbfmDBp
+bfmDrtkNzMBp
+FKVzMBpRZn
+bfmDBprtkNFKV
+zMRZnrtkNFKV
+BprtkNRZnzM
+zMBpRZnbfmD
+FKVzMrtkNBp
+bfmDRZnFKVzM
+bfmDFKVRZnzM
+zMRZnrtkNBp
+bfmDrtkNzMBp
+BpRZnbfmDrtkN
+FKVbfmDBpRZn
+rtkNbfmDzMFKV
+RZnbfmDzMrtkN
+bfmDrtkNzMRZn
+FKVrtkNzMRZn
+rtkNbfmDzMBp
+rtkNbfmDBpzM
+zMrtkNBpbfmD
+rtkNRZnbfmDBp
+RZnFKVzMBp
+FKVbfmDRZnzM
+bfmDzMBprtkN
+RZnBpFKVzM
+rtkNbfmDBpFKV
+BpRZnFKVzM
+zMrtkNbfmDFKV
+zMRZnbfmDBp
+BpRZnbfmDFKV
+BpRZnrtkNFKV
+RZnBpzMbfmD
+rtkNFKVRZnzM
+FKVrtkNBpRZn
+rtkNRZnbfmDFKV
+rtkNFKVRZnbfmD
+BpbfmDzMRZn
+zMBprtkNFKV
+bfmDzMrtkNRZn
+RZnBpbfmDzM
+RZnrtkNBpzM
+RZnrtkNBpFKV
+bfmDBpRZnzM
+bfmDBpRZnFKV
+FKVbfmDBprtkN
+rtkNBpbfmDRZn
+rtkNRZnbfmDFKV
+RZnBprtkNFKV
+rtkNFKVRZnBp
+BprtkNzMRZn
+bfmDFKVrtkNRZn
+zMBpRZnrtkN
+rtkNRZnbfmDFKV
+FKVbfmDrtkNzM
+BpzMbfmDRZn
+bfmDBprtkNRZn
+BpFKVrtkNbfmD
+zMrtkNRZnFKV
+BprtkNzMbfmD
+BpbfmDzMrtkN
+rtkNFKVBpzM
+BpRZnbfmDrtkN
+bfmDBprtkNrtkN
+
+Test Items:
+zM	DB
+rtkN	nrtk
+Bp	Nz
+rtkN	Vbfm
+FKV	pRZ
+rtkN	nrtk
+zM	Nz
+FKV	pRZ
+rtkN	Vbfm
+Bp	DB
+RZn	MFK
+rtkN	nrtk
+zM	DB
+FKV	pRZ
+zM	Nz
+Bp	DB
+bfmD	Vbfm
+FKV	pRZ
+rtkN	Vbfm
+FKV	MFK
+rtkN	Vbfm
+bfmD	nrtk
+rtkN	nrtk
+bfmD	Vbfm
+FKV	MFK
+zM	Nz
+RZn	pRZ
+rtkN	Vbfm
+bfmD	nrtk
+Bp	DB

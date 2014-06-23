@@ -1,0 +1,75 @@
+Lexicon: gilu	dAdu	vuzigu	zukiti	pikApAtu	bAlAbivA	
+
+Training Sentences:
+dAdu
+gilu
+bAlAbivA
+bAlAbivA
+pikApAtu
+vuzigu
+pikApAtu
+vuzigu
+gilu
+vuzigu
+dAdu
+dAdu
+gilu
+vuzigu
+pikApAtu
+zukiti
+bAlAbivA
+bAlAbivA
+zukiti
+dAdu
+zukiti
+vuzigu
+pikApAtu
+vuzigu
+zukiti
+gilu
+zukiti
+gilu
+vuzigu
+dAdu
+pikApAtu
+dAdu
+zukiti
+bAlAbivA
+pikApAtu
+gilu
+bAlAbivA
+pikApAtu
+dAdu
+bAlAbivA
+
+Test Items:
+gilu	ilud
+bAlAbivA	itipikAp
+gilu	ilud
+dAdu	ivAg
+gilu	ilud
+vuzigu	Aduvuz
+gilu	ilud
+dAdu	ivAg
+bAlAbivA	AtubAlAb
+gilu	ivAg
+dAdu	ilud
+zukiti	Aduvuz
+pikApAtu	AtubAlAb
+dAdu	ivAg
+gilu	ilud
+zukiti	Aduvuz
+vuzigu	Aduvuz
+bAlAbivA	AtubAlAb
+dAdu	ilud
+gilu	ivAg
+dAdu	ilud
+vuzigu	Aduvuz
+bAlAbivA	itipikAp
+pikApAtu	AtubAlAb
+vuzigu	Aduvuz
+dAdu	ivAg
+gilu	ilud
+dAdu	ilud
+gilu	ivAg
+zukiti	Aduvuz

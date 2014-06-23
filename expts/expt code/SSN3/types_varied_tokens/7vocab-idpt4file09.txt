@@ -1,0 +1,42 @@
+Lexicon: zf	kVL	BZPD	lb	
+
+Training Sentences:
+lbkVLBZPDzf
+zfkVLBZPDlb
+zfBZPDlbkVL
+kVLBZPDzflb
+zfkVLlbBZPD
+BZPDkVLlbzf
+BZPDlbkVLzf
+
+Test Items:
+BZPD	LBZP
+zf	bz
+lb	Dl
+kVL	fkV
+zf	bz
+BZPD	LBZP
+kVL	fkV
+BZPD	LBZP
+kVL	fkV
+zf	bz
+lb	Dl
+BZPD	LBZP
+zf	bz
+kVL	fkV
+lb	Dl
+zf	bz
+kVL	fkV
+BZPD	LBZP
+kVL	fkV
+lb	Dl
+BZPD	LBZP
+kVL	fkV
+zf	Dl
+kVL	fkV
+BZPD	LBZP
+zf	bz
+kVL	fkV
+BZPD	LBZP
+zf	Dl
+BZPD	LBZP

@@ -1,0 +1,44 @@
+Lexicon: vAbi	zupA	dukAbA	gitidA	vukitupi	guzilAlu	
+
+Training Sentences:
+vukitupigitidAdukAbA
+gitidAzupAvukitupi
+vAbizupAdukAbA
+dukAbAguzilAluzupA
+guzilAluvAbidukAbA
+vAbigitidAguzilAlu
+gitidAvukitupivAbi
+vukitupizupAgitidA
+vukitupiguzilAluvAbi
+
+Test Items:
+zupA	Abiz
+vukitupi	upiguzil
+guzilAlu	upiguzil
+dukAbA	upAduk
+gitidA	AbAgit
+zupA	Abiz
+guzilAlu	upiguzil
+dukAbA	upAduk
+guzilAlu	idAvukit
+vukitupi	idAvukit
+dukAbA	AbAgit
+vukitupi	idAvukit
+gitidA	upAduk
+vukitupi	upiguzil
+gitidA	upAduk
+vukitupi	idAvukit
+vAbi	Abiz
+guzilAlu	upiguzil
+vukitupi	upiguzil
+vAbi	Abiz
+guzilAlu	idAvukit
+zupA	Aluv
+vukitupi	upiguzil
+zupA	Abiz
+guzilAlu	idAvukit
+vukitupi	upiguzil
+dukAbA	upAduk
+vukitupi	upiguzil
+vAbi	Aluv
+guzilAlu	upiguzil

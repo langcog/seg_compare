@@ -1,0 +1,42 @@
+Lexicon: dg	Tfl	GnPZ	Kv	VRb	
+
+Training Sentences:
+VRbdgGnPZTfl
+KvTflGnPZdg
+TflGnPZKvVRb
+TflVRbGnPZKv
+KvdgGnPZVRb
+TflVRbKvGnPZ
+dgTflKvVRb
+
+Test Items:
+Tfl	vVR
+VRb	gTf
+Tfl	vVR
+GnPZ	lGnP
+VRb	vVR
+GnPZ	lGnP
+dg	ZK
+GnPZ	lGnP
+Kv	bd
+GnPZ	lGnP
+VRb	gTf
+Tfl	vVR
+dg	ZK
+Kv	bd
+Tfl	gTf
+Kv	bd
+dg	bd
+Tfl	vVR
+GnPZ	lGnP
+dg	bd
+VRb	vVR
+Tfl	gTf
+Kv	ZK
+GnPZ	lGnP
+dg	ZK
+Kv	bd
+VRb	gTf
+Tfl	gTf
+Kv	bd
+VRb	vVR

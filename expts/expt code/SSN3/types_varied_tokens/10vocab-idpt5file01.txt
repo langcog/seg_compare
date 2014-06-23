@@ -1,0 +1,45 @@
+Lexicon: zl	tVL	rFKd	vP	Dmk	
+
+Training Sentences:
+zltVLrFKdvP
+tVLrFKdzlvP
+tVLDmkrFKdvP
+tVLvPzlDmk
+DmktVLvPzl
+DmkzltVLrFKd
+DmkvPrFKdzl
+DmktVLvPzl
+rFKdzlvPDmk
+rFKdDmktVLrFKd
+
+Test Items:
+Dmk	ltV
+zl	kz
+rFKd	LrFK
+tVL	ltV
+Dmk	PDm
+tVL	ltV
+rFKd	LrFK
+tVL	ltV
+vP	kz
+Dmk	PDm
+tVL	ltV
+rFKd	LrFK
+vP	dv
+Dmk	PDm
+tVL	ltV
+zl	kz
+Dmk	PDm
+tVL	ltV
+vP	kz
+Dmk	ltV
+zl	kz
+rFKd	LrFK
+zl	dv
+Dmk	PDm
+zl	kz
+rFKd	LrFK
+tVL	ltV
+rFKd	LrFK
+vP	dv
+rFKd	LrFK

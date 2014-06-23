@@ -1,0 +1,45 @@
+Lexicon: fP	pJb	Mmdv	Kr	
+
+Training Sentences:
+KrfPpJbMmdv
+pJbKrfPMmdv
+fPpJbKrMmdv
+pJbMmdvKrfP
+KrMmdvfPpJb
+fPpJbKrMmdv
+MmdvKrfPpJb
+MmdvKrfPpJb
+MmdvpJbfPKr
+fPpJbMmdvKr
+
+Test Items:
+pJb	PpJ
+Kr	rf
+fP	rf
+Kr	vK
+Mmdv	bMmd
+pJb	PpJ
+Kr	rf
+Mmdv	bMmd
+Kr	vK
+Mmdv	bMmd
+Kr	vK
+Mmdv	bMmd
+pJb	PpJ
+fP	vK
+Mmdv	bMmd
+Kr	rf
+Mmdv	bMmd
+fP	rf
+pJb	PpJ
+fP	vK
+Mmdv	bMmd
+fP	rf
+Kr	vK
+fP	rf
+Kr	vK
+fP	rf
+pJb	PpJ
+Mmdv	bMmd
+Kr	vK
+Mmdv	bMmd

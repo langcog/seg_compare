@@ -1,0 +1,60 @@
+Lexicon: TG	vDf	pNnk	lB	
+
+Training Sentences:
+pNnkTGlBvDf
+TGvDfpNnklB
+TGpNnkvDflB
+vDflBpNnkTG
+pNnkTGlBvDf
+TGlBpNnkvDf
+vDflBTGpNnk
+lBTGvDfpNnk
+lBpNnkvDfTG
+lBTGvDfpNnk
+lBTGpNnkvDf
+pNnkvDfTGlB
+lBpNnkTGvDf
+pNnklBTGvDf
+pNnkvDflBTG
+pNnkTGlBvDf
+lBTGpNnkvDf
+vDfpNnkTGlB
+pNnkTGlBvDf
+vDflBpNnkTG
+lBvDfpNnkTG
+lBTGpNnkvDf
+pNnklBvDfTG
+TGlBpNnkvDf
+lBpNnkTGvDf
+
+Test Items:
+TG	kl
+vDf	GvD
+TG	BT
+pNnk	fpNn
+lB	BT
+TG	kl
+lB	kl
+pNnk	fpNn
+lB	kl
+TG	BT
+lB	kl
+vDf	GvD
+lB	kl
+vDf	GvD
+lB	BT
+vDf	GvD
+pNnk	fpNn
+lB	kl
+TG	kl
+lB	BT
+pNnk	fpNn
+vDf	GvD
+TG	kl
+vDf	GvD
+pNnk	fpNn
+TG	BT
+lB	BT
+TG	BT
+vDf	GvD
+pNnk	fpNn

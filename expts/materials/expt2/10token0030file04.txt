@@ -1,0 +1,42 @@
+Lexicon: zuvu	ziki	gibAlA	tipilu	pAvAtukA	dAgubidu	
+
+Training Sentences:
+pAvAtukAzuvudAgubiduziki
+tipiluzikigibAlAdAgubidu
+zuvugibAlAdAgubidutipilu
+dAgubidugibAlAtipiluziki
+zuvupAvAtukAdAgubidugibAlA
+pAvAtukAzikizuvutipilu
+pAvAtukAgibAlAzikizuvu
+
+Test Items:
+gibAlA	ikigib
+pAvAtukA	ukAdAgub
+dAgubidu	ilupAvAt
+tipilu	AlAtip
+zuvu	iduz
+dAgubidu	ilupAvAt
+gibAlA	ikigib
+pAvAtukA	ilupAvAt
+ziki	uvuz
+dAgubidu	ilupAvAt
+tipilu	ikigib
+zuvu	uvuz
+dAgubidu	ukAdAgub
+gibAlA	AlAtip
+ziki	uvuz
+tipilu	AlAtip
+gibAlA	ikigib
+dAgubidu	ukAdAgub
+tipilu	ikigib
+gibAlA	ikigib
+zuvu	uvuz
+ziki	iduz
+tipilu	AlAtip
+pAvAtukA	ukAdAgub
+tipilu	AlAtip
+dAgubidu	ilupAvAt
+zuvu	iduz
+tipilu	AlAtip
+dAgubidu	ilupAvAt
+gibAlA	AlAtip

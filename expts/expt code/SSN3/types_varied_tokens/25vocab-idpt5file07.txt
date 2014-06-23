@@ -1,0 +1,60 @@
+Lexicon: NM	mzn	JKRk	Gl	DbP	
+
+Training Sentences:
+GlJKRkmznNM
+mznDbPJKRkGl
+DbPJKRkNMmzn
+GlNMmznDbP
+GlNMJKRkmzn
+DbPNMJKRkGl
+DbPmznGlJKRk
+JKRkGlmznNM
+GlJKRkmznDbP
+NMmznJKRkDbP
+DbPGlJKRkNM
+JKRkGlDbPNM
+JKRkGlDbPNM
+GlDbPmznJKRk
+DbPNMmznJKRk
+DbPmznGlNM
+NMJKRkGlDbP
+NMGlDbPJKRk
+GlmznJKRkDbP
+JKRkGlNMmzn
+mznDbPNMGl
+NMmznGlJKRk
+GlDbPmznNM
+JKRkNMmznDbP
+mznDbPNMmzn
+
+Test Items:
+mzn	Mmz
+NM	kG
+Gl	PN
+mzn	lDb
+JKRk	nJKR
+mzn	Mmz
+Gl	kG
+NM	kG
+mzn	Mmz
+NM	PN
+mzn	lDb
+JKRk	nJKR
+NM	kG
+mzn	Mmz
+DbP	Mmz
+JKRk	nJKR
+NM	kG
+mzn	Mmz
+NM	kG
+mzn	Mmz
+JKRk	nJKR
+NM	PN
+Gl	PN
+NM	kG
+DbP	lDb
+JKRk	nJKR
+mzn	lDb
+DbP	Mmz
+mzn	lDb
+DbP	Mmz

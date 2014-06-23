@@ -1,0 +1,37 @@
+Lexicon: tizi	duzu	pAbikA	ludAki	vuvAbApi	gutulAgi	
+
+Training Sentences:
+pAbikAvuvAbApitiziludAki
+gutulAgipAbikAvuvAbApitizi
+
+Test Items:
+pAbikA	ikAlud
+tizi	Agit
+ludAki	uzupAb
+gutulAgi	AkivuvAb
+ludAki	ikAlud
+vuvAbApi	AkivuvAb
+duzu	Agit
+vuvAbApi	AkivuvAb
+ludAki	uzupAb
+duzu	Agit
+vuvAbApi	Apigutul
+tizi	Agit
+duzu	izid
+vuvAbApi	Apigutul
+gutulAgi	AkivuvAb
+duzu	izid
+vuvAbApi	AkivuvAb
+pAbikA	ikAlud
+duzu	izid
+pAbikA	ikAlud
+vuvAbApi	AkivuvAb
+tizi	izid
+duzu	izid
+ludAki	uzupAb
+duzu	Agit
+vuvAbApi	Apigutul
+tizi	Agit
+vuvAbApi	Apigutul
+pAbikA	uzupAb
+tizi	Agit

@@ -1,0 +1,185 @@
+Lexicon: TR	gBd	bDzM	nN	
+
+Training Sentences:
+nNTRbDzMgBd
+bDzMnNTRgBd
+bDzMTRnNgBd
+bDzMnNgBdTR
+nNgBdbDzMTR
+bDzMnNTRgBd
+bDzMnNTRgBd
+nNTRbDzMgBd
+nNgBdbDzMTR
+bDzMgBdnNTR
+nNbDzMTRgBd
+TRgBdbDzMnN
+TRgBdnNbDzM
+gBdnNTRbDzM
+bDzMnNTRgBd
+bDzMTRnNgBd
+nNbDzMgBdTR
+TRnNbDzMgBd
+bDzMgBdnNTR
+TRbDzMgBdnN
+nNTRbDzMgBd
+TRbDzMnNgBd
+gBdbDzMnNTR
+TRnNbDzMgBd
+TRgBdbDzMnN
+gBdbDzMTRnN
+TRbDzMgBdnN
+gBdbDzMnNTR
+bDzMnNgBdTR
+bDzMTRgBdnN
+bDzMgBdnNTR
+gBdbDzMTRnN
+gBdnNbDzMTR
+TRbDzMnNgBd
+nNTRbDzMgBd
+gBdTRnNbDzM
+gBdbDzMnNTR
+nNgBdbDzMTR
+TRnNgBdbDzM
+gBdbDzMnNTR
+TRgBdnNbDzM
+bDzMnNTRgBd
+TRgBdbDzMnN
+TRbDzMgBdnN
+nNTRgBdbDzM
+nNbDzMgBdTR
+gBdbDzMTRnN
+TRnNbDzMgBd
+TRbDzMnNgBd
+TRgBdbDzMnN
+bDzMTRgBdnN
+nNbDzMTRgBd
+bDzMnNgBdTR
+gBdbDzMnNTR
+bDzMnNTRgBd
+nNbDzMTRgBd
+TRgBdbDzMnN
+nNgBdTRbDzM
+nNbDzMgBdTR
+nNTRbDzMgBd
+bDzMTRnNgBd
+TRnNgBdbDzM
+bDzMTRnNgBd
+TRnNbDzMgBd
+TRbDzMgBdnN
+gBdnNTRbDzM
+TRgBdnNbDzM
+bDzMnNTRgBd
+gBdnNTRbDzM
+nNTRbDzMgBd
+nNgBdTRbDzM
+TRnNgBdbDzM
+gBdnNbDzMTR
+nNbDzMTRgBd
+nNbDzMgBdTR
+gBdbDzMTRnN
+nNgBdTRbDzM
+gBdTRnNbDzM
+bDzMTRnNgBd
+bDzMTRgBdnN
+TRgBdnNbDzM
+bDzMTRnNgBd
+TRnNbDzMgBd
+nNTRbDzMgBd
+nNbDzMTRgBd
+nNbDzMTRgBd
+gBdnNbDzMTR
+nNbDzMgBdTR
+nNTRbDzMgBd
+gBdbDzMTRnN
+TRbDzMgBdnN
+bDzMgBdnNTR
+gBdTRnNbDzM
+nNTRgBdbDzM
+TRbDzMgBdnN
+nNgBdbDzMTR
+gBdTRnNbDzM
+bDzMTRgBdnN
+TRnNgBdbDzM
+nNgBdTRbDzM
+TRgBdnNbDzM
+bDzMgBdnNTR
+TRgBdbDzMnN
+gBdbDzMTRnN
+bDzMgBdnNTR
+TRnNgBdbDzM
+TRbDzMnNgBd
+TRgBdbDzMnN
+gBdTRbDzMnN
+bDzMnNTRgBd
+gBdbDzMTRnN
+gBdbDzMnNTR
+TRgBdbDzMnN
+gBdbDzMTRnN
+TRgBdbDzMnN
+bDzMnNTRgBd
+TRgBdbDzMnN
+nNbDzMgBdTR
+nNbDzMgBdTR
+nNbDzMgBdTR
+TRbDzMgBdnN
+bDzMTRnNgBd
+bDzMTRnNgBd
+gBdnNbDzMTR
+nNbDzMgBdTR
+TRnNbDzMgBd
+bDzMnNTRgBd
+bDzMTRnNgBd
+nNbDzMTRgBd
+nNgBdTRbDzM
+TRbDzMgBdnN
+TRnNbDzMgBd
+nNbDzMTRgBd
+bDzMgBdnNTR
+nNTRgBdbDzM
+bDzMgBdnNTR
+TRnNbDzMgBd
+bDzMgBdTRnN
+bDzMTRgBdnN
+bDzMTRgBdnN
+bDzMgBdTRnN
+nNTRbDzMgBd
+gBdTRbDzMnN
+TRgBdbDzMnN
+bDzMgBdnNTR
+gBdbDzMTRnN
+gBdTRnNbDzM
+TRgBdnNbDzM
+nNTRbDzMgBd
+gBdnNTRbDzM
+
+Test Items:
+bDzM	dbDz
+gBd	RgB
+bDzM	dbDz
+gBd	RgB
+bDzM	dbDz
+nN	NT
+bDzM	dbDz
+gBd	RgB
+TR	Mn
+gBd	RgB
+bDzM	dbDz
+TR	Mn
+gBd	RgB
+nN	Mn
+TR	NT
+bDzM	dbDz
+nN	Mn
+bDzM	dbDz
+nN	NT
+TR	Mn
+gBd	RgB
+bDzM	dbDz
+TR	NT
+gBd	RgB
+bDzM	dbDz
+gBd	RgB
+bDzM	dbDz
+nN	Mn
+bDzM	dbDz
+TR	Mn

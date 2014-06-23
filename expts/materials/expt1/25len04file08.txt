@@ -1,0 +1,115 @@
+Lexicon: zidA	lubA	kivAtu	pAvupi	zulAgibi	dukAguti	
+
+Training Sentences:
+zulAgibilubAdukAgutipAvupi
+lubAdukAgutizulAgibikivAtu
+zidAkivAtuzulAgibidukAguti
+pAvupidukAgutikivAtulubA
+zidAlubAzulAgibidukAguti
+zidAlubAzulAgibidukAguti
+pAvupikivAtuzulAgibizidA
+lubApAvupikivAtuzidA
+kivAtuzidAdukAgutipAvupi
+zulAgibikivAtupAvupilubA
+
+Test Items:
+zidA	idAl
+dukAguti	ibidukAg
+pAvupi	AtupAv
+zidA	utiz
+dukAguti	upizulAg
+zulAgibi	ibidukAg
+lubA	utiz
+zulAgibi	ibidukAg
+lubA	utiz
+dukAguti	upizulAg
+pAvupi	ubAkiv
+zidA	utiz
+lubA	idAl
+zulAgibi	upizulAg
+zidA	idAl
+dukAguti	ibidukAg
+lubA	idAl
+zulAgibi	ibidukAg
+kivAtu	ubAkiv
+lubA	idAl
+zidA	utiz
+lubA	idAl
+zidA	utiz
+pAvupi	AtupAv
+zulAgibi	ibidukAg
+lubA	idAl
+pAvupi	ubAkiv
+lubA	utiz
+zulAgibi	ibidukAg
+lubA	idAl
+zidA	utiz
+dukAguti	ibidukAg
+lubA	utiz
+pAvupi	ubAkiv
+zulAgibi	upizulAg
+lubA	utiz
+zidA	idAl
+kivAtu	ubAkiv
+lubA	idAl
+pAvupi	AtupAv
+lubA	utiz
+pAvupi	ubAkiv
+zidA	utiz
+lubA	utiz
+dukAguti	ibidukAg
+lubA	idAl
+kivAtu	AtupAv
+lubA	idAl
+zidA	utiz
+zulAgibi	ibidukAg
+zidA	idAl
+pAvupi	ubAkiv
+lubA	utiz
+pAvupi	ubAkiv
+kivAtu	AtupAv
+lubA	utiz
+zulAgibi	upizulAg
+pAvupi	ubAkiv
+zidA	utiz
+lubA	idAl
+pAvupi	AtupAv
+dukAguti	upizulAg
+lubA	utiz
+kivAtu	AtupAv
+lubA	idAl
+pAvupi	AtupAv
+dukAguti	upizulAg
+zidA	utiz
+kivAtu	AtupAv
+zulAgibi	ibidukAg
+lubA	utiz
+kivAtu	ubAkiv
+zidA	utiz
+kivAtu	AtupAv
+zulAgibi	upizulAg
+kivAtu	ubAkiv
+pAvupi	AtupAv
+zulAgibi	upizulAg
+lubA	idAl
+dukAguti	ibidukAg
+lubA	idAl
+kivAtu	ubAkiv
+zulAgibi	ibidukAg
+pAvupi	ubAkiv
+kivAtu	AtupAv
+dukAguti	upizulAg
+pAvupi	ubAkiv
+kivAtu	ubAkiv
+lubA	utiz
+zulAgibi	upizulAg
+dukAguti	ibidukAg
+kivAtu	ubAkiv
+zulAgibi	upizulAg
+kivAtu	ubAkiv
+pAvupi	ubAkiv
+lubA	utiz
+pAvupi	AtupAv
+zidA	utiz
+dukAguti	ibidukAg
+pAvupi	ubAkiv

@@ -1,0 +1,36 @@
+Lexicon: zulA	gubA	vAkApA	gituti	vulupizi	dukidAbi	
+
+Training Sentences:
+zulAgubAvAkApAdukidAbi
+
+Test Items:
+vAkApA	ApAgit
+dukidAbi	izidukid
+vAkApA	ubAvAk
+gubA	ulAg
+vAkApA	ubAvAk
+zulA	ulAg
+vAkApA	ApAgit
+zulA	Abiz
+dukidAbi	utivulup
+gituti	ubAvAk
+zulA	ulAg
+vulupizi	izidukid
+gubA	Abiz
+vAkApA	ubAvAk
+dukidAbi	utivulup
+vAkApA	ApAgit
+gubA	ulAg
+zulA	Abiz
+vulupizi	utivulup
+zulA	Abiz
+vAkApA	ApAgit
+gituti	ApAgit
+vulupizi	utivulup
+dukidAbi	izidukid
+gituti	ubAvAk
+gubA	ulAg
+dukidAbi	izidukid
+gubA	ulAg
+dukidAbi	izidukid
+gubA	Abiz

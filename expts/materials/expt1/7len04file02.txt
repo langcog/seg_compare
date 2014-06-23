@@ -1,0 +1,42 @@
+Lexicon: dAkA	bigi	piguki	tuvuvA	tiluzilA	bApAzudu	
+
+Training Sentences:
+bigibApAzududAkAtuvuvA
+dAkAtiluzilAtuvuvApiguki
+bApAzudutuvuvAdAkAtiluzilA
+bigipigukitiluzilAtuvuvA
+bApAzudupigukibigitiluzilA
+bApAzudutuvuvAbigidAkA
+pigukitiluzilAdAkAbigi
+
+Test Items:
+tiluzilA	ilAbApAz
+bApAzudu	uvAtiluz
+tiluzilA	ilAbApAz
+bApAzudu	uvAtiluz
+piguki	ukituv
+bApAzudu	ilAbApAz
+dAkA	AkAb
+tiluzilA	uvAtiluz
+tuvuvA	ukituv
+bigi	udud
+tuvuvA	igipig
+bigi	AkAb
+piguki	igipig
+dAkA	AkAb
+tuvuvA	ukituv
+bApAzudu	ilAbApAz
+dAkA	udud
+piguki	ukituv
+dAkA	udud
+bigi	AkAb
+tiluzilA	uvAtiluz
+dAkA	AkAb
+bApAzudu	uvAtiluz
+tiluzilA	ilAbApAz
+bApAzudu	ilAbApAz
+dAkA	udud
+tiluzilA	uvAtiluz
+dAkA	AkAb
+tuvuvA	igipig
+dAkA	AkAb

@@ -1,0 +1,115 @@
+Lexicon: tukA	kibi	dAtilA	zipAlu	pibAvudu	vAguzugi	
+
+Training Sentences:
+zipAlupibAvudutukAkibi
+pibAvudutukAkibidAtilA
+dAtilAkibivAguzugizipAlu
+vAguzugikibipibAvudutukA
+pibAvududAtilAkibitukA
+zipAludAtilAvAguzugitukA
+zipAluvAguzugipibAvudutukA
+zipAludAtilAvAguzugikibi
+dAtilAkibizipAluvAguzugi
+dAtilAvAguzugitukAzipAlu
+
+Test Items:
+pibAvudu	uduvAguz
+vAguzugi	uduvAguz
+kibi	ugit
+dAtilA	ilAzip
+pibAvudu	uduvAguz
+kibi	ugit
+pibAvudu	uduvAguz
+dAtilA	ilAzip
+zipAlu	ibidAt
+dAtilA	ilAzip
+tukA	ukAk
+kibi	ugit
+tukA	ukAk
+kibi	ugit
+pibAvudu	uduvAguz
+vAguzugi	uduvAguz
+dAtilA	ilAzip
+kibi	ukAk
+vAguzugi	uduvAguz
+tukA	ugit
+kibi	ukAk
+vAguzugi	uduvAguz
+kibi	ukAk
+pibAvudu	uduvAguz
+tukA	ugit
+zipAlu	ibidAt
+vAguzugi	uduvAguz
+kibi	ukAk
+zipAlu	ilAzip
+kibi	ukAk
+vAguzugi	AlupibAv
+zipAlu	ilAzip
+vAguzugi	uduvAguz
+pibAvudu	AlupibAv
+zipAlu	ilAzip
+kibi	ugit
+dAtilA	ilAzip
+kibi	ukAk
+pibAvudu	uduvAguz
+dAtilA	ilAzip
+pibAvudu	uduvAguz
+dAtilA	ilAzip
+kibi	ugit
+pibAvudu	AlupibAv
+zipAlu	ibidAt
+vAguzugi	AlupibAv
+dAtilA	ilAzip
+tukA	ugit
+kibi	ugit
+tukA	ukAk
+kibi	ugit
+pibAvudu	AlupibAv
+zipAlu	ilAzip
+kibi	ugit
+zipAlu	ilAzip
+kibi	ukAk
+vAguzugi	uduvAguz
+tukA	ugit
+vAguzugi	uduvAguz
+tukA	ugit
+pibAvudu	AlupibAv
+kibi	ukAk
+tukA	ukAk
+vAguzugi	uduvAguz
+dAtilA	ibidAt
+zipAlu	ilAzip
+kibi	ukAk
+pibAvudu	AlupibAv
+dAtilA	ibidAt
+tukA	ugit
+vAguzugi	AlupibAv
+pibAvudu	AlupibAv
+dAtilA	ilAzip
+zipAlu	ilAzip
+dAtilA	ibidAt
+kibi	ugit
+dAtilA	ibidAt
+tukA	ukAk
+kibi	ugit
+zipAlu	ibidAt
+vAguzugi	uduvAguz
+zipAlu	ibidAt
+kibi	ukAk
+dAtilA	ilAzip
+kibi	ugit
+pibAvudu	AlupibAv
+kibi	ukAk
+vAguzugi	AlupibAv
+pibAvudu	uduvAguz
+tukA	ugit
+pibAvudu	AlupibAv
+dAtilA	ibidAt
+zipAlu	ilAzip
+pibAvudu	AlupibAv
+zipAlu	ilAzip
+kibi	ukAk
+vAguzugi	uduvAguz
+pibAvudu	AlupibAv
+kibi	ukAk
+tukA	ugit

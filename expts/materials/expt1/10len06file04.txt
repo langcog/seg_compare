@@ -1,0 +1,41 @@
+Lexicon: bAzi	lutu	piduvA	tikipA	gidAvulA	bikAguzu	
+
+Training Sentences:
+piduvAbikAguzulututikipAgidAvulAbAzi
+lututikipAbAzibikAguzupiduvAgidAvulA
+tikipAlutugidAvulAbikAguzupiduvAbAzi
+bikAguzutikipAlutupiduvAbAzigidAvulA
+bAzitikipApiduvAbikAguzulutugidAvulA
+bikAguzulututikipAgidAvulApiduvAbAzi
+
+Test Items:
+bAzi	Azil
+tikipA	utupid
+gidAvulA	ulAbikAg
+tikipA	utupid
+gidAvulA	ipAgidAv
+bikAguzu	ulAbikAg
+piduvA	utupid
+bAzi	Azil
+gidAvulA	ulAbikAg
+bAzi	Azil
+bikAguzu	ipAgidAv
+lutu	Azil
+tikipA	utupid
+piduvA	uvAtik
+lutu	uzub
+gidAvulA	ipAgidAv
+tikipA	utupid
+lutu	uzub
+gidAvulA	ipAgidAv
+bikAguzu	ulAbikAg
+lutu	uzub
+gidAvulA	ulAbikAg
+bikAguzu	ipAgidAv
+piduvA	utupid
+bAzi	uzub
+bikAguzu	ipAgidAv
+lutu	Azil
+bAzi	uzub
+piduvA	uvAtik
+lutu	Azil

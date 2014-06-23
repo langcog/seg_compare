@@ -1,0 +1,44 @@
+Lexicon: piki	pAbi	vutulA	tizigi	kAvAluzu	bAgudAdu	
+
+Training Sentences:
+bAgudAdutizigivutulA
+pAbibAgudAduvutulA
+pAbivutulAtizigi
+pAbikAvAluzubAgudAdu
+pikitizigikAvAluzu
+pAbipikikAvAluzu
+pAbibAgudAdupiki
+pikivutulAkAvAluzu
+vutulAtizigikAvAluzu
+
+Test Items:
+kAvAluzu	uzubAgud
+vutulA	Abivut
+tizigi	ulAtiz
+kAvAluzu	uzubAgud
+tizigi	ulAtiz
+bAgudAdu	igikAvAl
+vutulA	ulAtiz
+bAgudAdu	uzubAgud
+kAvAluzu	igikAvAl
+tizigi	ulAtiz
+pAbi	ikip
+piki	Adup
+bAgudAdu	uzubAgud
+kAvAluzu	igikAvAl
+tizigi	ulAtiz
+kAvAluzu	igikAvAl
+piki	ikip
+pAbi	Adup
+bAgudAdu	igikAvAl
+tizigi	Abivut
+vutulA	ulAtiz
+kAvAluzu	uzubAgud
+tizigi	ulAtiz
+vutulA	ulAtiz
+kAvAluzu	igikAvAl
+bAgudAdu	uzubAgud
+vutulA	Abivut
+piki	ikip
+pAbi	Adup
+vutulA	ulAtiz

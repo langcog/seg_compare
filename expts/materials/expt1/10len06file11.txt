@@ -1,0 +1,41 @@
+Lexicon: bizu	kAlA	gudAki	pAgipi	vAtuvudu	tilubAzi	
+
+Training Sentences:
+kAlAtilubAzigudAkipAgipivAtuvudubizu
+vAtuvudubizugudAkikAlAtilubAzipAgipi
+pAgipikAlAvAtuvudubizutilubAzigudAki
+gudAkipAgipibizuvAtuvudutilubAzikAlA
+tilubAzibizuvAtuvudugudAkipAgipikAlA
+bizuvAtuvudupAgipitilubAzigudAkikAlA
+
+Test Items:
+bizu	izuk
+pAgipi	AkipAg
+bizu	Azib
+tilubAzi	udutilub
+kAlA	Azib
+pAgipi	AlAgud
+bizu	izuk
+kAlA	Azib
+pAgipi	AlAgud
+vAtuvudu	udutilub
+bizu	izuk
+pAgipi	AkipAg
+kAlA	Azib
+bizu	izuk
+gudAki	AkipAg
+kAlA	Azib
+bizu	izuk
+pAgipi	AlAgud
+gudAki	AkipAg
+tilubAzi	ipivAtuv
+vAtuvudu	udutilub
+bizu	Azib
+tilubAzi	ipivAtuv
+gudAki	AkipAg
+pAgipi	AlAgud
+tilubAzi	ipivAtuv
+gudAki	AkipAg
+vAtuvudu	ipivAtuv
+tilubAzi	udutilub
+gudAki	AlAgud

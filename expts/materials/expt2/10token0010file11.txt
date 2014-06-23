@@ -1,0 +1,37 @@
+Lexicon: bAbi	vAlu	zigidA	gukivu	tuzudulA	kApipAti	
+
+Training Sentences:
+vAlukApipAtigukivuzigidA
+kApipAtibAbivAlutuzudulA
+
+Test Items:
+gukivu	idAguk
+bAbi	Atib
+tuzudulA	ulAkApip
+vAlu	Abiv
+tuzudulA	ulAkApip
+gukivu	Aluzig
+vAlu	Atib
+bAbi	Abiv
+tuzudulA	ivutuzud
+gukivu	Aluzig
+kApipAti	ulAkApip
+bAbi	Abiv
+vAlu	Atib
+zigidA	Aluzig
+kApipAti	ulAkApip
+vAlu	Atib
+kApipAti	ivutuzud
+gukivu	idAguk
+tuzudulA	ulAkApip
+vAlu	Abiv
+kApipAti	ulAkApip
+vAlu	Abiv
+zigidA	idAguk
+gukivu	Aluzig
+kApipAti	ivutuzud
+gukivu	idAguk
+tuzudulA	ivutuzud
+kApipAti	ulAkApip
+vAlu	Abiv
+tuzudulA	ivutuzud

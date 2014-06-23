@@ -1,0 +1,185 @@
+Lexicon: Tl	kKL	zrfn	dG	NmP	
+
+Training Sentences:
+TlkKLdGzrfn
+TlNmPkKLzrfn
+zrfndGTlkKL
+NmPdGkKLTl
+kKLdGzrfnNmP
+kKLzrfnNmPdG
+zrfnTlkKLNmP
+zrfnkKLNmPdG
+kKLzrfnTlNmP
+zrfnkKLTldG
+TlzrfnkKLdG
+TlkKLdGNmP
+dGTlkKLNmP
+zrfnkKLdGTl
+dGNmPzrfnTl
+kKLzrfnTlNmP
+kKLzrfnTlNmP
+kKLdGNmPTl
+dGkKLTlzrfn
+zrfnkKLTlNmP
+kKLTldGzrfn
+NmPzrfndGTl
+zrfnNmPTldG
+dGNmPkKLTl
+NmPzrfnTldG
+TlkKLNmPdG
+dGTlkKLzrfn
+NmPTlkKLdG
+kKLTlzrfnNmP
+kKLTlzrfnNmP
+dGzrfnNmPTl
+NmPzrfnkKLdG
+dGkKLTlzrfn
+dGNmPzrfnTl
+NmPTldGkKL
+NmPTlzrfndG
+kKLTlNmPdG
+zrfnNmPdGTl
+zrfndGTlNmP
+zrfndGTlkKL
+NmPzrfnTldG
+TlNmPdGzrfn
+kKLdGNmPzrfn
+NmPdGkKLzrfn
+TlzrfnkKLdG
+kKLTlNmPzrfn
+dGzrfnTlNmP
+zrfnNmPTldG
+NmPkKLTlzrfn
+kKLdGzrfnNmP
+kKLdGzrfnTl
+zrfnNmPTldG
+NmPTlzrfndG
+kKLNmPdGTl
+NmPdGzrfnkKL
+kKLTlNmPdG
+NmPkKLzrfndG
+zrfnTlNmPkKL
+NmPkKLzrfndG
+kKLdGNmPzrfn
+dGNmPTlkKL
+NmPkKLdGzrfn
+dGNmPzrfnTl
+TlNmPzrfnkKL
+NmPdGzrfnTl
+TldGNmPkKL
+TlkKLdGzrfn
+kKLdGNmPTl
+NmPkKLdGTl
+kKLTldGNmP
+NmPdGTlzrfn
+dGzrfnTlkKL
+NmPdGzrfnkKL
+kKLzrfnTlNmP
+zrfnNmPTlkKL
+dGzrfnkKLNmP
+zrfnkKLNmPTl
+kKLTlzrfndG
+kKLzrfnTldG
+dGkKLNmPTl
+TlkKLdGNmP
+zrfnNmPkKLdG
+zrfnTlNmPkKL
+NmPkKLdGzrfn
+zrfnkKLTlNmP
+TldGNmPzrfn
+TlkKLNmPdG
+zrfnNmPkKLTl
+NmPTldGzrfn
+dGNmPTlzrfn
+kKLdGNmPzrfn
+NmPkKLTlzrfn
+zrfnNmPTlkKL
+NmPkKLzrfnTl
+NmPdGTlzrfn
+kKLdGTlNmP
+dGTlNmPzrfn
+kKLNmPTldG
+NmPzrfnkKLTl
+NmPzrfnkKLTl
+dGzrfnNmPkKL
+NmPdGzrfnkKL
+NmPzrfnkKLTl
+kKLdGNmPTl
+TlkKLdGNmP
+NmPkKLzrfndG
+zrfnkKLdGNmP
+dGzrfnkKLNmP
+dGzrfnTlNmP
+kKLNmPTldG
+zrfnTldGkKL
+kKLzrfndGTl
+dGzrfnkKLTl
+TlzrfnkKLNmP
+TlkKLzrfndG
+dGTlNmPkKL
+zrfnTlkKLNmP
+dGTlkKLNmP
+kKLNmPdGzrfn
+TldGzrfnNmP
+NmPdGkKLzrfn
+zrfnNmPTldG
+zrfnNmPdGTl
+dGNmPzrfnTl
+NmPzrfnTldG
+zrfnTlkKLNmP
+kKLdGTlzrfn
+TlzrfndGNmP
+kKLTlzrfnNmP
+NmPTlzrfnkKL
+NmPTldGzrfn
+NmPdGzrfnkKL
+zrfnkKLdGNmP
+dGzrfnTlkKL
+kKLTldGzrfn
+NmPdGTlzrfn
+dGzrfnTlkKL
+NmPdGkKLzrfn
+kKLzrfnTldG
+dGzrfnNmPkKL
+kKLzrfndGNmP
+kKLzrfndGTl
+zrfnkKLNmPdG
+TlkKLdGzrfn
+NmPTlkKLdG
+kKLdGTlNmP
+kKLdGTlNmP
+kKLTldGzrfn
+zrfnkKLdGTl
+kKLTlkKLkKL
+
+Test Items:
+dG	PT
+Tl	nd
+kKL	GNm
+Tl	PT
+zrfn	Lzrf
+kKL	lkK
+Tl	nd
+dG	PT
+NmP	GNm
+kKL	lkK
+Tl	nd
+NmP	lkK
+dG	PT
+NmP	lkK
+kKL	GNm
+Tl	PT
+kKL	GNm
+dG	nd
+Tl	PT
+NmP	GNm
+Tl	nd
+dG	PT
+Tl	nd
+kKL	lkK
+zrfn	Lzrf
+Tl	PT
+zrfn	Lzrf
+NmP	GNm
+Tl	PT
+zrfn	Lzrf

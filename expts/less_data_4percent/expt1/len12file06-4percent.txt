@@ -1,0 +1,67 @@
+Lexicon: PZ	db	gDv	Tkl	BVLK	tGzp	
+
+Training Sentences:
+tGzpTklPZdbPZdbgDvtGzpTklBVLKgDvBVLK
+PZtGzpBVLKdbBVLKgDvPZTkldbgDvTkltGzp
+
+Test Items:
+gDv	bgD
+tGzp	KtGz
+PZ	pP
+Tkl	vTk
+db	Zd
+BVLK	lBVL
+gDv	bgD
+PZ	pP
+gDv	bgD
+PZ	Zd
+db	pP
+PZ	Zd
+gDv	bgD
+db	Zd
+gDv	bgD
+db	Zd
+tGzp	lBVL
+gDv	bgD
+PZ	pP
+tGzp	KtGz
+PZ	Zd
+BVLK	KtGz
+Tkl	bgD
+db	Zd
+PZ	pP
+db	Zd
+PZ	pP
+BVLK	KtGz
+PZ	Zd
+db	pP
+Tkl	vTk
+db	Zd
+gDv	vTk
+PZ	pP
+BVLK	KtGz
+db	Zd
+Tkl	bgD
+gDv	vTk
+db	pP
+BVLK	KtGz
+tGzp	lBVL
+PZ	pP
+BVLK	lBVL
+PZ	pP
+gDv	bgD
+Tkl	bgD
+gDv	vTk
+tGzp	lBVL
+Tkl	vTk
+db	Zd
+tGzp	KtGz
+BVLK	lBVL
+PZ	Zd
+tGzp	lBVL
+Tkl	bgD
+PZ	Zd
+gDv	vTk
+BVLK	lBVL
+gDv	vTk
+BVLK	KtGz

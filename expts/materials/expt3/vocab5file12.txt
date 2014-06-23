@@ -1,0 +1,185 @@
+Lexicon: ZR	mbM	GLkP	Jp	zft	
+
+Training Sentences:
+GLkPJpZRzft
+ZRmbMGLkPzft
+GLkPZRzftmbM
+mbMzftZRJp
+JpzftGLkPZR
+GLkPZRmbMzft
+zftmbMGLkPJp
+zftZRmbMGLkP
+mbMZRzftGLkP
+JpmbMGLkPzft
+zftJpZRmbM
+JpZRGLkPzft
+mbMJpZRzft
+mbMzftJpZR
+zftGLkPJpmbM
+GLkPzftZRJp
+ZRmbMzftGLkP
+mbMJpZRzft
+ZRGLkPzftJp
+zftmbMGLkPJp
+zftGLkPJpZR
+zftZRmbMJp
+zftJpmbMZR
+ZRJpmbMGLkP
+GLkPZRJpmbM
+JpGLkPmbMZR
+GLkPmbMzftZR
+JpmbMZRGLkP
+mbMGLkPZRzft
+ZRJpmbMGLkP
+ZRGLkPmbMJp
+JpZRGLkPmbM
+zftGLkPZRmbM
+JpzftmbMGLkP
+JpzftZRGLkP
+zftZRmbMGLkP
+GLkPzftmbMJp
+mbMJpGLkPzft
+mbMzftJpGLkP
+zftGLkPmbMJp
+mbMzftGLkPZR
+ZRzftJpmbM
+ZRJpmbMzft
+zftZRJpmbM
+zftZRGLkPJp
+GLkPmbMZRJp
+mbMzftZRGLkP
+ZRmbMGLkPJp
+mbMJpZRGLkP
+GLkPZRmbMJp
+ZRzftmbMGLkP
+mbMGLkPJpzft
+JpZRmbMzft
+GLkPzftJpZR
+ZRmbMJpzft
+JpzftGLkPZR
+mbMGLkPzftJp
+zftZRmbMJp
+JpGLkPmbMzft
+mbMzftZRJp
+ZRmbMGLkPzft
+mbMzftZRGLkP
+mbMzftZRJp
+GLkPmbMzftJp
+JpmbMGLkPzft
+JpmbMZRzft
+ZRJpGLkPmbM
+GLkPJpZRmbM
+mbMJpzftZR
+GLkPzftZRmbM
+ZRzftmbMGLkP
+zftGLkPJpZR
+JpGLkPzftZR
+JpGLkPzftZR
+mbMZRGLkPJp
+GLkPJpzftmbM
+mbMZRJpGLkP
+ZRmbMGLkPJp
+ZRGLkPzftmbM
+ZRGLkPzftmbM
+ZRGLkPmbMzft
+mbMzftGLkPJp
+zftGLkPZRmbM
+GLkPzftZRmbM
+zftmbMZRGLkP
+mbMJpZRzft
+zftGLkPJpZR
+zftGLkPmbMJp
+zftGLkPmbMJp
+zftGLkPmbMZR
+mbMZRJpGLkP
+JpzftGLkPmbM
+ZRGLkPJpzft
+GLkPzftmbMJp
+GLkPmbMZRzft
+zftmbMZRJp
+ZRGLkPJpmbM
+mbMzftGLkPJp
+ZRzftmbMGLkP
+ZRGLkPJpzft
+GLkPZRJpmbM
+ZRGLkPJpmbM
+GLkPmbMzftZR
+ZRJpzftGLkP
+zftmbMZRGLkP
+ZRzftGLkPJp
+GLkPJpzftZR
+ZRGLkPJpzft
+mbMGLkPJpZR
+mbMJpZRzft
+JpzftZRmbM
+zftZRmbMJp
+ZRmbMJpGLkP
+JpzftZRGLkP
+mbMJpzftGLkP
+mbMGLkPZRJp
+JpGLkPzftmbM
+GLkPmbMzftZR
+JpGLkPZRmbM
+zftJpGLkPmbM
+GLkPJpzftmbM
+GLkPzftZRmbM
+ZRJpmbMzft
+JpZRzftGLkP
+JpmbMzftGLkP
+JpGLkPmbMZR
+mbMJpzftZR
+zftJpZRGLkP
+zftGLkPJpZR
+GLkPzftmbMJp
+JpzftGLkPmbM
+GLkPzftZRJp
+JpmbMZRzft
+mbMJpZRGLkP
+GLkPJpZRzft
+JpZRGLkPzft
+GLkPmbMZRJp
+JpGLkPzftZR
+mbMJpzftZR
+ZRmbMGLkPJp
+GLkPzftJpmbM
+GLkPmbMzftJp
+ZRGLkPJpzft
+ZRzftJpmbM
+ZRJpmbMzft
+mbMZRJpGLkP
+JpGLkPmbMZR
+zftZRJpmbM
+JpZRmbMzft
+ZRGLkPzftJp
+
+Test Items:
+GLkP	MGLk
+Jp	tZ
+GLkP	MGLk
+mbM	Rmb
+zft	pzf
+mbM	pzf
+Jp	tZ
+GLkP	MGLk
+mbM	Rmb
+ZR	PJ
+zft	pzf
+ZR	tZ
+Jp	tZ
+zft	Rmb
+mbM	Rmb
+ZR	tZ
+GLkP	MGLk
+mbM	pzf
+zft	Rmb
+mbM	pzf
+zft	Rmb
+ZR	PJ
+Jp	PJ
+mbM	Rmb
+zft	pzf
+ZR	tZ
+zft	Rmb
+GLkP	MGLk
+Jp	PJ
+ZR	tZ

@@ -1,0 +1,42 @@
+Lexicon: dl	MLn	KpkT	rv	
+
+Training Sentences:
+rvKpkTdlMLn
+KpkTdlrvMLn
+MLnrvdlKpkT
+rvMLndlKpkT
+dlKpkTMLnrv
+KpkTdlMLnrv
+rvMLnKpkTdl
+
+Test Items:
+rv	vd
+dl	Tr
+KpkT	nKpk
+dl	vd
+KpkT	nKpk
+rv	Tr
+KpkT	nKpk
+dl	vd
+rv	Tr
+MLn	lML
+rv	vd
+KpkT	nKpk
+MLn	lML
+KpkT	nKpk
+dl	Tr
+MLn	lML
+rv	vd
+dl	vd
+rv	Tr
+MLn	lML
+dl	vd
+KpkT	nKpk
+dl	Tr
+MLn	lML
+dl	Tr
+KpkT	nKpk
+dl	Tr
+rv	vd
+KpkT	nKpk
+MLn	lML

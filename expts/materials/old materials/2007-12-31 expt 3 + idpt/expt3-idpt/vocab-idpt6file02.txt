@@ -1,0 +1,185 @@
+Lexicon: mK	rvg	TLnG	bJ	kNl	Vdtz	
+
+Training Sentences:
+bJmKkNlVdtz
+rvgTLnGVdtzmK
+bJmKVdtzkNl
+VdtzkNlbJrvg
+TLnGmKbJkNl
+bJVdtzTLnGrvg
+kNlTLnGmKrvg
+kNlVdtzrvgbJ
+VdtzbJrvgkNl
+kNlTLnGbJVdtz
+rvgVdtzTLnGmK
+bJTLnGVdtzkNl
+VdtzmKTLnGbJ
+VdtzbJrvgTLnG
+kNlmKVdtzTLnG
+rvgVdtzmKkNl
+mKrvgkNlVdtz
+kNlrvgmKTLnG
+TLnGmKVdtzkNl
+bJTLnGrvgkNl
+bJmKTLnGkNl
+TLnGkNlbJmK
+mKkNlTLnGVdtz
+mKbJkNlTLnG
+kNlTLnGVdtzbJ
+rvgbJmKkNl
+mKrvgTLnGbJ
+bJTLnGVdtzmK
+mKrvgVdtzbJ
+bJrvgTLnGkNl
+TLnGrvgbJmK
+TLnGVdtzrvgbJ
+kNlrvgmKTLnG
+rvgkNlmKVdtz
+VdtzrvgmKTLnG
+mKbJVdtzkNl
+mKTLnGkNlbJ
+kNlVdtzbJrvg
+kNlrvgVdtzTLnG
+rvgTLnGkNlVdtz
+rvgkNlTLnGmK
+rvgVdtzbJkNl
+bJkNlTLnGmK
+bJkNlrvgVdtz
+VdtzmKTLnGrvg
+VdtzrvgTLnGkNl
+mKTLnGrvgbJ
+bJVdtzmKkNl
+VdtzmKkNlTLnG
+rvgbJVdtzTLnG
+bJVdtzrvgmK
+rvgkNlTLnGbJ
+kNlmKrvgbJ
+TLnGbJrvgVdtz
+rvgVdtzmKTLnG
+VdtzmKTLnGbJ
+rvgkNlVdtzTLnG
+bJrvgkNlmK
+VdtzTLnGrvgmK
+rvgTLnGmKbJ
+mKrvgbJkNl
+mKrvgTLnGbJ
+bJrvgkNlmK
+rvgmKkNlbJ
+mKkNlVdtzTLnG
+mKVdtzTLnGkNl
+kNlVdtzbJmK
+bJmKrvgVdtz
+bJmKTLnGrvg
+kNlbJVdtzmK
+VdtzrvgkNlTLnG
+kNlTLnGVdtzbJ
+kNlmKrvgbJ
+rvgkNlVdtzTLnG
+mKTLnGbJVdtz
+TLnGkNlmKbJ
+TLnGbJrvgkNl
+bJrvgmKkNl
+TLnGkNlbJrvg
+mKbJTLnGkNl
+mKrvgTLnGkNl
+mKrvgkNlbJ
+bJrvgkNlmK
+bJTLnGmKrvg
+mKrvgkNlbJ
+kNlmKVdtzTLnG
+VdtzkNlmKbJ
+mKbJkNlrvg
+kNlbJVdtzmK
+TLnGrvgVdtzkNl
+kNlmKVdtzrvg
+rvgbJkNlVdtz
+mKTLnGbJVdtz
+mKkNlrvgbJ
+rvgkNlmKTLnG
+VdtzmKbJTLnG
+TLnGrvgVdtzmK
+rvgTLnGVdtzkNl
+kNlrvgmKTLnG
+VdtzbJmKkNl
+rvgVdtzmKkNl
+bJmKTLnGVdtz
+VdtzTLnGmKbJ
+kNlTLnGVdtzrvg
+TLnGVdtzmKrvg
+TLnGbJkNlVdtz
+bJVdtzkNlrvg
+TLnGrvgkNlVdtz
+mKkNlVdtzrvg
+rvgTLnGVdtzmK
+TLnGkNlrvgmK
+bJTLnGrvgVdtz
+TLnGVdtzrvgmK
+TLnGrvgVdtzbJ
+kNlbJmKVdtz
+VdtzkNlrvgbJ
+bJTLnGrvgmK
+TLnGbJkNlVdtz
+VdtzTLnGbJrvg
+bJVdtzTLnGkNl
+bJmKkNlrvg
+TLnGkNlbJmK
+mKVdtzkNlbJ
+VdtzmKTLnGrvg
+VdtzTLnGmKkNl
+kNlbJVdtzmK
+VdtzTLnGmKbJ
+mKTLnGbJrvg
+rvgkNlVdtzTLnG
+mKrvgVdtzTLnG
+rvgbJVdtzmK
+kNlVdtzmKrvg
+bJrvgVdtzkNl
+TLnGkNlrvgVdtz
+rvgbJmKkNl
+VdtzTLnGkNlrvg
+mKTLnGkNlVdtz
+rvgbJmKkNl
+TLnGmKkNlrvg
+bJkNlmKrvg
+VdtzrvgbJTLnG
+TLnGbJkNlVdtz
+rvgmKTLnGVdtz
+bJVdtzTLnGmK
+VdtzbJmKrvg
+bJTLnGVdtzrvg
+VdtzrvgTLnGbJ
+bJTLnGrvgVdtz
+TLnGbJVdtzkNl
+TLnGbJbJTLnG
+
+Test Items:
+TLnG	gTLn
+kNl	Krv
+TLnG	gTLn
+mK	zm
+kNl	Krv
+Vdtz	lVdt
+kNl	JkN
+rvg	Krv
+TLnG	lVdt
+bJ	zm
+kNl	Krv
+Vdtz	gTLn
+mK	Gb
+rvg	Krv
+Vdtz	gTLn
+kNl	JkN
+mK	zm
+bJ	Gb
+rvg	Krv
+bJ	Gb
+kNl	JkN
+mK	Gb
+TLnG	gTLn
+mK	zm
+Vdtz	gTLn
+TLnG	lVdt
+kNl	Krv
+bJ	Gb
+TLnG	lVdt
+bJ	zm

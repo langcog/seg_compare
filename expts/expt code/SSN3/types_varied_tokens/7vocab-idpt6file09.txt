@@ -1,0 +1,42 @@
+Lexicon: FR	kND	BVlP	nZ	pLf	gzdm	
+
+Training Sentences:
+nZpLfFRgzdm
+kNDpLfBVlPFR
+BVlPkNDnZpLf
+kNDFRpLfgzdm
+FRgzdmpLfnZ
+gzdmBVlPnZkND
+BVlPnZgzdmkND
+
+Test Items:
+FR	Pn
+BVlP	DBVl
+gzdm	fgzd
+nZ	Pn
+FR	Pn
+BVlP	DBVl
+FR	Pn
+gzdm	fgzd
+BVlP	DBVl
+gzdm	fgzd
+nZ	Pn
+kND	ZpL
+FR	Pn
+gzdm	fgzd
+nZ	Pn
+BVlP	fgzd
+FR	mF
+BVlP	fgzd
+kND	RkN
+pLf	ZpL
+gzdm	fgzd
+BVlP	DBVl
+FR	Pn
+BVlP	DBVl
+kND	ZpL
+FR	Pn
+nZ	mF
+pLf	ZpL
+kND	RkN
+pLf	ZpL

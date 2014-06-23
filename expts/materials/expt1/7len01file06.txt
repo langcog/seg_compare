@@ -1,0 +1,63 @@
+Lexicon: pAvu	dAki	zukAlu	dutitu	vAlAzigi	bipigubA	
+
+Training Sentences:
+pAvu
+zukAlu
+vAlAzigi
+zukAlu
+bipigubA
+vAlAzigi
+pAvu
+bipigubA
+dutitu
+zukAlu
+pAvu
+pAvu
+dAki
+dutitu
+pAvu
+vAlAzigi
+dutitu
+dAki
+vAlAzigi
+dAki
+bipigubA
+dutitu
+zukAlu
+dAki
+vAlAzigi
+bipigubA
+dutitu
+bipigubA
+
+Test Items:
+pAvu	Avud
+zukAlu	Akizuk
+dutitu	Akizuk
+dAki	ubAp
+vAlAzigi	igibipig
+bipigubA	ituvAlAz
+zukAlu	Aludut
+dAki	Avud
+pAvu	ubAp
+bipigubA	ituvAlAz
+dutitu	Akizuk
+pAvu	ubAp
+zukAlu	Akizuk
+dAki	ubAp
+pAvu	Avud
+dutitu	Aludut
+zukAlu	Aludut
+pAvu	ubAp
+bipigubA	ituvAlAz
+dAki	ubAp
+dutitu	Akizuk
+bipigubA	ituvAlAz
+zukAlu	Akizuk
+dAki	Avud
+zukAlu	Akizuk
+pAvu	ubAp
+zukAlu	Aludut
+vAlAzigi	igibipig
+bipigubA	ituvAlAz
+pAvu	ubAp

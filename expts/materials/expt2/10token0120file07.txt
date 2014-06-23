@@ -1,0 +1,65 @@
+Lexicon: zizu	vuvA	dulAki	lubigu	tukAtipA	pibAdAgi	
+
+Training Sentences:
+lubigupibAdAgidulAkizizu
+vuvAdulAkilubigutukAtipA
+vuvApibAdAgidulAkizizu
+pibAdAgilubigudulAkivuvA
+zizupibAdAgitukAtipAvuvA
+vuvAlubigutukAtipApibAdAgi
+lubigutukAtipApibAdAgidulAki
+vuvAzizutukAtipApibAdAgi
+lubiguzizupibAdAgidulAki
+dulAkitukAtipAvuvAlubigu
+pibAdAgizizulubigutukAtipA
+pibAdAgidulAkitukAtipAzizu
+vuvAzizutukAtipApibAdAgi
+zizutukAtipAlubiguvuvA
+zizulubigudulAkivuvA
+zizupibAdAgilubigutukAtipA
+vuvAdulAkitukAtipApibAdAgi
+lubiguzizudulAkitukAtipA
+vuvAzizudulAkitukAtipA
+pibAdAgilubigutukAtipAdulAki
+zizulubigupibAdAgivuvA
+tukAtipAdulAkivuvApibAdAgi
+tukAtipApibAdAgilubigudulAki
+vuvAzizupibAdAgidulAki
+vuvApibAdAgilubigudulAki
+dulAkizizuvuvAlubigu
+zizutukAtipApibAdAgivuvA
+lubiguzizudulAkivuvA
+vuvAzizulubigutukAtipA
+dulAkizizutukAtipAlubigu
+
+Test Items:
+dulAki	uvAdul
+pibAdAgi	ipApibAd
+vuvA	Agiz
+lubigu	Akilub
+zizu	Agiz
+tukAtipA	ipApibAd
+pibAdAgi	igutukAt
+tukAtipA	igutukAt
+dulAki	Akilub
+pibAdAgi	ipApibAd
+vuvA	Agiz
+zizu	Agiz
+lubigu	Akilub
+dulAki	Akilub
+tukAtipA	ipApibAd
+vuvA	Agiz
+pibAdAgi	ipApibAd
+dulAki	Akilub
+vuvA	Agiz
+lubigu	uvAdul
+zizu	Agiz
+dulAki	uvAdul
+vuvA	izuv
+zizu	Agiz
+tukAtipA	igutukAt
+lubigu	uvAdul
+tukAtipA	igutukAt
+dulAki	uvAdul
+tukAtipA	ipApibAd
+zizu	Agiz

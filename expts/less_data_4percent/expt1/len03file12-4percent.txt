@@ -1,0 +1,73 @@
+Lexicon: kg	Lb	KPp	BzZ	tGdV	TlvD	
+
+Training Sentences:
+LbTlvDtGdV
+LbBzZkg
+kgtGdVTlvD
+tGdVLbKPp
+KPpTlvDkg
+BzZKPpLb
+BzZKPpkg
+TlvDBzZtGdV
+
+Test Items:
+Lb	Dk
+KPp	bKP
+BzZ	pBz
+kg	Dk
+KPp	pBz
+BzZ	bKP
+tGdV	VTlv
+Lb	gL
+KPp	bKP
+tGdV	ZtGd
+kg	Dk
+BzZ	pBz
+tGdV	VTlv
+BzZ	bKP
+KPp	pBz
+TlvD	ZtGd
+BzZ	bKP
+KPp	pBz
+kg	Dk
+tGdV	ZtGd
+TlvD	VTlv
+BzZ	pBz
+Lb	Dk
+kg	gL
+tGdV	VTlv
+kg	gL
+KPp	bKP
+TlvD	VTlv
+BzZ	pBz
+Lb	Dk
+KPp	bKP
+TlvD	VTlv
+Lb	Dk
+kg	gL
+BzZ	bKP
+tGdV	VTlv
+KPp	bKP
+Lb	Dk
+BzZ	bKP
+Lb	gL
+kg	Dk
+BzZ	pBz
+Lb	gL
+BzZ	bKP
+Lb	Dk
+TlvD	ZtGd
+BzZ	bKP
+TlvD	ZtGd
+KPp	pBz
+Lb	Dk
+BzZ	bKP
+kg	Dk
+TlvD	VTlv
+kg	Dk
+TlvD	VTlv
+KPp	pBz
+TlvD	VTlv
+tGdV	ZtGd
+kg	gL
+BzZ	bKP

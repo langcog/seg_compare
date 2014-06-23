@@ -1,0 +1,36 @@
+Lexicon: dApi	bilu	duguvA	tibAkA	vukizilA	pAtuzugi	
+
+Training Sentences:
+dApivukizilAduguvAtibAkA
+
+Test Items:
+vukizilA	AkAvukiz
+dApi	ugid
+bilu	Apib
+vukizilA	ilApAtuz
+dApi	Apib
+duguvA	iludug
+tibAkA	uvAtib
+dApi	ugid
+pAtuzugi	AkAvukiz
+dApi	ugid
+tibAkA	iludug
+bilu	Apib
+dApi	ugid
+vukizilA	AkAvukiz
+bilu	ugid
+duguvA	iludug
+tibAkA	uvAtib
+duguvA	iludug
+pAtuzugi	AkAvukiz
+dApi	Apib
+tibAkA	iludug
+dApi	Apib
+duguvA	uvAtib
+tibAkA	iludug
+bilu	Apib
+pAtuzugi	AkAvukiz
+vukizilA	ilApAtuz
+bilu	ugid
+tibAkA	iludug
+bilu	ugid

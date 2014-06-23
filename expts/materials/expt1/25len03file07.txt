@@ -1,0 +1,118 @@
+Lexicon: pAgi	tizu	bivuvA	lAbAtu	pidukikA	lugudAzi	
+
+Training Sentences:
+pidukikAlugudAzibivuvA
+pAgipidukikAlugudAzi
+lugudAzitizulAbAtu
+tizubivuvApidukikA
+tizupAgilugudAzi
+tizulAbAtupAgi
+pAgilAbAtupidukikA
+bivuvAlAbAtulugudAzi
+pidukikApAgibivuvA
+pAgilAbAtubivuvA
+tizubivuvAlAbAtu
+pAgitizulugudAzi
+pidukikAtizulAbAtu
+
+Test Items:
+bivuvA	izubiv
+pidukikA	ikAlugud
+bivuvA	uvAlAb
+lAbAtu	izubiv
+pidukikA	Atupiduk
+tizu	Agit
+pAgi	Azip
+lAbAtu	izubiv
+pidukikA	Atupiduk
+lAbAtu	uvAlAb
+lugudAzi	ikAlugud
+pAgi	Agit
+pidukikA	Atupiduk
+pAgi	Agit
+lugudAzi	Atupiduk
+pAgi	Agit
+lugudAzi	Atupiduk
+tizu	Agit
+lAbAtu	izubiv
+bivuvA	uvAlAb
+tizu	Agit
+bivuvA	izubiv
+tizu	Azip
+lAbAtu	izubiv
+tizu	Azip
+lAbAtu	uvAlAb
+lugudAzi	Atupiduk
+bivuvA	uvAlAb
+pidukikA	Atupiduk
+bivuvA	izubiv
+lugudAzi	Atupiduk
+bivuvA	uvAlAb
+lAbAtu	izubiv
+lugudAzi	ikAlugud
+bivuvA	izubiv
+lAbAtu	izubiv
+tizu	Azip
+pidukikA	Atupiduk
+pAgi	Agit
+lAbAtu	uvAlAb
+pAgi	Azip
+lugudAzi	ikAlugud
+bivuvA	izubiv
+tizu	Agit
+bivuvA	uvAlAb
+pidukikA	ikAlugud
+lugudAzi	Atupiduk
+tizu	Agit
+bivuvA	izubiv
+lAbAtu	uvAlAb
+lugudAzi	ikAlugud
+lAbAtu	izubiv
+pidukikA	Atupiduk
+tizu	Agit
+pAgi	Azip
+tizu	Agit
+pAgi	Azip
+tizu	Agit
+lugudAzi	ikAlugud
+pidukikA	Atupiduk
+pAgi	Agit
+tizu	Agit
+pidukikA	Atupiduk
+tizu	Azip
+pidukikA	Atupiduk
+tizu	Azip
+lugudAzi	Atupiduk
+pAgi	Agit
+lAbAtu	uvAlAb
+pAgi	Agit
+tizu	Agit
+lugudAzi	ikAlugud
+pAgi	Azip
+tizu	Agit
+lAbAtu	izubiv
+pAgi	Agit
+lugudAzi	Atupiduk
+tizu	Azip
+bivuvA	izubiv
+pidukikA	Atupiduk
+tizu	Azip
+lAbAtu	izubiv
+pAgi	Azip
+lAbAtu	uvAlAb
+tizu	Azip
+bivuvA	uvAlAb
+pAgi	Agit
+pidukikA	ikAlugud
+lAbAtu	uvAlAb
+pidukikA	ikAlugud
+lugudAzi	Atupiduk
+pAgi	Azip
+bivuvA	izubiv
+pidukikA	ikAlugud
+lAbAtu	izubiv
+bivuvA	uvAlAb
+pidukikA	Atupiduk
+lugudAzi	Atupiduk
+tizu	Agit
+pAgi	Azip

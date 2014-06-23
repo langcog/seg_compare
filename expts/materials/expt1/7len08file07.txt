@@ -1,0 +1,38 @@
+Lexicon: dAlA	vApA	gitupi	biziki	gutiluzu	vubAdukA	
+
+Training Sentences:
+dAlAgitupidAlAgutiluzugitupivubAdukAgutiluzuvubAdukA
+gitupigutiluzubizikivApAdAlAvubAdukAgutiluzuvApA
+bizikidAlAbizikivApAgitupivApAdAlAgutiluzu
+
+Test Items:
+gutiluzu	ikigutil
+vApA	ukAd
+biziki	ApAgit
+vubAdukA	uzuvubAd
+dAlA	AlAv
+gitupi	ApAgit
+gutiluzu	uzuvubAd
+vubAdukA	ikigutil
+vApA	ukAd
+biziki	upibiz
+vApA	ukAd
+dAlA	AlAv
+biziki	upibiz
+vubAdukA	ikigutil
+vApA	AlAv
+gutiluzu	uzuvubAd
+biziki	ApAgit
+dAlA	AlAv
+gitupi	ApAgit
+biziki	upibiz
+dAlA	AlAv
+vApA	ukAd
+gitupi	ApAgit
+vubAdukA	ikigutil
+vApA	ukAd
+biziki	upibiz
+vubAdukA	ikigutil
+biziki	upibiz
+gutiluzu	ikigutil
+vubAdukA	uzuvubAd

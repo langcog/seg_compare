@@ -1,0 +1,37 @@
+Lexicon: dAbi	gilA	gupAki	zukAbA	vApizidu	lutituvu	
+
+Training Sentences:
+gupAkigilAzukAbAlutituvu
+gupAkidAbivApizidulutituvu
+
+Test Items:
+gupAki	Akizuk
+dAbi	uvud
+vApizidu	AbAvApiz
+lutituvu	idulutit
+dAbi	Abig
+vApizidu	idulutit
+zukAbA	Akizuk
+vApizidu	idulutit
+lutituvu	AbAvApiz
+gilA	uvud
+lutituvu	idulutit
+vApizidu	AbAvApiz
+gupAki	ilAgup
+lutituvu	idulutit
+vApizidu	AbAvApiz
+gilA	Abig
+gupAki	ilAgup
+zukAbA	Akizuk
+dAbi	Abig
+zukAbA	Akizuk
+dAbi	uvud
+gilA	Abig
+zukAbA	Akizuk
+dAbi	Abig
+gupAki	ilAgup
+lutituvu	AbAvApiz
+gilA	Abig
+vApizidu	idulutit
+zukAbA	Akizuk
+gilA	Abig

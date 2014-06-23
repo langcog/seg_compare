@@ -1,0 +1,42 @@
+Lexicon: kAdA	gibA	lulAgu	zibiki	zuvAtupi	tipAvudu	
+
+Training Sentences:
+lulAguzuvAtupizibikikAdA
+kAdAzuvAtupilulAgugibA
+zibikikAdAtipAvuduzuvAtupi
+gibAzibikilulAgutipAvudu
+zibikikAdAtipAvudululAgu
+gibAzibikilulAgutipAvudu
+tipAvudukAdAzuvAtupigibA
+
+Test Items:
+kAdA	AdAg
+zuvAtupi	ikizuvAt
+lulAgu	Aguzib
+kAdA	uduk
+zuvAtupi	upitipAv
+kAdA	AdAg
+tipAvudu	ikizuvAt
+lulAgu	ibAlul
+kAdA	uduk
+lulAgu	ibAlul
+zuvAtupi	upitipAv
+tipAvudu	ikizuvAt
+lulAgu	ibAlul
+zuvAtupi	upitipAv
+lulAgu	ibAlul
+zuvAtupi	upitipAv
+tipAvudu	upitipAv
+zuvAtupi	ikizuvAt
+tipAvudu	upitipAv
+lulAgu	Aguzib
+gibA	uduk
+zuvAtupi	ikizuvAt
+zibiki	Aguzib
+kAdA	AdAg
+tipAvudu	upitipAv
+lulAgu	Aguzib
+zuvAtupi	upitipAv
+kAdA	AdAg
+tipAvudu	ikizuvAt
+zibiki	ibAlul

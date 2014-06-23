@@ -1,0 +1,37 @@
+Lexicon: kibA	lupi	zukAvA	lApAdA	bivugutu	dutizigi	
+
+Training Sentences:
+kibAlupibivugutulApAdA
+dutizigizukAvAlupibivugutu
+
+Test Items:
+kibA	igik
+zukAvA	AvAlAp
+lApAdA	upizuk
+dutizigi	utudutiz
+kibA	ibAl
+lApAdA	AvAlAp
+kibA	igik
+bivugutu	utudutiz
+lApAdA	upizuk
+kibA	igik
+lApAdA	upizuk
+bivugutu	utudutiz
+dutizigi	AdAbivug
+lupi	igik
+kibA	ibAl
+lupi	ibAl
+bivugutu	AdAbivug
+kibA	igik
+zukAvA	AvAlAp
+lApAdA	upizuk
+zukAvA	AvAlAp
+lApAdA	upizuk
+bivugutu	AdAbivug
+dutizigi	utudutiz
+kibA	igik
+bivugutu	utudutiz
+zukAvA	upizuk
+lApAdA	AvAlAp
+zukAvA	upizuk
+dutizigi	utudutiz

@@ -1,0 +1,49 @@
+Lexicon: kAti	dubi	vAkipi	lAbAzu	vugidApA	lugutuzi	
+
+Training Sentences:
+dubivugidApA
+vAkipilugutuzi
+vAkipikAti
+dubivugidApA
+dubilugutuzi
+vugidApAkAti
+dubivAkipi
+vAkipivugidApA
+kAtilAbAzu
+vugidApAlAbAzu
+kAtidubi
+lugutuzilAbAzu
+lugutuzilAbAzu
+lAbAzulugutuzi
+
+Test Items:
+lugutuzi	ApAlugut
+dubi	uzik
+kAti	Atid
+dubi	Atid
+lugutuzi	ApAlugut
+kAti	uzik
+dubi	Atid
+kAti	uzik
+lAbAzu	ubivAk
+dubi	uzik
+kAti	uzik
+vAkipi	ubivAk
+lugutuzi	ApAlugut
+vugidApA	Azuvugid
+kAti	Atid
+dubi	uzik
+kAti	Atid
+lAbAzu	ipilAb
+vugidApA	Azuvugid
+kAti	Atid
+lugutuzi	ApAlugut
+kAti	Atid
+vAkipi	ipilAb
+lugutuzi	Azuvugid
+vAkipi	ipilAb
+vugidApA	Azuvugid
+lugutuzi	Azuvugid
+vAkipi	ipilAb
+vugidApA	ApAlugut
+vAkipi	ipilAb

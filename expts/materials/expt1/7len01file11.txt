@@ -1,0 +1,63 @@
+Lexicon: dApi	biti	luzidu	vAtugu	kAlAgibA	vukipAzu	
+
+Training Sentences:
+kAlAgibA
+vAtugu
+biti
+biti
+vukipAzu
+dApi
+dApi
+vukipAzu
+vAtugu
+kAlAgibA
+dApi
+kAlAgibA
+vAtugu
+kAlAgibA
+vAtugu
+vukipAzu
+biti
+vAtugu
+luzidu
+vukipAzu
+luzidu
+kAlAgibA
+dApi
+biti
+luzidu
+luzidu
+dApi
+luzidu
+
+Test Items:
+luzidu	itiluz
+vAtugu	iduvAt
+biti	Apib
+vAtugu	iduvAt
+kAlAgibA	ibAvukip
+vAtugu	itiluz
+luzidu	iduvAt
+biti	Apib
+vukipAzu	ugukAlAg
+dApi	Apib
+biti	Azud
+kAlAgibA	ibAvukip
+vukipAzu	ugukAlAg
+dApi	Apib
+luzidu	iduvAt
+biti	Apib
+kAlAgibA	ibAvukip
+vukipAzu	ugukAlAg
+vAtugu	iduvAt
+dApi	Apib
+luzidu	itiluz
+kAlAgibA	ugukAlAg
+vAtugu	iduvAt
+kAlAgibA	ugukAlAg
+vukipAzu	ibAvukip
+vAtugu	itiluz
+kAlAgibA	ugukAlAg
+vukipAzu	ugukAlAg
+vAtugu	itiluz
+luzidu	iduvAt

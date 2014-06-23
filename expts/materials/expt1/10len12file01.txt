@@ -1,0 +1,38 @@
+Lexicon: duki	pizi	bigikA	vAluti	vubAgulA	pAzudAtu	
+
+Training Sentences:
+dukibigikApAzudAtubigikApAzudAtuvubAgulAdukipizivubAgulAvAlutipizivAluti
+vubAgulAbigikAvAlutivubAgulApAzudAtudukipizivAlutidukibigikApizipAzudAtu
+pizidukivubAgulAdukipAzudAtubigikApizipAzudAtubigikAvAlutivubAgulAvAluti
+
+Test Items:
+pizi	Atud
+bigikA	izibig
+pizi	ukip
+vAluti	ikAvAl
+bigikA	izibig
+vubAgulA	utivubAg
+pAzudAtu	ulApAzud
+duki	ukip
+vAluti	ikAvAl
+bigikA	izibig
+duki	Atud
+pAzudAtu	utivubAg
+duki	Atud
+bigikA	izibig
+pizi	ukip
+pAzudAtu	utivubAg
+bigikA	izibig
+vAluti	ikAvAl
+vubAgulA	utivubAg
+vAluti	ikAvAl
+bigikA	izibig
+vubAgulA	ulApAzud
+bigikA	ikAvAl
+pAzudAtu	utivubAg
+bigikA	ikAvAl
+vubAgulA	ulApAzud
+duki	Atud
+pAzudAtu	ulApAzud
+duki	Atud
+pAzudAtu	utivubAg

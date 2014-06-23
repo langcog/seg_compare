@@ -1,0 +1,41 @@
+Lexicon: NF	mKp	zvPR	Lk	ntM	
+
+Training Sentences:
+zvPRmKpNFLk
+ntMmKpLkzvPR
+ntMNFLkmKp
+zvPRntMNFmKp
+mKpntMzvPRLk
+LkntMNFzvPR
+
+Test Items:
+zvPR	pzvP
+ntM	FmK
+NF	MN
+ntM	knt
+zvPR	pzvP
+NF	RL
+Lk	RL
+zvPR	pzvP
+Lk	RL
+NF	MN
+zvPR	pzvP
+Lk	RL
+NF	MN
+mKp	FmK
+ntM	knt
+Lk	MN
+zvPR	pzvP
+NF	MN
+mKp	knt
+Lk	RL
+NF	MN
+mKp	knt
+NF	RL
+Lk	MN
+zvPR	pzvP
+ntM	FmK
+Lk	RL
+zvPR	pzvP
+ntM	knt
+zvPR	pzvP

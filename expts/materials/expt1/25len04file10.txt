@@ -1,0 +1,115 @@
+Lexicon: guzi	lApi	vAtidu	bikAbA	kituzuvu	dApAlugi	
+
+Training Sentences:
+bikAbAdApAlugivAtidulApi
+guzikituzuvulApibikAbA
+vAtidubikAbAlApiguzi
+guzivAtidukituzuvudApAlugi
+lApikituzuvudApAlugivAtidu
+bikAbAkituzuvuguzivAtidu
+kituzuvuvAtidulApibikAbA
+bikAbAguzivAtidulApi
+kituzuvudApAlugilApiguzi
+guzidApAlugikituzuvubikAbA
+
+Test Items:
+vAtidu	idubik
+guzi	uzil
+lApi	ugig
+bikAbA	ApivAt
+lApi	ugig
+kituzuvu	AbAkituz
+vAtidu	ApivAt
+kituzuvu	uvudApAl
+bikAbA	idubik
+dApAlugi	AbAkituz
+bikAbA	idubik
+vAtidu	ApivAt
+lApi	uzil
+bikAbA	idubik
+dApAlugi	uvudApAl
+guzi	ugig
+lApi	uzil
+bikAbA	idubik
+vAtidu	ApivAt
+kituzuvu	AbAkituz
+guzi	uzil
+dApAlugi	AbAkituz
+vAtidu	idubik
+dApAlugi	uvudApAl
+vAtidu	ApivAt
+lApi	uzil
+vAtidu	ApivAt
+lApi	ugig
+bikAbA	ApivAt
+guzi	uzil
+kituzuvu	AbAkituz
+guzi	ugig
+kituzuvu	uvudApAl
+guzi	uzil
+kituzuvu	uvudApAl
+dApAlugi	AbAkituz
+guzi	uzil
+bikAbA	ApivAt
+vAtidu	idubik
+bikAbA	ApivAt
+dApAlugi	uvudApAl
+guzi	ugig
+bikAbA	idubik
+guzi	ugig
+vAtidu	idubik
+bikAbA	ApivAt
+kituzuvu	AbAkituz
+guzi	uzil
+bikAbA	idubik
+lApi	uzil
+guzi	uzil
+bikAbA	ApivAt
+kituzuvu	uvudApAl
+bikAbA	ApivAt
+kituzuvu	AbAkituz
+bikAbA	idubik
+guzi	ugig
+dApAlugi	uvudApAl
+lApi	ugig
+bikAbA	ApivAt
+lApi	ugig
+dApAlugi	AbAkituz
+vAtidu	idubik
+dApAlugi	uvudApAl
+kituzuvu	AbAkituz
+vAtidu	idubik
+guzi	uzil
+bikAbA	idubik
+lApi	ugig
+dApAlugi	uvudApAl
+kituzuvu	AbAkituz
+dApAlugi	uvudApAl
+lApi	uzil
+bikAbA	idubik
+lApi	uzil
+bikAbA	ApivAt
+lApi	ugig
+vAtidu	idubik
+guzi	uzil
+lApi	uzil
+kituzuvu	uvudApAl
+vAtidu	idubik
+bikAbA	idubik
+guzi	ugig
+lApi	uzil
+vAtidu	idubik
+dApAlugi	AbAkituz
+bikAbA	ApivAt
+kituzuvu	AbAkituz
+dApAlugi	uvudApAl
+vAtidu	ApivAt
+guzi	uzil
+lApi	ugig
+guzi	ugig
+bikAbA	idubik
+lApi	ugig
+vAtidu	ApivAt
+bikAbA	ApivAt
+vAtidu	idubik
+lApi	ugig

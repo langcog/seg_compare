@@ -1,0 +1,55 @@
+Lexicon: tuvu	vAdA	zubipi	gubAlu	tizilAdu	kikApAgi	
+
+Training Sentences:
+kikApAgizubipi
+tuvuvAdA
+tizilAdutuvu
+zubipitizilAdu
+gubAluzubipi
+vAdAtuvu
+tizilAduvAdA
+gubAlukikApAgi
+gubAlutuvu
+vAdAzubipi
+tizilAdutuvu
+tuvukikApAgi
+kikApAgitizilAdu
+kikApAgigubAlu
+vAdAtuvu
+kikApAgigubAlu
+gubAluzubipi
+zubipigubAlu
+tizilAduvAdA
+zubipikikApAgi
+
+Test Items:
+zubipi	AdAzub
+kikApAgi	Alutizil
+vAdA	uvuv
+gubAlu	AdAzub
+zubipi	AdAzub
+tizilAdu	Alutizil
+gubAlu	AdAzub
+zubipi	ipigub
+tizilAdu	AdukikAp
+kikApAgi	Alutizil
+zubipi	ipigub
+tuvu	Agit
+tizilAdu	Alutizil
+vAdA	uvuv
+kikApAgi	Alutizil
+zubipi	AdAzub
+tizilAdu	AdukikAp
+tuvu	Agit
+vAdA	uvuv
+tuvu	Agit
+vAdA	uvuv
+kikApAgi	Alutizil
+zubipi	ipigub
+kikApAgi	AdukikAp
+gubAlu	AdAzub
+tuvu	Agit
+kikApAgi	AdukikAp
+tuvu	Agit
+zubipi	AdAzub
+vAdA	uvuv

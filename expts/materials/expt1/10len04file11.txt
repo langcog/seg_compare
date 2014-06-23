@@ -1,0 +1,45 @@
+Lexicon: pikA	kilA	bAgivA	vupAdA	zubiziti	lugudutu	
+
+Training Sentences:
+lugudutubAgivAzubizitivupAdA
+pikAvupAdAkilAlugudutu
+pikAkilAlugudutuvupAdA
+vupAdApikAzubizitilugudutu
+vupAdAkilAbAgivApikA
+zubizitipikAkilAlugudutu
+bAgivAvupAdAzubizitilugudutu
+kilAbAgivApikAzubiziti
+bAgivAvupAdAzubizitipikA
+bAgivAkilAzubizitilugudutu
+
+Test Items:
+pikA	ikAk
+kilA	utup
+zubiziti	AdAzubiz
+bAgivA	ivAvup
+pikA	ikAk
+vupAdA	ivAvup
+lugudutu	AdAzubiz
+vupAdA	ivAvup
+lugudutu	AdAzubiz
+zubiziti	AdAzubiz
+vupAdA	ivAvup
+lugudutu	itilugud
+vupAdA	ivAvup
+lugudutu	itilugud
+kilA	ikAk
+zubiziti	itilugud
+bAgivA	ivAvup
+vupAdA	ilAbAg
+bAgivA	ivAvup
+vupAdA	ilAbAg
+kilA	utup
+lugudutu	AdAzubiz
+vupAdA	ivAvup
+pikA	ikAk
+lugudutu	itilugud
+kilA	ikAk
+bAgivA	ivAvup
+pikA	utup
+vupAdA	ilAbAg
+zubiziti	AdAzubiz

@@ -1,0 +1,110 @@
+Lexicon: Vb	pK	PTG	kBD	Ldvt	Zglz	
+
+Training Sentences:
+VbZglzkBDLdvtZglzpKPTGkBD
+pKLdvtVbZglzkBDpKkBDPTG
+kBDVbPTGVbkBDpKLdvtZglz
+LdvtpKVbpKkBDZglzVbZglz
+pKkBDVbZglzpKkBDPTGZglz
+VbPTGZglzPTGLdvtZglzVbpK
+LdvtZglzVbPTGLdvtPTGVbkBD
+kBDPTGZglzVbkBDVbLdvtpK
+LdvtZglzLdvtPTGpKPTGpKZglz
+kBDLdvtVbkBDpKLdvtVbpK
+PTGVbkBDpKPTGZglzkBDpK
+pKPTGpKZglzkBDVbPTGZglz
+LdvtVbpKPTGLdvtPTGZglzkBD
+ZglzkBDZglzPTGkBDPTGLdvtVb
+PTGVbpKkBDVbPTGLdvtkBD
+VbZglzPTGLdvtkBDVbZglzPTG
+LdvtpKPTGkBDpKPTGkBDLdvt
+pKPTGVbpKLdvtVbkBDPTG
+PTGLdvtVbpKZglzkBDPTGVb
+LdvtkBDVbLdvtPTGpKVbkBD
+ZglzLdvtPTGVbLdvtZglzVbPTG
+LdvtkBDLdvtpKPTGpKZglzVb
+kBDPTGZglzLdvtZglzkBDPTGVb
+VbZglzVbpKkBDZglzpKLdvt
+PTGLdvtZglzpKPTGkBDLdvtpK
+VbZglzkBDVbLdvtkBDLdvtZglz
+pKkBDVbZglzVbLdvtPTGZglz
+VbpKZglzkBDLdvtkBDPTGZglz
+VbPTGLdvtPTGLdvtkBDZglzkBD
+pKVbLdvtpKkBDZglzPTGkBD
+PTGVbLdvtPTGkBDVbkBDLdvt
+LdvtPTGZglzkBDPTGpKZglzLdvt
+VbZglzVbZglzpKLdvtpKPTG
+ZglzVbpKLdvtpKLdvtPTGZglz
+LdvtpKZglzLdvtkBDVbZglzVb
+pKLdvtkBDLdvtVbZglzPTGVb
+ZglzkBDPTGVbPTGZglzLdvtpK
+kBDZglzpKPTGkBDZglzVbLdvt
+pKZglzkBDpKZglzLdvtkBDLdvt
+PTGkBDpKkBDPTGLdvtpKZglz
+VbpKPTGZglzpKLdvtVbPTG
+ZglzpKZglzVbpKkBDVbPTG
+pKLdvtkBDPTGLdvtpKPTGVb
+LdvtkBDZglzpKkBDLdvtpKZglz
+PTGZglzPTGpKkBDpKVbkBD
+PTGkBDVbLdvtkBDVbpKLdvt
+PTGZglzLdvtPTGVbZglzkBDVb
+pKkBDPTGkBDLdvtZglzPTGVb
+VbkBDPTGkBDVbPTGLdvtpK
+ZglzpKPTGLdvtPTGLdvtpKZglz
+kBDpKVbZglzVbkBDpKLdvt
+kBDZglzVbkBDVbPTGZglzPTG
+LdvtkBDVbZglzkBDPTGLdvtpK
+pKVbpKkBDVbkBDLdvtZglz
+LdvtpKPTGpKVbZglzVbPTG
+ZglzpKZglzVbPTGpKLdvtkBD
+kBDpKLdvtkBDVbZglzpKLdvt
+LdvtpKLdvtkBDpKPTGZglzPTG
+VbLdvtPTGZglzkBDPTGLdvtVb
+VbpKkBDPTGpKLdvtkBDVb
+pKPTGLdvtVbPTGkBDpKZglz
+PTGLdvtkBDpKPTGZglzLdvtZglz
+pKVbLdvtVbLdvtPTGpKPTG
+pKZglzLdvtpKkBDLdvtZglzVb
+PTGLdvtpKZglzkBDZglzVbkBD
+LdvtVbpKPTGLdvtZglzPTGZglz
+ZglzPTGkBDLdvtkBDPTGLdvtZglz
+VbpKLdvtZglzLdvtkBDZglzpK
+VbpKZglzpKkBDVbkBDPTG
+pKkBDVbZglzVbLdvtZglzLdvt
+pKLdvtpKZglzLdvtPTGVbZglz
+ZglzpKkBDVbPTGLdvtVbpK
+ZglzLdvtPTGVbPTGVbpKkBD
+ZglzkBDVbpKVbpKZglzPTG
+PTGkBDLdvtPTGkBDVbZglzkBD
+
+Test Items:
+Ldvt	DLdv
+pK	bp
+Vb	zV
+Ldvt	DLdv
+pK	zV
+Ldvt	DLdv
+pK	zV
+Vb	bp
+Ldvt	DLdv
+pK	zV
+Zglz	DLdv
+pK	zV
+Zglz	DLdv
+Vb	bp
+Ldvt	tZgl
+kBD	GkB
+Ldvt	tZgl
+kBD	KPT
+PTG	KPT
+Zglz	tZgl
+pK	bp
+Ldvt	tZgl
+Vb	bp
+pK	zV
+Vb	zV
+kBD	GkB
+pK	zV
+PTG	GkB
+Zglz	tZgl
+PTG	KPT

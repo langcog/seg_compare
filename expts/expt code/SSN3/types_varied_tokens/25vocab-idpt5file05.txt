@@ -1,0 +1,60 @@
+Lexicon: Dn	VpL	MTZG	NJ	Ffb	
+
+Training Sentences:
+MTZGFfbNJVpL
+DnMTZGFfbNJ
+MTZGVpLDnFfb
+FfbNJVpLMTZG
+VpLDnFfbMTZG
+DnVpLMTZGNJ
+NJFfbDnVpL
+DnFfbVpLNJ
+DnMTZGNJFfb
+VpLNJFfbDn
+FfbVpLNJMTZG
+DnMTZGNJFfb
+MTZGDnVpLNJ
+DnVpLNJMTZG
+MTZGNJVpLFfb
+FfbVpLDnNJ
+MTZGVpLDnNJ
+FfbNJMTZGVpL
+DnVpLMTZGFfb
+VpLFfbDnNJ
+FfbNJMTZGVpL
+DnNJFfbMTZG
+DnMTZGVpLFfb
+DnNJVpLFfb
+DnMTZGDnMTZG
+
+Test Items:
+VpL	nVp
+NJ	bD
+Dn	GN
+VpL	nVp
+NJ	bD
+Dn	GN
+MTZG	LMTZ
+NJ	bD
+VpL	nVp
+NJ	bD
+VpL	nVp
+NJ	GN
+VpL	JFf
+NJ	GN
+Dn	GN
+VpL	nVp
+Ffb	JFf
+VpL	nVp
+NJ	GN
+Dn	bD
+VpL	JFf
+Dn	GN
+VpL	JFf
+NJ	GN
+MTZG	LMTZ
+Dn	bD
+VpL	nVp
+Ffb	JFf
+VpL	JFf
+MTZG	LMTZ

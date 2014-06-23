@@ -1,0 +1,89 @@
+Lexicon: Pv	ZV	ztk	DKb	dTpL	BlgG	
+
+Training Sentences:
+ztk
+ZV
+DKb
+BlgG
+ZV
+ztk
+BlgG
+ZV
+Pv
+DKb
+dTpL
+ztk
+dTpL
+DKb
+ztk
+DKb
+BlgG
+Pv
+Pv
+dTpL
+dTpL
+BlgG
+Pv
+ZV
+
+Test Items:
+dTpL	LBlg
+ztk	Vzt
+ZV	GP
+Pv	vZ
+BlgG	bdTp
+Pv	GP
+DKb	kDK
+dTpL	LBlg
+Pv	GP
+BlgG	bdTp
+Pv	GP
+ztk	kDK
+DKb	Vzt
+Pv	vZ
+DKb	kDK
+BlgG	bdTp
+DKb	kDK
+ztk	Vzt
+dTpL	LBlg
+Pv	GP
+ZV	vZ
+dTpL	bdTp
+ZV	GP
+Pv	vZ
+ztk	Vzt
+dTpL	LBlg
+BlgG	bdTp
+DKb	Vzt
+dTpL	LBlg
+DKb	Vzt
+ztk	kDK
+BlgG	bdTp
+DKb	kDK
+ztk	Vzt
+BlgG	LBlg
+Pv	vZ
+BlgG	bdTp
+ZV	GP
+BlgG	LBlg
+ZV	GP
+ztk	Vzt
+DKb	kDK
+ZV	GP
+ztk	Vzt
+DKb	kDK
+ztk	Vzt
+Pv	vZ
+DKb	Vzt
+Pv	GP
+DKb	Vzt
+Pv	GP
+dTpL	bdTp
+DKb	kDK
+BlgG	LBlg
+ztk	kDK
+DKb	Vzt
+ztk	kDK
+DKb	Vzt
+dTpL	bdTp
+ztk	kDK

@@ -1,0 +1,42 @@
+Lexicon: vf	GnB	Jbpd	gk	LZl	
+
+Training Sentences:
+vfJbpdGnBgk
+LZlgkJbpdGnB
+GnBgkvfLZl
+JbpdvfGnBLZl
+gkGnBLZlJbpd
+vfLZlGnBJbpd
+vfgkLZlJbpd
+
+Test Items:
+vf	dg
+Jbpd	BJbp
+LZl	fGn
+vf	lv
+Jbpd	BJbp
+GnB	fGn
+vf	lv
+Jbpd	BJbp
+gk	dg
+Jbpd	BJbp
+GnB	kLZ
+gk	lv
+LZl	kLZ
+Jbpd	BJbp
+vf	lv
+Jbpd	BJbp
+gk	dg
+Jbpd	BJbp
+GnB	fGn
+LZl	kLZ
+vf	dg
+Jbpd	BJbp
+GnB	fGn
+gk	lv
+vf	dg
+gk	lv
+Jbpd	BJbp
+gk	lv
+GnB	kLZ
+gk	lv

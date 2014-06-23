@@ -1,0 +1,185 @@
+Lexicon: tm	LgB	VdDv	Fz	
+
+Training Sentences:
+LgBtmVdDvFz
+VdDvtmLgBFz
+LgBVdDvFztm
+FztmLgBVdDv
+tmVdDvFzLgB
+LgBtmFzVdDv
+LgBVdDvtmFz
+LgBFztmVdDv
+VdDvLgBtmFz
+LgBVdDvFztm
+tmVdDvFzLgB
+FztmLgBVdDv
+FzLgBVdDvtm
+VdDvFztmLgB
+FzVdDvLgBtm
+FzLgBtmVdDv
+tmLgBVdDvFz
+VdDvtmFzLgB
+FzLgBVdDvtm
+tmFzLgBVdDv
+LgBVdDvtmFz
+tmLgBVdDvFz
+VdDvFztmLgB
+tmVdDvLgBFz
+LgBtmVdDvFz
+FzVdDvLgBtm
+tmVdDvFzLgB
+LgBVdDvFztm
+LgBVdDvtmFz
+VdDvFzLgBtm
+tmLgBFzVdDv
+FztmVdDvLgB
+FztmLgBVdDv
+VdDvtmFzLgB
+LgBFzVdDvtm
+tmLgBVdDvFz
+LgBVdDvFztm
+tmFzLgBVdDv
+FzLgBtmVdDv
+tmLgBFzVdDv
+FzLgBVdDvtm
+tmFzLgBVdDv
+FztmLgBVdDv
+VdDvFztmLgB
+VdDvtmLgBFz
+tmFzLgBVdDv
+VdDvLgBtmFz
+FztmVdDvLgB
+VdDvLgBtmFz
+LgBVdDvFztm
+VdDvLgBtmFz
+LgBtmVdDvFz
+VdDvtmLgBFz
+tmVdDvLgBFz
+VdDvtmFzLgB
+VdDvtmFzLgB
+FzVdDvtmLgB
+VdDvLgBtmFz
+FzVdDvLgBtm
+tmFzVdDvLgB
+tmFzLgBVdDv
+FztmVdDvLgB
+tmFzLgBVdDv
+VdDvFzLgBtm
+LgBFztmVdDv
+FzVdDvLgBtm
+LgBtmVdDvFz
+tmFzLgBVdDv
+FzLgBtmVdDv
+FzVdDvLgBtm
+VdDvtmLgBFz
+LgBFztmVdDv
+FzVdDvtmLgB
+tmLgBVdDvFz
+LgBFzVdDvtm
+LgBVdDvtmFz
+FztmLgBVdDv
+FzLgBtmVdDv
+VdDvLgBFztm
+VdDvLgBtmFz
+LgBtmVdDvFz
+tmVdDvFzLgB
+FztmLgBVdDv
+VdDvFztmLgB
+tmLgBFzVdDv
+VdDvFzLgBtm
+VdDvLgBFztm
+tmFzLgBVdDv
+VdDvLgBFztm
+LgBVdDvFztm
+FzLgBtmVdDv
+tmVdDvFzLgB
+VdDvFztmLgB
+FzVdDvtmLgB
+FztmLgBVdDv
+VdDvtmFzLgB
+FzVdDvtmLgB
+LgBVdDvFztm
+FzVdDvtmLgB
+VdDvtmFzLgB
+VdDvtmFzLgB
+tmFzLgBVdDv
+LgBVdDvtmFz
+VdDvtmFzLgB
+FzLgBVdDvtm
+VdDvLgBtmFz
+VdDvFztmLgB
+tmFzLgBVdDv
+LgBtmVdDvFz
+FzLgBtmVdDv
+tmLgBFzVdDv
+VdDvLgBFztm
+tmFzVdDvLgB
+LgBtmVdDvFz
+LgBVdDvtmFz
+VdDvLgBFztm
+LgBFztmVdDv
+VdDvLgBFztm
+tmFzVdDvLgB
+VdDvLgBFztm
+FzLgBtmVdDv
+tmLgBVdDvFz
+VdDvtmLgBFz
+FzLgBtmVdDv
+tmLgBFzVdDv
+VdDvLgBtmFz
+VdDvtmFzLgB
+VdDvFztmLgB
+FzVdDvtmLgB
+VdDvLgBFztm
+LgBtmVdDvFz
+LgBFztmVdDv
+LgBtmFzVdDv
+FzVdDvtmLgB
+FzLgBtmVdDv
+LgBVdDvtmFz
+FzLgBVdDvtm
+tmVdDvLgBFz
+FzVdDvLgBtm
+tmLgBFzVdDv
+VdDvtmFzLgB
+VdDvFzLgBtm
+VdDvLgBFztm
+tmLgBFzVdDv
+LgBtmVdDvFz
+VdDvFzLgBtm
+FzVdDvLgBtm
+VdDvLgBFztm
+tmVdDvFzLgB
+VdDvLgBtmFz
+
+Test Items:
+Fz	zt
+tm	zt
+VdDv	BVdD
+LgB	mLg
+Fz	vF
+tm	zt
+Fz	zt
+tm	vF
+LgB	mLg
+tm	vF
+LgB	mLg
+tm	zt
+VdDv	BVdD
+tm	vF
+LgB	mLg
+VdDv	BVdD
+tm	vF
+LgB	mLg
+Fz	vF
+tm	vF
+Fz	zt
+LgB	mLg
+tm	zt
+LgB	mLg
+VdDv	BVdD
+Fz	zt
+LgB	mLg
+Fz	vF
+LgB	mLg
+VdDv	BVdD

@@ -1,0 +1,38 @@
+Lexicon: pivA	lugi	dAgudu	kizivu	tipAbAtu	lAzukAbi	
+
+Training Sentences:
+kizivutipAbAtupivAdAgudulAzukAbitipAbAtukizivulAzukAbilugidAgudulugipivA
+kizivutipAbAtupivAkizivudAgudulugilAzukAbilugitipAbAtulAzukAbidAgudupivA
+kizivulAzukAbilugilAzukAbipivAkizivulugitipAbAtupivAdAgudutipAbAtudAgudu
+
+Test Items:
+pivA	Abip
+dAgudu	udukiz
+lAzukAbi	ivutipAb
+pivA	ivAl
+lugi	Abip
+kizivu	udukiz
+lugi	Abip
+lAzukAbi	ivutipAb
+kizivu	udukiz
+lAzukAbi	ivutipAb
+pivA	Abip
+kizivu	ugidAg
+dAgudu	udukiz
+tipAbAtu	ivutipAb
+lAzukAbi	ivutipAb
+lugi	ivAl
+dAgudu	udukiz
+kizivu	udukiz
+pivA	Abip
+lugi	ivAl
+dAgudu	ugidAg
+lAzukAbi	AtulAzuk
+kizivu	udukiz
+dAgudu	ugidAg
+kizivu	udukiz
+tipAbAtu	AtulAzuk
+kizivu	udukiz
+lugi	ivAl
+pivA	ivAl
+tipAbAtu	AtulAzuk

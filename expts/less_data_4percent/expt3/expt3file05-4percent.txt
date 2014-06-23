@@ -1,0 +1,41 @@
+Lexicon: bV	fnd	BFzt	
+
+Training Sentences:
+bVBFztfndbV
+fndbVBFztbV
+bVBFztfndbV
+BFztfndBFztfnd
+fndbVBFztfnd
+bVBFztfndBFzt
+
+Test Items:
+bV	tb
+fnd	Vfn
+BFzt	dBFz
+fnd	Vfn
+bV	tb
+BFzt	dBFz
+bV	tb
+BFzt	dBFz
+bV	tb
+fnd	Vfn
+bV	tb
+fnd	Vfn
+bV	tb
+BFzt	dBFz
+bV	tb
+BFzt	dBFz
+fnd	Vfn
+BFzt	dBFz
+fnd	Vfn
+BFzt	dBFz
+fnd	Vfn
+BFzt	dBFz
+fnd	Vfn
+BFzt	dBFz
+fnd	Vfn
+bV	tb
+BFzt	dBFz
+bV	tb
+BFzt	dBFz
+bV	tb

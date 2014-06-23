@@ -1,0 +1,45 @@
+Lexicon: gb	zPD	Rldr	GF	TfZ	
+
+Training Sentences:
+TfZgbGFRldr
+gbzPDRldrGF
+zPDRldrGFgb
+RldrgbzPDTfZ
+gbTfZzPDGF
+RldrzPDGFTfZ
+gbTfZRldrzPD
+zPDRldrgbTfZ
+GFTfZgbzPD
+RldrGFTfZGF
+
+Test Items:
+GF	rG
+Rldr	DRld
+gb	Zg
+TfZ	FTf
+gb	rG
+Rldr	DRld
+gb	rG
+zPD	FTf
+TfZ	bzP
+zPD	FTf
+TfZ	bzP
+GF	rG
+zPD	FTf
+TfZ	bzP
+Rldr	DRld
+TfZ	bzP
+zPD	FTf
+GF	Zg
+Rldr	DRld
+zPD	bzP
+Rldr	DRld
+zPD	bzP
+TfZ	bzP
+zPD	FTf
+gb	Zg
+GF	rG
+TfZ	bzP
+GF	Zg
+Rldr	DRld
+zPD	bzP

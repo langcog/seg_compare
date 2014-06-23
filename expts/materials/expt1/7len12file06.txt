@@ -1,0 +1,37 @@
+Lexicon: lAki	bizu	vugibA	tupAdu	lupidAgu	kAtivAzi	
+
+Training Sentences:
+lAkikAtivAzibizutupAdulAkitupAdulupidAguvugibAkAtivAzilupidAgubizuvugibA
+lupidAgulAkivugibAlAkikAtivAzivugibAtupAdulupidAgubizukAtivAzitupAdubizu
+
+Test Items:
+lAki	Azil
+tupAdu	izuvug
+lAki	Azil
+lupidAgu	AgukAtiv
+kAtivAzi	Adulupid
+bizu	Azil
+lAki	Akib
+vugibA	ibAtup
+lAki	Azil
+tupAdu	ibAtup
+kAtivAzi	Adulupid
+tupAdu	ibAtup
+vugibA	izuvug
+lupidAgu	Adulupid
+bizu	Akib
+lAki	Azil
+kAtivAzi	Adulupid
+vugibA	ibAtup
+kAtivAzi	AgukAtiv
+tupAdu	izuvug
+lupidAgu	AgukAtiv
+tupAdu	izuvug
+vugibA	ibAtup
+tupAdu	ibAtup
+bizu	Azil
+tupAdu	ibAtup
+lAki	Azil
+bizu	Akib
+lupidAgu	Adulupid
+bizu	Akib

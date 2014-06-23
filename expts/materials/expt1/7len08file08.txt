@@ -1,0 +1,38 @@
+Lexicon: tubi	dAkA	bAkipA	tiluvA	dugizulA	guzipivu	
+
+Training Sentences:
+guzipivudAkAbAkipAtiluvAdAkAbAkipAguzipivudugizulA
+dAkAdugizulAguzipivutubitiluvAbAkipAguzipivudugizulA
+tubiguzipivutubidAkAdugizulAtiluvAbAkipAtiluvA
+
+Test Items:
+guzipivu	ulAguzip
+dugizulA	uvAdugiz
+tiluvA	AkAbAk
+guzipivu	uvAdugiz
+dugizulA	ulAguzip
+bAkipA	AkAbAk
+guzipivu	ulAguzip
+tiluvA	ipAtil
+guzipivu	ulAguzip
+dAkA	ubid
+dugizulA	ulAguzip
+tiluvA	AkAbAk
+dugizulA	ulAguzip
+tubi	ivut
+tiluvA	AkAbAk
+tubi	ivut
+tiluvA	ipAtil
+dugizulA	uvAdugiz
+bAkipA	AkAbAk
+dugizulA	uvAdugiz
+dAkA	ivut
+guzipivu	ulAguzip
+tubi	ivut
+tiluvA	ipAtil
+bAkipA	AkAbAk
+guzipivu	ulAguzip
+dugizulA	uvAdugiz
+tubi	ubid
+guzipivu	uvAdugiz
+tiluvA	AkAbAk

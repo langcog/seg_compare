@@ -1,0 +1,63 @@
+Lexicon: lubi	bAgu	dukAvA	gipipA	tuzutivu	dAkizilA	
+
+Training Sentences:
+lubi
+bAgu
+dAkizilA
+dukAvA
+lubi
+bAgu
+dukAvA
+tuzutivu
+tuzutivu
+dAkizilA
+gipipA
+lubi
+tuzutivu
+dukAvA
+tuzutivu
+gipipA
+dukAvA
+dukAvA
+gipipA
+gipipA
+gipipA
+lubi
+bAgu
+tuzutivu
+dAkizilA
+dAkizilA
+bAgu
+bAgu
+
+Test Items:
+bAgu	ilAl
+gipipA	AvAgip
+dukAvA	Aguduk
+bAgu	ilAl
+tuzutivu	ivudAkiz
+lubi	ubib
+dAkizilA	ipAtuzut
+bAgu	ubib
+tuzutivu	ivudAkiz
+dAkizilA	ipAtuzut
+dukAvA	Aguduk
+gipipA	AvAgip
+dukAvA	AvAgip
+gipipA	Aguduk
+tuzutivu	ivudAkiz
+dAkizilA	ipAtuzut
+gipipA	AvAgip
+tuzutivu	ipAtuzut
+dAkizilA	ivudAkiz
+tuzutivu	ipAtuzut
+bAgu	ubib
+tuzutivu	ipAtuzut
+bAgu	ilAl
+lubi	ilAl
+dAkizilA	ipAtuzut
+dukAvA	Aguduk
+lubi	ilAl
+dukAvA	AvAgip
+tuzutivu	ipAtuzut
+lubi	ubib

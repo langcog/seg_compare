@@ -1,0 +1,40 @@
+Lexicon: pAbi	vAkA	kigiti	gutuvu	dubApizu	lAdAzilu	
+
+Training Sentences:
+dubApizugutuvudubApizukigitipAbikigitilAdAziluvAkA
+dubApizupAbikigitilAdAzilukigitipAbigutuvulAdAzilu
+gutuvuvAkAlAdAzilugutuvuvAkAdubApizulAdAzilukigiti
+pAbivAkApAbidubApizuvAkAkigitigutuvudubApizu
+lAdAziluvAkApAbivAkApAbigutuvudubApizukigiti
+
+Test Items:
+kigiti	itigut
+vAkA	ilup
+dubApizu	izulAdAz
+pAbi	Abiv
+dubApizu	uvudubAp
+kigiti	AkAkig
+gutuvu	itigut
+dubApizu	uvudubAp
+pAbi	ilup
+lAdAzilu	izulAdAz
+pAbi	Abiv
+kigiti	AkAkig
+lAdAzilu	uvudubAp
+dubApizu	izulAdAz
+gutuvu	itigut
+dubApizu	izulAdAz
+lAdAzilu	uvudubAp
+gutuvu	itigut
+vAkA	Abiv
+dubApizu	uvudubAp
+gutuvu	AkAkig
+dubApizu	izulAdAz
+kigiti	AkAkig
+pAbi	Abiv
+dubApizu	uvudubAp
+pAbi	ilup
+dubApizu	izulAdAz
+gutuvu	AkAkig
+lAdAzilu	uvudubAp
+pAbi	ilup

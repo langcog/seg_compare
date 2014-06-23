@@ -1,0 +1,40 @@
+Lexicon: gulA	pApi	vuvAlu	dAzubi	tukAdugi	kitizibA	
+
+Training Sentences:
+gulAdAzubikitizibAtukAdugivuvAludAzubigulAvuvAlu
+kitizibAgulAvuvAlugulApApikitizibAvuvAludAzubi
+vuvAlutukAdugigulAvuvAludAzubipApitukAdugikitizibA
+tukAdugikitizibAdAzubikitizibApApitukAdugidAzubivuvAlu
+tukAdugikitizibApApigulAtukAdugigulApApidAzubi
+
+Test Items:
+dAzubi	AludAz
+gulA	ibAg
+vuvAlu	Apivuv
+dAzubi	AludAz
+pApi	ulAp
+dAzubi	AludAz
+vuvAlu	Apivuv
+gulA	ulAp
+tukAdugi	ubitukAd
+vuvAlu	AludAz
+gulA	ulAp
+dAzubi	AludAz
+pApi	ibAg
+kitizibA	ubitukAd
+tukAdugi	ugikitiz
+kitizibA	ubitukAd
+dAzubi	Apivuv
+pApi	ibAg
+kitizibA	ugikitiz
+dAzubi	AludAz
+vuvAlu	Apivuv
+tukAdugi	ugikitiz
+gulA	ulAp
+kitizibA	ugikitiz
+gulA	ulAp
+dAzubi	Apivuv
+tukAdugi	ugikitiz
+vuvAlu	AludAz
+dAzubi	Apivuv
+gulA	ulAp

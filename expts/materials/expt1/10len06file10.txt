@@ -1,0 +1,41 @@
+Lexicon: vAvu	lubA	gukAgi	pAdubi	tukitidA	zulApizi	
+
+Training Sentences:
+tukitidAvAvuzulApizipAdubigukAgilubA
+lubAtukitidApAdubizulApizivAvugukAgi
+vAvulubAtukitidApAdubizulApizigukAgi
+gukAgilubAzulApizivAvutukitidApAdubi
+pAdubizulApizilubAtukitidAvAvugukAgi
+vAvupAdubizulApizitukitidAgukAgilubA
+
+Test Items:
+vAvu	iziv
+pAdubi	ubAguk
+vAvu	iziv
+zulApizi	idAzulAp
+gukAgi	AgipAd
+zulApizi	ubitukit
+tukitidA	ubitukit
+gukAgi	AgipAd
+zulApizi	ubitukit
+vAvu	Avul
+gukAgi	AgipAd
+lubA	iziv
+vAvu	Avul
+lubA	iziv
+tukitidA	ubitukit
+gukAgi	AgipAd
+zulApizi	idAzulAp
+vAvu	Avul
+tukitidA	ubitukit
+pAdubi	AgipAd
+lubA	Avul
+gukAgi	ubAguk
+vAvu	Avul
+zulApizi	idAzulAp
+vAvu	Avul
+tukitidA	ubitukit
+gukAgi	ubAguk
+vAvu	iziv
+zulApizi	idAzulAp
+pAdubi	ubAguk

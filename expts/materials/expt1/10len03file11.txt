@@ -1,0 +1,48 @@
+Lexicon: tizu	kAvA	pikibi	dAvulA	tubAgizi	pAguludu	
+
+Training Sentences:
+pikibikAvAtubAgizi
+tizupikibitubAgizi
+dAvulAtubAgizikAvA
+pAguludutubAgizikAvA
+kAvAtizupAguludu
+tizudAvulApikibi
+tizukAvApikibi
+tubAgizidAvulApikibi
+pAguludukAvAdAvulA
+tubAgizidAvulApikibi
+pAguludutizudAvulA
+dAvulApikibipAguludu
+pAguludutizutubAgizi
+
+Test Items:
+pAguludu	izipAgul
+dAvulA	AvApik
+kAvA	izuk
+dAvulA	AvApik
+tizu	udut
+tubAgizi	izipAgul
+tizu	izuk
+kAvA	udut
+tizu	izuk
+pikibi	AvApik
+kAvA	izuk
+tubAgizi	ulAtubAg
+dAvulA	AvApik
+kAvA	udut
+tizu	izuk
+pAguludu	ulAtubAg
+pikibi	AvApik
+tizu	izuk
+tubAgizi	ulAtubAg
+pikibi	ibidAv
+tubAgizi	ulAtubAg
+dAvulA	AvApik
+pAguludu	ulAtubAg
+dAvulA	AvApik
+pikibi	ibidAv
+pAguludu	ulAtubAg
+dAvulA	AvApik
+tubAgizi	ulAtubAg
+kAvA	izuk
+pAguludu	ulAtubAg

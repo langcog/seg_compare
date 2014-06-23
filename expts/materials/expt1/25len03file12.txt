@@ -1,0 +1,118 @@
+Lexicon: bivu	tikA	kizipA	zupigi	vAgudubA	lAdAlutu	
+
+Training Sentences:
+vAgudubAlAdAlutubivu
+kizipAvAgudubAzupigi
+vAgudubAtikAzupigi
+tikAvAgudubAbivu
+lAdAlutuzupigivAgudubA
+tikAlAdAlutukizipA
+lAdAlutuvAgudubAbivu
+tikAbivulAdAlutu
+vAgudubAlAdAlutubivu
+kizipAzupigitikA
+tikAkizipAzupigi
+zupigibivukizipA
+lAdAlutubivuzupigi
+
+Test Items:
+tikA	ivut
+bivu	ivut
+zupigi	ipAzup
+vAgudubA	ubAlAdAl
+kizipA	ipAzup
+vAgudubA	igivAgud
+kizipA	ikAkiz
+zupigi	ipAzup
+vAgudubA	ubAlAdAl
+zupigi	ikAkiz
+lAdAlutu	ubAlAdAl
+tikA	ivut
+kizipA	ikAkiz
+tikA	utub
+kizipA	ikAkiz
+bivu	ivut
+kizipA	ipAzup
+vAgudubA	ubAlAdAl
+lAdAlutu	igivAgud
+tikA	ivut
+lAdAlutu	igivAgud
+vAgudubA	ubAlAdAl
+kizipA	ipAzup
+lAdAlutu	ubAlAdAl
+tikA	ivut
+vAgudubA	ubAlAdAl
+kizipA	ipAzup
+bivu	utub
+lAdAlutu	ubAlAdAl
+bivu	utub
+vAgudubA	ubAlAdAl
+kizipA	ikAkiz
+zupigi	ikAkiz
+bivu	ivut
+vAgudubA	igivAgud
+tikA	utub
+lAdAlutu	igivAgud
+vAgudubA	ubAlAdAl
+bivu	ivut
+zupigi	ipAzup
+tikA	ivut
+kizipA	ipAzup
+tikA	ivut
+kizipA	ipAzup
+vAgudubA	ubAlAdAl
+zupigi	ipAzup
+vAgudubA	ubAlAdAl
+bivu	ivut
+kizipA	ipAzup
+lAdAlutu	ubAlAdAl
+bivu	ivut
+vAgudubA	ubAlAdAl
+zupigi	ikAkiz
+vAgudubA	igivAgud
+kizipA	ipAzup
+tikA	ivut
+lAdAlutu	igivAgud
+bivu	ivut
+vAgudubA	ubAlAdAl
+bivu	ivut
+vAgudubA	igivAgud
+bivu	utub
+lAdAlutu	igivAgud
+kizipA	ipAzup
+tikA	utub
+lAdAlutu	ubAlAdAl
+bivu	utub
+kizipA	ipAzup
+zupigi	ikAkiz
+bivu	ivut
+kizipA	ipAzup
+lAdAlutu	igivAgud
+vAgudubA	ubAlAdAl
+zupigi	ipAzup
+bivu	utub
+kizipA	ikAkiz
+bivu	ivut
+vAgudubA	igivAgud
+lAdAlutu	ubAlAdAl
+zupigi	ipAzup
+bivu	utub
+zupigi	ikAkiz
+tikA	ivut
+vAgudubA	igivAgud
+zupigi	ikAkiz
+vAgudubA	igivAgud
+bivu	utub
+zupigi	ikAkiz
+kizipA	ipAzup
+vAgudubA	ubAlAdAl
+zupigi	ipAzup
+tikA	ivut
+kizipA	ipAzup
+tikA	utub
+zupigi	ikAkiz
+kizipA	ipAzup
+tikA	ivut
+bivu	utub
+tikA	ivut
+kizipA	ikAkiz

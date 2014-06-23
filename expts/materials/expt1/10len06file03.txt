@@ -1,0 +1,41 @@
+Lexicon: bAvu	pAvA	ziduti	bikAgu	ludAgiki	tulAzupi	
+
+Training Sentences:
+ludAgikibikAgutulAzupizidutibAvupAvA
+bAvuludAgikitulAzupibikAgupAvAziduti
+zidutiludAgikibAvupAvAtulAzupibikAgu
+zidutiludAgikibikAgubAvupAvAtulAzupi
+tulAzupibAvubikAguludAgikizidutipAvA
+bAvutulAzupipAvAzidutibikAguludAgiki
+
+Test Items:
+bikAgu	utibik
+pAvA	Avup
+bikAgu	utibik
+tulAzupi	ikitulAz
+bikAgu	utibik
+pAvA	upib
+ludAgiki	AguludAg
+ziduti	AvAzid
+tulAzupi	ikitulAz
+ziduti	utibik
+ludAgiki	ikitulAz
+pAvA	upib
+tulAzupi	ikitulAz
+bAvu	Avup
+tulAzupi	ikitulAz
+pAvA	Avup
+ludAgiki	ikitulAz
+bikAgu	AvAzid
+bAvu	Avup
+bikAgu	utibik
+tulAzupi	ikitulAz
+bikAgu	utibik
+ludAgiki	AguludAg
+bikAgu	AvAzid
+tulAzupi	AguludAg
+pAvA	upib
+ziduti	AvAzid
+pAvA	upib
+bAvu	Avup
+pAvA	upib

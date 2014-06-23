@@ -1,0 +1,185 @@
+Lexicon: vt	rVn	DflG	
+
+Training Sentences:
+vtDflGvtrVn
+rVnrVnvtvt
+rVnrVnvtDflG
+vtvtrVnDflG
+vtrVnrVnDflG
+vtDflGDflGvt
+vtDflGrVnDflG
+DflGrVnvtvt
+DflGvtvtDflG
+vtvtDflGrVn
+vtrVnvtrVn
+rVnDflGDflGvt
+rVnrVnDflGvt
+DflGDflGrVnrVn
+rVnvtDflGDflG
+DflGDflGrVnrVn
+vtrVnrVnDflG
+vtDflGrVnrVn
+vtDflGrVnrVn
+vtDflGvtDflG
+vtDflGDflGvt
+DflGvtrVnDflG
+rVnDflGvtDflG
+DflGvtDflGvt
+vtDflGDflGvt
+vtvtrVnDflG
+rVnvtDflGvt
+rVnvtDflGDflG
+rVnrVnDflGDflG
+DflGDflGvtvt
+DflGrVnvtrVn
+DflGvtvtrVn
+vtvtrVnDflG
+vtrVnrVnvt
+vtDflGDflGrVn
+rVnDflGrVnvt
+rVnDflGDflGrVn
+rVnDflGvtrVn
+vtvtrVnrVn
+rVnvtrVnvt
+rVnDflGDflGrVn
+rVnrVnvtvt
+vtvtDflGDflG
+vtvtrVnDflG
+rVnrVnvtDflG
+vtDflGvtrVn
+DflGvtrVnrVn
+rVnDflGrVnDflG
+vtvtDflGrVn
+vtrVnvtDflG
+vtDflGDflGrVn
+rVnvtDflGvt
+DflGrVnDflGvt
+vtrVnDflGvt
+rVnvtrVnvt
+DflGvtrVnDflG
+vtDflGvtrVn
+DflGrVnvtDflG
+rVnrVnvtDflG
+vtrVnDflGvt
+DflGDflGrVnrVn
+DflGvtDflGrVn
+rVnrVnDflGDflG
+DflGvtrVnrVn
+DflGvtDflGrVn
+DflGDflGrVnrVn
+rVnvtrVnDflG
+rVnvtrVnvt
+vtvtrVnrVn
+DflGrVnvtvt
+rVnvtDflGrVn
+vtvtrVnrVn
+vtDflGrVnDflG
+vtrVnvtrVn
+rVnDflGDflGvt
+rVnDflGvtvt
+rVnrVnDflGDflG
+vtDflGrVnDflG
+rVnrVnDflGDflG
+rVnDflGDflGvt
+vtDflGrVnrVn
+vtvtrVnrVn
+vtDflGvtrVn
+rVnDflGDflGvt
+rVnrVnvtvt
+vtvtrVnrVn
+rVnDflGDflGvt
+vtvtrVnrVn
+DflGvtvtrVn
+vtvtrVnDflG
+DflGDflGrVnvt
+vtDflGrVnrVn
+DflGvtDflGvt
+vtDflGvtDflG
+DflGDflGrVnvt
+rVnDflGvtDflG
+DflGrVnDflGvt
+DflGvtrVnvt
+vtvtDflGDflG
+vtvtDflGrVn
+rVnDflGDflGvt
+DflGrVnDflGrVn
+DflGrVnrVnDflG
+vtvtrVnDflG
+vtvtrVnDflG
+DflGrVnrVnvt
+vtvtrVnDflG
+rVnDflGvtrVn
+vtDflGDflGrVn
+DflGvtrVnDflG
+vtrVnDflGrVn
+DflGDflGrVnrVn
+rVnrVnvtvt
+vtDflGrVnDflG
+vtrVnrVnDflG
+rVnvtDflGrVn
+DflGvtrVnDflG
+DflGvtvtrVn
+vtrVnvtDflG
+vtDflGDflGrVn
+vtvtrVnrVn
+DflGrVnvtDflG
+DflGrVnDflGrVn
+vtvtrVnrVn
+rVnrVnDflGDflG
+vtDflGvtDflG
+rVnrVnDflGDflG
+vtrVnDflGvt
+DflGDflGrVnvt
+DflGDflGrVnvt
+DflGvtDflGrVn
+rVnDflGrVnDflG
+DflGDflGvtvt
+rVnvtvtrVn
+rVnrVnvtvt
+rVnrVnvtDflG
+DflGvtrVnrVn
+vtvtrVnDflG
+rVnrVnDflGvt
+vtDflGvtDflG
+DflGvtDflGvt
+vtDflGrVnrVn
+vtrVnrVnvt
+vtvtDflGrVn
+DflGDflGvtrVn
+rVnDflGvtDflG
+DflGrVnvtvt
+DflGDflGvtrVn
+DflGvtvtDflG
+DflGDflGrVnrVn
+
+Test Items:
+rVn	trV
+DflG	nDfl
+vt	Gv
+rVn	trV
+vt	Gv
+rVn	trV
+DflG	nDfl
+vt	Gv
+rVn	trV
+DflG	nDfl
+rVn	trV
+vt	Gv
+DflG	nDfl
+rVn	trV
+DflG	nDfl
+rVn	trV
+DflG	nDfl
+rVn	trV
+vt	Gv
+rVn	trV
+vt	Gv
+DflG	nDfl
+rVn	trV
+vt	Gv
+DflG	nDfl
+rVn	trV
+DflG	nDfl
+rVn	trV
+vt	Gv
+rVn	trV

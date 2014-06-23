@@ -1,0 +1,49 @@
+Lexicon: pibA	duki	tulAzu	gikAzi	vAvubipA	dAguluti	
+
+Training Sentences:
+tulAzuduki
+dAgulutigikAzi
+gikAzidAguluti
+pibAdAguluti
+vAvubipAduki
+tulAzuvAvubipA
+dAgulutipibA
+tulAzuduki
+gikAzidAguluti
+dukivAvubipA
+tulAzugikAzi
+vAvubipApibA
+pibAvAvubipA
+tulAzupibA
+
+Test Items:
+vAvubipA	AzivAvub
+tulAzu	Azugik
+vAvubipA	AzivAvub
+dAguluti	ipAdAgul
+duki	utip
+vAvubipA	AzivAvub
+duki	ibAd
+dAguluti	ipAdAgul
+pibA	ibAd
+vAvubipA	ipAdAgul
+duki	utip
+gikAzi	ukitul
+duki	ibAd
+tulAzu	Azugik
+duki	utip
+dAguluti	AzivAvub
+gikAzi	ukitul
+dAguluti	AzivAvub
+tulAzu	Azugik
+dAguluti	AzivAvub
+pibA	utip
+gikAzi	Azugik
+tulAzu	ukitul
+dAguluti	ipAdAgul
+gikAzi	Azugik
+tulAzu	ukitul
+dAguluti	ipAdAgul
+duki	ibAd
+dAguluti	ipAdAgul
+vAvubipA	AzivAvub

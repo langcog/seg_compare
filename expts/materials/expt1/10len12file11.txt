@@ -1,0 +1,38 @@
+Lexicon: kizu	kAvA	dubAbi	vugizi	dApilAtu	pAgutilu	
+
+Training Sentences:
+dubAbipAgutilukizupAgutilukAvAdApilAtukAvAkizuvugizidubAbidApilAtuvugizi
+dubAbikizudApilAtupAgutiluvugizidubAbikizukAvApAgutiluvugizidApilAtukAvA
+dApilAtudubAbipAgutiludubAbivugizikizukAvAvugizikizudApilAtukAvApAgutilu
+
+Test Items:
+vugizi	AvAdub
+pAgutilu	AtupAgut
+dubAbi	Abivug
+vugizi	AvAdub
+dApilAtu	izidApil
+kAvA	izuk
+dApilAtu	izidApil
+dubAbi	AvAdub
+kAvA	iluk
+dApilAtu	izidApil
+kAvA	izuk
+dApilAtu	izidApil
+kizu	iluk
+kAvA	iluk
+dubAbi	Abivug
+vugizi	AvAdub
+dApilAtu	AtupAgut
+kizu	izuk
+pAgutilu	izidApil
+vugizi	Abivug
+kAvA	iluk
+kizu	izuk
+kAvA	iluk
+pAgutilu	izidApil
+dubAbi	AvAdub
+kizu	iluk
+kAvA	iluk
+pAgutilu	izidApil
+kAvA	izuk
+dubAbi	AvAdub

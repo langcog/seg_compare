@@ -1,0 +1,145 @@
+Lexicon: dAki	pitu	lukAgu	gilAzi	bivubAvA	tipAzudu	
+
+Training Sentences:
+pitu
+lukAgu
+lukAgu
+bivubAvA
+tipAzudu
+gilAzi
+lukAgu
+bivubAvA
+gilAzi
+dAki
+gilAzi
+gilAzi
+lukAgu
+pitu
+dAki
+tipAzudu
+tipAzudu
+lukAgu
+dAki
+tipAzudu
+pitu
+lukAgu
+gilAzi
+bivubAvA
+tipAzudu
+dAki
+bivubAvA
+lukAgu
+tipAzudu
+bivubAvA
+pitu
+bivubAvA
+tipAzudu
+gilAzi
+dAki
+gilAzi
+dAki
+dAki
+bivubAvA
+pitu
+
+Test Items:
+dAki	udud
+pitu	udud
+dAki	Akip
+pitu	udud
+bivubAvA	AvAtipAz
+pitu	Akip
+bivubAvA	AvAtipAz
+gilAzi	Agugil
+lukAgu	ituluk
+pitu	Akip
+dAki	udud
+bivubAvA	AvAtipAz
+gilAzi	Agugil
+tipAzudu	Azibivub
+gilAzi	Agugil
+bivubAvA	Azibivub
+gilAzi	ituluk
+lukAgu	Agugil
+tipAzudu	Azibivub
+dAki	udud
+tipAzudu	AvAtipAz
+bivubAvA	Azibivub
+gilAzi	ituluk
+pitu	udud
+lukAgu	Agugil
+gilAzi	ituluk
+dAki	Akip
+gilAzi	ituluk
+pitu	Akip
+gilAzi	Agugil
+dAki	udud
+lukAgu	ituluk
+pitu	Akip
+tipAzudu	Azibivub
+bivubAvA	AvAtipAz
+lukAgu	Agugil
+tipAzudu	Azibivub
+bivubAvA	Azibivub
+pitu	udud
+bivubAvA	AvAtipAz
+dAki	Akip
+pitu	udud
+dAki	Akip
+pitu	udud
+lukAgu	ituluk
+pitu	udud
+tipAzudu	AvAtipAz
+pitu	udud
+gilAzi	Agugil
+dAki	Akip
+lukAgu	Agugil
+bivubAvA	Azibivub
+lukAgu	ituluk
+dAki	Akip
+pitu	Akip
+lukAgu	ituluk
+bivubAvA	Azibivub
+pitu	Akip
+gilAzi	ituluk
+pitu	udud
+bivubAvA	Azibivub
+gilAzi	Agugil
+bivubAvA	Azibivub
+gilAzi	Agugil
+pitu	udud
+gilAzi	ituluk
+tipAzudu	AvAtipAz
+bivubAvA	Azibivub
+lukAgu	ituluk
+tipAzudu	AvAtipAz
+pitu	udud
+gilAzi	ituluk
+pitu	Akip
+gilAzi	Agugil
+dAki	udud
+bivubAvA	AvAtipAz
+dAki	udud
+tipAzudu	AvAtipAz
+gilAzi	Agugil
+lukAgu	ituluk
+pitu	udud
+tipAzudu	Azibivub
+gilAzi	Agugil
+lukAgu	ituluk
+tipAzudu	AvAtipAz
+bivubAvA	Azibivub
+dAki	Akip
+gilAzi	Agugil
+pitu	udud
+lukAgu	ituluk
+gilAzi	Agugil
+bivubAvA	AvAtipAz
+gilAzi	Agugil
+lukAgu	ituluk
+pitu	Akip
+gilAzi	ituluk
+tipAzudu	AvAtipAz
+bivubAvA	Azibivub
+pitu	Akip
+tipAzudu	AvAtipAz

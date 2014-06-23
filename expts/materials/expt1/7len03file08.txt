@@ -1,0 +1,44 @@
+Lexicon: zupi	kAvA	pAlAti	zivulu	gidugutu	kidAbAbi	
+
+Training Sentences:
+zivulupAlAtikidAbAbi
+zivuluzupikAvA
+zupigidugutukidAbAbi
+kAvAgidugutuzupi
+pAlAtigidugutuzivulu
+zivulupAlAtikAvA
+pAlAtizivulukidAbAbi
+zupipAlAtigidugutu
+kAvAkidAbAbizupi
+
+Test Items:
+pAlAti	AvApAl
+kidAbAbi	utukidAb
+zivulu	Atiziv
+gidugutu	utukidAb
+kidAbAbi	utukidAb
+zupi	Abiz
+gidugutu	ulugidug
+kAvA	Abiz
+zivulu	AvApAl
+zupi	upik
+pAlAti	AvApAl
+kidAbAbi	ulugidug
+zupi	upik
+gidugutu	ulugidug
+pAlAti	AvApAl
+gidugutu	ulugidug
+zivulu	AvApAl
+kAvA	Abiz
+pAlAti	Atiziv
+kAvA	Abiz
+zupi	Abiz
+gidugutu	utukidAb
+zivulu	Atiziv
+kidAbAbi	utukidAb
+zupi	upik
+gidugutu	utukidAb
+kAvA	upik
+zivulu	AvApAl
+pAlAti	Atiziv
+kAvA	upik

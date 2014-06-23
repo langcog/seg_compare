@@ -1,0 +1,41 @@
+Lexicon: Nk	pPf	KJbB	Tt	zGd	LgmV	
+
+Training Sentences:
+pPfLgmVTtzGd
+pPfTtNkzGd
+zGdTtKJbBpPf
+NkzGdKJbBLgmV
+NkTtKJbBLgmV
+NkLgmVKJbBpPf
+
+Test Items:
+pPf	tzG
+Tt	BT
+pPf	kpP
+LgmV	dLgm
+zGd	tzG
+Nk	VN
+KJbB	fKJb
+Tt	VN
+KJbB	fKJb
+LgmV	fKJb
+KJbB	dLgm
+Nk	BT
+Tt	BT
+pPf	kpP
+KJbB	dLgm
+Tt	BT
+LgmV	fKJb
+Tt	VN
+Nk	BT
+LgmV	fKJb
+Tt	VN
+zGd	kpP
+Nk	BT
+zGd	tzG
+Tt	BT
+zGd	kpP
+pPf	tzG
+zGd	kpP
+Nk	BT
+zGd	tzG

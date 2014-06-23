@@ -1,0 +1,60 @@
+Lexicon: gM	dvK	zrfB	Dl	nFZ	bVNm	
+
+Training Sentences:
+DldvKgMbVNm
+nFZDlgMbVNm
+DlnFZgMbVNm
+nFZzrfBDldvK
+nFZdvKzrfBbVNm
+nFZzrfBDlgM
+bVNmzrfBnFZgM
+bVNmzrfBnFZdvK
+dvKDlgMnFZ
+dvKgMzrfBDl
+zrfBdvKnFZDl
+dvKzrfBgMnFZ
+nFZdvKbVNmDl
+DldvKbVNmnFZ
+DlgMdvKnFZ
+DlnFZgMbVNm
+dvKbVNmDlgM
+bVNmzrfBgMnFZ
+dvKnFZbVNmgM
+DlbVNmzrfBdvK
+zrfBdvKbVNmgM
+zrfBdvKDlnFZ
+zrfBgMDlbVNm
+zrfBgMbVNmdvK
+gMzrfBDlbVNm
+
+Test Items:
+Dl	mg
+zrfB	ZbVN
+gM	mg
+Dl	BD
+dvK	Mdv
+Dl	BD
+zrfB	Kzrf
+Dl	mg
+dvK	Mdv
+bVNm	Kzrf
+nFZ	lnF
+gM	BD
+zrfB	Kzrf
+bVNm	ZbVN
+gM	mg
+Dl	BD
+zrfB	ZbVN
+bVNm	Kzrf
+nFZ	Mdv
+bVNm	ZbVN
+nFZ	Mdv
+bVNm	ZbVN
+dvK	Mdv
+zrfB	ZbVN
+nFZ	Mdv
+zrfB	ZbVN
+bVNm	Kzrf
+zrfB	ZbVN
+gM	BD
+zrfB	ZbVN

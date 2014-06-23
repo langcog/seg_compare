@@ -1,0 +1,45 @@
+Lexicon: kizi	dAgi	tidupi	luvulA	guvAtubi	kAzupAbA	
+
+Training Sentences:
+dAgikiziguvAtubiluvulA
+luvulAkAzupAbAtidupikizi
+guvAtubiluvulAkAzupAbAkizi
+dAgitidupiguvAtubikizi
+kAzupAbAkiziluvulAdAgi
+luvulAdAgikAzupAbAtidupi
+dAgikizikAzupAbAtidupi
+guvAtubitidupidAgiluvulA
+dAgikAzupAbAtidupiguvAtubi
+kiziguvAtubikAzupAbAluvulA
+
+Test Items:
+guvAtubi	ubikAzup
+kAzupAbA	ulAguvAt
+kizi	AbAk
+tidupi	Agitid
+kizi	izid
+luvulA	upiluv
+tidupi	Agitid
+dAgi	AbAk
+luvulA	upiluv
+kAzupAbA	ubikAzup
+tidupi	Agitid
+dAgi	izid
+tidupi	upiluv
+dAgi	izid
+kizi	AbAk
+luvulA	upiluv
+kAzupAbA	ulAguvAt
+kizi	izid
+tidupi	upiluv
+guvAtubi	ubikAzup
+dAgi	izid
+tidupi	Agitid
+kAzupAbA	ubikAzup
+luvulA	Agitid
+guvAtubi	ulAguvAt
+luvulA	Agitid
+kAzupAbA	ulAguvAt
+dAgi	AbAk
+kizi	izid
+tidupi	Agitid

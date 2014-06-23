@@ -1,0 +1,63 @@
+Lexicon: zizu	tugi	dugudA	pAkiti	lupikAvu	bivAbAlA	
+
+Training Sentences:
+tugi
+bivAbAlA
+lupikAvu
+pAkiti
+bivAbAlA
+pAkiti
+lupikAvu
+bivAbAlA
+pAkiti
+lupikAvu
+pAkiti
+dugudA
+zizu
+lupikAvu
+dugudA
+zizu
+tugi
+zizu
+tugi
+lupikAvu
+tugi
+dugudA
+dugudA
+zizu
+pAkiti
+bivAbAlA
+tugi
+bivAbAlA
+
+Test Items:
+bivAbAlA	AvubivAb
+lupikAvu	AvubivAb
+pAkiti	udApAk
+bivAbAlA	AvubivAb
+lupikAvu	AvubivAb
+pAkiti	ugidug
+bivAbAlA	itilupik
+zizu	AlAz
+bivAbAlA	AvubivAb
+zizu	izut
+lupikAvu	AvubivAb
+dugudA	ugidug
+tugi	izut
+lupikAvu	itilupik
+bivAbAlA	AvubivAb
+lupikAvu	itilupik
+dugudA	udApAk
+zizu	izut
+bivAbAlA	AvubivAb
+lupikAvu	itilupik
+dugudA	ugidug
+bivAbAlA	AvubivAb
+dugudA	ugidug
+bivAbAlA	AvubivAb
+pAkiti	udApAk
+tugi	AlAz
+zizu	izut
+bivAbAlA	AvubivAb
+lupikAvu	itilupik
+pAkiti	ugidug

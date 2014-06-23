@@ -1,0 +1,45 @@
+Lexicon: BN	lpG	rPmd	
+
+Training Sentences:
+BNlpGrPmdlpG
+lpGBNrPmdlpG
+lpGrPmdBNrPmd
+lpGBNlpGrPmd
+lpGBNlpGBN
+rPmdBNlpGrPmd
+lpGBNlpGrPmd
+rPmdBNrPmdBN
+rPmdBNrPmdBN
+BNrPmdBNlpG
+
+Test Items:
+rPmd	GrPm
+lpG	Nlp
+rPmd	GrPm
+lpG	Nlp
+BN	dB
+lpG	Nlp
+BN	dB
+lpG	Nlp
+BN	dB
+rPmd	GrPm
+BN	dB
+lpG	Nlp
+BN	dB
+rPmd	GrPm
+BN	dB
+rPmd	GrPm
+BN	dB
+lpG	Nlp
+rPmd	GrPm
+BN	dB
+lpG	Nlp
+BN	dB
+rPmd	GrPm
+lpG	Nlp
+BN	dB
+lpG	Nlp
+BN	dB
+rPmd	GrPm
+lpG	Nlp
+BN	dB

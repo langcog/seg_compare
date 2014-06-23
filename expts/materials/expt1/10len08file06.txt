@@ -1,0 +1,40 @@
+Lexicon: dApA	dulu	vAzuki	tigubA	bilApikA	vuzitugi	
+
+Training Sentences:
+vAzukitigubAdApAduluvAzukiduludApAvuzitugi
+bilApikAvAzukidApAdulubilApikAtigubAvAzukidApA
+dApAvAzukitigubAbilApikAtigubAvuzitugidApAdulu
+tigubAvuzitugivAzukidApAvuzitugiduluvAzukibilApikA
+bilApikAvuzitugibilApikAvuzitugitigubAdulutigubAdulu
+
+Test Items:
+dApA	ugid
+bilApikA	ikAvuzit
+dulu	ApAd
+vuzitugi	ubAbilAp
+vAzuki	uluvAz
+dApA	ugid
+tigubA	ukitig
+dApA	ApAd
+vAzuki	ukitig
+vuzitugi	ikAvuzit
+dApA	ApAd
+dulu	ApAd
+vAzuki	ukitig
+dApA	ApAd
+vuzitugi	ikAvuzit
+tigubA	uluvAz
+dulu	ugid
+tigubA	ukitig
+vAzuki	ukitig
+dApA	ApAd
+bilApikA	ikAvuzit
+dulu	ApAd
+tigubA	ukitig
+dApA	ugid
+vuzitugi	ikAvuzit
+dulu	ugid
+vuzitugi	ikAvuzit
+vAzuki	uluvAz
+vuzitugi	ikAvuzit
+bilApikA	ubAbilAp

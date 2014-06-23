@@ -1,0 +1,36 @@
+Lexicon: dugu	tubA	kApivu	zugiti	vAzipAki	dAlAlubi	
+
+Training Sentences:
+zugititubAkApivudugu
+
+Test Items:
+tubA	ugut
+dugu	ubid
+tubA	ugut
+kApivu	ubAkAp
+tubA	ugut
+zugiti	ivuzug
+tubA	ugut
+dAlAlubi	AkidAlAl
+tubA	ubid
+zugiti	ivuzug
+dugu	ugut
+dAlAlubi	itivAzip
+dugu	ugut
+kApivu	ivuzug
+dugu	ubid
+tubA	ugut
+zugiti	ubAkAp
+kApivu	ubAkAp
+zugiti	ivuzug
+kApivu	ubAkAp
+dAlAlubi	AkidAlAl
+zugiti	ubAkAp
+vAzipAki	itivAzip
+dAlAlubi	AkidAlAl
+vAzipAki	itivAzip
+zugiti	ubAkAp
+vAzipAki	itivAzip
+zugiti	ubAkAp
+tubA	ubid
+dAlAlubi	itivAzip

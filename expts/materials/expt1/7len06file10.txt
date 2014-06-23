@@ -1,0 +1,39 @@
+Lexicon: zigu	pitu	dAvAdu	bAtigi	kikApAvu	zululAbi	
+
+Training Sentences:
+kikApAvuzigupituzululAbidAvAdubAtigi
+dAvAduzigupitubAtigikikApAvuzululAbi
+pitubAtigizululAbizigukikApAvudAvAdu
+zigudAvAduzululAbipitukikApAvubAtigi
+
+Test Items:
+bAtigi	AdubAt
+pitu	igup
+bAtigi	AdubAt
+zigu	igup
+zululAbi	igikikAp
+kikApAvu	Avuzulul
+pitu	Abiz
+dAvAdu	AdubAt
+zigu	igup
+zululAbi	Avuzulul
+kikApAvu	igikikAp
+zigu	igup
+kikApAvu	igikikAp
+bAtigi	itudAv
+dAvAdu	AdubAt
+zigu	igup
+bAtigi	itudAv
+zululAbi	Avuzulul
+bAtigi	itudAv
+pitu	Abiz
+bAtigi	itudAv
+dAvAdu	AdubAt
+kikApAvu	Avuzulul
+bAtigi	itudAv
+dAvAdu	AdubAt
+kikApAvu	Avuzulul
+dAvAdu	itudAv
+zigu	igup
+pitu	Abiz
+zigu	igup

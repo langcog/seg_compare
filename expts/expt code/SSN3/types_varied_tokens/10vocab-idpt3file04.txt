@@ -1,0 +1,45 @@
+Lexicon: vP	prZ	TbtF	
+
+Training Sentences:
+prZTbtFvPTbtF
+TbtFvPTbtFvP
+prZvPprZTbtF
+prZTbtFprZTbtF
+prZvPprZvP
+TbtFprZvPprZ
+vPTbtFvPTbtF
+vPprZTbtFvP
+prZTbtFprZvP
+vPTbtFprZvP
+
+Test Items:
+prZ	Ppr
+TbtF	ZTbt
+prZ	Ppr
+vP	Fv
+TbtF	ZTbt
+prZ	Ppr
+TbtF	ZTbt
+vP	Fv
+prZ	Ppr
+vP	Fv
+TbtF	ZTbt
+prZ	Ppr
+TbtF	ZTbt
+vP	Fv
+TbtF	ZTbt
+vP	Fv
+TbtF	ZTbt
+prZ	Ppr
+vP	Fv
+TbtF	ZTbt
+prZ	Ppr
+vP	Fv
+prZ	Ppr
+vP	Fv
+TbtF	ZTbt
+prZ	Ppr
+TbtF	ZTbt
+prZ	Ppr
+TbtF	ZTbt
+vP	Fv

@@ -1,0 +1,75 @@
+Lexicon: pAvu	tigu	vAzilu	gitulA	zubikAki	pidAbAdu	
+
+Training Sentences:
+zubikAki
+gitulA
+zubikAki
+vAzilu
+gitulA
+tigu
+pidAbAdu
+pAvu
+tigu
+pAvu
+pidAbAdu
+vAzilu
+tigu
+zubikAki
+vAzilu
+zubikAki
+vAzilu
+pAvu
+pidAbAdu
+gitulA
+pAvu
+pAvu
+zubikAki
+gitulA
+tigu
+vAzilu
+pidAbAdu
+zubikAki
+pidAbAdu
+tigu
+gitulA
+gitulA
+gitulA
+pAvu
+vAzilu
+tigu
+tigu
+vAzilu
+zubikAki
+pidAbAdu
+
+Test Items:
+pAvu	Adup
+tigu	Avut
+pAvu	Adup
+gitulA	iguvAz
+tigu	Avut
+pidAbAdu	ulAzubik
+pAvu	Avut
+gitulA	iguvAz
+pAvu	Adup
+zubikAki	ulAzubik
+pidAbAdu	AkipidAb
+gitulA	ilugit
+pAvu	Adup
+tigu	Adup
+gitulA	iguvAz
+pidAbAdu	ulAzubik
+vAzilu	ilugit
+pidAbAdu	ulAzubik
+pAvu	Adup
+gitulA	iguvAz
+zubikAki	ulAzubik
+pAvu	Adup
+vAzilu	iguvAz
+zubikAki	AkipidAb
+vAzilu	iguvAz
+zubikAki	AkipidAb
+pAvu	Adup
+tigu	Avut
+pAvu	Adup
+vAzilu	iguvAz

@@ -1,0 +1,38 @@
+Lexicon: dAdu	pibA	vukAgi	lAvAti	zubipAki	zitugulu	
+
+Training Sentences:
+zitugulupibAvukAgizubipAkivukAgilAvAtipibAzubipAki
+vukAgidAduzubipAkipibAzubipAkizitugulupibAvukAgi
+dAduzubipAkilAvAtivukAgidAduzitugululAvAtipibA
+
+Test Items:
+lAvAti	AgilAv
+zitugulu	Atizubip
+pibA	Adup
+zubipAki	Atizubip
+lAvAti	ibAvuk
+vukAgi	AgilAv
+dAdu	Adup
+pibA	Adup
+lAvAti	AgilAv
+pibA	Adup
+zitugulu	Atizubip
+pibA	Adup
+zubipAki	Akizitug
+lAvAti	AgilAv
+zitugulu	Akizitug
+pibA	Adup
+vukAgi	AgilAv
+lAvAti	ibAvuk
+vukAgi	ibAvuk
+pibA	Adup
+vukAgi	ibAvuk
+zitugulu	Akizitug
+lAvAti	AgilAv
+dAdu	ulud
+zitugulu	Akizitug
+pibA	Adup
+lAvAti	AgilAv
+vukAgi	ibAvuk
+zubipAki	Akizitug
+dAdu	Adup

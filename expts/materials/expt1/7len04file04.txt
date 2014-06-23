@@ -1,0 +1,42 @@
+Lexicon: zibA	guvu	kAbizu	pigivA	pAdAlutu	tikidulA	
+
+Training Sentences:
+tikidulApigivAkAbizuzibA
+pAdAlututikidulApigivAguvu
+pAdAlutukAbizuzibAguvu
+kAbizutikidulAguvupAdAlutu
+tikidulAkAbizuguvupAdAlutu
+zibAguvupAdAlutupigivA
+tikidulAkAbizuzibApigivA
+
+Test Items:
+guvu	ibAg
+tikidulA	ivApAdAl
+guvu	ibAg
+pigivA	uvukAb
+tikidulA	ututikid
+pigivA	uvukAb
+zibA	ulAz
+kAbizu	uvukAb
+pAdAlutu	ivApAdAl
+zibA	ibAg
+tikidulA	ututikid
+zibA	ibAg
+tikidulA	ivApAdAl
+kAbizu	uvukAb
+tikidulA	ututikid
+zibA	ulAz
+tikidulA	ututikid
+zibA	ibAg
+tikidulA	ututikid
+zibA	ibAg
+kAbizu	izupig
+pigivA	uvukAb
+guvu	ulAz
+pigivA	uvukAb
+kAbizu	izupig
+zibA	ulAz
+tikidulA	ivApAdAl
+pigivA	izupig
+tikidulA	ututikid
+zibA	ulAz

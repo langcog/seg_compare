@@ -1,0 +1,37 @@
+Lexicon: kAdA	guzi	bAvAzu	tulApi	luvuduti	bikigipA	
+
+Training Sentences:
+bikigipAguzitulApiluvuduti
+guzitulApikAdAbAvAzu
+
+Test Items:
+kAdA	AdAg
+luvuduti	Apiluvud
+tulApi	Azutul
+bAvAzu	uzibAv
+guzi	ipAk
+luvuduti	utibikig
+guzi	AdAg
+bAvAzu	uzibAv
+bikigipA	utibikig
+tulApi	Azutul
+kAdA	ipAk
+bikigipA	Apiluvud
+tulApi	uzibAv
+luvuduti	utibikig
+bAvAzu	uzibAv
+bikigipA	Apiluvud
+bAvAzu	Azutul
+tulApi	uzibAv
+bAvAzu	uzibAv
+kAdA	AdAg
+bikigipA	Apiluvud
+bAvAzu	Azutul
+bikigipA	Apiluvud
+bAvAzu	uzibAv
+bikigipA	utibikig
+guzi	ipAk
+luvuduti	utibikig
+bAvAzu	uzibAv
+kAdA	AdAg
+bAvAzu	Azutul

@@ -1,0 +1,36 @@
+Lexicon: dAki	vudu	lupAlA	zikAbA	bigipizu	tuvAtigu	
+
+Training Sentences:
+bigipizulupAlAdAkilupAlAvuduzikAbAdAkizikAbAtuvAtiguzikAbAlupAlAbigipizulupAlAtuvAtiguvudubigipizuvududAkizikAbAtuvAtigudAkibigipizuvudutuvAtigu
+
+Test Items:
+vudu	Akiv
+dAki	Akiv
+lupAlA	udulup
+tuvAtigu	AbAbigip
+zikAbA	udulup
+tuvAtigu	izutuvAt
+zikAbA	udulup
+tuvAtigu	AbAbigip
+bigipizu	AbAbigip
+vudu	Akiv
+zikAbA	udulup
+tuvAtigu	izutuvAt
+vudu	Akiv
+dAki	Akiv
+bigipizu	izutuvAt
+tuvAtigu	AbAbigip
+zikAbA	AlAzik
+bigipizu	izutuvAt
+tuvAtigu	izutuvAt
+dAki	igud
+vudu	Akiv
+bigipizu	AbAbigip
+lupAlA	AlAzik
+dAki	Akiv
+zikAbA	AlAzik
+dAki	igud
+vudu	Akiv
+tuvAtigu	AbAbigip
+zikAbA	udulup
+vudu	Akiv

@@ -1,0 +1,37 @@
+Lexicon: dAkA	bAzi	lAguzu	lupAbi	vudututi	givApiki	
+
+Training Sentences:
+lAguzulupAbibAzivudututi
+vudututidAkAlupAbigivApiki
+
+Test Items:
+lAguzu	AzilAg
+givApiki	Abivudut
+lAguzu	AzilAg
+givApiki	Abivudut
+lAguzu	uzulup
+lupAbi	AzilAg
+lAguzu	uzulup
+dAkA	AkAb
+vudututi	utigivAp
+dAkA	ikid
+givApiki	utigivAp
+vudututi	Abivudut
+bAzi	AkAb
+dAkA	AkAb
+vudututi	Abivudut
+bAzi	AkAb
+givApiki	utigivAp
+lAguzu	uzulup
+givApiki	Abivudut
+lupAbi	uzulup
+givApiki	Abivudut
+dAkA	AkAb
+bAzi	ikid
+dAkA	AkAb
+vudututi	Abivudut
+givApiki	utigivAp
+lupAbi	uzulup
+vudututi	utigivAp
+lupAbi	AzilAg
+dAkA	ikid

@@ -1,0 +1,41 @@
+Lexicon: PN	DBf	gdtZ	nF	
+
+Training Sentences:
+PNDBfnFgdtZ
+nFPNgdtZDBf
+PNgdtZDBfnF
+PNgdtZnFDBf
+nFPNgdtZDBf
+PNnFDBfgdtZ
+
+Test Items:
+DBf	NDB
+PN	Zn
+gdtZ	fgdt
+DBf	NDB
+gdtZ	fgdt
+nF	FP
+DBf	NDB
+gdtZ	fgdt
+PN	Zn
+DBf	NDB
+nF	FP
+gdtZ	fgdt
+DBf	NDB
+nF	FP
+PN	Zn
+nF	Zn
+gdtZ	fgdt
+PN	FP
+gdtZ	fgdt
+PN	Zn
+gdtZ	fgdt
+DBf	NDB
+nF	FP
+gdtZ	fgdt
+nF	Zn
+DBf	NDB
+nF	FP
+gdtZ	fgdt
+PN	Zn
+gdtZ	fgdt

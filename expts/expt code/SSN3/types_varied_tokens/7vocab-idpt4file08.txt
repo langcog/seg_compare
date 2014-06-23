@@ -1,0 +1,42 @@
+Lexicon: dR	BbM	NPtm	TD	
+
+Training Sentences:
+dRTDNPtmBbM
+TDdRBbMNPtm
+BbMNPtmTDdR
+TDdRBbMNPtm
+TDdRBbMNPtm
+BbMTDdRNPtm
+NPtmdRBbMTD
+
+Test Items:
+BbM	RBb
+NPtm	MNPt
+TD	Dd
+NPtm	MNPt
+dR	mT
+BbM	RBb
+dR	mT
+BbM	RBb
+dR	mT
+BbM	RBb
+dR	Dd
+NPtm	MNPt
+TD	Dd
+NPtm	MNPt
+TD	Dd
+BbM	RBb
+TD	mT
+NPtm	MNPt
+BbM	RBb
+NPtm	MNPt
+dR	Dd
+TD	mT
+dR	Dd
+BbM	RBb
+dR	Dd
+BbM	RBb
+dR	mT
+TD	Dd
+BbM	RBb
+NPtm	MNPt

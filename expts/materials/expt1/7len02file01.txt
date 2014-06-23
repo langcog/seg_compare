@@ -1,0 +1,49 @@
+Lexicon: lApA	bAlu	dugidA	pikAzi	gutukivu	zubitivA	
+
+Training Sentences:
+zubitivAbAlu
+lApAgutukivu
+gutukivudugidA
+pikAzibAlu
+dugidAbAlu
+pikAzizubitivA
+pikAzilApA
+pikAzigutukivu
+bAlupikAzi
+dugidAzubitivA
+dugidAlApA
+zubitivAlApA
+gutukivulApA
+gutukivubAlu
+
+Test Items:
+bAlu	ivAl
+gutukivu	ivuzubit
+dugidA	idApik
+lApA	ivAl
+gutukivu	ivuzubit
+bAlu	ApAb
+dugidA	Aludug
+bAlu	ivAl
+lApA	ivAl
+bAlu	ApAb
+gutukivu	ivuzubit
+pikAzi	idApik
+dugidA	Aludug
+gutukivu	ivuzubit
+bAlu	ApAb
+dugidA	idApik
+zubitivA	Azigutuk
+bAlu	ApAb
+gutukivu	ivuzubit
+pikAzi	idApik
+zubitivA	Azigutuk
+bAlu	ApAb
+zubitivA	Azigutuk
+gutukivu	ivuzubit
+dugidA	idApik
+zubitivA	ivuzubit
+dugidA	Aludug
+pikAzi	idApik
+zubitivA	ivuzubit
+dugidA	Aludug

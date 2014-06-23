@@ -1,0 +1,57 @@
+Lexicon: bidA	vuzu	pibAtu	gikAlA	luzipAdu	kivAguti	
+
+Training Sentences:
+pibAtukivAgutiluzipAdugikAlA
+luzipAdugikAlAbidApibAtu
+bidAgikAlAkivAgutipibAtu
+pibAtubidAvuzuluzipAdu
+kivAgutigikAlAvuzubidA
+bidApibAtuluzipAdugikAlA
+bidAluzipAduvuzupibAtu
+kivAgutigikAlAvuzupibAtu
+vuzupibAtubidAkivAguti
+luzipAdugikAlAkivAgutivuzu
+gikAlAkivAgutipibAtubidA
+gikAlAvuzubidAluzipAdu
+luzipAdubidAkivAgutivuzu
+pibAtugikAlAluzipAdukivAguti
+luzipAduvuzupibAtugikAlA
+luzipAdubidAgikAlAkivAguti
+gikAlAbidAvuzukivAguti
+gikAlAluzipAdubidAkivAguti
+pibAtubidAvuzuluzipAdu
+luzipAduvuzubidAkivAguti
+vuzupibAtukivAgutiluzipAdu
+pibAtuvuzugikAlAkivAguti
+
+Test Items:
+vuzu	idAv
+bidA	utib
+gikAlA	uzupib
+bidA	idAv
+luzipAdu	AlAluzip
+gikAlA	Atugik
+kivAguti	AdukivAg
+gikAlA	Atugik
+bidA	utib
+vuzu	idAv
+pibAtu	uzupib
+bidA	utib
+pibAtu	uzupib
+kivAguti	AlAluzip
+vuzu	idAv
+kivAguti	AlAluzip
+luzipAdu	AdukivAg
+gikAlA	Atugik
+bidA	idAv
+vuzu	utib
+kivAguti	AlAluzip
+gikAlA	Atugik
+vuzu	utib
+luzipAdu	AdukivAg
+bidA	utib
+luzipAdu	AlAluzip
+gikAlA	uzupib
+kivAguti	AdukivAg
+vuzu	idAv
+kivAguti	AdukivAg

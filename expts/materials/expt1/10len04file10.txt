@@ -1,0 +1,45 @@
+Lexicon: vudu	bAtu	gukAti	gipAlA	dAvAluki	zizubipi	
+
+Training Sentences:
+gukAtidAvAlukibAtugipAlA
+gipAlAdAvAlukivudubAtu
+zizubipibAtugipAlAdAvAluki
+vudugukAtigipAlAzizubipi
+bAtudAvAlukivudugukAti
+gukAtigipAlAdAvAlukizizubipi
+gukAtizizubipivudugipAlA
+gipAlAgukAtizizubipidAvAluki
+zizubipibAtuvududAvAluki
+vudugukAtibAtuzizubipi
+
+Test Items:
+gipAlA	Atigip
+vudu	ipiv
+bAtu	ipiv
+zizubipi	AlAdAvAl
+dAvAluki	ukizizub
+vudu	ipiv
+dAvAluki	ukizizub
+gukAti	Atuguk
+gipAlA	Atuguk
+bAtu	ipiv
+zizubipi	ukizizub
+dAvAluki	ukizizub
+vudu	ipiv
+zizubipi	ukizizub
+bAtu	ipiv
+zizubipi	AlAdAvAl
+bAtu	udub
+vudu	ipiv
+dAvAluki	ukizizub
+bAtu	udub
+gukAti	Atuguk
+gipAlA	Atigip
+bAtu	ipiv
+zizubipi	AlAdAvAl
+dAvAluki	ukizizub
+gukAti	Atuguk
+vudu	udub
+bAtu	ipiv
+gipAlA	Atuguk
+dAvAluki	ukizizub

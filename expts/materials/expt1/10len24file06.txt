@@ -1,0 +1,36 @@
+Lexicon: kApA	titu	lAzubi	vukidA	vAzidubA	gupilugi	
+
+Training Sentences:
+lAzubikApAvAzidubAtitugupilugivAzidubAtitulAzubititulAzubivAzidubAgupilugivAzidubAvukidAtituvukidAlAzubigupilugivukidAkApAgupilugikApAvukidAkApA
+
+Test Items:
+titu	ApAt
+gupilugi	idAvAzid
+vukidA	ubivuk
+gupilugi	ubAgupil
+kApA	ApAt
+gupilugi	idAvAzid
+kApA	ugik
+titu	ApAt
+kApA	ugik
+vAzidubA	ubAgupil
+titu	ugik
+kApA	ApAt
+lAzubi	ubivuk
+gupilugi	ubAgupil
+vukidA	ubivuk
+lAzubi	itulAz
+titu	ugik
+vukidA	ubivuk
+titu	ApAt
+lAzubi	itulAz
+titu	ugik
+vAzidubA	ubAgupil
+titu	ugik
+vAzidubA	idAvAzid
+vukidA	itulAz
+kApA	ApAt
+gupilugi	idAvAzid
+lAzubi	itulAz
+gupilugi	ubAgupil
+lAzubi	itulAz

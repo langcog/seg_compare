@@ -1,0 +1,36 @@
+Lexicon: vuzi	pAki	gitubi	vAbAdA	dupigukA	tilAzulu	
+
+Training Sentences:
+vuzivAbAdAtilAzuluvuzidupigukAvuzidupigukAtilAzuluvAbAdAdupigukAvAbAdApAkigitubipAkidupigukAgitubivuzipAkigitubipAkitilAzuluvAbAdAgitubitilAzulu
+
+Test Items:
+pAki	uzip
+vuzi	uluv
+gitubi	ubivAb
+tilAzulu	ukAtilAz
+vAbAdA	Akigit
+gitubi	Akigit
+vuzi	uzip
+dupigukA	ukAtilAz
+pAki	uzip
+vuzi	uzip
+tilAzulu	ukAtilAz
+pAki	uzip
+vuzi	uluv
+tilAzulu	ukAtilAz
+pAki	uluv
+tilAzulu	AdAdupig
+gitubi	ubivAb
+pAki	uluv
+dupigukA	ukAtilAz
+gitubi	ubivAb
+vuzi	uluv
+gitubi	ubivAb
+tilAzulu	ukAtilAz
+vAbAdA	Akigit
+dupigukA	ukAtilAz
+vAbAdA	ubivAb
+pAki	uluv
+tilAzulu	AdAdupig
+vAbAdA	Akigit
+dupigukA	ukAtilAz

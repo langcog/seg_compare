@@ -1,0 +1,110 @@
+Lexicon: kt	vL	GgZ	VdP	zDlT	KpBb	
+
+Training Sentences:
+GgZVdPKpBbGgZzDlTKpBbvLVdP
+zDlTktKpBbvLzDlTGgZKpBbkt
+vLGgZVdPvLktKpBbzDlTkt
+zDlTVdPzDlTVdPKpBbGgZvLKpBb
+vLktVdPvLKpBbzDlTKpBbVdP
+VdPktzDlTvLVdPvLzDlTkt
+GgZKpBbGgZvLKpBbktzDlTkt
+KpBbktvLzDlTKpBbzDlTVdPvL
+KpBbzDlTktKpBbktzDlTvLGgZ
+GgZKpBbvLzDlTGgZktvLKpBb
+GgZzDlTVdPGgZzDlTktVdPvL
+ktGgZzDlTKpBbktKpBbVdPGgZ
+vLktKpBbGgZVdPvLVdPzDlT
+KpBbzDlTKpBbvLGgZktvLGgZ
+ktGgZzDlTVdPKpBbzDlTVdPKpBb
+ktzDlTvLVdPvLGgZzDlTVdP
+ktVdPGgZvLKpBbktVdPvL
+KpBbGgZVdPvLktzDlTKpBbVdP
+ktzDlTvLGgZzDlTGgZKpBbvL
+VdPGgZVdPzDlTGgZktzDlTkt
+vLzDlTvLktVdPzDlTGgZkt
+GgZVdPzDlTvLKpBbktKpBbkt
+VdPktvLVdPGgZKpBbzDlTGgZ
+vLKpBbvLGgZKpBbGgZVdPkt
+zDlTGgZvLzDlTktVdPvLKpBb
+KpBbVdPKpBbktVdPGgZktGgZ
+ktzDlTKpBbzDlTvLKpBbktVdP
+KpBbGgZKpBbktGgZVdPktzDlT
+ktVdPvLktvLKpBbGgZKpBb
+vLVdPzDlTvLktVdPktKpBb
+VdPzDlTGgZVdPGgZzDlTKpBbkt
+zDlTvLGgZVdPGgZVdPvLkt
+vLGgZktKpBbvLVdPzDlTkt
+VdPvLGgZzDlTKpBbGgZvLKpBb
+vLKpBbGgZKpBbVdPktzDlTVdP
+GgZktGgZvLzDlTktzDlTVdP
+GgZzDlTktGgZvLzDlTvLKpBb
+zDlTktVdPvLktKpBbvLGgZ
+vLVdPKpBbvLGgZKpBbzDlTGgZ
+vLGgZzDlTktKpBbGgZVdPKpBb
+VdPvLGgZzDlTVdPGgZzDlTvL
+zDlTvLKpBbzDlTVdPktVdPKpBb
+ktvLktGgZVdPKpBbVdPzDlT
+vLGgZktGgZKpBbzDlTVdPKpBb
+KpBbktzDlTktVdPzDlTVdPKpBb
+vLGgZzDlTKpBbGgZKpBbktVdP
+KpBbktGgZVdPktKpBbVdPGgZ
+zDlTvLGgZvLktKpBbktVdP
+VdPGgZktzDlTKpBbzDlTKpBbkt
+KpBbVdPzDlTvLVdPKpBbvLGgZ
+GgZvLGgZzDlTKpBbVdPktKpBb
+ktzDlTKpBbzDlTktVdPKpBbvL
+vLGgZvLGgZKpBbktKpBbzDlT
+vLktzDlTVdPktGgZVdPvL
+ktGgZvLKpBbGgZVdPvLVdP
+vLKpBbktVdPzDlTGgZzDlTKpBb
+VdPzDlTvLKpBbVdPKpBbzDlTkt
+VdPGgZVdPKpBbvLKpBbvLGgZ
+zDlTvLzDlTKpBbVdPvLktVdP
+zDlTktVdPzDlTVdPvLGgZvL
+GgZVdPktvLzDlTktGgZzDlT
+zDlTktVdPktzDlTKpBbvLGgZ
+VdPktzDlTvLGgZzDlTKpBbGgZ
+ktVdPktGgZKpBbzDlTVdPKpBb
+ktvLVdPKpBbGgZVdPGgZKpBb
+KpBbvLktvLzDlTVdPzDlTVdP
+zDlTGgZVdPzDlTktKpBbktVdP
+KpBbGgZvLKpBbGgZktzDlTvL
+VdPktKpBbktVdPzDlTGgZvL
+ktzDlTvLKpBbGgZzDlTktVdP
+GgZvLVdPKpBbzDlTVdPGgZvL
+ktGgZVdPktGgZzDlTvLzDlT
+KpBbVdPktzDlTvLzDlTGgZvL
+ktKpBbGgZzDlTktVdPGgZvL
+ktvLGgZzDlTvLGgZvLGgZ
+
+Test Items:
+kt	tv
+GgZ	LGg
+vL	bk
+zDlT	TKpB
+GgZ	ZVd
+vL	bk
+zDlT	TKpB
+kt	bk
+zDlT	TKpB
+GgZ	ZVd
+KpBb	TKpB
+vL	bk
+GgZ	ZVd
+KpBb	PzDl
+GgZ	LGg
+VdP	ZVd
+KpBb	PzDl
+VdP	ZVd
+GgZ	LGg
+KpBb	PzDl
+GgZ	LGg
+zDlT	PzDl
+GgZ	LGg
+kt	tv
+vL	bk
+KpBb	PzDl
+vL	tv
+KpBb	PzDl
+vL	bk
+GgZ	ZVd

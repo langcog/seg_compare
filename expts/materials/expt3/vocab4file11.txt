@@ -1,0 +1,185 @@
+Lexicon: gN	bRv	MmJr	PZ	
+
+Training Sentences:
+PZgNbRvMmJr
+PZMmJrbRvgN
+gNPZbRvMmJr
+gNPZbRvMmJr
+MmJrPZgNbRv
+PZgNMmJrbRv
+gNPZbRvMmJr
+MmJrbRvgNPZ
+gNPZMmJrbRv
+bRvPZgNMmJr
+gNMmJrbRvPZ
+MmJrPZgNbRv
+PZgNMmJrbRv
+MmJrPZbRvgN
+gNbRvMmJrPZ
+PZgNMmJrbRv
+bRvPZgNMmJr
+PZgNbRvMmJr
+PZbRvMmJrgN
+PZbRvgNMmJr
+MmJrgNPZbRv
+PZMmJrgNbRv
+MmJrbRvgNPZ
+MmJrbRvgNPZ
+PZMmJrgNbRv
+PZbRvgNMmJr
+PZbRvgNMmJr
+MmJrPZbRvgN
+MmJrPZbRvgN
+bRvgNMmJrPZ
+gNbRvPZMmJr
+MmJrbRvgNPZ
+PZMmJrbRvgN
+PZMmJrbRvgN
+PZgNbRvMmJr
+bRvPZMmJrgN
+gNbRvMmJrPZ
+MmJrbRvPZgN
+PZbRvgNMmJr
+PZgNMmJrbRv
+bRvPZMmJrgN
+gNbRvPZMmJr
+gNbRvPZMmJr
+PZbRvgNMmJr
+MmJrbRvPZgN
+PZMmJrbRvgN
+PZMmJrgNbRv
+gNMmJrbRvPZ
+PZMmJrgNbRv
+bRvMmJrPZgN
+bRvMmJrPZgN
+MmJrPZbRvgN
+MmJrbRvPZgN
+MmJrPZbRvgN
+PZbRvMmJrgN
+MmJrgNPZbRv
+PZMmJrgNbRv
+MmJrbRvgNPZ
+gNMmJrPZbRv
+gNPZbRvMmJr
+MmJrPZgNbRv
+MmJrbRvgNPZ
+bRvgNPZMmJr
+PZgNbRvMmJr
+gNMmJrPZbRv
+bRvMmJrPZgN
+PZMmJrbRvgN
+bRvPZgNMmJr
+MmJrbRvPZgN
+bRvMmJrgNPZ
+MmJrPZbRvgN
+MmJrgNbRvPZ
+PZbRvgNMmJr
+MmJrPZgNbRv
+MmJrbRvgNPZ
+PZgNbRvMmJr
+MmJrbRvPZgN
+MmJrgNPZbRv
+gNPZMmJrbRv
+bRvgNMmJrPZ
+bRvPZMmJrgN
+gNPZbRvMmJr
+bRvPZMmJrgN
+bRvMmJrPZgN
+gNMmJrbRvPZ
+MmJrbRvgNPZ
+PZgNbRvMmJr
+bRvPZMmJrgN
+gNPZbRvMmJr
+PZgNMmJrbRv
+bRvMmJrgNPZ
+bRvMmJrgNPZ
+bRvgNPZMmJr
+gNbRvPZMmJr
+PZMmJrbRvgN
+gNbRvMmJrPZ
+bRvMmJrPZgN
+PZbRvgNMmJr
+gNPZMmJrbRv
+gNbRvPZMmJr
+PZbRvgNMmJr
+gNMmJrbRvPZ
+bRvMmJrgNPZ
+PZbRvMmJrgN
+PZgNMmJrbRv
+gNMmJrPZbRv
+gNMmJrbRvPZ
+gNbRvPZMmJr
+gNMmJrPZbRv
+bRvMmJrgNPZ
+MmJrbRvPZgN
+PZMmJrgNbRv
+gNPZbRvMmJr
+PZgNMmJrbRv
+PZMmJrgNbRv
+bRvgNPZMmJr
+bRvMmJrgNPZ
+bRvMmJrgNPZ
+PZMmJrbRvgN
+MmJrbRvgNPZ
+gNPZMmJrbRv
+bRvMmJrgNPZ
+PZbRvgNMmJr
+gNPZMmJrbRv
+gNMmJrbRvPZ
+PZMmJrbRvgN
+gNPZMmJrbRv
+PZMmJrbRvgN
+gNPZMmJrbRv
+gNPZMmJrbRv
+bRvPZgNMmJr
+MmJrgNPZbRv
+bRvgNPZMmJr
+MmJrgNbRvPZ
+MmJrgNbRvPZ
+bRvgNMmJrPZ
+PZgNMmJrbRv
+gNbRvMmJrPZ
+bRvPZgNMmJr
+PZgNbRvMmJr
+MmJrPZbRvgN
+MmJrgNPZbRv
+gNMmJrbRvPZ
+MmJrPZbRvgN
+MmJrPZgNbRv
+PZbRvMmJrgN
+PZbRvgNMmJr
+PZMmJrgNbRv
+gNbRvMmJrPZ
+PZbRvMmJrgN
+
+Test Items:
+gN	Zg
+MmJr	vMmJ
+PZ	Zg
+bRv	NbR
+PZ	Zg
+bRv	NbR
+PZ	rP
+gN	Zg
+bRv	NbR
+MmJr	vMmJ
+bRv	NbR
+MmJr	vMmJ
+gN	Zg
+MmJr	vMmJ
+PZ	Zg
+MmJr	vMmJ
+PZ	Zg
+MmJr	vMmJ
+PZ	Zg
+bRv	NbR
+gN	Zg
+bRv	NbR
+gN	rP
+bRv	NbR
+gN	Zg
+PZ	Zg
+bRv	NbR
+PZ	Zg
+bRv	NbR
+gN	Zg

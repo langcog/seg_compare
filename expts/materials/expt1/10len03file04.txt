@@ -1,0 +1,48 @@
+Lexicon: gikA	tigu	zibApA	lubivA	lAzudAtu	kivupidu	
+
+Training Sentences:
+lubivAtigugikA
+tigulubivAlAzudAtu
+kivupidutigugikA
+kivupiduzibApAgikA
+lAzudAtugikAtigu
+zibApAtigukivupidu
+gikAlAzudAtuzibApA
+gikAlAzudAtulubivA
+tiguzibApAlAzudAtu
+kivupidulubivAzibApA
+kivupidulubivAtigu
+kivupidulubivAgikA
+lubivAzibApAlAzudAtu
+
+Test Items:
+kivupidu	Atukivup
+zibApA	iguzib
+gikA	idug
+tigu	ikAt
+zibApA	ApAlub
+lubivA	iguzib
+tigu	idug
+zibApA	ApAlub
+lubivA	iguzib
+gikA	ikAt
+tigu	idug
+lAzudAtu	Atukivup
+tigu	ikAt
+lAzudAtu	Atukivup
+gikA	ikAt
+lAzudAtu	Atukivup
+kivupidu	ivAlAzud
+tigu	ikAt
+zibApA	iguzib
+kivupidu	Atukivup
+zibApA	ApAlub
+kivupidu	ivAlAzud
+lAzudAtu	Atukivup
+lubivA	ApAlub
+zibApA	iguzib
+tigu	ikAt
+lubivA	ApAlub
+lAzudAtu	Atukivup
+tigu	ikAt
+lAzudAtu	Atukivup

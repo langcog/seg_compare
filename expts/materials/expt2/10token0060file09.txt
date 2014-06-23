@@ -1,0 +1,50 @@
+Lexicon: gipA	kikA	duvuti	ludAgu	bAvAzupi	bizitulA	
+
+Training Sentences:
+bAvAzupibizitulAgipAkikA
+gipAbizitulAbAvAzupiludAgu
+gipAkikAludAgubAvAzupi
+bizitulAkikAbAvAzupigipA
+bizitulAkikAduvutigipA
+bizitulAkikAbAvAzupigipA
+bizitulAludAgukikAbAvAzupi
+duvutibAvAzupikikAludAgu
+ludAgubizitulAgipAbAvAzupi
+duvutikikAbizitulAgipA
+ludAgubizitulAgipAkikA
+duvutigipAludAgubizitulA
+duvutiludAgukikAbAvAzupi
+duvutibAvAzupiludAguduvuti
+duvutiludAguduvutiduvuti
+
+Test Items:
+duvuti	utilud
+ludAgu	ikAduv
+kikA	ipAk
+gipA	ulAg
+bizitulA	upibizit
+bAvAzupi	upibizit
+kikA	ipAk
+gipA	ulAg
+ludAgu	ikAduv
+kikA	ipAk
+duvuti	ikAduv
+ludAgu	utilud
+bizitulA	AgubAvAz
+duvuti	utilud
+kikA	ulAg
+gipA	ipAk
+ludAgu	ikAduv
+duvuti	utilud
+bizitulA	upibizit
+bAvAzupi	AgubAvAz
+duvuti	utilud
+ludAgu	ikAduv
+duvuti	utilud
+gipA	ipAk
+duvuti	ikAduv
+bAvAzupi	AgubAvAz
+bizitulA	upibizit
+gipA	ipAk
+bAvAzupi	upibizit
+duvuti	ikAduv

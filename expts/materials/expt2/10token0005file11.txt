@@ -1,0 +1,36 @@
+Lexicon: zuti	bivu	pApivA	kilAgu	tududAbA	zikAgilu	
+
+Training Sentences:
+bivupApivAzikAgiluzuti
+
+Test Items:
+tududAbA	Agutudud
+pApivA	ivAkil
+tududAbA	Agutudud
+zikAgilu	AbAzikAg
+kilAgu	ivupAp
+tududAbA	AbAzikAg
+pApivA	ivAkil
+kilAgu	ivupAp
+tududAbA	Agutudud
+pApivA	ivupAp
+zuti	utib
+tududAbA	Agutudud
+pApivA	ivAkil
+zuti	utib
+tududAbA	Agutudud
+bivu	iluz
+tududAbA	AbAzikAg
+zikAgilu	Agutudud
+bivu	iluz
+tududAbA	AbAzikAg
+zikAgilu	Agutudud
+kilAgu	ivupAp
+bivu	utib
+kilAgu	ivAkil
+tududAbA	AbAzikAg
+kilAgu	ivAkil
+zuti	utib
+kilAgu	ivupAp
+bivu	iluz
+tududAbA	Agutudud

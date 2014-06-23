@@ -1,0 +1,185 @@
+Lexicon: TL	zvF	ZNlm	bV	
+
+Training Sentences:
+bVZNlmTLzvF
+zvFTLbVZNlm
+zvFZNlmTLbV
+ZNlmbVTLzvF
+zvFbVZNlmTL
+zvFTLZNlmbV
+zvFZNlmbVTL
+TLzvFZNlmbV
+TLzvFZNlmbV
+TLZNlmbVzvF
+zvFTLZNlmbV
+zvFTLZNlmbV
+TLzvFbVZNlm
+TLZNlmzvFbV
+ZNlmzvFTLbV
+ZNlmTLbVzvF
+ZNlmbVzvFTL
+ZNlmTLzvFbV
+ZNlmbVTLzvF
+bVTLZNlmzvF
+ZNlmTLzvFbV
+bVTLzvFZNlm
+bVTLZNlmzvF
+zvFZNlmTLbV
+ZNlmTLbVzvF
+zvFbVZNlmTL
+ZNlmzvFTLbV
+bVZNlmTLzvF
+bVZNlmTLzvF
+ZNlmbVzvFTL
+zvFTLbVZNlm
+bVzvFTLZNlm
+zvFbVZNlmTL
+zvFZNlmbVTL
+zvFbVTLZNlm
+bVTLzvFZNlm
+bVZNlmzvFTL
+bVTLzvFZNlm
+bVzvFZNlmTL
+ZNlmTLzvFbV
+zvFZNlmbVTL
+ZNlmTLzvFbV
+zvFZNlmbVTL
+TLzvFZNlmbV
+zvFTLZNlmbV
+zvFZNlmTLbV
+ZNlmTLzvFbV
+zvFTLbVZNlm
+bVzvFZNlmTL
+ZNlmTLzvFbV
+ZNlmbVTLzvF
+ZNlmzvFTLbV
+ZNlmTLbVzvF
+ZNlmbVzvFTL
+zvFTLbVZNlm
+ZNlmzvFbVTL
+bVZNlmTLzvF
+TLZNlmzvFbV
+TLbVzvFZNlm
+zvFbVZNlmTL
+TLZNlmbVzvF
+bVTLZNlmzvF
+ZNlmzvFTLbV
+TLbVZNlmzvF
+zvFZNlmbVTL
+TLbVzvFZNlm
+TLzvFZNlmbV
+ZNlmzvFbVTL
+ZNlmbVTLzvF
+bVzvFTLZNlm
+TLZNlmbVzvF
+bVZNlmzvFTL
+ZNlmTLzvFbV
+TLbVzvFZNlm
+ZNlmbVzvFTL
+bVTLZNlmzvF
+zvFbVTLZNlm
+bVTLZNlmzvF
+zvFZNlmTLbV
+bVzvFZNlmTL
+ZNlmzvFbVTL
+zvFZNlmTLbV
+TLbVZNlmzvF
+zvFTLZNlmbV
+zvFZNlmTLbV
+zvFbVTLZNlm
+zvFbVZNlmTL
+zvFTLbVZNlm
+zvFTLZNlmbV
+ZNlmbVTLzvF
+bVTLzvFZNlm
+ZNlmbVzvFTL
+TLzvFZNlmbV
+ZNlmbVzvFTL
+zvFTLbVZNlm
+TLbVzvFZNlm
+TLbVZNlmzvF
+zvFTLZNlmbV
+bVTLZNlmzvF
+bVTLzvFZNlm
+zvFTLZNlmbV
+bVTLZNlmzvF
+zvFTLbVZNlm
+zvFbVZNlmTL
+zvFbVZNlmTL
+zvFZNlmbVTL
+zvFbVTLZNlm
+zvFbVTLZNlm
+ZNlmzvFTLbV
+TLbVzvFZNlm
+bVzvFTLZNlm
+ZNlmTLbVzvF
+TLZNlmbVzvF
+TLbVZNlmzvF
+TLZNlmbVzvF
+zvFTLbVZNlm
+TLZNlmzvFbV
+bVTLzvFZNlm
+TLzvFbVZNlm
+ZNlmbVzvFTL
+zvFZNlmTLbV
+ZNlmbVzvFTL
+ZNlmbVzvFTL
+TLzvFbVZNlm
+TLZNlmzvFbV
+TLzvFbVZNlm
+bVzvFZNlmTL
+bVZNlmTLzvF
+ZNlmzvFTLbV
+ZNlmTLzvFbV
+bVzvFZNlmTL
+ZNlmbVTLzvF
+ZNlmbVzvFTL
+TLzvFZNlmbV
+zvFbVTLZNlm
+ZNlmTLbVzvF
+TLbVzvFZNlm
+TLZNlmzvFbV
+bVTLzvFZNlm
+ZNlmbVzvFTL
+ZNlmTLzvFbV
+bVZNlmzvFTL
+bVzvFZNlmTL
+zvFbVTLZNlm
+ZNlmbVzvFTL
+TLbVzvFZNlm
+bVZNlmzvFTL
+zvFZNlmTLbV
+zvFZNlmTLbV
+zvFbVZNlmTL
+
+Test Items:
+ZNlm	FZNl
+zvF	Lzv
+ZNlm	FZNl
+TL	VT
+zvF	Lzv
+bV	VT
+zvF	Lzv
+ZNlm	FZNl
+bV	VT
+TL	mb
+bV	VT
+zvF	Lzv
+bV	VT
+zvF	Lzv
+ZNlm	FZNl
+TL	VT
+bV	mb
+zvF	Lzv
+bV	mb
+ZNlm	FZNl
+zvF	Lzv
+TL	mb
+zvF	Lzv
+ZNlm	FZNl
+zvF	Lzv
+ZNlm	FZNl
+zvF	Lzv
+ZNlm	FZNl
+TL	VT
+bV	VT

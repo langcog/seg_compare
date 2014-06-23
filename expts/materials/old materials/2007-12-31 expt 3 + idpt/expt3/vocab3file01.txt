@@ -1,0 +1,185 @@
+Lexicon: fd	tMF	mTRB	
+
+Training Sentences:
+tMFfdmTRBfd
+fdmTRBtMFmTRB
+mTRBfdtMFfd
+mTRBtMFmTRBtMF
+fdtMFmTRBfd
+tMFfdtMFmTRB
+mTRBfdmTRBfd
+fdtMFfdmTRB
+fdtMFfdmTRB
+fdtMFfdtMF
+fdmTRBtMFmTRB
+fdtMFfdtMF
+mTRBtMFmTRBfd
+tMFfdmTRBfd
+fdtMFfdtMF
+mTRBfdmTRBfd
+tMFmTRBfdtMF
+mTRBtMFfdtMF
+tMFfdmTRBfd
+fdtMFmTRBfd
+tMFmTRBfdmTRB
+fdtMFmTRBtMF
+tMFmTRBfdmTRB
+mTRBfdmTRBtMF
+mTRBfdmTRBfd
+fdmTRBfdtMF
+fdtMFfdmTRB
+tMFmTRBfdmTRB
+mTRBfdtMFmTRB
+tMFmTRBfdmTRB
+fdtMFfdtMF
+mTRBfdmTRBtMF
+fdmTRBfdtMF
+mTRBtMFfdmTRB
+mTRBtMFmTRBtMF
+fdmTRBtMFmTRB
+mTRBtMFfdmTRB
+tMFfdtMFfd
+tMFfdmTRBtMF
+tMFfdtMFmTRB
+fdmTRBtMFfd
+tMFfdmTRBtMF
+fdmTRBtMFfd
+fdmTRBtMFmTRB
+tMFfdmTRBtMF
+mTRBfdmTRBtMF
+tMFfdmTRBfd
+mTRBtMFmTRBtMF
+tMFmTRBtMFfd
+mTRBfdmTRBfd
+tMFmTRBtMFmTRB
+tMFfdmTRBfd
+mTRBfdmTRBfd
+fdtMFmTRBfd
+fdtMFfdmTRB
+mTRBtMFfdmTRB
+tMFmTRBtMFmTRB
+tMFmTRBtMFfd
+fdmTRBtMFfd
+tMFmTRBfdtMF
+mTRBfdtMFmTRB
+fdmTRBfdtMF
+mTRBtMFmTRBtMF
+fdtMFmTRBtMF
+tMFmTRBtMFmTRB
+mTRBfdmTRBtMF
+mTRBfdmTRBtMF
+tMFmTRBfdtMF
+fdtMFmTRBtMF
+mTRBtMFmTRBfd
+mTRBtMFmTRBtMF
+fdmTRBfdtMF
+tMFfdmTRBfd
+fdtMFmTRBtMF
+fdtMFmTRBtMF
+fdtMFfdmTRB
+tMFfdmTRBfd
+mTRBfdmTRBfd
+mTRBfdmTRBtMF
+mTRBfdmTRBtMF
+tMFmTRBfdtMF
+mTRBtMFfdmTRB
+fdmTRBtMFfd
+tMFmTRBfdmTRB
+fdtMFfdtMF
+tMFmTRBtMFmTRB
+tMFmTRBtMFfd
+fdtMFmTRBtMF
+tMFmTRBfdtMF
+mTRBtMFfdtMF
+tMFfdtMFmTRB
+tMFmTRBfdtMF
+fdtMFmTRBfd
+fdmTRBfdmTRB
+tMFmTRBtMFfd
+tMFfdmTRBtMF
+fdmTRBfdmTRB
+fdtMFfdmTRB
+mTRBtMFmTRBtMF
+fdmTRBfdmTRB
+tMFmTRBtMFfd
+tMFfdmTRBtMF
+mTRBtMFmTRBfd
+mTRBfdtMFmTRB
+mTRBfdmTRBtMF
+fdmTRBtMFfd
+mTRBfdtMFfd
+mTRBfdmTRBtMF
+fdtMFmTRBfd
+tMFmTRBfdmTRB
+mTRBtMFmTRBfd
+mTRBfdtMFfd
+mTRBfdtMFfd
+fdmTRBfdmTRB
+mTRBfdtMFmTRB
+fdtMFfdtMF
+mTRBtMFmTRBfd
+tMFfdmTRBfd
+tMFmTRBfdmTRB
+mTRBtMFmTRBtMF
+fdmTRBfdtMF
+fdmTRBfdtMF
+tMFmTRBtMFfd
+mTRBfdmTRBfd
+fdtMFfdmTRB
+fdtMFfdmTRB
+tMFfdmTRBtMF
+tMFfdmTRBfd
+tMFmTRBfdmTRB
+fdtMFfdmTRB
+fdmTRBtMFfd
+tMFfdtMFfd
+fdtMFfdmTRB
+tMFfdtMFfd
+mTRBfdtMFfd
+tMFfdtMFmTRB
+tMFfdtMFfd
+mTRBtMFmTRBfd
+tMFmTRBtMFmTRB
+fdmTRBtMFmTRB
+tMFfdtMFmTRB
+tMFmTRBtMFfd
+tMFmTRBfdtMF
+fdtMFmTRBtMF
+tMFfdtMFmTRB
+mTRBtMFfdmTRB
+mTRBtMFmTRBtMF
+tMFmTRBtMFfd
+tMFfdtMFfd
+tMFmTRBfdtMF
+
+Test Items:
+tMF	dtM
+fd	Bf
+mTRB	FmTR
+tMF	dtM
+mTRB	FmTR
+tMF	dtM
+mTRB	FmTR
+tMF	dtM
+mTRB	FmTR
+fd	Bf
+tMF	dtM
+mTRB	FmTR
+tMF	dtM
+fd	Bf
+tMF	dtM
+fd	Bf
+mTRB	FmTR
+tMF	dtM
+mTRB	FmTR
+fd	Bf
+tMF	dtM
+mTRB	FmTR
+tMF	dtM
+mTRB	FmTR
+fd	Bf
+tMF	dtM
+fd	Bf
+mTRB	FmTR
+tMF	dtM
+mTRB	FmTR

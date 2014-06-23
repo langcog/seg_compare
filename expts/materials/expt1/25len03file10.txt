@@ -1,0 +1,118 @@
+Lexicon: bilA	vAvu	dupAgu	kitubA	tidAkAlu	zuzigipi	
+
+Training Sentences:
+zuzigipitidAkAludupAgu
+zuzigipivAvutidAkAlu
+kitubAbilAdupAgu
+vAvutidAkAlukitubA
+bilAzuzigipivAvu
+bilAzuzigipidupAgu
+bilAzuzigipivAvu
+vAvubilAtidAkAlu
+kitubAtidAkAludupAgu
+zuzigipibilAvAvu
+dupAguzuzigipikitubA
+kitubAtidAkAlubilA
+dupAgukitubAtidAkAlu
+
+Test Items:
+zuzigipi	Aluzuzig
+bilA	ipib
+zuzigipi	Aluzuzig
+vAvu	ilAv
+bilA	ipib
+kitubA	Agukit
+vAvu	ipib
+zuzigipi	ubAtidAk
+dupAgu	Avudup
+kitubA	Agukit
+bilA	ipib
+vAvu	ilAv
+kitubA	Agukit
+zuzigipi	Aluzuzig
+dupAgu	Agukit
+tidAkAlu	Aluzuzig
+vAvu	ilAv
+tidAkAlu	Aluzuzig
+dupAgu	Agukit
+vAvu	ilAv
+kitubA	Avudup
+bilA	ipib
+zuzigipi	ubAtidAk
+kitubA	Agukit
+tidAkAlu	ubAtidAk
+vAvu	ipib
+dupAgu	Avudup
+vAvu	ilAv
+tidAkAlu	Aluzuzig
+vAvu	ilAv
+bilA	ipib
+vAvu	ilAv
+kitubA	Avudup
+zuzigipi	ubAtidAk
+bilA	ilAv
+dupAgu	Avudup
+tidAkAlu	ubAtidAk
+zuzigipi	Aluzuzig
+dupAgu	Avudup
+kitubA	Agukit
+dupAgu	Avudup
+tidAkAlu	ubAtidAk
+vAvu	ipib
+bilA	ilAv
+kitubA	Agukit
+bilA	ilAv
+kitubA	Agukit
+tidAkAlu	ubAtidAk
+bilA	ipib
+zuzigipi	Aluzuzig
+vAvu	ilAv
+kitubA	Avudup
+bilA	ilAv
+tidAkAlu	Aluzuzig
+kitubA	Avudup
+tidAkAlu	ubAtidAk
+vAvu	ilAv
+dupAgu	Avudup
+zuzigipi	Aluzuzig
+dupAgu	Agukit
+zuzigipi	ubAtidAk
+vAvu	ipib
+kitubA	Agukit
+bilA	ilAv
+vAvu	ipib
+bilA	ilAv
+tidAkAlu	ubAtidAk
+zuzigipi	Aluzuzig
+vAvu	ilAv
+tidAkAlu	ubAtidAk
+dupAgu	Agukit
+vAvu	ilAv
+dupAgu	Agukit
+kitubA	Agukit
+vAvu	ipib
+kitubA	Agukit
+zuzigipi	ubAtidAk
+dupAgu	Avudup
+vAvu	ipib
+bilA	ipib
+dupAgu	Agukit
+kitubA	Agukit
+vAvu	ipib
+bilA	ipib
+vAvu	ipib
+kitubA	Avudup
+dupAgu	Agukit
+zuzigipi	ubAtidAk
+tidAkAlu	Aluzuzig
+kitubA	Agukit
+dupAgu	Avudup
+zuzigipi	ubAtidAk
+bilA	ipib
+tidAkAlu	ubAtidAk
+vAvu	ilAv
+zuzigipi	Aluzuzig
+bilA	ipib
+zuzigipi	ubAtidAk
+dupAgu	Agukit
+vAvu	ilAv

@@ -1,0 +1,60 @@
+Lexicon: fL	tvn	Mpzd	Jk	DBr	
+
+Training Sentences:
+tvnfLDBrJk
+MpzdJkDBrfL
+tvnJkMpzdfL
+DBrJkMpzdfL
+DBrJkMpzdfL
+JktvnfLMpzd
+DBrMpzdfLtvn
+JkfLDBrtvn
+MpzdDBrJkfL
+JktvnDBrfL
+MpzdJkfLtvn
+tvnfLDBrMpzd
+tvnMpzdDBrfL
+tvnJkDBrMpzd
+JkMpzdfLtvn
+DBrMpzdtvnJk
+JkMpzdDBrtvn
+fLJktvnMpzd
+JkfLDBrMpzd
+JkfLDBrtvn
+DBrtvnMpzdJk
+MpzdfLDBrtvn
+MpzdfLtvnDBr
+JkfLMpzdtvn
+tvnJkDBrDBr
+
+Test Items:
+fL	dJ
+tvn	Ltv
+Jk	dJ
+DBr	kDB
+tvn	Ltv
+fL	rf
+Jk	dJ
+fL	rf
+Mpzd	nMpz
+Jk	dJ
+fL	rf
+tvn	kDB
+fL	dJ
+tvn	kDB
+DBr	Ltv
+fL	dJ
+Mpzd	nMpz
+tvn	kDB
+fL	rf
+tvn	kDB
+fL	rf
+Mpzd	nMpz
+Jk	rf
+fL	dJ
+tvn	kDB
+DBr	Ltv
+Jk	dJ
+DBr	kDB
+tvn	kDB
+fL	rf

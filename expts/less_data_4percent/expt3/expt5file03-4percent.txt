@@ -1,0 +1,41 @@
+Lexicon: Pp	kFr	dMnz	RV	tNm	
+
+Training Sentences:
+PpkFrtNmRV
+kFrPptNmdMnz
+kFrRVdMnztNm
+tNmRVdMnzPp
+dMnzRVPptNm
+dMnzkFrRVPp
+
+Test Items:
+tNm	VtN
+Pp	mP
+RV	zR
+tNm	pkF
+RV	mP
+tNm	VtN
+Pp	mP
+tNm	pkF
+RV	mP
+tNm	pkF
+kFr	VtN
+Pp	zR
+dMnz	rdMn
+Pp	zR
+dMnz	rdMn
+Pp	zR
+kFr	pkF
+Pp	zR
+kFr	pkF
+Pp	mP
+tNm	VtN
+kFr	VtN
+Pp	mP
+tNm	VtN
+RV	mP
+kFr	VtN
+Pp	mP
+RV	zR
+Pp	zR
+tNm	pkF

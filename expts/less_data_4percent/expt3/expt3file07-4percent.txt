@@ -1,0 +1,41 @@
+Lexicon: LR	dng	zMJG	
+
+Training Sentences:
+dngLRzMJGdng
+zMJGLRzMJGLR
+zMJGLRzMJGLR
+zMJGdngzMJGdng
+dngLRdngLR
+LRzMJGdngdng
+
+Test Items:
+dng	Rdn
+zMJG	gzMJ
+dng	Rdn
+zMJG	gzMJ
+LR	GL
+zMJG	gzMJ
+dng	Rdn
+LR	GL
+zMJG	gzMJ
+LR	GL
+dng	Rdn
+LR	GL
+dng	Rdn
+zMJG	gzMJ
+LR	GL
+dng	Rdn
+zMJG	gzMJ
+LR	GL
+zMJG	gzMJ
+dng	Rdn
+LR	GL
+zMJG	gzMJ
+dng	Rdn
+zMJG	gzMJ
+LR	GL
+dng	Rdn
+LR	GL
+zMJG	gzMJ
+dng	Rdn
+zMJG	gzMJ

@@ -1,0 +1,49 @@
+Lexicon: kAbi	bAgu	zuzilu	givAlA	dudApipA	titukivu	
+
+Training Sentences:
+titukivugivAlA
+titukivukAbi
+kAbidudApipA
+bAgukAbi
+givAlAzuzilu
+kAbititukivu
+titukivubAgu
+bAguzuzilu
+dudApipAbAgu
+givAlAdudApipA
+givAlAbAgu
+zuzilukAbi
+titukivududApipA
+dudApipAzuzilu
+
+Test Items:
+givAlA	ilugiv
+titukivu	AlAdudAp
+dudApipA	ipAtituk
+kAbi	ivuk
+zuzilu	Aguzuz
+kAbi	Abib
+titukivu	ipAtituk
+givAlA	Aguzuz
+kAbi	Abib
+givAlA	Aguzuz
+dudApipA	ipAtituk
+bAgu	Abib
+titukivu	AlAdudAp
+kAbi	ivuk
+zuzilu	ilugiv
+givAlA	Aguzuz
+dudApipA	AlAdudAp
+bAgu	Abib
+zuzilu	ilugiv
+titukivu	AlAdudAp
+bAgu	Abib
+dudApipA	AlAdudAp
+bAgu	ivuk
+kAbi	ivuk
+titukivu	ipAtituk
+dudApipA	AlAdudAp
+zuzilu	Aguzuz
+titukivu	AlAdudAp
+kAbi	ivuk
+bAgu	Abib

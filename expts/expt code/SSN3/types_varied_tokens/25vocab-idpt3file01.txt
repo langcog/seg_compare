@@ -1,0 +1,60 @@
+Lexicon: gp	fKZ	lnPk	
+
+Training Sentences:
+lnPkfKZgplnPk
+gpfKZgplnPk
+fKZgpfKZgp
+gplnPkfKZgp
+lnPkfKZgpfKZ
+lnPkfKZlnPkgp
+lnPkfKZgpfKZ
+lnPkgplnPkgp
+fKZgplnPkfKZ
+lnPkfKZlnPkfKZ
+lnPkfKZlnPkfKZ
+fKZgpfKZgp
+gplnPkgpfKZ
+fKZlnPkfKZlnPk
+lnPkgpfKZlnPk
+gplnPkgpfKZ
+gpfKZlnPkgp
+lnPkgplnPkfKZ
+gpfKZgplnPk
+gpfKZlnPkfKZ
+fKZgplnPkgp
+gpfKZlnPkgp
+fKZgplnPkgp
+fKZgplnPkfKZ
+lnPkfKZlnPkgp
+
+Test Items:
+lnPk	ZlnP
+fKZ	pfK
+gp	kg
+fKZ	pfK
+gp	kg
+lnPk	ZlnP
+fKZ	pfK
+gp	kg
+lnPk	ZlnP
+fKZ	pfK
+lnPk	ZlnP
+fKZ	pfK
+lnPk	ZlnP
+fKZ	pfK
+gp	kg
+lnPk	ZlnP
+fKZ	pfK
+lnPk	ZlnP
+gp	kg
+fKZ	pfK
+lnPk	ZlnP
+gp	kg
+lnPk	ZlnP
+fKZ	pfK
+gp	kg
+lnPk	ZlnP
+fKZ	pfK
+gp	kg
+lnPk	ZlnP
+gp	kg

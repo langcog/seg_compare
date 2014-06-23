@@ -1,0 +1,55 @@
+Lexicon: kigu	dApA	kAbAzu	bipivA	lAtuduzi	vugiluti	
+
+Training Sentences:
+kAbAzuvugiluti
+dApAbipivA
+dApAkigu
+vugilutikigu
+dApAvugiluti
+kigulAtuduzi
+bipivAdApA
+dApAbipivA
+bipivAlAtuduzi
+vugilutikigu
+kigubipivA
+vugilutikigu
+vugilutikAbAzu
+lAtuduzivugiluti
+lAtuduzibipivA
+kAbAzudApA
+kAbAzudApA
+kAbAzulAtuduzi
+bipivAkAbAzu
+kigukAbAzu
+
+Test Items:
+dApA	igud
+kigu	utik
+bipivA	ApAkAb
+lAtuduzi	ivAlAtud
+vugiluti	uzivugil
+dApA	utik
+kAbAzu	ApAkAb
+kigu	utik
+lAtuduzi	uzivugil
+kigu	utik
+vugiluti	uzivugil
+kAbAzu	ApAkAb
+dApA	utik
+vugiluti	ivAlAtud
+lAtuduzi	uzivugil
+dApA	igud
+bipivA	Azubip
+dApA	utik
+lAtuduzi	ivAlAtud
+kAbAzu	ApAkAb
+lAtuduzi	uzivugil
+bipivA	Azubip
+vugiluti	uzivugil
+lAtuduzi	ivAlAtud
+bipivA	Azubip
+lAtuduzi	uzivugil
+kigu	igud
+kAbAzu	ApAkAb
+dApA	igud
+bipivA	Azubip

@@ -1,0 +1,125 @@
+Lexicon: zudA	pAtu	pibAti	kivudu	lAgikAzi	vAgubilu	
+
+Training Sentences:
+vAgubilulAgikAzi
+zudApAtu
+vAgubilupibAti
+pibAtizudA
+zudAkivudu
+zudAkivudu
+pibAtilAgikAzi
+lAgikAzipibAti
+vAgubilulAgikAzi
+pAtuzudA
+vAgubilupibAti
+kivudupAtu
+zudAkivudu
+zudAlAgikAzi
+pibAtipAtu
+pAtulAgikAzi
+kivudupAtu
+vAgubilukivudu
+pAtuvAgubilu
+lAgikAzivAgubilu
+
+Test Items:
+kivudu	Atupib
+zudA	udAp
+kivudu	Atikiv
+lAgikAzi	AzivAgub
+kivudu	Atikiv
+lAgikAzi	udulAgik
+kivudu	Atikiv
+lAgikAzi	udulAgik
+zudA	udAp
+pAtu	iluz
+kivudu	Atupib
+zudA	udAp
+kivudu	Atikiv
+pibAti	Atupib
+vAgubilu	AzivAgub
+pibAti	Atikiv
+lAgikAzi	udulAgik
+zudA	udAp
+vAgubilu	udulAgik
+pAtu	iluz
+zudA	udAp
+kivudu	Atupib
+zudA	iluz
+pibAti	Atupib
+lAgikAzi	udulAgik
+pAtu	iluz
+lAgikAzi	AzivAgub
+zudA	iluz
+lAgikAzi	udulAgik
+vAgubilu	AzivAgub
+lAgikAzi	udulAgik
+pAtu	udAp
+pibAti	Atupib
+zudA	iluz
+pibAti	Atupib
+pAtu	udAp
+kivudu	Atupib
+lAgikAzi	udulAgik
+pibAti	Atikiv
+lAgikAzi	udulAgik
+pibAti	Atupib
+lAgikAzi	udulAgik
+pibAti	Atupib
+vAgubilu	AzivAgub
+zudA	udAp
+pibAti	Atupib
+vAgubilu	udulAgik
+kivudu	Atikiv
+pibAti	Atupib
+vAgubilu	udulAgik
+kivudu	Atupib
+zudA	iluz
+lAgikAzi	AzivAgub
+vAgubilu	udulAgik
+zudA	udAp
+pibAti	Atupib
+zudA	udAp
+pAtu	iluz
+vAgubilu	udulAgik
+zudA	iluz
+vAgubilu	udulAgik
+pAtu	iluz
+pibAti	Atupib
+vAgubilu	AzivAgub
+pibAti	Atupib
+zudA	iluz
+lAgikAzi	AzivAgub
+zudA	udAp
+vAgubilu	AzivAgub
+zudA	udAp
+pibAti	Atupib
+pAtu	udAp
+zudA	iluz
+pibAti	Atikiv
+zudA	iluz
+pibAti	Atikiv
+vAgubilu	AzivAgub
+pibAti	Atupib
+vAgubilu	AzivAgub
+zudA	iluz
+kivudu	Atikiv
+lAgikAzi	AzivAgub
+vAgubilu	udulAgik
+kivudu	Atupib
+lAgikAzi	AzivAgub
+pibAti	Atupib
+lAgikAzi	AzivAgub
+kivudu	Atikiv
+lAgikAzi	AzivAgub
+vAgubilu	udulAgik
+zudA	iluz
+pibAti	Atupib
+zudA	udAp
+lAgikAzi	AzivAgub
+vAgubilu	udulAgik
+pibAti	Atikiv
+vAgubilu	udulAgik
+kivudu	Atupib
+pAtu	iluz
+kivudu	Atupib

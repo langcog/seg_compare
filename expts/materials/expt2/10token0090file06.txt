@@ -1,0 +1,57 @@
+Lexicon: zukA	dugu	lAtigi	bibAki	zipiludA	vutuvApA	
+
+Training Sentences:
+zukAbibAkidugulAtigi
+bibAkizukAvutuvApAdugu
+zukAlAtigivutuvApAzipiludA
+vutuvApAlAtigizipiludAbibAki
+dugulAtigizipiludAbibAki
+zipiludAbibAkivutuvApAlAtigi
+zipiludAdugulAtigibibAki
+vutuvApAbibAkizukAzipiludA
+vutuvApAzukAduguzipiludA
+vutuvApAlAtigiduguzukA
+bibAkilAtigizukAvutuvApA
+lAtigibibAkizukAvutuvApA
+duguzukAbibAkizipiludA
+zukAzipiludAdugulAtigi
+lAtigizipiludAbibAkidugu
+bibAkiduguvutuvApAzipiludA
+zipiludAlAtigivutuvApAdugu
+dugubibAkizipiludAvutuvApA
+bibAkizukAduguvutuvApA
+zipiludAzukAdugulAtigi
+vutuvApAdugubibAkizukA
+zukAlAtigizipiludAvutuvApA
+
+Test Items:
+vutuvApA	udAvutuv
+lAtigi	igibib
+dugu	ukAd
+lAtigi	ugulAt
+zipiludA	udAvutuv
+bibAki	igibib
+zipiludA	udAvutuv
+zukA	ApAz
+vutuvApA	Akizipil
+bibAki	ugulAt
+lAtigi	igibib
+bibAki	ugulAt
+zukA	ukAd
+vutuvApA	Akizipil
+dugu	ApAz
+zukA	ukAd
+bibAki	igibib
+vutuvApA	Akizipil
+dugu	ukAd
+vutuvApA	udAvutuv
+dugu	ApAz
+lAtigi	igibib
+dugu	ukAd
+lAtigi	igibib
+bibAki	ugulAt
+zipiludA	udAvutuv
+zukA	ApAz
+dugu	ukAd
+zipiludA	udAvutuv
+bibAki	igibib

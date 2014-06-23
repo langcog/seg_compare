@@ -1,0 +1,115 @@
+Lexicon: tupi	duti	lubizi	gizuki	dAvAbApA	vugulAkA	
+
+Training Sentences:
+vugulAkAdutidAvAbApAgizuki
+vugulAkAdAvAbApAgizukilubizi
+vugulAkAgizukidutitupi
+dutigizukitupilubizi
+gizukitupidutivugulAkA
+vugulAkAdutilubizidAvAbApA
+gizukilubizidutidAvAbApA
+lubizitupidAvAbApAvugulAkA
+tupidutidAvAbApAvugulAkA
+lubizidAvAbApAtupigizuki
+
+Test Items:
+lubizi	izigiz
+gizuki	utilub
+dAvAbApA	ukidAvAb
+gizuki	izigiz
+lubizi	utilub
+tupi	upid
+gizuki	izigiz
+tupi	upid
+dAvAbApA	ApAvugul
+vugulAkA	ukidAvAb
+lubizi	utilub
+duti	upid
+dAvAbApA	ApAvugul
+vugulAkA	ukidAvAb
+dAvAbApA	ApAvugul
+duti	AkAt
+lubizi	utilub
+duti	upid
+lubizi	izigiz
+dAvAbApA	ukidAvAb
+gizuki	utilub
+dAvAbApA	ukidAvAb
+tupi	upid
+dAvAbApA	ukidAvAb
+gizuki	izigiz
+lubizi	utilub
+vugulAkA	ApAvugul
+dAvAbApA	ukidAvAb
+duti	upid
+tupi	AkAt
+duti	upid
+gizuki	izigiz
+duti	AkAt
+vugulAkA	ApAvugul
+lubizi	utilub
+gizuki	izigiz
+duti	AkAt
+vugulAkA	ApAvugul
+lubizi	utilub
+gizuki	izigiz
+vugulAkA	ukidAvAb
+duti	upid
+tupi	upid
+vugulAkA	ApAvugul
+gizuki	izigiz
+lubizi	utilub
+tupi	upid
+vugulAkA	ApAvugul
+duti	AkAt
+dAvAbApA	ukidAvAb
+duti	upid
+lubizi	izigiz
+vugulAkA	ApAvugul
+tupi	upid
+duti	AkAt
+lubizi	izigiz
+vugulAkA	ukidAvAb
+duti	AkAt
+gizuki	izigiz
+lubizi	utilub
+gizuki	izigiz
+duti	AkAt
+dAvAbApA	ApAvugul
+lubizi	izigiz
+dAvAbApA	ukidAvAb
+gizuki	izigiz
+dAvAbApA	ukidAvAb
+tupi	upid
+lubizi	izigiz
+tupi	AkAt
+gizuki	izigiz
+dAvAbApA	ukidAvAb
+lubizi	utilub
+vugulAkA	ApAvugul
+tupi	AkAt
+duti	upid
+lubizi	utilub
+duti	AkAt
+gizuki	utilub
+tupi	AkAt
+vugulAkA	ApAvugul
+dAvAbApA	ukidAvAb
+duti	AkAt
+vugulAkA	ukidAvAb
+gizuki	izigiz
+lubizi	utilub
+gizuki	izigiz
+vugulAkA	ApAvugul
+duti	AkAt
+lubizi	izigiz
+gizuki	utilub
+lubizi	izigiz
+vugulAkA	ApAvugul
+gizuki	utilub
+lubizi	izigiz
+duti	upid
+lubizi	izigiz
+duti	AkAt
+tupi	upid
+lubizi	utilub

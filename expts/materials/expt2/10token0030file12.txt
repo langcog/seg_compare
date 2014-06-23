@@ -1,0 +1,42 @@
+Lexicon: zitu	pilA	vAvubi	gukApA	lukizudu	dAtigibA	
+
+Training Sentences:
+gukApApilAdAtigibAzitu
+lukizuduvAvubidAtigibApilA
+vAvubidAtigibAlukizudugukApA
+pilAzitudAtigibAvAvubi
+lukizudugukApApilAvAvubi
+gukApAzitulukizudupilA
+zitulukizududAtigibAvAvubi
+
+Test Items:
+dAtigibA	ududAtig
+gukApA	ubiguk
+dAtigibA	ApAlukiz
+pilA	ibAz
+zitu	itup
+gukApA	ubiguk
+dAtigibA	ududAtig
+vAvubi	ubiguk
+lukizudu	ApAlukiz
+gukApA	ubiguk
+dAtigibA	ududAtig
+vAvubi	ilAvAv
+dAtigibA	ApAlukiz
+gukApA	ubiguk
+zitu	ibAz
+pilA	itup
+vAvubi	ilAvAv
+zitu	ibAz
+gukApA	ilAvAv
+dAtigibA	ududAtig
+pilA	ibAz
+vAvubi	ilAvAv
+dAtigibA	ApAlukiz
+gukApA	ubiguk
+lukizudu	ApAlukiz
+zitu	itup
+pilA	itup
+gukApA	ilAvAv
+dAtigibA	ududAtig
+lukizudu	ududAtig

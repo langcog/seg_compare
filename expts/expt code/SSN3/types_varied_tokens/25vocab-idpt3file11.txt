@@ -1,0 +1,60 @@
+Lexicon: DV	pzv	bkJt	
+
+Training Sentences:
+bkJtpzvbkJtDV
+DVpzvDVpzv
+pzvDVbkJtpzv
+pzvbkJtDVpzv
+DVpzvDVbkJt
+DVpzvDVbkJt
+pzvDVbkJtpzv
+bkJtpzvbkJtDV
+DVpzvbkJtpzv
+DVpzvDVbkJt
+bkJtpzvbkJtDV
+bkJtDVpzvbkJt
+bkJtDVpzvbkJt
+pzvDVbkJtDV
+bkJtDVpzvDV
+DVpzvDVpzv
+DVpzvbkJtpzv
+DVpzvbkJtpzv
+bkJtDVbkJtDV
+pzvbkJtpzvDV
+bkJtpzvDVpzv
+bkJtpzvDVbkJt
+DVbkJtDVpzv
+bkJtpzvDVbkJt
+pzvDVbkJtbkJt
+
+Test Items:
+bkJt	vbkJ
+pzv	Vpz
+DV	tD
+bkJt	vbkJ
+pzv	Vpz
+bkJt	vbkJ
+pzv	Vpz
+DV	tD
+pzv	Vpz
+DV	tD
+pzv	Vpz
+bkJt	vbkJ
+pzv	Vpz
+bkJt	vbkJ
+DV	tD
+pzv	Vpz
+DV	tD
+pzv	Vpz
+DV	tD
+bkJt	vbkJ
+DV	tD
+bkJt	vbkJ
+pzv	Vpz
+DV	tD
+bkJt	vbkJ
+pzv	Vpz
+DV	tD
+bkJt	vbkJ
+DV	tD
+pzv	Vpz

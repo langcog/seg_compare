@@ -1,0 +1,45 @@
+Lexicon: BT	Vlf	dJPL	tn	MgG	
+
+Training Sentences:
+VlfMgGdJPLBT
+VlfdJPLMgGBT
+MgGdJPLVlfBT
+MgGBTVlftn
+MgGdJPLVlftn
+VlftndJPLMgG
+VlftnBTdJPL
+dJPLtnMgGBT
+tnBTdJPLMgG
+tnVlfBTtn
+
+Test Items:
+MgG	nMg
+tn	GB
+MgG	nMg
+Vlf	TVl
+tn	GB
+BT	Lt
+Vlf	nMg
+tn	GB
+BT	Lt
+dJPL	fdJP
+Vlf	nMg
+MgG	TVl
+dJPL	fdJP
+MgG	TVl
+tn	Lt
+Vlf	TVl
+BT	GB
+tn	Lt
+dJPL	fdJP
+Vlf	TVl
+dJPL	fdJP
+MgG	TVl
+BT	GB
+tn	Lt
+BT	GB
+MgG	nMg
+tn	Lt
+dJPL	fdJP
+tn	Lt
+BT	Lt

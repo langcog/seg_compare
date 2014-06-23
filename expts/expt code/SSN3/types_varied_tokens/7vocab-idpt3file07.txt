@@ -1,0 +1,42 @@
+Lexicon: pF	Ktl	PzrG	
+
+Training Sentences:
+pFKtlpFKtl
+pFPzrGKtlPzrG
+pFPzrGpFPzrG
+KtlpFKtlpF
+PzrGpFKtlpF
+KtlPzrGKtlPzrG
+KtlPzrGpFPzrG
+
+Test Items:
+PzrG	lPzr
+pF	Gp
+Ktl	FKt
+pF	Gp
+Ktl	FKt
+PzrG	lPzr
+Ktl	FKt
+pF	Gp
+PzrG	lPzr
+pF	Gp
+PzrG	lPzr
+Ktl	FKt
+pF	Gp
+PzrG	lPzr
+Ktl	FKt
+pF	Gp
+PzrG	lPzr
+pF	Gp
+Ktl	FKt
+pF	Gp
+PzrG	lPzr
+pF	Gp
+PzrG	lPzr
+Ktl	FKt
+PzrG	lPzr
+pF	Gp
+Ktl	FKt
+PzrG	lPzr
+pF	Gp
+Ktl	FKt

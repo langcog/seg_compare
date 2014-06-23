@@ -1,0 +1,42 @@
+Lexicon: bM	Jkf	zLlG	NF	BmK	Rdvt	
+
+Training Sentences:
+JkfbMBmKRdvt
+bMRdvtBmKzLlG
+NFRdvtzLlGbM
+NFRdvtJkfBmK
+RdvtBmKzLlGJkf
+zLlGbMNFBmK
+bMzLlGJkfNF
+
+Test Items:
+bM	tb
+BmK	FBm
+Jkf	MJk
+zLlG	fzLl
+BmK	FBm
+zLlG	fzLl
+Jkf	FBm
+bM	tb
+Rdvt	fzLl
+Jkf	MJk
+NF	GN
+Rdvt	KRdv
+Jkf	MJk
+BmK	FBm
+NF	GN
+Rdvt	fzLl
+BmK	MJk
+NF	GN
+Jkf	MJk
+BmK	MJk
+Jkf	FBm
+bM	GN
+Jkf	FBm
+zLlG	fzLl
+bM	GN
+zLlG	fzLl
+Rdvt	KRdv
+Jkf	MJk
+NF	GN
+BmK	MJk

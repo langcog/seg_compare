@@ -1,0 +1,38 @@
+Lexicon: dulu	tizi	kAvAtu	giguki	vudAbAbi	lApipAzu	
+
+Training Sentences:
+gigukikAvAtugigukivudAbAbidulukAvAtulApipAzuduluvudAbAbilApipAzutizivudAbAbi
+gigukivudAbAbikAvAtudulutizilApipAzugigukilApipAzutiziduluvudAbAbikAvAtu
+tizivudAbAbigigukidulukAvAtudulugigukikAvAtulApipAzutizivudAbAbilApipAzu
+
+Test Items:
+tizi	Azud
+lApipAzu	AbilApip
+dulu	Azud
+kAvAtu	Atugig
+tizi	Azud
+dulu	ulut
+giguki	Atugig
+vudAbAbi	AbilApip
+lApipAzu	ukivudAb
+vudAbAbi	AbilApip
+tizi	ulut
+giguki	Atugig
+kAvAtu	izikAv
+lApipAzu	AbilApip
+dulu	ulut
+vudAbAbi	AbilApip
+dulu	Azud
+vudAbAbi	ukivudAb
+tizi	ulut
+lApipAzu	AbilApip
+giguki	Atugig
+vudAbAbi	AbilApip
+tizi	Azud
+lApipAzu	AbilApip
+vudAbAbi	ukivudAb
+kAvAtu	izikAv
+giguki	Atugig
+kAvAtu	izikAv
+vudAbAbi	ukivudAb
+giguki	izikAv

@@ -1,0 +1,63 @@
+Lexicon: luti	kAvA	tupipA	zukivu	gigubizi	bAlAdAdu	
+
+Training Sentences:
+tupipA
+zukivu
+gigubizi
+luti
+zukivu
+luti
+bAlAdAdu
+zukivu
+kAvA
+gigubizi
+bAlAdAdu
+tupipA
+gigubizi
+bAlAdAdu
+tupipA
+gigubizi
+kAvA
+kAvA
+zukivu
+zukivu
+luti
+tupipA
+luti
+luti
+gigubizi
+kAvA
+bAlAdAdu
+tupipA
+
+Test Items:
+bAlAdAdu	izibAlAd
+zukivu	ipAzuk
+bAlAdAdu	izibAlAd
+zukivu	ipAzuk
+gigubizi	izibAlAd
+zukivu	ipAzuk
+bAlAdAdu	ivugigub
+kAvA	utik
+tupipA	ipAzuk
+kAvA	Adul
+zukivu	ipAzuk
+luti	Adul
+kAvA	utik
+zukivu	ipAzuk
+bAlAdAdu	ivugigub
+tupipA	AvAtup
+kAvA	Adul
+zukivu	ipAzuk
+bAlAdAdu	ivugigub
+gigubizi	izibAlAd
+bAlAdAdu	ivugigub
+gigubizi	ivugigub
+tupipA	AvAtup
+luti	utik
+kAvA	Adul
+gigubizi	izibAlAd
+luti	Adul
+bAlAdAdu	ivugigub
+zukivu	AvAtup
+kAvA	Adul

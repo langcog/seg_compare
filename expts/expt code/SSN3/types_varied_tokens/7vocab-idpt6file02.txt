@@ -1,0 +1,42 @@
+Lexicon: fg	DnG	RLbz	Pl	Npd	tTrZ	
+
+Training Sentences:
+PlRLbzNpdDnG
+NpdtTrZPlfg
+tTrZRLbzNpdDnG
+DnGNpdfgPl
+DnGPlRLbztTrZ
+fgRLbzPlDnG
+tTrZfgRLbzNpd
+
+Test Items:
+RLbz	dtTr
+Pl	zP
+Npd	lNp
+RLbz	GRLb
+tTrZ	dtTr
+Npd	lNp
+Pl	Zf
+Npd	lNp
+RLbz	dtTr
+fg	zP
+RLbz	GRLb
+DnG	lNp
+Pl	zP
+tTrZ	dtTr
+DnG	lNp
+tTrZ	dtTr
+Npd	lNp
+Pl	zP
+DnG	gDn
+RLbz	GRLb
+DnG	lNp
+RLbz	dtTr
+Npd	gDn
+tTrZ	dtTr
+Npd	lNp
+fg	zP
+Npd	gDn
+tTrZ	dtTr
+fg	zP
+Pl	Zf

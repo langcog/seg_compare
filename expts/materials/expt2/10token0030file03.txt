@@ -1,0 +1,42 @@
+Lexicon: vudA	kAdu	kiguti	tuzubi	pibAvAlu	gizipAlA	
+
+Training Sentences:
+pibAvAlugizipAlAvudAkiguti
+vudAkigutikAdugizipAlA
+gizipAlAkAdutuzubipibAvAlu
+tuzubikAdugizipAlAkiguti
+vudAtuzubipibAvAlukAdu
+pibAvAlutuzubikAdukiguti
+tuzubivudAgizipAlApibAvAlu
+
+Test Items:
+pibAvAlu	Alugizip
+kiguti	Adukig
+kAdu	udAk
+pibAvAlu	Alugizip
+tuzubi	Adukig
+kAdu	udAk
+pibAvAlu	Alugizip
+vudA	AlAv
+pibAvAlu	ubipibAv
+vudA	AlAv
+gizipAlA	Alugizip
+kiguti	Adukig
+tuzubi	utituz
+pibAvAlu	Alugizip
+vudA	AlAv
+kAdu	udAk
+vudA	AlAv
+gizipAlA	Alugizip
+pibAvAlu	ubipibAv
+kiguti	utituz
+kAdu	AlAv
+tuzubi	utituz
+kAdu	AlAv
+tuzubi	utituz
+kiguti	Adukig
+vudA	AlAv
+tuzubi	utituz
+pibAvAlu	ubipibAv
+gizipAlA	Alugizip
+kAdu	AlAv

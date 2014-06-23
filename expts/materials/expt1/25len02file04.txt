@@ -1,0 +1,125 @@
+Lexicon: dApi	lAki	givukA	vAtizu	pAgutubA	biduluzi	
+
+Training Sentences:
+givukAdApi
+vAtizudApi
+lAkipAgutubA
+biduluzilAki
+givukAvAtizu
+vAtizupAgutubA
+lAkibiduluzi
+biduluzigivukA
+biduluzilAki
+pAgutubAgivukA
+vAtizugivukA
+lAkipAgutubA
+givukAdApi
+biduluzidApi
+pAgutubAdApi
+vAtizubiduluzi
+vAtizulAki
+pAgutubAvAtizu
+dApipAgutubA
+lAkidApi
+
+Test Items:
+lAki	Apil
+givukA	ukAvAt
+pAgutubA	ubAbidul
+dApi	Apil
+lAki	uzid
+vAtizu	Akigiv
+dApi	uzid
+givukA	Akigiv
+pAgutubA	izupAgut
+vAtizu	Akigiv
+givukA	ukAvAt
+lAki	Apil
+pAgutubA	ubAbidul
+biduluzi	izupAgut
+givukA	Akigiv
+vAtizu	ukAvAt
+dApi	Apil
+vAtizu	ukAvAt
+dApi	uzid
+lAki	uzid
+givukA	ukAvAt
+vAtizu	Akigiv
+givukA	ukAvAt
+pAgutubA	izupAgut
+biduluzi	ubAbidul
+dApi	Apil
+pAgutubA	izupAgut
+vAtizu	Akigiv
+pAgutubA	ubAbidul
+vAtizu	Akigiv
+dApi	Apil
+pAgutubA	izupAgut
+dApi	uzid
+biduluzi	ubAbidul
+dApi	uzid
+pAgutubA	izupAgut
+givukA	ukAvAt
+lAki	uzid
+vAtizu	ukAvAt
+givukA	ukAvAt
+vAtizu	Akigiv
+pAgutubA	ubAbidul
+vAtizu	Akigiv
+lAki	uzid
+dApi	Apil
+givukA	Akigiv
+vAtizu	Akigiv
+givukA	ukAvAt
+vAtizu	ukAvAt
+biduluzi	izupAgut
+pAgutubA	ubAbidul
+givukA	ukAvAt
+biduluzi	ubAbidul
+pAgutubA	izupAgut
+vAtizu	Akigiv
+lAki	uzid
+dApi	Apil
+pAgutubA	izupAgut
+dApi	Apil
+biduluzi	izupAgut
+pAgutubA	ubAbidul
+dApi	uzid
+biduluzi	izupAgut
+pAgutubA	ubAbidul
+givukA	ukAvAt
+pAgutubA	ubAbidul
+biduluzi	ubAbidul
+lAki	Apil
+vAtizu	ukAvAt
+lAki	uzid
+vAtizu	Akigiv
+biduluzi	izupAgut
+pAgutubA	ubAbidul
+lAki	uzid
+givukA	ukAvAt
+dApi	uzid
+biduluzi	izupAgut
+pAgutubA	ubAbidul
+biduluzi	izupAgut
+pAgutubA	ubAbidul
+givukA	ukAvAt
+lAki	Apil
+biduluzi	ubAbidul
+vAtizu	Akigiv
+lAki	Apil
+biduluzi	izupAgut
+givukA	Akigiv
+biduluzi	izupAgut
+lAki	uzid
+dApi	Apil
+biduluzi	izupAgut
+lAki	Apil
+biduluzi	ubAbidul
+dApi	uzid
+givukA	Akigiv
+vAtizu	ukAvAt
+biduluzi	izupAgut
+pAgutubA	izupAgut
+biduluzi	ubAbidul
+dApi	Apil

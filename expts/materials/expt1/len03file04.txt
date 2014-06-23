@@ -1,0 +1,235 @@
+Lexicon: TV	LP	gdz	kbK	DZpB	lGvt	
+
+Training Sentences:
+TVlGvtgdz
+LPkbKlGvt
+kbKTVlGvt
+LPgdzDZpB
+kbKLPlGvt
+lGvtgdzTV
+kbKlGvtgdz
+TVlGvtkbK
+gdzkbKlGvt
+gdzDZpBlGvt
+TVLPgdz
+DZpBgdzLP
+lGvtTVgdz
+lGvtDZpBkbK
+gdzTVLP
+gdzkbKTV
+LPDZpBkbK
+TVgdzlGvt
+TVlGvtDZpB
+LPlGvtTV
+DZpBlGvtTV
+kbKgdzLP
+TVlGvtDZpB
+gdzkbKDZpB
+TVkbKlGvt
+TVkbKLP
+TVDZpBLP
+DZpBkbKTV
+lGvtgdzLP
+DZpBgdzlGvt
+kbKLPDZpB
+TVLPlGvt
+TVDZpBgdz
+TVlGvtLP
+gdzTVkbK
+gdzTVlGvt
+LPDZpBlGvt
+DZpBkbKlGvt
+lGvtgdzTV
+gdzTVkbK
+TVgdzkbK
+LPTVDZpB
+DZpBLPTV
+kbKDZpBlGvt
+lGvtTVgdz
+lGvtDZpBLP
+LPlGvtTV
+kbKgdzDZpB
+TVlGvtLP
+DZpBLPlGvt
+LPlGvtDZpB
+kbKLPlGvt
+DZpBgdzLP
+gdzDZpBkbK
+DZpBTVLP
+DZpBLPgdz
+kbKgdzLP
+TVgdzLP
+kbKTVLP
+DZpBlGvtkbK
+LPDZpBkbK
+lGvtgdzDZpB
+LPlGvtgdz
+TVkbKlGvt
+DZpBgdzLP
+DZpBTVkbK
+kbKLPgdz
+lGvtkbKDZpB
+kbKTVgdz
+DZpBkbKgdz
+gdzLPTV
+kbKgdzTV
+lGvtgdzDZpB
+DZpBlGvtkbK
+LPlGvtTV
+TVDZpBLP
+TVkbKgdz
+TVgdzDZpB
+kbKgdzTV
+lGvtDZpBLP
+LPgdzkbK
+kbKLPgdz
+LPlGvtkbK
+gdzTVLP
+TVgdzDZpB
+DZpBTVlGvt
+DZpBTVkbK
+kbKDZpBlGvt
+TVLPDZpB
+TVkbKlGvt
+gdzDZpBlGvt
+gdzkbKTV
+LPDZpBTV
+gdzDZpBTV
+DZpBLPTV
+kbKTVLP
+gdzLPlGvt
+lGvtgdzTV
+kbKDZpBgdz
+DZpBLPTV
+kbKLPlGvt
+DZpBkbKgdz
+lGvtkbKDZpB
+gdzDZpBkbK
+gdzlGvtDZpB
+DZpBgdzlGvt
+LPTVDZpB
+lGvtgdzDZpB
+LPTVgdz
+gdzLPDZpB
+lGvtTVDZpB
+LPTVgdz
+TVkbKDZpB
+lGvtTVDZpB
+lGvtgdzLP
+gdzTVkbK
+TVLPDZpB
+kbKgdzTV
+LPlGvtTV
+kbKlGvtDZpB
+lGvtkbKTV
+TVlGvtgdz
+lGvtDZpBkbK
+DZpBTVgdz
+lGvtgdzTV
+TVkbKlGvt
+LPgdzTV
+gdzLPlGvt
+kbKlGvtTV
+kbKLPgdz
+gdzLPlGvt
+DZpBkbKlGvt
+DZpBkbKlGvt
+lGvtLPgdz
+LPlGvtDZpB
+LPDZpBgdz
+lGvtTVkbK
+kbKDZpBLP
+kbKlGvtDZpB
+LPgdzDZpB
+gdzlGvtDZpB
+LPlGvtTV
+DZpBTVkbK
+DZpBLPTV
+DZpBTVgdz
+gdzLPlGvt
+TVgdzlGvt
+LPgdzlGvt
+lGvtTVkbK
+TVDZpBkbK
+gdzLPTV
+DZpBlGvtkbK
+lGvtgdzTV
+kbKLPTV
+DZpBTVLP
+TVkbKDZpB
+TVDZpBLP
+kbKlGvtLP
+LPgdzTV
+LPlGvtkbK
+LPDZpBkbK
+gdzTVLP
+TVDZpBkbK
+LPkbKlGvt
+kbKgdzLP
+gdzkbKLP
+TVkbKlGvt
+gdzDZpBLP
+kbKDZpBgdz
+gdzkbKLP
+LPkbKDZpB
+gdzTVlGvt
+TVlGvtLP
+TVDZpBlGvt
+kbKgdzDZpB
+lGvtDZpBLP
+DZpBkbKTV
+DZpBlGvtLP
+gdzlGvtLP
+kbKLPTV
+LPkbKgdz
+kbKLPlGvt
+kbKDZpBLP
+gdzkbKLP
+DZpBLPTV
+kbKDZpBlGvt
+gdzlGvtkbK
+lGvtTVLP
+LPgdzlGvt
+kbKDZpBgdz
+DZpBLPlGvt
+DZpBkbKlGvt
+gdzLPkbK
+gdzkbKTV
+kbKgdzDZpB
+DZpBgdzTV
+DZpBlGvtkbK
+gdzlGvtkbK
+gdzLPkbK
+LPkbKkbK
+
+Test Items:
+DZpB	BlGv
+kbK	zkb
+lGvt	KDZp
+TV	VL
+lGvt	BlGv
+gdz	Pgd
+TV	tT
+kbK	zkb
+lGvt	KDZp
+DZpB	BlGv
+LP	tT
+TV	VL
+LP	VL
+kbK	zkb
+LP	tT
+TV	VL
+kbK	zkb
+gdz	Pgd
+DZpB	BlGv
+gdz	Pgd
+LP	tT
+TV	VL
+DZpB	BlGv
+kbK	zkb
+lGvt	KDZp
+LP	VL
+TV	tT
+kbK	Pgd
+lGvt	BlGv
+kbK	zkb

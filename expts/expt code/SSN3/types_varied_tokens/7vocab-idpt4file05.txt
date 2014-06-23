@@ -1,0 +1,42 @@
+Lexicon: bp	rLn	ZfDt	lV	
+
+Training Sentences:
+rLnbplVZfDt
+rLnZfDtlVbp
+rLnbpZfDtlV
+bprLnZfDtlV
+lVZfDtrLnbp
+lVbprLnZfDt
+ZfDtrLnlVbp
+
+Test Items:
+ZfDt	nZfD
+bp	Vb
+rLn	prL
+ZfDt	nZfD
+bp	Vb
+ZfDt	nZfD
+lV	Vb
+rLn	prL
+ZfDt	nZfD
+lV	tl
+rLn	prL
+lV	tl
+rLn	prL
+bp	tl
+rLn	prL
+ZfDt	nZfD
+lV	Vb
+ZfDt	nZfD
+lV	Vb
+rLn	prL
+lV	Vb
+rLn	prL
+lV	Vb
+ZfDt	nZfD
+lV	Vb
+ZfDt	nZfD
+rLn	prL
+lV	Vb
+rLn	prL
+lV	tl

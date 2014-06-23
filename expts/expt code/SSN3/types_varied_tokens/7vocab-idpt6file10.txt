@@ -1,0 +1,42 @@
+Lexicon: vt	NZn	brRF	gP	TKV	LGmM	
+
+Training Sentences:
+brRFLGmMvtgP
+TKVbrRFNZnvt
+gPLGmMbrRFTKV
+vtLGmMTKVNZn
+LGmMbrRFgPNZn
+NZnLGmMgPvt
+brRFTKVvtgP
+
+Test Items:
+vt	Fg
+LGmM	nbrR
+NZn	tNZ
+LGmM	nbrR
+vt	Mv
+gP	Fg
+NZn	PTK
+LGmM	VLGm
+gP	Fg
+TKV	tNZ
+vt	Fg
+TKV	tNZ
+LGmM	nbrR
+vt	Mv
+NZn	tNZ
+vt	Fg
+TKV	PTK
+vt	Fg
+TKV	tNZ
+brRF	nbrR
+LGmM	VLGm
+brRF	nbrR
+gP	Mv
+TKV	PTK
+brRF	nbrR
+vt	Fg
+NZn	tNZ
+LGmM	VLGm
+brRF	nbrR
+gP	Mv

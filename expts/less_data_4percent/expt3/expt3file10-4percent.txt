@@ -1,0 +1,41 @@
+Lexicon: KZ	lgL	pzNv	
+
+Training Sentences:
+KZlgLpzNvKZ
+pzNvKZlgLpzNv
+KZlgLKZlgL
+KZlgLpzNvKZ
+KZpzNvlgLpzNv
+pzNvlgLpzNvlgL
+
+Test Items:
+KZ	vK
+pzNv	LpzN
+KZ	vK
+pzNv	LpzN
+KZ	vK
+pzNv	LpzN
+lgL	Zlg
+pzNv	LpzN
+KZ	vK
+lgL	Zlg
+KZ	vK
+lgL	Zlg
+KZ	vK
+pzNv	LpzN
+KZ	vK
+lgL	Zlg
+pzNv	LpzN
+lgL	Zlg
+pzNv	LpzN
+KZ	vK
+lgL	Zlg
+KZ	vK
+pzNv	LpzN
+KZ	vK
+pzNv	LpzN
+lgL	Zlg
+pzNv	LpzN
+KZ	vK
+lgL	Zlg
+pzNv	LpzN

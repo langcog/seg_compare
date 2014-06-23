@@ -1,0 +1,48 @@
+Lexicon: kAki	lAvA	bAtibi	zudApi	vugilugu	pAzitudu	
+
+Training Sentences:
+lAvAvugilugubAtibi
+pAzitudubAtibizudApi
+vugiluguzudApikAki
+kAkilAvAbAtibi
+vugilugulAvAbAtibi
+vugilugulAvAzudApi
+kAkibAtibivugilugu
+kAkipAzitudubAtibi
+zudApibAtibivugilugu
+lAvAkAkizudApi
+kAkipAzituduvugilugu
+pAzituduzudApilAvA
+kAkipAzitudulAvA
+
+Test Items:
+lAvA	uduk
+vugilugu	ugupAzit
+zudApi	ibizud
+kAki	uduk
+pAzitudu	ugupAzit
+lAvA	Akil
+vugilugu	Apivugil
+lAvA	uduk
+pAzitudu	Apivugil
+kAki	uduk
+bAtibi	AvAbAt
+zudApi	ibizud
+bAtibi	AvAbAt
+vugilugu	Apivugil
+zudApi	AvAbAt
+kAki	Akil
+pAzitudu	Apivugil
+zudApi	AvAbAt
+lAvA	uduk
+zudApi	AvAbAt
+kAki	uduk
+vugilugu	ugupAzit
+pAzitudu	Apivugil
+zudApi	AvAbAt
+pAzitudu	Apivugil
+kAki	uduk
+vugilugu	ugupAzit
+kAki	Akil
+pAzitudu	Apivugil
+lAvA	Akil

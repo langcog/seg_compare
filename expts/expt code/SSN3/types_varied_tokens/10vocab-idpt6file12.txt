@@ -1,0 +1,45 @@
+Lexicon: Vf	NlB	Zmgt	Gb	TMn	PLkv	
+
+Training Sentences:
+PLkvTMnZmgtVf
+GbZmgtNlBVf
+ZmgtPLkvNlBTMn
+PLkvZmgtNlBVf
+VfTMnPLkvGb
+TMnGbZmgtNlB
+GbZmgtNlBVf
+TMnZmgtGbPLkv
+GbPLkvTMnNlB
+GbPLkvTMnNlB
+
+Test Items:
+PLkv	BZmg
+Zmgt	BZmg
+NlB	bTM
+Vf	vV
+NlB	fNl
+Gb	tG
+NlB	bTM
+Vf	tG
+PLkv	nPLk
+TMn	fNl
+Zmgt	nPLk
+TMn	bTM
+PLkv	nPLk
+Vf	vV
+Gb	tG
+Vf	vV
+Gb	tG
+Zmgt	nPLk
+NlB	bTM
+Zmgt	BZmg
+PLkv	nPLk
+NlB	bTM
+Zmgt	nPLk
+PLkv	BZmg
+Vf	tG
+Zmgt	nPLk
+Gb	tG
+Vf	vV
+TMn	bTM
+NlB	fNl

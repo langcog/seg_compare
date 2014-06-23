@@ -1,0 +1,39 @@
+Lexicon: tupA	zuzi	dukAbA	gibiti	piguvuvA	kidAlulA	
+
+Training Sentences:
+kidAlulApiguvuvAzuzidukAbAgibititupA
+piguvuvAkidAlulAtupAdukAbAzuzigibiti
+dukAbAgibitipiguvuvAtupAkidAlulAzuzi
+zuzigibititupAdukAbAkidAlulApiguvuvA
+
+Test Items:
+zuzi	upAz
+kidAlulA	uvAkidAl
+dukAbA	AbAgib
+tupA	upAz
+piguvuvA	itipiguv
+tupA	ulAt
+piguvuvA	uvAkidAl
+kidAlulA	itipiguv
+zuzi	ulAt
+gibiti	uziduk
+piguvuvA	itipiguv
+kidAlulA	uvAkidAl
+dukAbA	uziduk
+zuzi	upAz
+dukAbA	AbAgib
+kidAlulA	uvAkidAl
+piguvuvA	itipiguv
+kidAlulA	itipiguv
+tupA	upAz
+dukAbA	AbAgib
+kidAlulA	uvAkidAl
+dukAbA	uziduk
+kidAlulA	itipiguv
+piguvuvA	uvAkidAl
+kidAlulA	itipiguv
+tupA	ulAt
+piguvuvA	uvAkidAl
+tupA	upAz
+dukAbA	uziduk
+piguvuvA	uvAkidAl

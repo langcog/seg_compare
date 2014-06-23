@@ -1,0 +1,60 @@
+Lexicon: kt	gKZ	NJRM	mz	
+
+Training Sentences:
+NJRMgKZmzkt
+gKZmzNJRMkt
+NJRMmzgKZkt
+mzktgKZNJRM
+mzktNJRMgKZ
+NJRMktgKZmz
+gKZktmzNJRM
+mzktgKZNJRM
+ktNJRMgKZmz
+gKZktmzNJRM
+mzNJRMktgKZ
+ktmzgKZNJRM
+gKZmzNJRMkt
+NJRMgKZktmz
+ktgKZNJRMmz
+gKZNJRMmzkt
+gKZNJRMmzkt
+ktmzNJRMgKZ
+NJRMktgKZmz
+mzktNJRMgKZ
+gKZktmzNJRM
+ktgKZmzNJRM
+gKZmzktNJRM
+ktmzNJRMgKZ
+NJRMmzktgKZ
+
+Test Items:
+mz	Mm
+gKZ	tgK
+mz	Mm
+kt	zk
+gKZ	tgK
+kt	Mm
+mz	zk
+NJRM	ZNJR
+mz	zk
+kt	Mm
+mz	Mm
+gKZ	tgK
+NJRM	ZNJR
+gKZ	tgK
+NJRM	ZNJR
+mz	zk
+gKZ	tgK
+NJRM	ZNJR
+mz	Mm
+NJRM	ZNJR
+gKZ	tgK
+mz	zk
+NJRM	ZNJR
+mz	zk
+kt	Mm
+NJRM	ZNJR
+kt	zk
+NJRM	ZNJR
+gKZ	tgK
+kt	zk

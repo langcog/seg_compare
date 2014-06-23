@@ -1,0 +1,60 @@
+Lexicon: BK	fPv	dTbl	
+
+Training Sentences:
+fPvBKfPvBK
+fPvBKdTblfPv
+BKfPvdTblBK
+BKfPvdTblfPv
+fPvdTblfPvdTbl
+BKdTblfPvBK
+BKfPvBKfPv
+fPvdTblBKdTbl
+dTblBKfPvdTbl
+fPvBKdTblfPv
+BKfPvBKfPv
+dTblfPvBKfPv
+fPvBKfPvdTbl
+fPvdTblBKdTbl
+fPvdTblBKdTbl
+BKdTblfPvBK
+BKdTblfPvBK
+fPvdTblfPvBK
+fPvdTblBKdTbl
+dTblfPvdTblBK
+dTblBKdTblBK
+dTblBKdTblBK
+BKfPvdTblBK
+fPvdTblfPvdTbl
+BKdTblBKfPv
+
+Test Items:
+BK	lB
+fPv	KfP
+BK	lB
+dTbl	vdTb
+BK	lB
+dTbl	vdTb
+BK	lB
+fPv	KfP
+BK	lB
+dTbl	vdTb
+BK	lB
+fPv	KfP
+BK	lB
+fPv	KfP
+BK	lB
+dTbl	vdTb
+fPv	KfP
+dTbl	vdTb
+fPv	KfP
+BK	lB
+dTbl	vdTb
+BK	lB
+dTbl	vdTb
+fPv	KfP
+BK	lB
+dTbl	vdTb
+fPv	KfP
+BK	lB
+dTbl	vdTb
+fPv	KfP

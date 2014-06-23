@@ -1,0 +1,39 @@
+Lexicon: kibi	zupA	pidAgi	vAdutu	guzilAti	bAvulukA	
+
+Training Sentences:
+kibivAdutupidAgibAvulukAzupAguzilAti
+zupAkibivAdutuguzilAtibAvulukApidAgi
+kibizupAvAdutupidAgiguzilAtibAvulukA
+vAdutuguzilAtizupAkibipidAgibAvulukA
+
+Test Items:
+bAvulukA	utuguzil
+kibi	ibiz
+bAvulukA	utuguzil
+zupA	ibiz
+guzilAti	utuguzil
+zupA	ibiz
+vAdutu	AgivAd
+guzilAti	utuguzil
+bAvulukA	AtibAvul
+guzilAti	utuguzil
+pidAgi	upApid
+vAdutu	AgivAd
+kibi	ukAk
+bAvulukA	AtibAvul
+vAdutu	upApid
+pidAgi	AgivAd
+guzilAti	utuguzil
+zupA	ibiz
+bAvulukA	utuguzil
+zupA	ukAk
+bAvulukA	AtibAvul
+vAdutu	upApid
+guzilAti	utuguzil
+bAvulukA	AtibAvul
+kibi	ibiz
+zupA	ukAk
+guzilAti	AtibAvul
+zupA	ukAk
+guzilAti	utuguzil
+vAdutu	AgivAd

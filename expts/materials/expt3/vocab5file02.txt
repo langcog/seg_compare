@@ -1,0 +1,185 @@
+Lexicon: LD	nfb	MJml	pk	zVg	
+
+Training Sentences:
+nfbzVgLDpk
+pkMJmlzVgLD
+zVgMJmlnfbLD
+nfbzVgLDpk
+nfbpkMJmlzVg
+zVgMJmlLDpk
+zVgMJmlLDnfb
+LDpkMJmlnfb
+nfbzVgpkMJml
+pkzVgMJmlnfb
+pkLDzVgnfb
+LDnfbMJmlzVg
+LDpkMJmlnfb
+LDnfbMJmlzVg
+zVgpknfbLD
+zVgLDpkMJml
+MJmlpkLDnfb
+LDzVgnfbMJml
+MJmlpknfbzVg
+MJmlnfbpkLD
+pknfbLDzVg
+pkzVgnfbMJml
+pknfbzVgMJml
+nfbpkLDMJml
+LDzVgMJmlnfb
+MJmlnfbzVgLD
+MJmlzVgpknfb
+pkzVgMJmlnfb
+MJmlnfbLDzVg
+pkLDnfbzVg
+pkLDMJmlnfb
+pkLDMJmlnfb
+MJmlpkzVgLD
+LDzVgnfbpk
+zVgnfbLDpk
+LDMJmlpkzVg
+LDzVgnfbMJml
+pkMJmlLDzVg
+MJmlpknfbzVg
+zVgpknfbMJml
+MJmlnfbpkzVg
+nfbLDpkMJml
+zVgLDnfbpk
+LDzVgnfbMJml
+nfbpkMJmlzVg
+nfbLDzVgMJml
+LDzVgnfbMJml
+zVgnfbLDpk
+LDzVgpkMJml
+zVgLDMJmlnfb
+MJmlzVgLDnfb
+LDMJmlpknfb
+nfbpkMJmlLD
+nfbpkLDMJml
+zVgMJmlnfbLD
+pknfbMJmlzVg
+LDMJmlzVgnfb
+zVgnfbLDpk
+nfbLDzVgMJml
+LDMJmlzVgnfb
+pkzVgnfbLD
+LDMJmlpknfb
+zVgnfbLDpk
+nfbpkzVgLD
+pkMJmlnfbzVg
+LDnfbpkMJml
+pknfbzVgMJml
+pkzVgLDMJml
+pknfbLDMJml
+pkMJmlzVgnfb
+nfbMJmlzVgpk
+pkMJmlzVgnfb
+pkzVgMJmlLD
+MJmlnfbLDpk
+nfbLDMJmlpk
+pknfbMJmlzVg
+LDpkzVgMJml
+pkLDMJmlzVg
+LDnfbpkzVg
+pkLDMJmlzVg
+zVgnfbpkLD
+zVgMJmlLDpk
+LDpkMJmlzVg
+MJmlnfbzVgLD
+LDMJmlpkzVg
+MJmlzVgpknfb
+MJmlnfbLDpk
+pkzVgnfbLD
+zVgLDpknfb
+zVgLDMJmlpk
+pkMJmlzVgLD
+zVgnfbMJmlpk
+LDpkMJmlzVg
+zVgpkLDnfb
+nfbpkLDMJml
+zVgMJmlpknfb
+pkLDzVgnfb
+zVgLDnfbpk
+pkLDMJmlnfb
+pknfbLDMJml
+zVgLDMJmlpk
+pknfbzVgLD
+MJmlpkzVgnfb
+MJmlLDnfbzVg
+LDnfbMJmlpk
+nfbpkzVgMJml
+zVgpkMJmlnfb
+zVgnfbMJmlLD
+LDzVgnfbMJml
+nfbpkzVgLD
+zVgnfbMJmlpk
+nfbLDpkMJml
+pkMJmlzVgnfb
+LDnfbMJmlzVg
+LDzVgpkMJml
+LDnfbMJmlzVg
+pkLDzVgnfb
+nfbzVgMJmlpk
+pknfbzVgMJml
+nfbLDMJmlpk
+zVgLDpkMJml
+nfbzVgMJmlLD
+zVgnfbMJmlpk
+nfbLDpkMJml
+pkzVgLDnfb
+LDnfbpkzVg
+zVgMJmlLDnfb
+MJmlLDnfbzVg
+pkMJmlzVgnfb
+LDnfbMJmlpk
+zVgLDpknfb
+MJmlpkzVgnfb
+nfbpkLDMJml
+MJmlLDpkzVg
+zVgMJmlLDpk
+LDpknfbMJml
+MJmlLDpkzVg
+LDpkMJmlzVg
+LDnfbpkzVg
+LDMJmlpkzVg
+LDMJmlnfbpk
+nfbzVgLDMJml
+zVgLDpkMJml
+LDzVgpkMJml
+LDMJmlpknfb
+zVgLDnfbpk
+LDMJmlzVgpk
+nfbLDMJmlzVg
+nfbMJmlLDpk
+LDzVgLDLD
+
+Test Items:
+MJml	bMJm
+LD	lp
+pk	gL
+nfb	kzV
+LD	gL
+zVg	Dnf
+MJml	bMJm
+pk	gL
+zVg	kzV
+LD	gL
+pk	lp
+zVg	Dnf
+pk	gL
+MJml	bMJm
+LD	gL
+nfb	Dnf
+pk	gL
+nfb	Dnf
+pk	lp
+nfb	Dnf
+zVg	kzV
+nfb	kzV
+LD	gL
+pk	gL
+LD	lp
+MJml	bMJm
+pk	lp
+nfb	kzV
+LD	gL
+zVg	Dnf

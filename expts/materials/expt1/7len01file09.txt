@@ -1,0 +1,63 @@
+Lexicon: gugi	bAki	zidulu	pikAvA	tipAlAzu	bivutudA	
+
+Training Sentences:
+pikAvA
+bivutudA
+gugi
+pikAvA
+bivutudA
+bAki
+tipAlAzu
+zidulu
+bivutudA
+zidulu
+zidulu
+bAki
+pikAvA
+bAki
+zidulu
+tipAlAzu
+bivutudA
+bivutudA
+gugi
+gugi
+tipAlAzu
+gugi
+bAki
+gugi
+tipAlAzu
+pikAvA
+bAki
+tipAlAzu
+
+Test Items:
+gugi	ugib
+bAki	udAg
+pikAvA	Akizid
+tipAlAzu	Azubivut
+bAki	udAg
+tipAlAzu	AvAtipAl
+bAki	ugib
+pikAvA	ulupik
+bivutudA	AvAtipAl
+bAki	udAg
+gugi	ugib
+bivutudA	Azubivut
+tipAlAzu	AvAtipAl
+bivutudA	Azubivut
+pikAvA	Akizid
+zidulu	ulupik
+gugi	ugib
+zidulu	Akizid
+bivutudA	Azubivut
+gugi	ugib
+bivutudA	AvAtipAl
+gugi	udAg
+pikAvA	ulupik
+bAki	ugib
+tipAlAzu	Azubivut
+bivutudA	Azubivut
+bAki	ugib
+pikAvA	Akizid
+bAki	ugib
+bivutudA	Azubivut

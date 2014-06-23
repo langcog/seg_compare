@@ -1,0 +1,185 @@
+Lexicon: fF	nKV	TdGl	
+
+Training Sentences:
+TdGlnKVTdGlnKV
+TdGlnKVTdGlnKV
+fFnKVfFTdGl
+TdGlnKVfFTdGl
+TdGlnKVTdGlfF
+nKVTdGlnKVTdGl
+TdGlnKVTdGlfF
+fFTdGlnKVTdGl
+TdGlfFTdGlfF
+TdGlnKVfFTdGl
+fFnKVfFnKV
+nKVfFnKVfF
+nKVfFTdGlnKV
+TdGlnKVfFTdGl
+nKVTdGlfFTdGl
+TdGlnKVfFnKV
+TdGlnKVTdGlnKV
+fFTdGlfFTdGl
+fFnKVTdGlfF
+nKVfFTdGlnKV
+nKVfFTdGlfF
+TdGlfFnKVTdGl
+nKVTdGlnKVfF
+fFTdGlnKVfF
+fFTdGlfFTdGl
+nKVfFTdGlfF
+TdGlfFnKVTdGl
+fFnKVTdGlfF
+nKVTdGlfFnKV
+nKVfFTdGlfF
+fFnKVfFTdGl
+nKVTdGlfFnKV
+nKVTdGlfFnKV
+fFnKVTdGlfF
+nKVfFTdGlfF
+nKVfFnKVTdGl
+fFnKVfFTdGl
+fFnKVTdGlnKV
+TdGlfFnKVfF
+TdGlnKVfFTdGl
+nKVfFTdGlnKV
+fFnKVfFnKV
+nKVfFTdGlnKV
+fFnKVfFTdGl
+fFnKVTdGlfF
+nKVTdGlnKVTdGl
+nKVfFTdGlfF
+TdGlnKVTdGlnKV
+fFnKVTdGlfF
+nKVfFTdGlnKV
+TdGlnKVfFnKV
+nKVTdGlfFTdGl
+TdGlnKVTdGlnKV
+TdGlnKVTdGlnKV
+fFTdGlnKVfF
+nKVTdGlnKVfF
+fFnKVTdGlnKV
+nKVfFTdGlfF
+TdGlnKVTdGlnKV
+fFTdGlfFnKV
+TdGlfFnKVTdGl
+TdGlnKVfFTdGl
+nKVTdGlnKVTdGl
+fFTdGlfFnKV
+nKVTdGlnKVfF
+nKVfFTdGlfF
+nKVTdGlfFTdGl
+TdGlnKVTdGlfF
+fFTdGlnKVTdGl
+TdGlfFnKVfF
+fFTdGlnKVfF
+nKVTdGlfFnKV
+nKVfFTdGlnKV
+fFnKVTdGlnKV
+TdGlfFTdGlfF
+TdGlfFTdGlfF
+fFnKVfFnKV
+TdGlnKVfFnKV
+nKVfFTdGlfF
+TdGlnKVfFnKV
+fFTdGlfFnKV
+fFnKVfFTdGl
+TdGlfFTdGlnKV
+fFTdGlnKVfF
+fFnKVTdGlfF
+fFTdGlfFnKV
+TdGlfFTdGlfF
+nKVTdGlfFTdGl
+fFTdGlfFTdGl
+TdGlfFnKVfF
+nKVTdGlfFnKV
+fFnKVfFTdGl
+nKVTdGlnKVfF
+fFnKVTdGlfF
+fFnKVTdGlfF
+nKVfFTdGlfF
+TdGlnKVfFnKV
+fFTdGlfFnKV
+TdGlnKVfFTdGl
+nKVfFnKVfF
+nKVTdGlfFnKV
+TdGlfFTdGlnKV
+fFnKVfFnKV
+TdGlfFnKVfF
+nKVfFTdGlnKV
+fFnKVfFTdGl
+TdGlfFnKVfF
+nKVfFnKVfF
+TdGlfFTdGlnKV
+nKVfFnKVfF
+fFTdGlfFnKV
+TdGlnKVfFTdGl
+nKVfFTdGlnKV
+nKVTdGlfFnKV
+nKVfFTdGlnKV
+TdGlnKVTdGlfF
+nKVfFnKVTdGl
+nKVfFTdGlfF
+nKVTdGlfFTdGl
+fFnKVTdGlfF
+nKVTdGlfFTdGl
+TdGlfFTdGlnKV
+TdGlnKVfFTdGl
+nKVTdGlfFTdGl
+TdGlfFTdGlnKV
+TdGlnKVTdGlfF
+TdGlnKVTdGlnKV
+fFnKVTdGlfF
+nKVfFnKVTdGl
+nKVfFTdGlnKV
+nKVTdGlfFnKV
+TdGlfFnKVfF
+fFnKVfFTdGl
+fFTdGlnKVfF
+fFnKVTdGlfF
+TdGlfFnKVTdGl
+nKVfFTdGlfF
+TdGlnKVTdGlnKV
+TdGlfFTdGlnKV
+fFTdGlnKVTdGl
+nKVfFTdGlnKV
+TdGlnKVTdGlfF
+TdGlnKVTdGlnKV
+nKVTdGlfFnKV
+fFnKVTdGlnKV
+nKVTdGlfFTdGl
+fFnKVfFnKV
+TdGlnKVTdGlfF
+fFnKVTdGlfF
+TdGlTdGlTdGlTdGl
+
+Test Items:
+nKV	FnK
+TdGl	VTdG
+nKV	FnK
+fF	lf
+nKV	FnK
+fF	lf
+TdGl	VTdG
+nKV	FnK
+fF	lf
+nKV	FnK
+TdGl	VTdG
+nKV	FnK
+TdGl	VTdG
+nKV	FnK
+TdGl	VTdG
+fF	lf
+TdGl	VTdG
+fF	lf
+TdGl	VTdG
+nKV	FnK
+fF	lf
+nKV	FnK
+fF	lf
+TdGl	VTdG
+nKV	FnK
+TdGl	VTdG
+nKV	FnK
+TdGl	VTdG
+nKV	FnK
+fF	lf

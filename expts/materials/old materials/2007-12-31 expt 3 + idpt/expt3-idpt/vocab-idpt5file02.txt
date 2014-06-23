@@ -1,0 +1,185 @@
+Lexicon: dr	fNG	Ppnb	Rg	JtB	
+
+Training Sentences:
+PpnbJtBRgfNG
+JtBfNGRgdr
+JtBRgPpnbfNG
+JtBdrPpnbfNG
+PpnbdrJtBfNG
+PpnbdrRgJtB
+PpnbRgJtBdr
+fNGPpnbJtBRg
+JtBfNGRgdr
+JtBRgPpnbdr
+drPpnbRgJtB
+fNGdrPpnbJtB
+fNGPpnbdrJtB
+RgdrfNGJtB
+RgfNGdrPpnb
+RgPpnbJtBdr
+JtBPpnbdrRg
+drRgPpnbJtB
+RgfNGJtBPpnb
+RgfNGdrJtB
+fNGPpnbJtBRg
+fNGJtBPpnbRg
+JtBfNGRgdr
+drRgfNGPpnb
+fNGdrRgPpnb
+JtBfNGdrPpnb
+RgJtBfNGdr
+RgdrPpnbJtB
+fNGRgJtBdr
+fNGJtBPpnbdr
+RgfNGJtBPpnb
+RgJtBdrfNG
+drfNGJtBRg
+drfNGRgJtB
+RgdrJtBPpnb
+fNGJtBRgdr
+PpnbJtBdrfNG
+JtBPpnbfNGdr
+RgJtBPpnbfNG
+JtBPpnbfNGRg
+fNGdrJtBPpnb
+RgfNGPpnbdr
+RgfNGJtBdr
+PpnbRgJtBdr
+RgPpnbdrfNG
+RgdrJtBfNG
+JtBRgfNGdr
+PpnbfNGdrRg
+fNGJtBdrPpnb
+JtBRgdrPpnb
+fNGJtBdrRg
+RgfNGJtBdr
+JtBfNGRgPpnb
+JtBRgdrPpnb
+PpnbJtBdrRg
+drRgPpnbJtB
+fNGdrRgPpnb
+JtBRgfNGdr
+JtBdrPpnbfNG
+fNGPpnbdrRg
+PpnbfNGdrRg
+drPpnbJtBRg
+fNGJtBPpnbdr
+drfNGPpnbJtB
+drRgfNGPpnb
+fNGRgPpnbJtB
+RgJtBdrfNG
+JtBPpnbRgfNG
+PpnbdrRgJtB
+JtBPpnbdrfNG
+PpnbRgfNGJtB
+JtBdrPpnbRg
+RgdrPpnbJtB
+PpnbfNGJtBdr
+RgJtBdrPpnb
+RgdrPpnbJtB
+JtBfNGPpnbRg
+RgfNGPpnbdr
+PpnbRgJtBfNG
+RgdrPpnbfNG
+fNGRgdrJtB
+JtBdrPpnbfNG
+RgdrPpnbfNG
+RgPpnbJtBfNG
+JtBdrPpnbfNG
+PpnbJtBfNGdr
+JtBfNGdrRg
+PpnbRgJtBfNG
+RgfNGPpnbdr
+drJtBfNGRg
+drRgPpnbJtB
+fNGRgJtBPpnb
+fNGdrJtBPpnb
+JtBPpnbdrfNG
+RgJtBdrPpnb
+RgJtBPpnbfNG
+JtBPpnbdrfNG
+JtBPpnbRgfNG
+RgfNGJtBdr
+PpnbRgdrJtB
+drRgPpnbfNG
+fNGRgJtBdr
+RgfNGdrJtB
+PpnbRgJtBfNG
+JtBRgPpnbfNG
+drfNGPpnbJtB
+fNGPpnbdrJtB
+RgfNGJtBdr
+fNGdrJtBRg
+fNGJtBPpnbdr
+fNGPpnbJtBdr
+PpnbdrfNGRg
+PpnbdrfNGJtB
+PpnbRgdrfNG
+RgdrPpnbJtB
+PpnbdrfNGJtB
+JtBfNGPpnbRg
+drRgPpnbfNG
+PpnbRgfNGJtB
+drfNGJtBPpnb
+PpnbRgJtBfNG
+PpnbJtBfNGRg
+PpnbRgJtBfNG
+RgJtBPpnbfNG
+PpnbRgfNGdr
+RgdrfNGJtB
+JtBdrfNGPpnb
+JtBRgfNGdr
+RgdrPpnbfNG
+RgfNGdrJtB
+JtBRgdrfNG
+drPpnbRgJtB
+RgPpnbfNGJtB
+RgdrJtBPpnb
+fNGJtBdrRg
+JtBdrRgPpnb
+drPpnbRgJtB
+drfNGRgPpnb
+PpnbfNGdrRg
+RgdrfNGPpnb
+RgJtBdrfNG
+RgPpnbJtBdr
+PpnbfNGdrRg
+drPpnbfNGRg
+JtBdrPpnbRg
+PpnbdrfNGRg
+fNGRgPpnbdr
+PpnbRgdrfNG
+RgfNGdrPpnb
+PpnbfNGPpnbPpnb
+
+Test Items:
+dr	Bd
+Rg	Bd
+fNG	gJt
+dr	Bd
+fNG	rfN
+JtB	gJt
+Rg	bR
+Ppnb	GPpn
+Rg	bR
+dr	bR
+Rg	Bd
+fNG	gJt
+JtB	rfN
+fNG	gJt
+JtB	rfN
+Ppnb	GPpn
+fNG	gJt
+Ppnb	GPpn
+JtB	rfN
+fNG	gJt
+Rg	Bd
+dr	bR
+JtB	gJt
+Rg	Bd
+Ppnb	GPpn
+fNG	gJt
+dr	bR
+fNG	rfN
+JtB	gJt
+dr	Bd

@@ -1,0 +1,42 @@
+Lexicon: tG	LzZ	RTVN	Dg	
+
+Training Sentences:
+tGLzZRTVNDg
+tGLzZRTVNDg
+LzZDgtGRTVN
+RTVNDgtGLzZ
+DgtGRTVNLzZ
+DgtGRTVNLzZ
+RTVNtGLzZDg
+
+Test Items:
+RTVN	ZRTV
+LzZ	GLz
+tG	ND
+Dg	gt
+LzZ	GLz
+tG	ND
+RTVN	ZRTV
+tG	ND
+Dg	gt
+RTVN	ZRTV
+LzZ	GLz
+tG	ND
+RTVN	ZRTV
+Dg	ND
+LzZ	GLz
+RTVN	ZRTV
+LzZ	GLz
+RTVN	ZRTV
+LzZ	GLz
+tG	gt
+LzZ	GLz
+tG	gt
+RTVN	ZRTV
+LzZ	GLz
+RTVN	ZRTV
+Dg	ND
+tG	gt
+LzZ	GLz
+RTVN	ZRTV
+tG	gt

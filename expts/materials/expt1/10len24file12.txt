@@ -1,0 +1,36 @@
+Lexicon: kizu	vugu	lugidA	tupApi	bilAzibA	dukAvAti	
+
+Training Sentences:
+kizuvugukizubilAzibAtupApidukAvAtivugukizuvugukizudukAvAtivugubilAzibAtupApilugidAtupApilugidAbilAzibAdukAvAtitupApilugidAdukAvAtibilAzibAlugidA
+
+Test Items:
+vugu	izuv
+dukAvAti	ApibilAz
+bilAzibA	ApibilAz
+kizu	Atik
+lugidA	idAtup
+kizu	izuv
+vugu	Atik
+tupApi	ugulug
+vugu	Atik
+dukAvAti	ibAdukAv
+bilAzibA	ApibilAz
+tupApi	ugulug
+kizu	Atik
+dukAvAti	ibAdukAv
+tupApi	ugulug
+bilAzibA	ApibilAz
+tupApi	idAtup
+vugu	izuv
+tupApi	idAtup
+bilAzibA	ibAdukAv
+kizu	Atik
+bilAzibA	ibAdukAv
+kizu	Atik
+lugidA	ugulug
+bilAzibA	ibAdukAv
+vugu	Atik
+bilAzibA	ibAdukAv
+dukAvAti	ApibilAz
+vugu	izuv
+tupApi	ugulug

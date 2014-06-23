@@ -1,0 +1,41 @@
+Lexicon: pR	vGL	MzPB	NJ	ZnD	Frbl	td	fgT	kmKV	
+
+Training Sentences:
+MzPBvGLfgTFrbl
+FrblpRZnDtd
+NJZnDvGLkmKV
+pRZnDtdNJ
+NJfgTFrblpR
+fgTvGLkmKVMzPB
+
+Test Items:
+Frbl	LMzP
+fgT	dfg
+MzPB	DFrb
+ZnD	dfg
+vGL	RvG
+ZnD	dfg
+fgT	JZn
+MzPB	DFrb
+Frbl	TkmK
+fgT	dfg
+Frbl	LMzP
+NJ	Vp
+td	BN
+Frbl	TkmK
+MzPB	DFrb
+NJ	Vp
+MzPB	LMzP
+Frbl	TkmK
+ZnD	JZn
+kmKV	TkmK
+MzPB	DFrb
+NJ	Vp
+vGL	RvG
+fgT	JZn
+vGL	RvG
+ZnD	JZn
+vGL	RvG
+ZnD	JZn
+MzPB	LMzP
+fgT	dfg

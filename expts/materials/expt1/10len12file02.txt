@@ -1,0 +1,38 @@
+Lexicon: dukA	piki	zudAzi	tilutu	bAlAguvA	bigipAvu	
+
+Training Sentences:
+bigipAvupikizudAzibigipAvupikitilutubAlAguvAdukAbAlAguvAtilutuzudAzidukA
+dukAbigipAvuzudAzidukAbAlAguvAtilutuzudAzipikitilutubAlAguvApikibigipAvu
+zudAzibAlAguvAtilutubigipAvubAlAguvApikidukApikidukAzudAzitilutubigipAvu
+
+Test Items:
+bigipAvu	uvAbigip
+tilutu	Azitil
+piki	Avud
+dukA	ukAp
+bAlAguvA	utubAlAg
+tilutu	Azitil
+bigipAvu	utubAlAg
+zudAzi	ikizud
+dukA	Avud
+tilutu	Azitil
+piki	Avud
+tilutu	ikizud
+bigipAvu	utubAlAg
+bAlAguvA	uvAbigip
+zudAzi	Azitil
+tilutu	ikizud
+bigipAvu	utubAlAg
+tilutu	ikizud
+bAlAguvA	utubAlAg
+tilutu	Azitil
+dukA	ukAp
+bigipAvu	uvAbigip
+bAlAguvA	uvAbigip
+piki	ukAp
+zudAzi	Azitil
+dukA	ukAp
+zudAzi	Azitil
+bAlAguvA	utubAlAg
+tilutu	ikizud
+bigipAvu	utubAlAg

@@ -1,0 +1,185 @@
+Lexicon: Pl	gMK	bfDz	BL	
+
+Training Sentences:
+gMKPlbfDzBL
+PlgMKBLbfDz
+PlbfDzgMKBL
+PlBLgMKbfDz
+bfDzgMKBLPl
+bfDzBLgMKPl
+PlgMKbfDzBL
+PlgMKbfDzBL
+bfDzgMKBLPl
+BLgMKPlbfDz
+gMKbfDzPlBL
+BLPlgMKbfDz
+PlbfDzgMKBL
+PlBLbfDzgMK
+gMKBLPlbfDz
+BLgMKPlbfDz
+PlgMKBLbfDz
+PlbfDzBLgMK
+gMKBLbfDzPl
+gMKPlBLbfDz
+gMKPlbfDzBL
+gMKPlbfDzBL
+PlgMKBLbfDz
+bfDzgMKPlBL
+gMKPlbfDzBL
+gMKBLPlbfDz
+PlBLgMKbfDz
+bfDzPlgMKBL
+BLgMKPlbfDz
+bfDzBLgMKPl
+BLgMKbfDzPl
+gMKbfDzPlBL
+gMKPlbfDzBL
+gMKbfDzPlBL
+gMKPlbfDzBL
+BLPlgMKbfDz
+PlgMKbfDzBL
+bfDzBLgMKPl
+BLbfDzgMKPl
+PlbfDzgMKBL
+gMKBLbfDzPl
+PlbfDzBLgMK
+gMKBLPlbfDz
+gMKbfDzPlBL
+BLPlbfDzgMK
+PlgMKBLbfDz
+bfDzgMKPlBL
+BLbfDzgMKPl
+BLPlgMKbfDz
+PlbfDzBLgMK
+bfDzgMKPlBL
+gMKBLbfDzPl
+PlgMKbfDzBL
+PlgMKbfDzBL
+PlBLbfDzgMK
+bfDzgMKPlBL
+PlbfDzgMKBL
+PlbfDzBLgMK
+BLPlbfDzgMK
+BLbfDzgMKPl
+bfDzPlBLgMK
+PlbfDzgMKBL
+bfDzgMKPlBL
+PlbfDzgMKBL
+BLgMKbfDzPl
+gMKPlBLbfDz
+bfDzBLPlgMK
+BLbfDzgMKPl
+bfDzPlgMKBL
+gMKbfDzBLPl
+bfDzBLgMKPl
+PlgMKbfDzBL
+BLgMKPlbfDz
+gMKBLbfDzPl
+gMKPlbfDzBL
+gMKPlBLbfDz
+PlbfDzgMKBL
+BLPlbfDzgMK
+gMKbfDzPlBL
+BLgMKPlbfDz
+bfDzPlgMKBL
+bfDzgMKPlBL
+PlbfDzgMKBL
+PlbfDzBLgMK
+bfDzBLgMKPl
+BLgMKPlbfDz
+bfDzPlgMKBL
+bfDzPlgMKBL
+BLgMKbfDzPl
+bfDzPlBLgMK
+gMKbfDzBLPl
+PlbfDzgMKBL
+gMKPlBLbfDz
+bfDzBLgMKPl
+PlgMKbfDzBL
+BLgMKPlbfDz
+PlgMKBLbfDz
+BLgMKPlbfDz
+bfDzgMKPlBL
+BLgMKPlbfDz
+BLgMKbfDzPl
+BLPlgMKbfDz
+BLPlbfDzgMK
+gMKPlbfDzBL
+bfDzPlgMKBL
+gMKBLPlbfDz
+BLPlgMKbfDz
+bfDzgMKBLPl
+BLgMKbfDzPl
+gMKbfDzBLPl
+bfDzgMKBLPl
+PlBLbfDzgMK
+BLbfDzPlgMK
+PlbfDzgMKBL
+gMKPlbfDzBL
+PlgMKbfDzBL
+bfDzBLgMKPl
+bfDzPlgMKBL
+PlBLgMKbfDz
+bfDzBLgMKPl
+PlbfDzgMKBL
+bfDzgMKPlBL
+bfDzBLgMKPl
+gMKbfDzBLPl
+bfDzPlgMKBL
+bfDzBLPlgMK
+PlgMKbfDzBL
+PlBLgMKbfDz
+PlBLbfDzgMK
+BLPlbfDzgMK
+BLbfDzgMKPl
+gMKBLPlbfDz
+PlgMKbfDzBL
+PlgMKbfDzBL
+gMKPlBLbfDz
+BLgMKbfDzPl
+BLbfDzgMKPl
+BLbfDzgMKPl
+bfDzPlgMKBL
+bfDzPlBLgMK
+gMKbfDzBLPl
+bfDzgMKPlBL
+BLPlgMKbfDz
+BLPlgMKbfDz
+gMKBLbfDzPl
+BLPlbfDzgMK
+gMKPlBLbfDz
+BLbfDzgMKPl
+bfDzgMKBLPl
+gMKbfDzPlBL
+
+Test Items:
+gMK	lgM
+Pl	zB
+BL	LP
+bfDz	KbfD
+BL	zB
+bfDz	KbfD
+gMK	lgM
+bfDz	KbfD
+Pl	LP
+gMK	lgM
+Pl	zB
+gMK	lgM
+Pl	zB
+bfDz	KbfD
+Pl	LP
+gMK	lgM
+bfDz	KbfD
+gMK	lgM
+BL	LP
+bfDz	KbfD
+gMK	lgM
+bfDz	KbfD
+gMK	lgM
+BL	LP
+gMK	lgM
+BL	LP
+Pl	zB
+gMK	lgM
+BL	LP
+gMK	lgM

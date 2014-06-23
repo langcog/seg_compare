@@ -1,0 +1,41 @@
+Lexicon: Kg	ZMp	FNBR	GP	kJd	bfDt	
+
+Training Sentences:
+KgZMpFNBRGP
+KgZMpbfDtFNBR
+FNBRZMpGPbfDt
+ZMpkJdFNBRKg
+kJdGPKgbfDt
+kJdbfDtGPkJd
+
+Test Items:
+Kg	RG
+ZMp	PkJ
+FNBR	pFNB
+Kg	RG
+kJd	gZM
+FNBR	dbfD
+Kg	tK
+ZMp	PkJ
+kJd	gZM
+GP	RG
+kJd	gZM
+FNBR	dbfD
+Kg	tK
+GP	RG
+Kg	tK
+kJd	PkJ
+bfDt	pFNB
+FNBR	dbfD
+bfDt	pFNB
+Kg	RG
+FNBR	pFNB
+bfDt	dbfD
+kJd	PkJ
+GP	RG
+bfDt	pFNB
+FNBR	dbfD
+ZMp	PkJ
+Kg	RG
+GP	tK
+FNBR	pFNB

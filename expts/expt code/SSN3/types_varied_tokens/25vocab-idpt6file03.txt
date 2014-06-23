@@ -1,0 +1,60 @@
+Lexicon: ZP	BtJ	RKgV	zF	GvN	lfdb	
+
+Training Sentences:
+lfdbRKgVzFBtJ
+RKgVGvNBtJZP
+BtJGvNRKgVlfdb
+lfdbGvNzFBtJ
+ZPBtJlfdbzF
+lfdbzFRKgVZP
+RKgVlfdbBtJZP
+RKgVGvNZPzF
+GvNzFRKgVBtJ
+lfdbBtJRKgVzF
+lfdbGvNzFBtJ
+lfdbGvNZPzF
+ZPlfdbGvNzF
+lfdbGvNzFRKgV
+RKgVZPGvNBtJ
+BtJGvNlfdbzF
+ZPRKgVGvNBtJ
+BtJlfdbRKgVzF
+RKgVlfdbZPzF
+zFBtJZPGvN
+ZPGvNlfdbRKgV
+ZPzFRKgVBtJ
+zFlfdbBtJGvN
+BtJRKgVlfdbZP
+ZPGvNRKgVZP
+
+Test Items:
+BtJ	PBt
+GvN	FGv
+zF	Vz
+lfdb	Nlfd
+BtJ	FGv
+ZP	bZ
+GvN	PBt
+BtJ	FGv
+GvN	PBt
+lfdb	Nlfd
+zF	bZ
+GvN	PBt
+lfdb	JRKg
+zF	Vz
+lfdb	Nlfd
+zF	bZ
+BtJ	FGv
+RKgV	Nlfd
+ZP	Vz
+zF	Vz
+RKgV	JRKg
+ZP	Vz
+RKgV	Nlfd
+ZP	Vz
+GvN	PBt
+ZP	bZ
+RKgV	Nlfd
+lfdb	JRKg
+RKgV	Nlfd
+zF	bZ

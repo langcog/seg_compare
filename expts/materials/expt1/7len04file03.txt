@@ -1,0 +1,42 @@
+Lexicon: lAkA	dAlu	tutipA	bAzivu	guduvAzu	pikigibi	
+
+Training Sentences:
+guduvAzubAzivupikigibilAkA
+pikigibibAzivuguduvAzudAlu
+dAlupikigibilAkAtutipA
+tutipAguduvAzudAlupikigibi
+pikigibitutipAbAzivulAkA
+lAkAguduvAzututipAbAzivu
+guduvAzulAkAbAzivudAlu
+
+Test Items:
+guduvAzu	Azupikig
+dAlu	ibil
+pikigibi	ivuguduv
+tutipA	ipAbAz
+bAzivu	Alutut
+pikigibi	ivuguduv
+tutipA	Alutut
+guduvAzu	Azupikig
+pikigibi	Azupikig
+guduvAzu	ivuguduv
+dAlu	AkAd
+tutipA	ipAbAz
+lAkA	AkAd
+dAlu	ibil
+tutipA	ipAbAz
+pikigibi	Azupikig
+dAlu	ibil
+pikigibi	ivuguduv
+guduvAzu	Azupikig
+bAzivu	ipAbAz
+pikigibi	ivuguduv
+guduvAzu	ivuguduv
+lAkA	ibil
+bAzivu	Alutut
+tutipA	ipAbAz
+guduvAzu	ivuguduv
+tutipA	ipAbAz
+bAzivu	Alutut
+tutipA	ipAbAz
+lAkA	ibil

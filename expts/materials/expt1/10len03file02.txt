@@ -1,0 +1,48 @@
+Lexicon: bAzi	lAgi	tikAbi	pAluzu	dudAtupi	vukiguvA	
+
+Training Sentences:
+vukiguvAbAzidudAtupi
+lAgivukiguvAbAzi
+dudAtupivukiguvAbAzi
+pAluzuvukiguvAtikAbi
+pAluzubAzilAgi
+dudAtupivukiguvApAluzu
+bAzilAgidudAtupi
+dudAtupilAgitikAbi
+tikAbivukiguvAbAzi
+tikAbidudAtupipAluzu
+bAzivukiguvAlAgi
+dudAtupilAgipAluzu
+tikAbipAluzulAgi
+
+Test Items:
+bAzi	uvAb
+dudAtupi	upivukig
+tikAbi	Agitik
+vukiguvA	uzududAt
+tikAbi	Agitik
+lAgi	Azil
+bAzi	Azil
+lAgi	uvAb
+vukiguvA	uzududAt
+tikAbi	AbipAl
+vukiguvA	uzududAt
+dudAtupi	uzududAt
+bAzi	uvAb
+lAgi	uvAb
+tikAbi	AbipAl
+bAzi	Azil
+tikAbi	AbipAl
+pAluzu	Agitik
+dudAtupi	upivukig
+vukiguvA	uzududAt
+lAgi	Azil
+tikAbi	Agitik
+bAzi	Azil
+dudAtupi	upivukig
+vukiguvA	upivukig
+lAgi	Azil
+bAzi	uvAb
+dudAtupi	upivukig
+lAgi	uvAb
+vukiguvA	uzududAt

@@ -1,0 +1,45 @@
+Lexicon: Nk	VrF	zDnv	pB	mLT	GRKZ	Jd	Ptf	Mglb	
+
+Training Sentences:
+pBVrFJdNk
+JdPtfMglbmLT
+pBzDnvGRKZJd
+pBzDnvmLTVrF
+VrFNkMglbpB
+zDnvGRKZMglbmLT
+JdGRKZzDnvPtf
+JdPtfNkpB
+VrFGRKZmLTMglb
+VrFMglbzDnvmLT
+
+Test Items:
+VrF	kVr
+zDnv	TGRK
+VrF	kVr
+GRKZ	TGRK
+Mglb	fMgl
+Nk	ZJ
+pB	vp
+mLT	dPt
+pB	vp
+mLT	BmL
+Nk	bN
+mLT	BmL
+Mglb	fMgl
+VrF	BmL
+Ptf	dPt
+zDnv	TGRK
+Nk	vp
+pB	bN
+Ptf	BmL
+GRKZ	TGRK
+mLT	kVr
+zDnv	fMgl
+VrF	kVr
+Jd	bN
+Mglb	fMgl
+mLT	BmL
+Ptf	kVr
+pB	ZJ
+mLT	kVr
+Mglb	FzDn

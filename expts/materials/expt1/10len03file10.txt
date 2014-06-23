@@ -1,0 +1,48 @@
+Lexicon: tidu	kivu	vAzilA	tubAlu	dAbigipA	zugukApi	
+
+Training Sentences:
+vAzilAtidudAbigipA
+tidudAbigipAtubAlu
+zugukApivAzilAdAbigipA
+tubAluvAzilAtidu
+zugukApikivutubAlu
+kivutubAluzugukApi
+tiduzugukApitubAlu
+kivudAbigipAzugukApi
+dAbigipAvAzilAzugukApi
+dAbigipAvAzilAkivu
+tidutubAlukivu
+vAzilAzugukApidAbigipA
+tidukivutubAlu
+
+Test Items:
+zugukApi	AludAbig
+dAbigipA	AludAbig
+kivu	iduk
+zugukApi	ipAzuguk
+dAbigipA	AludAbig
+tidu	Apit
+dAbigipA	ipAzuguk
+tidu	iduk
+zugukApi	AludAbig
+tubAlu	ivuvAz
+zugukApi	ipAzuguk
+tubAlu	ivuvAz
+zugukApi	AludAbig
+kivu	iduk
+tidu	Apit
+tubAlu	ilAtub
+tidu	iduk
+zugukApi	ipAzuguk
+tubAlu	ivuvAz
+dAbigipA	ipAzuguk
+vAzilA	ilAtub
+kivu	iduk
+zugukApi	ipAzuguk
+dAbigipA	AludAbig
+zugukApi	ipAzuguk
+tubAlu	ivuvAz
+kivu	Apit
+zugukApi	ipAzuguk
+tidu	Apit
+zugukApi	AludAbig

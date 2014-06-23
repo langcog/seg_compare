@@ -1,0 +1,41 @@
+Lexicon: GD	ZTk	tBKm	
+
+Training Sentences:
+tBKmGDZTkGD
+ZTkGDtBKmZTk
+GDtBKmZTkGD
+tBKmZTktBKmGD
+ZTktBKmGDZTk
+GDtBKmZTktBKm
+
+Test Items:
+GD	mG
+ZTk	DZT
+tBKm	ktBK
+ZTk	DZT
+tBKm	ktBK
+ZTk	DZT
+tBKm	ktBK
+ZTk	DZT
+GD	mG
+tBKm	ktBK
+GD	mG
+tBKm	ktBK
+ZTk	DZT
+GD	mG
+ZTk	DZT
+tBKm	ktBK
+ZTk	DZT
+GD	mG
+ZTk	DZT
+tBKm	ktBK
+GD	mG
+tBKm	ktBK
+GD	mG
+tBKm	ktBK
+GD	mG
+tBKm	ktBK
+ZTk	DZT
+tBKm	ktBK
+GD	mG
+tBKm	ktBK

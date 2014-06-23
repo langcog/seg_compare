@@ -1,0 +1,185 @@
+Lexicon: kZ	JlM	Drdt	vT	
+
+Training Sentences:
+DrdtkZvTJlM
+DrdtvTJlMkZ
+vTJlMDrdtkZ
+kZDrdtJlMvT
+JlMvTDrdtkZ
+kZDrdtJlMvT
+JlMDrdtvTkZ
+DrdtJlMvTkZ
+JlMvTDrdtkZ
+JlMkZvTDrdt
+vTkZDrdtJlM
+JlMvTkZDrdt
+vTkZDrdtJlM
+JlMDrdtvTkZ
+kZJlMvTDrdt
+JlMkZDrdtvT
+vTDrdtkZJlM
+kZJlMvTDrdt
+JlMvTkZDrdt
+JlMDrdtvTkZ
+DrdtvTkZJlM
+JlMvTkZDrdt
+vTDrdtJlMkZ
+JlMDrdtvTkZ
+JlMvTkZDrdt
+kZDrdtvTJlM
+JlMvTkZDrdt
+JlMDrdtvTkZ
+DrdtkZvTJlM
+DrdtJlMvTkZ
+vTkZJlMDrdt
+DrdtkZvTJlM
+vTkZJlMDrdt
+JlMDrdtkZvT
+DrdtJlMvTkZ
+JlMkZDrdtvT
+DrdtkZvTJlM
+DrdtkZvTJlM
+kZvTDrdtJlM
+DrdtkZJlMvT
+JlMkZvTDrdt
+DrdtvTJlMkZ
+JlMvTkZDrdt
+JlMDrdtkZvT
+JlMvTDrdtkZ
+vTJlMDrdtkZ
+JlMDrdtvTkZ
+kZJlMvTDrdt
+JlMvTkZDrdt
+kZJlMDrdtvT
+JlMkZDrdtvT
+kZvTDrdtJlM
+vTJlMDrdtkZ
+JlMDrdtvTkZ
+JlMkZDrdtvT
+vTkZJlMDrdt
+vTJlMkZDrdt
+JlMkZvTDrdt
+vTJlMkZDrdt
+JlMDrdtkZvT
+vTkZJlMDrdt
+JlMDrdtvTkZ
+kZJlMvTDrdt
+kZDrdtvTJlM
+kZDrdtJlMvT
+JlMkZvTDrdt
+kZDrdtvTJlM
+JlMDrdtvTkZ
+JlMDrdtvTkZ
+DrdtJlMkZvT
+vTkZDrdtJlM
+kZJlMvTDrdt
+DrdtJlMkZvT
+DrdtvTJlMkZ
+DrdtvTJlMkZ
+JlMkZDrdtvT
+DrdtJlMvTkZ
+JlMDrdtkZvT
+DrdtJlMkZvT
+kZJlMDrdtvT
+vTDrdtkZJlM
+DrdtkZJlMvT
+vTJlMDrdtkZ
+kZJlMvTDrdt
+kZJlMvTDrdt
+JlMDrdtkZvT
+vTkZDrdtJlM
+vTkZJlMDrdt
+DrdtJlMvTkZ
+DrdtvTkZJlM
+JlMDrdtvTkZ
+DrdtJlMkZvT
+vTkZDrdtJlM
+JlMkZDrdtvT
+JlMvTDrdtkZ
+vTJlMDrdtkZ
+DrdtkZvTJlM
+vTkZJlMDrdt
+vTJlMkZDrdt
+JlMDrdtkZvT
+DrdtvTJlMkZ
+vTJlMDrdtkZ
+DrdtJlMvTkZ
+vTDrdtkZJlM
+JlMvTkZDrdt
+JlMDrdtvTkZ
+vTDrdtkZJlM
+vTDrdtkZJlM
+kZvTJlMDrdt
+vTkZDrdtJlM
+DrdtJlMkZvT
+vTkZDrdtJlM
+JlMvTDrdtkZ
+DrdtJlMvTkZ
+JlMDrdtkZvT
+JlMDrdtkZvT
+kZDrdtvTJlM
+DrdtkZvTJlM
+DrdtkZvTJlM
+DrdtkZvTJlM
+DrdtJlMkZvT
+vTDrdtkZJlM
+kZvTJlMDrdt
+kZJlMvTDrdt
+kZDrdtvTJlM
+vTJlMkZDrdt
+kZDrdtJlMvT
+kZJlMvTDrdt
+kZDrdtJlMvT
+DrdtJlMvTkZ
+kZDrdtvTJlM
+DrdtkZvTJlM
+vTJlMDrdtkZ
+DrdtkZJlMvT
+JlMDrdtvTkZ
+vTDrdtJlMkZ
+JlMDrdtvTkZ
+JlMDrdtkZvT
+vTDrdtkZJlM
+vTJlMkZDrdt
+JlMkZDrdtvT
+vTJlMkZDrdt
+JlMvTkZDrdt
+vTDrdtkZJlM
+JlMDrdtkZvT
+DrdtvTkZJlM
+kZvTJlMDrdt
+vTkZJlMDrdt
+vTDrdtkZJlM
+vTJlMDrdtkZ
+
+Test Items:
+Drdt	MDrd
+kZ	tv
+JlM	ZJl
+Drdt	MDrd
+JlM	ZJl
+kZ	tv
+JlM	ZJl
+Drdt	MDrd
+kZ	Tk
+Drdt	MDrd
+kZ	tv
+vT	tv
+kZ	Tk
+JlM	ZJl
+Drdt	MDrd
+JlM	ZJl
+Drdt	MDrd
+JlM	ZJl
+vT	Tk
+kZ	tv
+Drdt	MDrd
+kZ	Tk
+Drdt	MDrd
+kZ	tv
+JlM	ZJl
+vT	tv
+Drdt	MDrd
+vT	tv
+Drdt	MDrd
+JlM	ZJl

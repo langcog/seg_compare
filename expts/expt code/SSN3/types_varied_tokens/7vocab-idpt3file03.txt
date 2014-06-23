@@ -1,0 +1,42 @@
+Lexicon: nV	mzt	gRBM	
+
+Training Sentences:
+nVmztnVgRBM
+gRBMmztgRBMmzt
+nVgRBMnVgRBM
+mztgRBMnVmzt
+mztgRBMmztgRBM
+nVgRBMnVgRBM
+nVmztnVmzt
+
+Test Items:
+nV	Mn
+mzt	Vmz
+nV	Mn
+gRBM	tgRB
+mzt	Vmz
+gRBM	tgRB
+nV	Mn
+mzt	Vmz
+gRBM	tgRB
+nV	Mn
+mzt	Vmz
+gRBM	tgRB
+mzt	Vmz
+nV	Mn
+mzt	Vmz
+gRBM	tgRB
+nV	Mn
+mzt	Vmz
+gRBM	tgRB
+nV	Mn
+gRBM	tgRB
+nV	Mn
+gRBM	tgRB
+mzt	Vmz
+gRBM	tgRB
+mzt	Vmz
+nV	Mn
+gRBM	tgRB
+nV	Mn
+gRBM	tgRB

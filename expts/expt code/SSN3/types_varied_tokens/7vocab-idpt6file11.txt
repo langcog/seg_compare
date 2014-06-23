@@ -1,0 +1,42 @@
+Lexicon: KZ	JNb	nBzv	kL	FpM	frgR	
+
+Training Sentences:
+kLKZnBzvfrgR
+frgRKZJNbkL
+KZfrgRnBzvkL
+FpMkLfrgRKZ
+JNbnBzvFpMfrgR
+FpMnBzvkLJNb
+FpMnBzvKZJNb
+
+Test Items:
+KZ	RK
+FpM	ZJN
+JNb	LFp
+nBzv	bnBz
+FpM	LFp
+kL	RK
+JNb	LFp
+FpM	ZJN
+JNb	ZJN
+KZ	vk
+FpM	LFp
+KZ	RK
+frgR	Mfrg
+KZ	vk
+nBzv	bnBz
+frgR	Mfrg
+kL	vk
+FpM	LFp
+frgR	Mfrg
+kL	vk
+FpM	LFp
+nBzv	Mfrg
+JNb	ZJN
+nBzv	bnBz
+kL	vk
+KZ	RK
+FpM	LFp
+JNb	ZJN
+FpM	LFp
+KZ	vk

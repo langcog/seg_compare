@@ -1,0 +1,37 @@
+Lexicon: bigu	vAlu	dAgikA	kibAtu	pivutidu	zuzilApA	
+
+Training Sentences:
+zuzilApAbigukibAtupivutidudAgikAvAlupivutiduvAlukibAtuzuzilApAbigudAgikA
+biguvAluzuzilApAvAlukibAtuzuzilApApivutidukibAtubigudAgikApivutidudAgikA
+
+Test Items:
+pivutidu	iduzuzil
+dAgikA	ikAkib
+bigu	iguv
+vAlu	ApAb
+dAgikA	AludAg
+zuzilApA	Atupivut
+pivutidu	Atupivut
+kibAtu	ikAkib
+bigu	iguv
+kibAtu	ikAkib
+vAlu	ApAb
+bigu	iguv
+zuzilApA	Atupivut
+dAgikA	ikAkib
+bigu	ApAb
+dAgikA	AludAg
+zuzilApA	iduzuzil
+bigu	ApAb
+pivutidu	Atupivut
+zuzilApA	iduzuzil
+pivutidu	Atupivut
+bigu	ApAb
+vAlu	iguv
+dAgikA	ikAkib
+zuzilApA	iduzuzil
+dAgikA	ikAkib
+zuzilApA	Atupivut
+bigu	iguv
+zuzilApA	iduzuzil
+dAgikA	ikAkib

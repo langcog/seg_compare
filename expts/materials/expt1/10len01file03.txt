@@ -1,0 +1,75 @@
+Lexicon: bAdA	pAgu	lubizi	vAgizu	pikAdutu	tikilAvu	
+
+Training Sentences:
+pAgu
+pikAdutu
+pikAdutu
+pAgu
+vAgizu
+lubizi
+vAgizu
+lubizi
+bAdA
+pikAdutu
+tikilAvu
+lubizi
+tikilAvu
+bAdA
+tikilAvu
+bAdA
+vAgizu
+pikAdutu
+pAgu
+bAdA
+pikAdutu
+lubizi
+pAgu
+vAgizu
+tikilAvu
+lubizi
+pAgu
+pikAdutu
+vAgizu
+pAgu
+vAgizu
+pAgu
+bAdA
+tikilAvu
+bAdA
+pikAdutu
+lubizi
+tikilAvu
+bAdA
+lubizi
+
+Test Items:
+tikilAvu	izupikAd
+lubizi	izivAg
+bAdA	Avub
+tikilAvu	ututikil
+bAdA	Avub
+tikilAvu	izupikAd
+pikAdutu	ututikil
+tikilAvu	izupikAd
+bAdA	Avub
+pAgu	AdAp
+pikAdutu	izupikAd
+tikilAvu	ututikil
+pAgu	Avub
+pikAdutu	izupikAd
+tikilAvu	ututikil
+bAdA	AdAp
+vAgizu	Agulub
+pAgu	AdAp
+pikAdutu	ututikil
+bAdA	Avub
+pikAdutu	ututikil
+bAdA	Avub
+pAgu	AdAp
+bAdA	Avub
+pAgu	AdAp
+tikilAvu	ututikil
+bAdA	AdAp
+vAgizu	Agulub
+lubizi	izivAg
+pikAdutu	ututikil

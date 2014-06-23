@@ -1,0 +1,41 @@
+Lexicon: mg	JZP	Gdtb	VM	rnN	
+
+Training Sentences:
+JZPrnNVMmg
+GdtbmgrnNVM
+mgGdtbrnNJZP
+VMGdtbrnNJZP
+VMJZPmgrnN
+GdtbJZPmgVM
+
+Test Items:
+VM	Nm
+Gdtb	PGdt
+rnN	gJZ
+JZP	gJZ
+Gdtb	PGdt
+mg	Nm
+rnN	gJZ
+VM	Nm
+JZP	gJZ
+mg	bV
+rnN	gJZ
+VM	bV
+Gdtb	PGdt
+mg	bV
+rnN	gJZ
+Gdtb	PGdt
+VM	bV
+JZP	Mrn
+rnN	gJZ
+mg	Nm
+VM	Nm
+rnN	Mrn
+mg	bV
+rnN	gJZ
+mg	bV
+VM	Nm
+mg	Nm
+VM	bV
+Gdtb	PGdt
+rnN	gJZ

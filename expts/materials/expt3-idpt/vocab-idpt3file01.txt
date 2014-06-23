@@ -1,0 +1,185 @@
+Lexicon: nN	kml	vVRt	
+
+Training Sentences:
+kmlnNkmlvVRt
+vVRtvVRtnNnN
+kmlkmlnNnN
+vVRtvVRtnNkml
+nNkmlvVRtnN
+kmlkmlnNnN
+kmlvVRtkmlvVRt
+vVRtvVRtnNnN
+kmlkmlvVRtnN
+kmlkmlvVRtvVRt
+nNnNkmlkml
+vVRtnNnNkml
+nNvVRtvVRtkml
+kmlkmlnNvVRt
+vVRtkmlnNnN
+nNnNkmlkml
+vVRtkmlnNnN
+kmlvVRtvVRtnN
+nNvVRtnNvVRt
+nNnNkmlkml
+nNnNkmlkml
+vVRtnNkmlnN
+nNnNkmlkml
+kmlkmlvVRtvVRt
+vVRtvVRtkmlnN
+kmlkmlnNvVRt
+nNnNkmlvVRt
+kmlvVRtvVRtnN
+vVRtnNnNvVRt
+kmlvVRtnNnN
+vVRtkmlnNvVRt
+nNvVRtnNkml
+kmlnNnNkml
+kmlkmlvVRtnN
+vVRtkmlnNkml
+nNnNkmlvVRt
+nNkmlvVRtvVRt
+nNnNkmlkml
+vVRtvVRtkmlnN
+nNvVRtkmlvVRt
+vVRtkmlnNvVRt
+vVRtnNkmlkml
+kmlkmlnNnN
+nNkmlkmlvVRt
+nNnNvVRtvVRt
+nNnNkmlkml
+kmlnNkmlvVRt
+kmlvVRtkmlnN
+kmlvVRtvVRtnN
+vVRtvVRtnNkml
+nNvVRtkmlvVRt
+vVRtvVRtkmlnN
+vVRtvVRtkmlnN
+nNnNkmlvVRt
+nNnNkmlvVRt
+nNvVRtnNvVRt
+nNkmlnNkml
+kmlnNvVRtvVRt
+vVRtkmlkmlnN
+nNvVRtnNkml
+nNnNkmlvVRt
+vVRtnNnNvVRt
+nNkmlkmlvVRt
+vVRtnNkmlkml
+vVRtnNnNkml
+nNnNvVRtvVRt
+vVRtnNnNkml
+kmlkmlnNnN
+vVRtkmlnNvVRt
+nNnNkmlvVRt
+nNkmlvVRtkml
+nNkmlkmlvVRt
+kmlnNvVRtvVRt
+vVRtnNvVRtkml
+kmlvVRtvVRtkml
+vVRtnNkmlkml
+kmlkmlvVRtnN
+kmlvVRtnNvVRt
+vVRtvVRtkmlnN
+nNkmlvVRtvVRt
+kmlnNnNvVRt
+vVRtvVRtkmlnN
+nNkmlkmlvVRt
+nNnNkmlkml
+nNvVRtvVRtnN
+vVRtvVRtkmlkml
+nNvVRtvVRtkml
+kmlvVRtkmlnN
+nNnNkmlvVRt
+nNnNvVRtkml
+vVRtkmlnNkml
+nNvVRtkmlnN
+nNkmlkmlnN
+nNkmlvVRtnN
+kmlkmlnNvVRt
+vVRtkmlnNvVRt
+vVRtnNnNkml
+nNvVRtnNkml
+nNvVRtkmlvVRt
+vVRtnNvVRtkml
+kmlvVRtnNnN
+vVRtkmlvVRtkml
+vVRtvVRtkmlkml
+vVRtvVRtnNnN
+kmlkmlnNvVRt
+vVRtvVRtnNkml
+nNvVRtvVRtkml
+nNnNvVRtvVRt
+kmlvVRtvVRtnN
+nNnNkmlkml
+nNnNkmlvVRt
+vVRtnNvVRtnN
+kmlnNnNkml
+nNnNvVRtkml
+nNkmlvVRtkml
+nNnNvVRtvVRt
+nNkmlkmlvVRt
+kmlkmlnNvVRt
+vVRtnNvVRtkml
+nNvVRtnNvVRt
+nNnNkmlkml
+nNvVRtkmlkml
+kmlvVRtvVRtkml
+vVRtvVRtkmlkml
+kmlvVRtkmlvVRt
+kmlvVRtvVRtkml
+kmlvVRtnNvVRt
+vVRtvVRtnNnN
+vVRtnNvVRtnN
+nNnNvVRtkml
+vVRtnNkmlvVRt
+vVRtkmlvVRtkml
+kmlvVRtvVRtkml
+vVRtkmlkmlnN
+vVRtkmlvVRtkml
+nNvVRtkmlkml
+kmlnNnNkml
+kmlkmlvVRtnN
+kmlvVRtnNkml
+vVRtkmlnNvVRt
+vVRtvVRtnNkml
+vVRtkmlvVRtkml
+vVRtvVRtnNkml
+nNnNkmlkml
+kmlnNnNvVRt
+nNnNkmlvVRt
+kmlkmlvVRtnN
+vVRtvVRtkmlkml
+nNvVRtnNvVRt
+nNkmlvVRtvVRt
+
+Test Items:
+kml	Nkm
+vVRt	lvVR
+kml	Nkm
+nN	tn
+vVRt	lvVR
+nN	tn
+kml	Nkm
+vVRt	lvVR
+kml	Nkm
+vVRt	lvVR
+nN	tn
+kml	Nkm
+vVRt	lvVR
+nN	tn
+vVRt	lvVR
+kml	Nkm
+vVRt	lvVR
+nN	tn
+kml	Nkm
+vVRt	lvVR
+kml	Nkm
+vVRt	lvVR
+kml	Nkm
+vVRt	lvVR
+kml	Nkm
+vVRt	lvVR
+nN	tn
+kml	Nkm
+vVRt	lvVR
+kml	Nkm

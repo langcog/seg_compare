@@ -1,0 +1,60 @@
+Lexicon: GN	RZV	zdbn	Dg	FPJ	
+
+Training Sentences:
+GNRZVzdbnFPJ
+zdbnDgFPJRZV
+DgGNRZVzdbn
+RZVDgzdbnGN
+DgGNzdbnRZV
+GNFPJDgRZV
+DgFPJGNRZV
+zdbnFPJRZVGN
+FPJRZVGNzdbn
+zdbnFPJGNRZV
+RZVDgGNzdbn
+DgRZVGNFPJ
+zdbnGNDgFPJ
+DgFPJzdbnRZV
+zdbnRZVGNFPJ
+DgzdbnFPJRZV
+DgRZVGNFPJ
+zdbnGNFPJDg
+GNFPJDgRZV
+GNDgzdbnFPJ
+FPJDgRZVGN
+zdbnRZVDgFPJ
+DgzdbnFPJRZV
+GNzdbnDgFPJ
+GNzdbnDgzdbn
+
+Test Items:
+Dg	JG
+RZV	gFP
+GN	JG
+Dg	nD
+GN	JG
+FPJ	gFP
+zdbn	Vzdb
+Dg	JG
+RZV	NRZ
+zdbn	Vzdb
+Dg	JG
+zdbn	Vzdb
+Dg	nD
+RZV	NRZ
+GN	nD
+zdbn	Vzdb
+RZV	NRZ
+FPJ	NRZ
+GN	nD
+zdbn	Vzdb
+Dg	JG
+FPJ	gFP
+RZV	gFP
+Dg	JG
+zdbn	Vzdb
+FPJ	gFP
+GN	nD
+FPJ	gFP
+RZV	NRZ
+zdbn	Vzdb

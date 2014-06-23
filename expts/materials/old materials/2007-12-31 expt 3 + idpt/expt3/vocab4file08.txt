@@ -1,0 +1,185 @@
+Lexicon: zK	VRp	ZDgl	kd	
+
+Training Sentences:
+zKZDglkdVRp
+VRpzKkdZDgl
+kdzKZDglVRp
+zKZDglVRpkd
+kdzKZDglVRp
+kdVRpzKZDgl
+ZDglVRpkdzK
+zKVRpkdZDgl
+zKZDglkdVRp
+VRpzKZDglkd
+zKkdZDglVRp
+zKVRpZDglkd
+kdZDglzKVRp
+VRpzKkdZDgl
+zKZDglVRpkd
+kdVRpZDglzK
+VRpZDglkdzK
+zKVRpkdZDgl
+kdzKVRpZDgl
+zKZDglkdVRp
+zKZDglkdVRp
+kdzKZDglVRp
+VRpzKkdZDgl
+ZDglzKVRpkd
+ZDglVRpkdzK
+ZDglkdVRpzK
+VRpZDglkdzK
+VRpzKkdZDgl
+kdZDglzKVRp
+ZDglVRpkdzK
+zKVRpkdZDgl
+kdVRpzKZDgl
+ZDglzKVRpkd
+ZDglkdzKVRp
+VRpkdzKZDgl
+kdzKVRpZDgl
+kdzKVRpZDgl
+kdzKVRpZDgl
+VRpzKkdZDgl
+kdVRpzKZDgl
+ZDglkdzKVRp
+ZDglkdVRpzK
+kdVRpzKZDgl
+kdZDglVRpzK
+zKVRpZDglkd
+ZDglkdVRpzK
+VRpzKZDglkd
+kdVRpzKZDgl
+zKkdVRpZDgl
+zKVRpkdZDgl
+VRpzKkdZDgl
+VRpzKZDglkd
+kdzKVRpZDgl
+VRpkdzKZDgl
+kdzKVRpZDgl
+kdZDglVRpzK
+kdZDglzKVRp
+ZDglVRpzKkd
+zKVRpZDglkd
+ZDglzKVRpkd
+kdzKZDglVRp
+zKVRpkdZDgl
+kdVRpzKZDgl
+kdVRpzKZDgl
+kdZDglVRpzK
+VRpzKZDglkd
+VRpZDglkdzK
+zKZDglkdVRp
+VRpZDglkdzK
+ZDglkdzKVRp
+VRpZDglzKkd
+zKVRpZDglkd
+zKVRpZDglkd
+kdZDglVRpzK
+zKZDglkdVRp
+VRpzKkdZDgl
+VRpkdzKZDgl
+ZDglzKVRpkd
+zKkdZDglVRp
+ZDglzKVRpkd
+kdzKVRpZDgl
+zKkdZDglVRp
+VRpkdzKZDgl
+zKZDglkdVRp
+zKkdVRpZDgl
+kdVRpZDglzK
+zKkdVRpZDgl
+zKVRpkdZDgl
+VRpkdZDglzK
+ZDglkdzKVRp
+ZDglVRpkdzK
+ZDglkdzKVRp
+zKkdVRpZDgl
+VRpzKkdZDgl
+kdzKZDglVRp
+ZDglVRpkdzK
+kdVRpzKZDgl
+zKkdVRpZDgl
+VRpZDglzKkd
+kdZDglVRpzK
+VRpzKkdZDgl
+VRpZDglzKkd
+VRpZDglkdzK
+kdZDglzKVRp
+kdVRpzKZDgl
+kdzKZDglVRp
+zKZDglkdVRp
+VRpzKkdZDgl
+kdVRpZDglzK
+ZDglVRpzKkd
+ZDglzKVRpkd
+kdzKZDglVRp
+ZDglkdzKVRp
+zKkdZDglVRp
+ZDglVRpkdzK
+kdzKZDglVRp
+ZDglzKVRpkd
+ZDglzKVRpkd
+VRpzKkdZDgl
+zKkdVRpZDgl
+VRpZDglzKkd
+zKVRpZDglkd
+zKZDglVRpkd
+VRpzKkdZDgl
+ZDglzKVRpkd
+ZDglzKkdVRp
+zKkdVRpZDgl
+ZDglVRpkdzK
+zKkdZDglVRp
+kdzKZDglVRp
+VRpzKZDglkd
+zKkdZDglVRp
+zKVRpZDglkd
+ZDglVRpzKkd
+kdVRpZDglzK
+zKZDglVRpkd
+kdVRpzKZDgl
+ZDglVRpkdzK
+kdzKZDglVRp
+ZDglVRpzKkd
+zKZDglVRpkd
+kdZDglVRpzK
+zKVRpkdZDgl
+zKVRpZDglkd
+kdZDglzKVRp
+ZDglkdzKVRp
+kdVRpzKZDgl
+zKkdZDglVRp
+kdVRpZDglzK
+zKZDglVRpkd
+
+Test Items:
+kd	lk
+ZDgl	pZDg
+kd	lk
+VRp	KVR
+ZDgl	pZDg
+zK	dz
+VRp	KVR
+zK	lk
+ZDgl	pZDg
+zK	dz
+ZDgl	pZDg
+zK	lk
+kd	lk
+zK	dz
+kd	lk
+zK	lk
+VRp	KVR
+ZDgl	pZDg
+zK	dz
+ZDgl	pZDg
+kd	lk
+zK	dz
+ZDgl	pZDg
+zK	dz
+ZDgl	pZDg
+zK	lk
+ZDgl	pZDg
+zK	dz
+kd	lk
+zK	dz

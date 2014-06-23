@@ -1,0 +1,42 @@
+Lexicon: tugi	lugu	bivubA	lAkApA	duzitidA	vAzupiki	
+
+Training Sentences:
+duzitidAlAkApAtugilugu
+bivubAlAkApAvAzupikilugu
+lAkApAtugilugubivubA
+tugiduzitidAbivubAlAkApA
+lugubivubAduzitidAtugi
+vAzupikiduzitidAlugubivubA
+lAkApAvAzupikitugiduzitidA
+
+Test Items:
+lugu	ugil
+lAkApA	ugubiv
+vAzupiki	idAvAzup
+lAkApA	ugubiv
+lugu	ugil
+lAkApA	ugubiv
+tugi	ikit
+lugu	ugil
+duzitidA	idAvAzup
+lugu	ugil
+vAzupiki	idAvAzup
+lAkApA	ubAlAk
+duzitidA	ApAduzit
+lAkApA	ugubiv
+lugu	ugil
+lAkApA	ugubiv
+vAzupiki	ApAduzit
+lugu	ugil
+vAzupiki	ApAduzit
+bivubA	ugubiv
+vAzupiki	ApAduzit
+bivubA	ubAlAk
+tugi	ugil
+vAzupiki	idAvAzup
+lAkApA	ugubiv
+bivubA	ugubiv
+lugu	ikit
+vAzupiki	idAvAzup
+lAkApA	ugubiv
+bivubA	ubAlAk

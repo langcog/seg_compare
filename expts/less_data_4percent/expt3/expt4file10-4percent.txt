@@ -1,0 +1,41 @@
+Lexicon: DF	Lgt	vBbf	mM	
+
+Training Sentences:
+LgtmMDFvBbf
+DFmMvBbfLgt
+vBbfmMLgtDF
+vBbfLgtDFmM
+mMvBbfLgtDF
+mMLgtDFvBbf
+
+Test Items:
+Lgt	FLg
+DF	fm
+mM	MD
+DF	fm
+Lgt	FLg
+mM	fm
+Lgt	FLg
+vBbf	tvBb
+Lgt	FLg
+vBbf	tvBb
+mM	MD
+Lgt	FLg
+mM	MD
+Lgt	FLg
+DF	fm
+mM	MD
+DF	fm
+Lgt	FLg
+vBbf	tvBb
+mM	MD
+vBbf	tvBb
+Lgt	FLg
+DF	MD
+vBbf	tvBb
+Lgt	FLg
+vBbf	tvBb
+DF	MD
+Lgt	FLg
+DF	MD
+Lgt	FLg

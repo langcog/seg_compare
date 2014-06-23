@@ -1,0 +1,41 @@
+Lexicon: fL	nmk	FJVD	tb	
+
+Training Sentences:
+tbFJVDnmkfL
+fLtbnmkFJVD
+nmktbfLFJVD
+fLtbFJVDnmk
+tbfLFJVDnmk
+FJVDfLnmktb
+
+Test Items:
+FJVD	kFJV
+fL	Dt
+nmk	Lnm
+tb	bf
+fL	Dt
+nmk	Lnm
+tb	Dt
+nmk	Lnm
+fL	Dt
+nmk	Lnm
+FJVD	kFJV
+nmk	Lnm
+fL	Dt
+nmk	Lnm
+fL	Dt
+tb	bf
+nmk	Lnm
+fL	Dt
+tb	Dt
+nmk	Lnm
+fL	Dt
+FJVD	kFJV
+fL	bf
+nmk	Lnm
+tb	Dt
+nmk	Lnm
+fL	Dt
+nmk	Lnm
+tb	bf
+FJVD	kFJV

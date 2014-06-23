@@ -1,0 +1,42 @@
+Lexicon: Rg	bNp	mFLM	Bd	GZD	
+
+Training Sentences:
+BdRgGZDbNp
+mFLMGZDbNpBd
+bNpRgGZDmFLM
+BdbNpRgmFLM
+mFLMbNpRgGZD
+RgBdGZDmFLM
+GZDBdbNpRg
+
+Test Items:
+GZD	gbN
+mFLM	pmFL
+Bd	MB
+bNp	dGZ
+Rg	MB
+GZD	dGZ
+Rg	DR
+Bd	MB
+mFLM	pmFL
+Rg	DR
+mFLM	pmFL
+GZD	gbN
+bNp	dGZ
+Bd	DR
+Rg	MB
+GZD	gbN
+Rg	MB
+mFLM	pmFL
+Rg	MB
+GZD	gbN
+Rg	DR
+Bd	DR
+mFLM	pmFL
+bNp	gbN
+Bd	DR
+Rg	MB
+bNp	dGZ
+mFLM	pmFL
+Bd	MB
+bNp	gbN

@@ -1,0 +1,50 @@
+Lexicon: pAkA	pilu	dAbAzi	gikiti	vuvAbizu	tugulAdu	
+
+Training Sentences:
+dAbAzigikitipAkAvuvAbizu
+dAbAzipAkAtugulAduvuvAbizu
+pilugikitivuvAbizupAkA
+pilutugulAdugikitipAkA
+gikitidAbAzivuvAbizupAkA
+gikititugulAdupilupAkA
+tugulAdupilugikitidAbAzi
+pAkAdAbAzipilutugulAdu
+tugulAdupAkAvuvAbizugikiti
+vuvAbizutugulAdudAbAzipilu
+pAkAdAbAzivuvAbizugikiti
+tugulAdugikitidAbAzipilu
+vuvAbizupiludAbAzipAkA
+vuvAbizupilutugulAdugikiti
+vuvAbizudAbAzipilutugulAdu
+
+Test Items:
+pAkA	Adup
+pilu	AkAp
+tugulAdu	itivuvAb
+gikiti	Azigik
+pilu	Adup
+pAkA	AkAp
+vuvAbizu	izutugul
+gikiti	Azigik
+pilu	AkAp
+tugulAdu	itivuvAb
+gikiti	Azigik
+vuvAbizu	itivuvAb
+gikiti	Azigik
+tugulAdu	izutugul
+pAkA	Adup
+dAbAzi	Azigik
+tugulAdu	itivuvAb
+pAkA	AkAp
+dAbAzi	iludAb
+tugulAdu	izutugul
+dAbAzi	iludAb
+pilu	Adup
+vuvAbizu	itivuvAb
+gikiti	Azigik
+tugulAdu	itivuvAb
+gikiti	iludAb
+pAkA	Adup
+tugulAdu	izutugul
+pilu	AkAp
+vuvAbizu	izutugul

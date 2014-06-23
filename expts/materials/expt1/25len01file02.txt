@@ -1,0 +1,145 @@
+Lexicon: bigu	pizu	givukA	dutipA	lAdAzitu	bAvAkilu	
+
+Training Sentences:
+pizu
+lAdAzitu
+bigu
+bigu
+givukA
+lAdAzitu
+dutipA
+givukA
+dutipA
+lAdAzitu
+bAvAkilu
+bAvAkilu
+bAvAkilu
+givukA
+givukA
+bAvAkilu
+dutipA
+pizu
+lAdAzitu
+bigu
+pizu
+dutipA
+lAdAzitu
+lAdAzitu
+lAdAzitu
+pizu
+givukA
+givukA
+bigu
+pizu
+dutipA
+dutipA
+bigu
+bigu
+pizu
+pizu
+bigu
+bAvAkilu
+givukA
+dutipA
+
+Test Items:
+dutipA	izugiv
+bigu	ilub
+givukA	ukAdut
+bAvAkilu	itubAvAk
+dutipA	ukAdut
+bigu	ilub
+lAdAzitu	ipAlAdAz
+bAvAkilu	itubAvAk
+givukA	ukAdut
+bAvAkilu	ipAlAdAz
+bigu	ilub
+pizu	ilub
+givukA	izugiv
+lAdAzitu	itubAvAk
+dutipA	ukAdut
+givukA	izugiv
+lAdAzitu	ipAlAdAz
+givukA	ukAdut
+dutipA	izugiv
+pizu	ilub
+bigu	igup
+dutipA	ukAdut
+bAvAkilu	itubAvAk
+givukA	izugiv
+lAdAzitu	itubAvAk
+pizu	igup
+dutipA	ukAdut
+pizu	ilub
+dutipA	izugiv
+givukA	ukAdut
+lAdAzitu	ipAlAdAz
+pizu	igup
+lAdAzitu	itubAvAk
+bigu	ilub
+givukA	izugiv
+dutipA	ukAdut
+pizu	ilub
+givukA	izugiv
+pizu	ilub
+lAdAzitu	ipAlAdAz
+pizu	ilub
+lAdAzitu	ipAlAdAz
+bAvAkilu	itubAvAk
+bigu	ilub
+bAvAkilu	ipAlAdAz
+bigu	igup
+givukA	izugiv
+bAvAkilu	ipAlAdAz
+bigu	ilub
+dutipA	ukAdut
+lAdAzitu	itubAvAk
+bAvAkilu	itubAvAk
+dutipA	ukAdut
+lAdAzitu	itubAvAk
+givukA	izugiv
+lAdAzitu	itubAvAk
+pizu	ilub
+dutipA	izugiv
+pizu	ilub
+givukA	izugiv
+bAvAkilu	ipAlAdAz
+givukA	izugiv
+pizu	igup
+lAdAzitu	itubAvAk
+bigu	igup
+givukA	izugiv
+bigu	ilub
+bAvAkilu	ipAlAdAz
+givukA	izugiv
+pizu	igup
+bigu	ilub
+bAvAkilu	itubAvAk
+givukA	izugiv
+pizu	igup
+givukA	izugiv
+pizu	igup
+bAvAkilu	itubAvAk
+lAdAzitu	ipAlAdAz
+givukA	izugiv
+dutipA	ukAdut
+bAvAkilu	itubAvAk
+lAdAzitu	ipAlAdAz
+givukA	ukAdut
+pizu	ilub
+bAvAkilu	ipAlAdAz
+dutipA	ukAdut
+givukA	izugiv
+pizu	ilub
+dutipA	ukAdut
+pizu	ilub
+bigu	igup
+dutipA	izugiv
+bAvAkilu	itubAvAk
+lAdAzitu	itubAvAk
+pizu	ilub
+bAvAkilu	ipAlAdAz
+bigu	ilub
+lAdAzitu	ipAlAdAz
+bigu	ilub
+dutipA	ukAdut

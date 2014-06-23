@@ -1,0 +1,185 @@
+Lexicon: rT	DtG	mzpB	lV	
+
+Training Sentences:
+lVrTmzpBDtG
+rTlVDtGmzpB
+rTDtGlVmzpB
+mzpBlVrTDtG
+lVrTDtGmzpB
+DtGlVmzpBrT
+DtGmzpBrTlV
+lVrTDtGmzpB
+rTDtGlVmzpB
+mzpBlVDtGrT
+rTlVDtGmzpB
+DtGrTlVmzpB
+DtGrTlVmzpB
+rTlVmzpBDtG
+rTDtGmzpBlV
+mzpBrTlVDtG
+lVmzpBrTDtG
+lVDtGrTmzpB
+lVDtGrTmzpB
+lVDtGmzpBrT
+mzpBlVrTDtG
+lVmzpBrTDtG
+lVDtGrTmzpB
+lVrTmzpBDtG
+lVDtGrTmzpB
+rTDtGlVmzpB
+DtGlVmzpBrT
+rTlVmzpBDtG
+lVDtGrTmzpB
+rTlVDtGmzpB
+mzpBDtGrTlV
+rTlVmzpBDtG
+mzpBlVDtGrT
+DtGmzpBrTlV
+lVDtGrTmzpB
+DtGmzpBrTlV
+DtGrTlVmzpB
+DtGlVmzpBrT
+lVmzpBrTDtG
+DtGlVmzpBrT
+rTlVmzpBDtG
+rTlVmzpBDtG
+rTDtGmzpBlV
+rTlVDtGmzpB
+rTlVDtGmzpB
+rTlVmzpBDtG
+mzpBDtGlVrT
+DtGrTlVmzpB
+DtGlVrTmzpB
+mzpBrTDtGlV
+lVmzpBrTDtG
+lVDtGrTmzpB
+lVDtGrTmzpB
+rTmzpBDtGlV
+lVmzpBDtGrT
+DtGrTmzpBlV
+DtGlVmzpBrT
+DtGrTlVmzpB
+lVrTDtGmzpB
+lVDtGrTmzpB
+DtGmzpBlVrT
+mzpBDtGrTlV
+DtGlVmzpBrT
+rTmzpBlVDtG
+lVmzpBDtGrT
+rTmzpBlVDtG
+lVmzpBDtGrT
+DtGrTmzpBlV
+lVrTmzpBDtG
+rTlVDtGmzpB
+mzpBrTlVDtG
+rTDtGmzpBlV
+rTlVmzpBDtG
+lVmzpBrTDtG
+lVDtGmzpBrT
+lVmzpBrTDtG
+mzpBrTlVDtG
+lVrTDtGmzpB
+lVmzpBrTDtG
+mzpBDtGrTlV
+mzpBlVrTDtG
+DtGmzpBrTlV
+DtGmzpBrTlV
+rTDtGlVmzpB
+DtGrTlVmzpB
+rTDtGlVmzpB
+mzpBDtGrTlV
+mzpBlVrTDtG
+lVmzpBrTDtG
+lVrTDtGmzpB
+lVrTDtGmzpB
+DtGrTmzpBlV
+DtGlVmzpBrT
+lVrTDtGmzpB
+rTDtGmzpBlV
+mzpBDtGlVrT
+lVDtGrTmzpB
+DtGrTmzpBlV
+DtGmzpBlVrT
+rTDtGlVmzpB
+DtGlVrTmzpB
+mzpBDtGrTlV
+lVDtGmzpBrT
+rTmzpBlVDtG
+lVDtGrTmzpB
+rTDtGlVmzpB
+rTlVDtGmzpB
+rTmzpBlVDtG
+rTlVmzpBDtG
+lVmzpBrTDtG
+rTmzpBDtGlV
+rTlVDtGmzpB
+rTlVmzpBDtG
+mzpBlVDtGrT
+DtGrTmzpBlV
+DtGmzpBlVrT
+mzpBDtGrTlV
+DtGrTlVmzpB
+mzpBDtGlVrT
+mzpBrTDtGlV
+rTDtGmzpBlV
+rTDtGmzpBlV
+DtGrTmzpBlV
+DtGlVrTmzpB
+lVDtGmzpBrT
+mzpBrTDtGlV
+DtGlVrTmzpB
+rTlVDtGmzpB
+mzpBlVrTDtG
+lVrTmzpBDtG
+lVmzpBrTDtG
+rTlVmzpBDtG
+lVDtGrTmzpB
+rTlVDtGmzpB
+DtGlVrTmzpB
+rTmzpBlVDtG
+rTDtGlVmzpB
+mzpBlVrTDtG
+mzpBDtGlVrT
+rTlVDtGmzpB
+DtGlVmzpBrT
+DtGlVmzpBrT
+mzpBDtGrTlV
+rTlVDtGmzpB
+DtGrTmzpBlV
+lVDtGrTmzpB
+rTmzpBlVDtG
+lVrTDtGmzpB
+rTmzpBDtGlV
+lVrTmzpBDtG
+
+Test Items:
+lV	Vr
+mzpB	Gmzp
+DtG	TDt
+lV	Vr
+DtG	TDt
+mzpB	Gmzp
+lV	Vr
+mzpB	Gmzp
+lV	Bl
+rT	Vr
+DtG	TDt
+mzpB	Gmzp
+DtG	TDt
+mzpB	Gmzp
+rT	Bl
+DtG	TDt
+mzpB	Gmzp
+lV	Bl
+DtG	TDt
+lV	Bl
+DtG	TDt
+rT	Vr
+DtG	TDt
+rT	Bl
+lV	Vr
+DtG	TDt
+rT	Bl
+DtG	TDt
+rT	Vr
+mzpB	Gmzp

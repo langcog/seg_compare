@@ -1,0 +1,41 @@
+Lexicon: mb	vfZ	JgGN	Kd	BFt	
+
+Training Sentences:
+mbBFtvfZKd
+BFtJgGNmbKd
+KdBFtJgGNmb
+JgGNvfZBFtmb
+KdBFtvfZmb
+vfZKdJgGNvfZ
+
+Test Items:
+vfZ	dBF
+Kd	tm
+JgGN	ZJgG
+BFt	dBF
+JgGN	ZJgG
+BFt	bvf
+mb	tm
+Kd	NK
+mb	tm
+vfZ	dBF
+mb	tm
+Kd	NK
+JgGN	ZJgG
+BFt	bvf
+JgGN	ZJgG
+mb	NK
+Kd	NK
+BFt	dBF
+vfZ	bvf
+BFt	dBF
+JgGN	ZJgG
+Kd	NK
+mb	tm
+Kd	NK
+mb	NK
+vfZ	dBF
+BFt	bvf
+JgGN	ZJgG
+Kd	NK
+vfZ	bvf

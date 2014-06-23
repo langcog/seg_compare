@@ -1,0 +1,50 @@
+Lexicon: zukA	gitu	tiduvA	bAlAgu	pibikizi	lupAdAvu	
+
+Training Sentences:
+bAlAgupibikizigitulupAdAvu
+bAlAgugitutiduvApibikizi
+bAlAgulupAdAvupibikizigitu
+pibikizitiduvAzukAbAlAgu
+lupAdAvuzukAtiduvApibikizi
+zukAlupAdAvupibikizitiduvA
+pibikizigitulupAdAvuzukA
+zukAbAlAgulupAdAvugitu
+zukAgitutiduvAbAlAgu
+zukAlupAdAvutiduvAbAlAgu
+gitutiduvAlupAdAvupibikizi
+gituzukAbAlAgulupAdAvu
+pibikizitiduvAlupAdAvubAlAgu
+bAlAgugituzukAtiduvA
+gituzukApibikizitiduvA
+
+Test Items:
+tiduvA	itutid
+gitu	Avuz
+pibikizi	izilupAd
+lupAdAvu	Agupibik
+zukA	Avuz
+tiduvA	uvAbAl
+pibikizi	Agupibik
+zukA	ukAg
+gitu	Avuz
+zukA	ukAg
+tiduvA	itutid
+gitu	ukAg
+pibikizi	Agupibik
+tiduvA	uvAbAl
+zukA	ukAg
+tiduvA	itutid
+pibikizi	izilupAd
+zukA	Avuz
+lupAdAvu	Agupibik
+gitu	ukAg
+bAlAgu	itutid
+pibikizi	izilupAd
+lupAdAvu	izilupAd
+zukA	ukAg
+gitu	Avuz
+pibikizi	Agupibik
+tiduvA	itutid
+gitu	ukAg
+bAlAgu	itutid
+gitu	Avuz

@@ -1,0 +1,41 @@
+Lexicon: gidu	zitu	dAvuti	kAkilu	vApipAbA	zubigulA	
+
+Training Sentences:
+zubigulAvApipAbAdAvutizitugidukAkilu
+kAkiluzubigulAzitudAvutivApipAbAgidu
+zubigulAdAvutivApipAbAkAkilugiduzitu
+zitukAkiluzubigulAdAvutigiduvApipAbA
+vApipAbAzubigulAkAkiludAvutigiduzitu
+zitudAvutizubigulAvApipAbAgidukAkilu
+
+Test Items:
+zitu	ulAg
+kAkilu	utikAk
+zubigulA	iluvApip
+dAvuti	utikAk
+vApipAbA	iluvApip
+zubigulA	AbAzubig
+gidu	ulAg
+kAkilu	utikAk
+zubigulA	AbAzubig
+dAvuti	itudAv
+vApipAbA	iluvApip
+kAkilu	itudAv
+dAvuti	utikAk
+zitu	iduz
+kAkilu	itudAv
+vApipAbA	AbAzubig
+kAkilu	itudAv
+gidu	ulAg
+zitu	iduz
+vApipAbA	AbAzubig
+zitu	iduz
+vApipAbA	iluvApip
+kAkilu	utikAk
+zubigulA	AbAzubig
+dAvuti	utikAk
+kAkilu	itudAv
+zitu	ulAg
+zubigulA	AbAzubig
+zitu	iduz
+zubigulA	iluvApip

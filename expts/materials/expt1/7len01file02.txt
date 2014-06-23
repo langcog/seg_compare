@@ -1,0 +1,63 @@
+Lexicon: bAvA	kAzi	bikilu	dugilA	zudApivu	gupAtitu	
+
+Training Sentences:
+bikilu
+zudApivu
+gupAtitu
+kAzi
+zudApivu
+bAvA
+bikilu
+kAzi
+dugilA
+zudApivu
+dugilA
+kAzi
+bAvA
+bAvA
+bikilu
+bAvA
+dugilA
+kAzi
+bAvA
+gupAtitu
+zudApivu
+dugilA
+bikilu
+zudApivu
+kAzi
+gupAtitu
+dugilA
+gupAtitu
+
+Test Items:
+dugilA	iludug
+bAvA	AvAk
+zudApivu	ilAzudAp
+gupAtitu	ivugupAt
+dugilA	iludug
+bikilu	Azibik
+gupAtitu	ilAzudAp
+dugilA	Azibik
+kAzi	AvAk
+dugilA	Azibik
+gupAtitu	ilAzudAp
+kAzi	AvAk
+dugilA	iludug
+zudApivu	ivugupAt
+bikilu	iludug
+gupAtitu	ivugupAt
+zudApivu	ivugupAt
+bAvA	itub
+kAzi	itub
+dugilA	Azibik
+bikilu	iludug
+kAzi	AvAk
+bAvA	itub
+kAzi	AvAk
+gupAtitu	ivugupAt
+dugilA	Azibik
+gupAtitu	ivugupAt
+zudApivu	ilAzudAp
+bAvA	AvAk
+zudApivu	ivugupAt

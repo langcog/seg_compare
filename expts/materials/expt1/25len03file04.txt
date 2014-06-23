@@ -1,0 +1,118 @@
+Lexicon: gubA	ziki	tulAdA	duvAvu	pAtikAzu	lupigibi	
+
+Training Sentences:
+zikiduvAvugubA
+lupigibiduvAvutulAdA
+duvAvugubApAtikAzu
+zikilupigibigubA
+lupigibipAtikAzuduvAvu
+lupigibizikigubA
+duvAvupAtikAzulupigibi
+lupigibitulAdAziki
+pAtikAzuzikitulAdA
+pAtikAzugubAtulAdA
+lupigibizikigubA
+duvAvutulAdApAtikAzu
+duvAvuzikitulAdA
+
+Test Items:
+duvAvu	ikitul
+tulAdA	AdAduv
+duvAvu	ikitul
+lupigibi	AvupAtik
+pAtikAzu	Azulupig
+lupigibi	AvupAtik
+gubA	ibig
+ziki	ubAz
+tulAdA	ikitul
+gubA	ibig
+ziki	ubAz
+lupigibi	AvupAtik
+gubA	ubAz
+duvAvu	ikitul
+pAtikAzu	AvupAtik
+tulAdA	AdAduv
+ziki	ibig
+duvAvu	AdAduv
+ziki	ibig
+tulAdA	AdAduv
+duvAvu	ikitul
+tulAdA	ikitul
+duvAvu	AdAduv
+gubA	ibig
+pAtikAzu	AvupAtik
+lupigibi	AvupAtik
+pAtikAzu	Azulupig
+ziki	ubAz
+tulAdA	ikitul
+ziki	ubAz
+gubA	ibig
+pAtikAzu	Azulupig
+ziki	ubAz
+duvAvu	AdAduv
+tulAdA	ikitul
+duvAvu	AdAduv
+gubA	ibig
+lupigibi	Azulupig
+gubA	ibig
+ziki	ubAz
+tulAdA	ikitul
+lupigibi	Azulupig
+tulAdA	ikitul
+pAtikAzu	Azulupig
+ziki	ubAz
+pAtikAzu	Azulupig
+tulAdA	ikitul
+ziki	ubAz
+lupigibi	Azulupig
+duvAvu	ikitul
+tulAdA	AdAduv
+ziki	ubAz
+pAtikAzu	Azulupig
+gubA	ubAz
+ziki	ibig
+lupigibi	AvupAtik
+duvAvu	AdAduv
+tulAdA	ikitul
+pAtikAzu	AvupAtik
+lupigibi	Azulupig
+tulAdA	ikitul
+lupigibi	AvupAtik
+gubA	ibig
+pAtikAzu	AvupAtik
+gubA	ubAz
+ziki	ibig
+tulAdA	ikitul
+lupigibi	AvupAtik
+ziki	ibig
+gubA	ubAz
+pAtikAzu	AvupAtik
+gubA	ibig
+ziki	ubAz
+lupigibi	AvupAtik
+ziki	ibig
+tulAdA	ikitul
+lupigibi	Azulupig
+gubA	ubAz
+ziki	ubAz
+tulAdA	AdAduv
+lupigibi	AvupAtik
+pAtikAzu	Azulupig
+tulAdA	ikitul
+lupigibi	Azulupig
+gubA	ibig
+duvAvu	AdAduv
+tulAdA	ikitul
+gubA	ubAz
+lupigibi	AvupAtik
+duvAvu	AdAduv
+ziki	ibig
+duvAvu	AdAduv
+pAtikAzu	Azulupig
+duvAvu	ikitul
+lupigibi	AvupAtik
+pAtikAzu	Azulupig
+gubA	ibig
+lupigibi	AvupAtik
+pAtikAzu	AvupAtik
+ziki	ubAz

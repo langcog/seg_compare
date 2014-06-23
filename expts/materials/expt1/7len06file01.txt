@@ -1,0 +1,39 @@
+Lexicon: dAgu	zubA	luvubi	zikAtu	gipidulA	kitipAvA	
+
+Training Sentences:
+luvubizubAgipidulAdAgukitipAvAzikAtu
+gipidulAluvubikitipAvAzikAtudAguzubA
+dAgukitipAvAzubAluvubizikAtugipidulA
+luvubidAguzubAzikAtugipidulAkitipAvA
+
+Test Items:
+gipidulA	Atugipid
+dAgu	AvAd
+kitipAvA	Atugipid
+dAgu	AvAd
+luvubi	ubAluv
+zubA	AvAd
+luvubi	ubizik
+zikAtu	ubAluv
+luvubi	ubizik
+dAgu	AvAd
+luvubi	ubAluv
+zikAtu	ubizik
+kitipAvA	Atugipid
+zikAtu	ubizik
+gipidulA	Atugipid
+luvubi	ubAluv
+zubA	Aguz
+zikAtu	ubAluv
+zubA	Aguz
+zikAtu	ubAluv
+kitipAvA	ulAkitip
+luvubi	ubAluv
+gipidulA	ulAkitip
+zubA	AvAd
+gipidulA	ulAkitip
+zubA	AvAd
+luvubi	ubizik
+zubA	Aguz
+luvubi	ubAluv
+zubA	AvAd

@@ -1,0 +1,41 @@
+Lexicon: NP	rZz	TkvK	bd	
+
+Training Sentences:
+TkvKbdNPrZz
+TkvKrZzNPbd
+rZzTkvKNPbd
+bdNPrZzTkvK
+TkvKNPbdrZz
+bdNPrZzTkvK
+
+Test Items:
+rZz	PrZ
+TkvK	zTkv
+rZz	PrZ
+NP	Kb
+TkvK	zTkv
+rZz	PrZ
+NP	Kb
+bd	dN
+NP	dN
+TkvK	zTkv
+bd	dN
+TkvK	zTkv
+bd	Kb
+NP	Kb
+rZz	PrZ
+TkvK	zTkv
+rZz	PrZ
+bd	dN
+NP	dN
+rZz	PrZ
+bd	dN
+NP	Kb
+rZz	PrZ
+NP	Kb
+bd	dN
+TkvK	zTkv
+bd	Kb
+rZz	PrZ
+TkvK	zTkv
+rZz	PrZ

@@ -1,0 +1,41 @@
+Lexicon: mT	Bpg	LlPR	Zn	Kkf	
+
+Training Sentences:
+mTLlPRBpgKkf
+ZnmTLlPRKkf
+KkfLlPRmTZn
+BpgLlPRmTZn
+LlPRBpgKkfZn
+BpgmTKkfZn
+
+Test Items:
+Kkf	TBp
+mT	fm
+Kkf	TBp
+Bpg	nKk
+LlPR	gLlP
+Zn	fm
+mT	RZ
+Bpg	TBp
+Zn	fm
+Bpg	TBp
+LlPR	gLlP
+mT	RZ
+Bpg	nKk
+mT	RZ
+Kkf	TBp
+Zn	fm
+Kkf	TBp
+mT	RZ
+LlPR	gLlP
+Zn	fm
+Bpg	TBp
+Zn	fm
+mT	RZ
+Zn	fm
+LlPR	gLlP
+Kkf	nKk
+mT	fm
+Bpg	TBp
+LlPR	gLlP
+mT	fm

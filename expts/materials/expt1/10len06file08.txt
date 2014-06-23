@@ -1,0 +1,41 @@
+Lexicon: tuzu	gupA	bizidu	kipiti	vAgilukA	bAdAlAvu	
+
+Training Sentences:
+bizidukipitibAdAlAvugupAvAgilukAtuzu
+bizidutuzubAdAlAvugupAvAgilukAkipiti
+kipitivAgilukAgupAbizidutuzubAdAlAvu
+tuzubizidubAdAlAvuvAgilukAgupAkipiti
+tuzugupAvAgilukAbizidubAdAlAvukipiti
+gupAbAdAlAvukipitivAgilukAtuzubizidu
+
+Test Items:
+gupA	uzug
+bizidu	upAbiz
+kipiti	idukip
+gupA	Avut
+kipiti	idukip
+bizidu	upAbiz
+gupA	Avut
+vAgilukA	itivAgil
+bAdAlAvu	ukAbAdAl
+bizidu	idukip
+gupA	uzug
+kipiti	upAbiz
+tuzu	Avut
+kipiti	upAbiz
+vAgilukA	itivAgil
+kipiti	idukip
+gupA	Avut
+kipiti	upAbiz
+tuzu	Avut
+gupA	uzug
+bAdAlAvu	itivAgil
+tuzu	uzug
+vAgilukA	ukAbAdAl
+kipiti	idukip
+gupA	uzug
+kipiti	upAbiz
+vAgilukA	ukAbAdAl
+gupA	Avut
+kipiti	idukip
+gupA	Avut

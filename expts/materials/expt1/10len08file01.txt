@@ -1,0 +1,40 @@
+Lexicon: kAvu	pAgi	bAtilu	dAziki	bipitugu	lAvAduzu	
+
+Training Sentences:
+lAvAduzudAzikibipitugupAgilAvAduzukAvudAzikipAgi
+bAtilukAvudAzikikAvulAvAduzudAzikilAvAduzubAtilu
+bipitugupAgibipitugupAgilAvAduzukAvubAtiludAziki
+kAvubAtilubipitugupAgibipitugupAgidAzikilAvAduzu
+kAvubipitugulAvAduzubAtilupAgikAvubAtiludAziki
+
+Test Items:
+dAziki	iludAz
+kAvu	Avup
+bipitugu	ugulAvAd
+bAtilu	AgibAt
+dAziki	iludAz
+lAvAduzu	ikibipit
+dAziki	iludAz
+bipitugu	ikibipit
+dAziki	AgibAt
+bAtilu	iludAz
+pAgi	Avup
+bAtilu	iludAz
+kAvu	uzuk
+bAtilu	iludAz
+kAvu	Avup
+pAgi	Avup
+lAvAduzu	ikibipit
+kAvu	uzuk
+bipitugu	ikibipit
+bAtilu	AgibAt
+bipitugu	ugulAvAd
+bAtilu	iludAz
+kAvu	Avup
+pAgi	Avup
+dAziki	iludAz
+bAtilu	AgibAt
+kAvu	uzuk
+bipitugu	ikibipit
+bAtilu	iludAz
+dAziki	AgibAt

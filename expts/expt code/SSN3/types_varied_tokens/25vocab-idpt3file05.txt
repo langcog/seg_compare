@@ -1,0 +1,60 @@
+Lexicon: Vg	Klm	kRJv	
+
+Training Sentences:
+VgKlmkRJvVg
+VgkRJvVgKlm
+KlmkRJvKlmkRJv
+kRJvKlmkRJvVg
+kRJvVgKlmVg
+kRJvKlmVgKlm
+kRJvKlmVgkRJv
+KlmVgKlmVg
+kRJvVgKlmkRJv
+kRJvVgKlmVg
+kRJvKlmVgKlm
+VgKlmVgkRJv
+VgKlmVgkRJv
+kRJvKlmVgkRJv
+VgkRJvKlmVg
+KlmVgkRJvVg
+KlmkRJvKlmVg
+KlmVgKlmVg
+KlmkRJvKlmkRJv
+kRJvVgkRJvVg
+VgKlmkRJvKlm
+VgKlmkRJvKlm
+kRJvVgKlmkRJv
+KlmkRJvKlmkRJv
+VgKlmkRJvVg
+
+Test Items:
+kRJv	mkRJ
+Klm	gKl
+Vg	vV
+kRJv	mkRJ
+Vg	vV
+Klm	gKl
+Vg	vV
+kRJv	mkRJ
+Vg	vV
+kRJv	mkRJ
+Vg	vV
+Klm	gKl
+Vg	vV
+kRJv	mkRJ
+Vg	vV
+kRJv	mkRJ
+Klm	gKl
+kRJv	mkRJ
+Klm	gKl
+kRJv	mkRJ
+Vg	vV
+kRJv	mkRJ
+Klm	gKl
+kRJv	mkRJ
+Klm	gKl
+Vg	vV
+kRJv	mkRJ
+Vg	vV
+Klm	gKl
+Vg	vV

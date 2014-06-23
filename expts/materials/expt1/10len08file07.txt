@@ -1,0 +1,40 @@
+Lexicon: lAti	gibi	vAdukA	bAlupA	kizidAgu	zuvutupi	
+
+Training Sentences:
+gibilAtigibivAdukAkizidAgubAlupAzuvutupivAdukA
+zuvutupigibizuvutupilAtibAlupAlAtibAlupAgibi
+zuvutupibAlupAlAtikizidAgugibibAlupAkizidAguzuvutupi
+kizidAgubAlupAgibizuvutupikizidAguzuvutupibAlupAvAdukA
+vAdukAkizidAguvAdukAlAtikizidAgugibilAtivAdukA
+
+Test Items:
+vAdukA	ibivAd
+zuvutupi	upAkizid
+vAdukA	ibivAd
+bAlupA	ukAbAl
+kizidAgu	upAkizid
+lAti	upil
+gibi	upil
+zuvutupi	Aguzuvut
+bAlupA	ibivAd
+lAti	upil
+kizidAgu	upAkizid
+lAti	Atig
+kizidAgu	upAkizid
+lAti	upil
+bAlupA	ibivAd
+kizidAgu	upAkizid
+vAdukA	ibivAd
+bAlupA	ukAbAl
+lAti	upil
+bAlupA	ukAbAl
+gibi	upil
+lAti	Atig
+zuvutupi	upAkizid
+lAti	Atig
+kizidAgu	upAkizid
+lAti	Atig
+kizidAgu	upAkizid
+lAti	upil
+bAlupA	ibivAd
+gibi	upil

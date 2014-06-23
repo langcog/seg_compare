@@ -1,0 +1,60 @@
+Lexicon: NF	zgd	ltTB	
+
+Training Sentences:
+zgdNFltTBNF
+ltTBNFzgdNF
+NFzgdNFzgd
+ltTBzgdNFzgd
+NFzgdltTBNF
+ltTBNFzgdNF
+ltTBNFzgdltTB
+ltTBzgdltTBzgd
+NFltTBNFltTB
+zgdNFzgdltTB
+zgdNFzgdltTB
+NFltTBzgdNF
+ltTBNFltTBNF
+ltTBNFltTBNF
+ltTBzgdltTBzgd
+zgdltTBzgdltTB
+ltTBzgdltTBNF
+ltTBNFltTBNF
+ltTBNFzgdNF
+NFltTBzgdNF
+zgdNFltTBNF
+ltTBzgdltTBzgd
+zgdltTBNFzgd
+zgdNFzgdltTB
+zgdltTBzgdNF
+
+Test Items:
+NF	BN
+ltTB	dltT
+zgd	Fzg
+ltTB	dltT
+zgd	Fzg
+NF	BN
+zgd	Fzg
+NF	BN
+ltTB	dltT
+NF	BN
+ltTB	dltT
+NF	BN
+zgd	Fzg
+ltTB	dltT
+NF	BN
+zgd	Fzg
+ltTB	dltT
+zgd	Fzg
+NF	BN
+zgd	Fzg
+ltTB	dltT
+NF	BN
+zgd	Fzg
+NF	BN
+ltTB	dltT
+NF	BN
+ltTB	dltT
+NF	BN
+zgd	Fzg
+ltTB	dltT

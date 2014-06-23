@@ -1,0 +1,115 @@
+Lexicon: dApi	kAlu	tivAdu	bAguvu	pAzutulA	gikibizi	
+
+Training Sentences:
+tivAdukAlupAzutulAgikibizi
+tivAdudApipAzutulAkAlu
+pAzutulAdApibAguvugikibizi
+pAzutulAbAguvudApigikibizi
+bAguvukAlutivAdugikibizi
+dApikAlutivAdupAzutulA
+gikibizitivAdubAguvukAlu
+dApigikibizitivAdupAzutulA
+bAguvudApipAzutulAtivAdu
+bAguvukAlugikibizidApi
+
+Test Items:
+kAlu	izid
+bAguvu	AdubAg
+pAzutulA	ulAgikib
+tivAdu	Alutiv
+dApi	Apik
+tivAdu	AdubAg
+pAzutulA	uvupAzut
+gikibizi	ulAgikib
+pAzutulA	uvupAzut
+tivAdu	AdubAg
+kAlu	Apik
+gikibizi	uvupAzut
+kAlu	Apik
+dApi	izid
+bAguvu	AdubAg
+tivAdu	Alutiv
+bAguvu	AdubAg
+pAzutulA	ulAgikib
+tivAdu	AdubAg
+dApi	izid
+tivAdu	Alutiv
+dApi	izid
+bAguvu	AdubAg
+pAzutulA	ulAgikib
+kAlu	Apik
+bAguvu	Alutiv
+pAzutulA	ulAgikib
+gikibizi	uvupAzut
+kAlu	Apik
+dApi	izid
+tivAdu	Alutiv
+pAzutulA	uvupAzut
+gikibizi	ulAgikib
+bAguvu	Alutiv
+gikibizi	uvupAzut
+dApi	izid
+gikibizi	ulAgikib
+pAzutulA	uvupAzut
+dApi	Apik
+pAzutulA	ulAgikib
+gikibizi	uvupAzut
+bAguvu	AdubAg
+gikibizi	ulAgikib
+tivAdu	AdubAg
+dApi	Apik
+tivAdu	Alutiv
+kAlu	izid
+tivAdu	AdubAg
+bAguvu	Alutiv
+gikibizi	ulAgikib
+tivAdu	AdubAg
+bAguvu	AdubAg
+pAzutulA	uvupAzut
+bAguvu	Alutiv
+dApi	izid
+bAguvu	AdubAg
+gikibizi	uvupAzut
+pAzutulA	ulAgikib
+tivAdu	AdubAg
+bAguvu	AdubAg
+pAzutulA	uvupAzut
+gikibizi	uvupAzut
+tivAdu	Alutiv
+bAguvu	AdubAg
+tivAdu	Alutiv
+dApi	izid
+gikibizi	ulAgikib
+kAlu	Apik
+tivAdu	AdubAg
+pAzutulA	uvupAzut
+dApi	izid
+kAlu	Apik
+pAzutulA	ulAgikib
+tivAdu	Alutiv
+gikibizi	uvupAzut
+pAzutulA	ulAgikib
+tivAdu	AdubAg
+bAguvu	Alutiv
+dApi	Apik
+gikibizi	uvupAzut
+bAguvu	Alutiv
+dApi	izid
+gikibizi	ulAgikib
+dApi	izid
+tivAdu	Alutiv
+bAguvu	Alutiv
+dApi	Apik
+gikibizi	ulAgikib
+kAlu	Apik
+tivAdu	AdubAg
+bAguvu	Alutiv
+dApi	Apik
+gikibizi	ulAgikib
+tivAdu	Alutiv
+pAzutulA	uvupAzut
+gikibizi	ulAgikib
+tivAdu	AdubAg
+gikibizi	uvupAzut
+tivAdu	AdubAg
+pAzutulA	ulAgikib

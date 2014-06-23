@@ -1,0 +1,36 @@
+Lexicon: dAbA	kibi	givudu	tuvAgu	pAzuluti	kAzipilA	
+
+Training Sentences:
+kAzipilAdAbApAzulutituvAgukibidAbAgivudutuvAgupAzulutikAzipilAtuvAgukibituvAgudAbAkAzipilAgivududAbAgivudupAzulutikibigivudupAzulutikibikAzipilA
+
+Test Items:
+tuvAgu	ibigiv
+dAbA	ilAd
+pAzuluti	AgupAzul
+kibi	AbAk
+givudu	udutuv
+pAzuluti	utikAzip
+tuvAgu	ibigiv
+pAzuluti	utikAzip
+givudu	ibigiv
+pAzuluti	AgupAzul
+tuvAgu	udutuv
+kAzipilA	AgupAzul
+tuvAgu	ibigiv
+givudu	udutuv
+kibi	AbAk
+givudu	udutuv
+kibi	ilAd
+pAzuluti	AgupAzul
+dAbA	AbAk
+kibi	ilAd
+dAbA	AbAk
+givudu	ibigiv
+kibi	ilAd
+tuvAgu	udutuv
+givudu	ibigiv
+tuvAgu	ibigiv
+kibi	ilAd
+givudu	ibigiv
+tuvAgu	udutuv
+pAzuluti	AgupAzul

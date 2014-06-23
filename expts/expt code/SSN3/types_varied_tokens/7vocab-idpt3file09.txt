@@ -1,0 +1,42 @@
+Lexicon: kt	PLB	Npfb	
+
+Training Sentences:
+NpfbPLBktNpfb
+PLBNpfbktNpfb
+ktPLBktPLB
+PLBktPLBNpfb
+NpfbktNpfbkt
+ktNpfbPLBNpfb
+ktNpfbPLBkt
+
+Test Items:
+PLB	tPL
+Npfb	BNpf
+kt	bk
+PLB	tPL
+Npfb	BNpf
+kt	bk
+Npfb	BNpf
+kt	bk
+Npfb	BNpf
+kt	bk
+Npfb	BNpf
+PLB	tPL
+Npfb	BNpf
+kt	bk
+PLB	tPL
+kt	bk
+Npfb	BNpf
+PLB	tPL
+Npfb	BNpf
+PLB	tPL
+Npfb	BNpf
+kt	bk
+Npfb	BNpf
+kt	bk
+PLB	tPL
+Npfb	BNpf
+PLB	tPL
+Npfb	BNpf
+kt	bk
+PLB	tPL

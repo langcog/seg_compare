@@ -1,0 +1,45 @@
+Lexicon: tudA	lupi	vAlAdu	tigivu	kAkibApA	ziguzubi	
+
+Training Sentences:
+tigivutudAlupikAkibApA
+tigivuziguzubikAkibApAvAlAdu
+ziguzubivAlAdukAkibApAtigivu
+lupitigivukAkibApAvAlAdu
+lupitudAtigivuziguzubi
+tudAlupivAlAduziguzubi
+tudAvAlAdulupikAkibApA
+kAkibApAziguzubilupivAlAdu
+kAkibApAlupitudAvAlAdu
+tigivuziguzubitudAziguzubi
+
+Test Items:
+ziguzubi	ivukAkib
+lupi	udAl
+tigivu	upivAl
+kAkibApA	ApAziguz
+lupi	ubit
+ziguzubi	ApAziguz
+kAkibApA	ivukAkib
+tudA	ubit
+tigivu	upivAl
+lupi	udAl
+ziguzubi	ApAziguz
+vAlAdu	Adutig
+tigivu	upivAl
+ziguzubi	ivukAkib
+tigivu	Adutig
+tudA	udAl
+kAkibApA	ApAziguz
+tudA	udAl
+tigivu	upivAl
+ziguzubi	ivukAkib
+lupi	udAl
+tudA	ubit
+kAkibApA	ApAziguz
+tigivu	upivAl
+kAkibApA	ivukAkib
+ziguzubi	ApAziguz
+kAkibApA	ivukAkib
+ziguzubi	ApAziguz
+lupi	udAl
+tudA	ubit

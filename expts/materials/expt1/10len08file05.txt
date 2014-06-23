@@ -1,0 +1,40 @@
+Lexicon: zupi	zitu	bigugi	luduti	dAvubAlA	kipAvAkA	
+
+Training Sentences:
+zupizituludutibigugizupibigugizitukipAvAkA
+zupidAvubAlAkipAvAkAludutidAvubAlAludutibigugizupi
+kipAvAkAzitukipAvAkAludutidAvubAlAludutidAvubAlAbigugi
+kipAvAkAdAvubAlAzituludutikipAvAkAzupibigugizupi
+bigugizitudAvubAlAzupiludutidAvubAlAbigugizitu
+
+Test Items:
+dAvubAlA	utidAvub
+kipAvAkA	AlAkipAv
+zupi	AkAz
+zitu	upiz
+zupi	upiz
+zitu	AkAz
+bigugi	ugilud
+zitu	upiz
+zupi	AkAz
+luduti	ugilud
+zitu	AkAz
+bigugi	itubig
+zupi	AkAz
+zitu	upiz
+dAvubAlA	AlAkipAv
+zupi	AkAz
+luduti	ugilud
+bigugi	itubig
+dAvubAlA	utidAvub
+bigugi	ugilud
+luduti	itubig
+zitu	upiz
+bigugi	ugilud
+luduti	itubig
+kipAvAkA	utidAvub
+bigugi	ugilud
+zupi	upiz
+luduti	itubig
+dAvubAlA	AlAkipAv
+kipAvAkA	utidAvub

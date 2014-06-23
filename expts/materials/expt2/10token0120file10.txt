@@ -1,0 +1,65 @@
+Lexicon: vukA	pitu	tibAdu	zuzipA	gudAlAbi	kigiluvA	
+
+Training Sentences:
+zuzipAvukAkigiluvAtibAdu
+vukApituzuzipAgudAlAbi
+tibAdukigiluvAgudAlAbizuzipA
+kigiluvAzuzipAtibAdugudAlAbi
+gudAlAbivukAtibAduzuzipA
+tibAduzuzipAgudAlAbipitu
+zuzipAkigiluvApitugudAlAbi
+zuzipAvukAkigiluvAgudAlAbi
+zuzipAgudAlAbivukAtibAdu
+vukAgudAlAbizuzipAkigiluvA
+pituvukAzuzipAkigiluvA
+pitutibAduvukAkigiluvA
+gudAlAbizuzipAvukApitu
+kigiluvAzuzipAtibAdupitu
+pitutibAdugudAlAbikigiluvA
+zuzipAtibAduvukAkigiluvA
+tibAduvukAgudAlAbizuzipA
+vukAgudAlAbipitutibAdu
+kigiluvAzuzipApitutibAdu
+gudAlAbizuzipApituvukA
+pitugudAlAbikigiluvAtibAdu
+kigiluvAzuzipApitutibAdu
+vukAtibAdupitugudAlAbi
+kigiluvApitugudAlAbizuzipA
+pituvukAgudAlAbitibAdu
+pituvukAkigiluvAtibAdu
+kigiluvAvukAtibAdugudAlAbi
+zuzipAkigiluvApituvukA
+kigiluvAvukAtibAdupitu
+kigiluvAvukApitugudAlAbi
+
+Test Items:
+pitu	ukAp
+kigiluvA	Abikigil
+vukA	ukAp
+kigiluvA	ipAgudAl
+gudAlAbi	ipAgudAl
+tibAdu	itutib
+gudAlAbi	Abikigil
+vukA	ukAp
+pitu	uvAv
+kigiluvA	Abikigil
+pitu	ukAp
+kigiluvA	ipAgudAl
+vukA	uvAv
+gudAlAbi	ipAgudAl
+pitu	uvAv
+gudAlAbi	ipAgudAl
+zuzipA	Aduzuz
+tibAdu	itutib
+kigiluvA	ipAgudAl
+tibAdu	itutib
+pitu	ukAp
+vukA	ukAp
+kigiluvA	Abikigil
+vukA	ukAp
+zuzipA	itutib
+kigiluvA	ipAgudAl
+vukA	uvAv
+pitu	ukAp
+kigiluvA	ipAgudAl
+tibAdu	itutib

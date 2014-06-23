@@ -1,0 +1,185 @@
+Lexicon: fK	gpB	PrTM	nL	DNm	
+
+Training Sentences:
+nLPrTMgpBDNm
+nLgpBDNmPrTM
+fKDNmnLPrTM
+DNmPrTMfKnL
+DNmnLgpBfK
+gpBfKPrTMnL
+DNmPrTMgpBfK
+DNmgpBfKnL
+nLgpBfKPrTM
+PrTMgpBnLfK
+gpBPrTMfKDNm
+DNmfKnLgpB
+PrTMfKnLDNm
+PrTMgpBfKnL
+nLDNmPrTMfK
+nLfKDNmPrTM
+fKnLgpBPrTM
+gpBDNmPrTMnL
+DNmgpBPrTMfK
+nLDNmgpBfK
+PrTMgpBDNmnL
+PrTMgpBDNmfK
+fKnLDNmgpB
+nLPrTMfKDNm
+PrTMfKgpBnL
+fKnLDNmgpB
+DNmfKPrTMgpB
+fKPrTMgpBnL
+nLPrTMfKDNm
+gpBPrTMnLfK
+nLDNmfKgpB
+gpBnLfKDNm
+nLfKPrTMgpB
+nLDNmPrTMgpB
+gpBPrTMDNmnL
+nLfKDNmPrTM
+nLfKDNmgpB
+nLfKPrTMgpB
+DNmgpBPrTMnL
+nLDNmfKgpB
+PrTMfKgpBDNm
+PrTMDNmgpBfK
+PrTMgpBnLfK
+DNmnLfKgpB
+DNmPrTMgpBfK
+PrTMDNmgpBnL
+DNmPrTMgpBnL
+PrTMnLfKDNm
+DNmfKPrTMnL
+DNmfKgpBnL
+DNmnLgpBPrTM
+DNmPrTMnLfK
+DNmnLPrTMgpB
+PrTMnLDNmfK
+PrTMnLgpBfK
+gpBnLfKPrTM
+fKDNmPrTMnL
+nLgpBPrTMfK
+gpBnLPrTMfK
+gpBnLfKDNm
+fKgpBnLDNm
+PrTMDNmfKnL
+nLfKPrTMgpB
+nLfKPrTMDNm
+PrTMDNmnLgpB
+DNmPrTMnLfK
+nLDNmgpBfK
+nLgpBDNmPrTM
+DNmfKnLPrTM
+fKPrTMnLDNm
+DNmfKgpBPrTM
+fKPrTMDNmgpB
+PrTMnLfKgpB
+fKDNmPrTMnL
+gpBfKDNmPrTM
+PrTMfKgpBnL
+nLfKDNmPrTM
+nLfKgpBDNm
+fKDNmPrTMgpB
+PrTMDNmfKnL
+DNmPrTMgpBnL
+gpBnLDNmfK
+DNmgpBnLfK
+nLDNmPrTMgpB
+fKnLgpBPrTM
+gpBnLPrTMfK
+fKgpBPrTMDNm
+gpBDNmPrTMnL
+fKgpBnLPrTM
+gpBPrTMfKDNm
+nLPrTMgpBfK
+fKPrTMnLgpB
+PrTMnLfKDNm
+fKgpBDNmPrTM
+fKPrTMDNmgpB
+gpBDNmnLfK
+gpBnLPrTMDNm
+PrTMnLDNmgpB
+gpBnLDNmPrTM
+PrTMgpBfKDNm
+fKgpBnLPrTM
+PrTMDNmfKgpB
+nLDNmfKgpB
+gpBPrTMnLfK
+nLfKPrTMDNm
+fKPrTMnLDNm
+DNmgpBPrTMfK
+PrTMfKDNmgpB
+gpBDNmnLfK
+nLfKgpBPrTM
+PrTMDNmfKgpB
+fKnLPrTMgpB
+DNmPrTMgpBnL
+PrTMDNmnLfK
+DNmnLPrTMgpB
+nLDNmPrTMgpB
+gpBDNmPrTMnL
+PrTMnLDNmgpB
+fKDNmPrTMgpB
+DNmfKPrTMnL
+fKnLPrTMgpB
+nLfKPrTMDNm
+fKgpBPrTMnL
+fKgpBPrTMDNm
+gpBfKDNmPrTM
+gpBDNmfKPrTM
+gpBPrTMfKnL
+nLDNmPrTMfK
+PrTMfKDNmgpB
+fKPrTMgpBDNm
+DNmgpBnLPrTM
+fKPrTMgpBnL
+gpBfKDNmnL
+nLfKDNmgpB
+nLfKgpBDNm
+gpBPrTMnLDNm
+DNmnLgpBPrTM
+DNmPrTMgpBnL
+DNmnLgpBfK
+nLfKgpBDNm
+nLfKDNmgpB
+fKgpBnLDNm
+PrTMfKDNmgpB
+DNmPrTMfKgpB
+PrTMfKDNmgpB
+nLDNmgpBfK
+nLgpBfKDNm
+DNmPrTMnLfK
+DNmnLPrTMgpB
+PrTMDNmnLDNm
+
+Test Items:
+PrTM	BPrT
+DNm	LDN
+PrTM	BPrT
+DNm	LDN
+PrTM	BPrT
+DNm	Kgp
+fK	mf
+nL	Mn
+fK	mf
+nL	Mn
+DNm	Kgp
+fK	Mn
+gpB	Kgp
+PrTM	BPrT
+DNm	Kgp
+PrTM	BPrT
+nL	Mn
+DNm	LDN
+fK	mf
+gpB	Kgp
+PrTM	BPrT
+DNm	LDN
+PrTM	BPrT
+fK	Mn
+gpB	LDN
+fK	mf
+DNm	Kgp
+gpB	Kgp
+DNm	LDN
+gpB	Kgp

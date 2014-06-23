@@ -1,0 +1,110 @@
+Lexicon: gz	PG	kZd	bTV	BplL	KDtv	
+
+Training Sentences:
+KDtvgzkZdgzbTVKDtvbTVPG
+kZdgzBplLkZdKDtvPGbTVPG
+bTVPGgzkZdbTVPGKDtvgz
+KDtvgzbTVBplLkZdPGbTVBplL
+gzbTVBplLkZdbTVBplLkZdgz
+KDtvbTVkZdBplLkZdPGKDtvBplL
+BplLkZdbTVKDtvPGbTVKDtvPG
+bTVPGKDtvbTVKDtvkZdgzBplL
+PGgzPGgzBplLKDtvBplLKDtv
+KDtvPGbTVBplLbTVkZdPGBplL
+KDtvkZdgzBplLPGgzBplLkZd
+bTVPGbTVKDtvkZdKDtvgzBplL
+bTVBplLPGbTVBplLgzPGkZd
+KDtvBplLkZdgzPGbTVPGBplL
+bTVgzBplLbTVBplLkZdgzKDtv
+KDtvkZdBplLkZdgzPGgzBplL
+bTVgzkZdKDtvPGgzkZdPG
+BplLKDtvbTVBplLkZdgzkZdbTV
+bTVPGbTVPGKDtvgzkZdKDtv
+gzKDtvPGgzPGkZdKDtvbTV
+kZdKDtvBplLPGKDtvBplLgzbTV
+gzKDtvPGbTVPGkZdBplLKDtv
+gzkZdKDtvbTVkZdPGgzBplL
+kZdKDtvBplLgzPGbTVKDtvkZd
+kZdBplLgzkZdbTVKDtvbTVKDtv
+bTVKDtvPGbTVgzPGgzBplL
+KDtvPGgzbTVgzbTVBplLKDtv
+kZdbTVPGKDtvPGkZdBplLbTV
+BplLkZdgzkZdPGKDtvBplLgz
+gzKDtvkZdBplLbTVPGgzBplL
+BplLgzPGbTVPGBplLgzbTV
+kZdBplLKDtvgzbTVKDtvBplLkZd
+kZdbTVKDtvPGbTVBplLPGkZd
+KDtvbTVkZdPGgzbTVgzkZd
+gzPGbTVPGgzbTVBplLKDtv
+kZdKDtvBplLkZdbTVgzBplLPG
+gzbTVkZdgzKDtvkZdPGBplL
+BplLkZdKDtvbTVkZdBplLKDtvgz
+bTVBplLkZdPGKDtvgzKDtvbTV
+BplLbTVPGkZdgzBplLPGkZd
+PGKDtvgzbTVkZdgzPGkZd
+KDtvgzkZdgzPGKDtvBplLbTV
+BplLbTVkZdBplLPGKDtvPGbTV
+KDtvbTVBplLKDtvgzPGBplLPG
+BplLKDtvgzkZdKDtvBplLPGbTV
+KDtvkZdgzPGBplLkZdPGbTV
+PGbTVgzbTVKDtvkZdBplLkZd
+bTVgzbTVgzBplLKDtvPGkZd
+bTVgzKDtvPGBplLgzBplLKDtv
+bTVBplLgzbTVBplLgzPGkZd
+KDtvbTVKDtvBplLPGkZdbTVgz
+PGgzKDtvbTVgzKDtvbTVkZd
+kZdgzkZdbTVgzKDtvBplLbTV
+kZdgzKDtvBplLkZdKDtvbTVBplL
+PGgzkZdbTVBplLKDtvgzkZd
+gzPGBplLgzPGkZdBplLbTV
+PGbTVgzkZdKDtvbTVgzBplL
+KDtvBplLPGKDtvgzPGkZdgz
+BplLPGBplLgzkZdKDtvkZdKDtv
+BplLbTVkZdBplLKDtvPGKDtvPG
+gzBplLgzbTVPGbTVKDtvPG
+bTVKDtvPGbTVkZdPGkZdBplL
+kZdbTVBplLPGkZdKDtvgzbTV
+KDtvbTVkZdKDtvBplLPGgzbTV
+PGkZdgzKDtvBplLKDtvgzBplL
+BplLKDtvkZdbTVKDtvkZdPGgz
+PGgzKDtvBplLkZdKDtvgzBplL
+PGbTVKDtvBplLKDtvgzbTVgz
+gzPGgzPGKDtvBplLbTVBplL
+PGbTVBplLgzPGKDtvbTVkZd
+BplLkZdgzBplLKDtvPGbTVPG
+KDtvPGkZdPGgzkZdbTVgz
+KDtvPGkZdKDtvPGkZdBplLgz
+BplLPGBplLPGkZdKDtvbTVkZd
+kZdPGBplLkZdPGBplLkZdkZd
+
+Test Items:
+PG	vg
+bTV	dbT
+kZd	dbT
+bTV	GkZ
+KDtv	VBpl
+gz	zP
+BplL	LKDt
+PG	zP
+bTV	GkZ
+BplL	LKDt
+KDtv	VBpl
+BplL	LKDt
+kZd	GkZ
+bTV	dbT
+gz	vg
+KDtv	LKDt
+bTV	dbT
+kZd	GkZ
+bTV	GkZ
+KDtv	VBpl
+bTV	GkZ
+gz	vg
+BplL	VBpl
+gz	vg
+BplL	VBpl
+gz	zP
+KDtv	LKDt
+PG	vg
+KDtv	VBpl
+PG	vg

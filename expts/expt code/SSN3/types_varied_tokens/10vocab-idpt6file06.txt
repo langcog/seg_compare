@@ -1,0 +1,45 @@
+Lexicon: vM	LfT	KtBF	ZR	gVd	pGbz	
+
+Training Sentences:
+gVdpGbzLfTZR
+pGbzKtBFLfTgVd
+pGbzvMgVdKtBF
+KtBFLfTpGbzvM
+gVdvMKtBFZR
+ZRLfTKtBFvM
+KtBFLfTvMpGbz
+LfTpGbzZRgVd
+pGbzZRgVdvM
+gVdLfTZRKtBF
+
+Test Items:
+KtBF	dpGb
+ZR	FZ
+pGbz	dpGb
+KtBF	TKtB
+ZR	FZ
+gVd	MLf
+ZR	zv
+pGbz	dpGb
+LfT	MLf
+vM	zv
+KtBF	TKtB
+ZR	zv
+gVd	MLf
+pGbz	TKtB
+KtBF	dpGb
+gVd	RgV
+pGbz	dpGb
+vM	FZ
+gVd	MLf
+pGbz	dpGb
+LfT	MLf
+pGbz	TKtB
+LfT	RgV
+gVd	RgV
+pGbz	TKtB
+ZR	FZ
+pGbz	dpGb
+KtBF	TKtB
+LfT	RgV
+KtBF	dpGb

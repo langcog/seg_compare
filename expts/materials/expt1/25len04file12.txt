@@ -1,0 +1,115 @@
+Lexicon: dAlA	kAdu	lupAvA	pitivu	gubAtuzu	zikibigi	
+
+Training Sentences:
+pitivugubAtuzulupAvAzikibigi
+kAdudAlAzikibigilupAvA
+dAlAzikibigikAdupitivu
+zikibigikAdudAlAgubAtuzu
+dAlAgubAtuzupitivukAdu
+pitivuzikibigidAlAlupAvA
+pitivugubAtuzulupAvAzikibigi
+kAdulupAvAdAlApitivu
+gubAtuzulupAvAkAdudAlA
+lupAvApitivugubAtuzukAdu
+
+Test Items:
+kAdu	igid
+pitivu	AvApit
+lupAvA	Adulup
+dAlA	AlAk
+zikibigi	uzuzikib
+kAdu	AlAk
+gubAtuzu	ivugubAt
+pitivu	Adulup
+gubAtuzu	ivugubAt
+zikibigi	uzuzikib
+kAdu	igid
+lupAvA	AvApit
+gubAtuzu	ivugubAt
+pitivu	Adulup
+kAdu	AlAk
+lupAvA	AvApit
+gubAtuzu	ivugubAt
+lupAvA	Adulup
+dAlA	AlAk
+gubAtuzu	uzuzikib
+lupAvA	AvApit
+pitivu	Adulup
+gubAtuzu	ivugubAt
+lupAvA	AvApit
+gubAtuzu	uzuzikib
+pitivu	Adulup
+zikibigi	uzuzikib
+dAlA	AlAk
+kAdu	AlAk
+pitivu	AvApit
+kAdu	igid
+lupAvA	AvApit
+gubAtuzu	uzuzikib
+dAlA	igid
+pitivu	Adulup
+gubAtuzu	ivugubAt
+lupAvA	Adulup
+pitivu	AvApit
+dAlA	AlAk
+gubAtuzu	uzuzikib
+lupAvA	Adulup
+gubAtuzu	uzuzikib
+lupAvA	Adulup
+zikibigi	ivugubAt
+gubAtuzu	uzuzikib
+kAdu	igid
+zikibigi	uzuzikib
+gubAtuzu	uzuzikib
+kAdu	AlAk
+pitivu	Adulup
+lupAvA	AvApit
+pitivu	Adulup
+zikibigi	uzuzikib
+gubAtuzu	ivugubAt
+dAlA	AlAk
+kAdu	AlAk
+pitivu	AvApit
+zikibigi	ivugubAt
+gubAtuzu	uzuzikib
+kAdu	AlAk
+gubAtuzu	ivugubAt
+dAlA	AlAk
+gubAtuzu	ivugubAt
+kAdu	AlAk
+pitivu	Adulup
+gubAtuzu	ivugubAt
+kAdu	AlAk
+dAlA	igid
+kAdu	AlAk
+gubAtuzu	ivugubAt
+lupAvA	Adulup
+gubAtuzu	ivugubAt
+zikibigi	uzuzikib
+pitivu	AvApit
+gubAtuzu	uzuzikib
+zikibigi	ivugubAt
+pitivu	AvApit
+zikibigi	uzuzikib
+kAdu	igid
+dAlA	AlAk
+pitivu	AvApit
+dAlA	AlAk
+zikibigi	ivugubAt
+kAdu	igid
+gubAtuzu	ivugubAt
+pitivu	AvApit
+zikibigi	uzuzikib
+dAlA	igid
+lupAvA	AvApit
+kAdu	igid
+zikibigi	uzuzikib
+kAdu	AlAk
+zikibigi	uzuzikib
+dAlA	AlAk
+gubAtuzu	ivugubAt
+pitivu	AvApit
+lupAvA	Adulup
+gubAtuzu	ivugubAt
+kAdu	AlAk
+gubAtuzu	uzuzikib

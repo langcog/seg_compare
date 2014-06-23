@@ -1,0 +1,42 @@
+Lexicon: NT	flG	PgpM	VL	DvK	rZFm	tb	JkR	Bdnz	
+
+Training Sentences:
+DvKflGJkRVL
+BdnzrZFmNTPgpM
+rZFmBdnztbVL
+PgpMNTtbrZFm
+DvKVLBdnzJkR
+flGVLNTDvK
+tbJkRflGrZFm
+
+Test Items:
+JkR	Tfl
+PgpM	KrZF
+flG	Tfl
+Bdnz	GPgp
+JkR	Tfl
+DvK	bJk
+PgpM	GPgp
+tb	MV
+Bdnz	GPgp
+PgpM	KrZF
+flG	Tfl
+tb	zN
+NT	MV
+flG	Tfl
+Bdnz	GPgp
+flG	bJk
+rZFm	RBdn
+tb	mt
+JkR	Tfl
+flG	bJk
+PgpM	KrZF
+JkR	Tfl
+NT	mt
+flG	bJk
+JkR	bJk
+flG	bJk
+rZFm	RBdn
+JkR	bJk
+NT	mt
+VL	MV

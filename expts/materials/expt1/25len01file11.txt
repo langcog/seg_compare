@@ -1,0 +1,145 @@
+Lexicon: zipi	lugi	tikivu	bAduvA	lAkAbizu	gudAtupA	
+
+Training Sentences:
+zipi
+gudAtupA
+bAduvA
+gudAtupA
+bAduvA
+zipi
+lAkAbizu
+tikivu
+lugi
+gudAtupA
+lugi
+bAduvA
+lAkAbizu
+bAduvA
+lAkAbizu
+zipi
+zipi
+tikivu
+tikivu
+lAkAbizu
+bAduvA
+lAkAbizu
+lugi
+zipi
+gudAtupA
+tikivu
+lugi
+gudAtupA
+tikivu
+gudAtupA
+bAduvA
+lugi
+lugi
+tikivu
+bAduvA
+lAkAbizu
+lAkAbizu
+zipi
+lugi
+zipi
+
+Test Items:
+gudAtupA	uvAlAkAb
+zipi	upAz
+gudAtupA	uvAlAkAb
+lugi	upAz
+tikivu	ivubAd
+lugi	ipil
+tikivu	ugitik
+lugi	ipil
+gudAtupA	uvAlAkAb
+tikivu	ivubAd
+lugi	ipil
+tikivu	ivubAd
+lAkAbizu	izugudAt
+gudAtupA	izugudAt
+zipi	upAz
+bAduvA	ugitik
+lAkAbizu	uvAlAkAb
+tikivu	ugitik
+lAkAbizu	izugudAt
+bAduvA	ugitik
+lugi	upAz
+lAkAbizu	uvAlAkAb
+bAduvA	ivubAd
+lAkAbizu	uvAlAkAb
+tikivu	ivubAd
+gudAtupA	uvAlAkAb
+bAduvA	ugitik
+lAkAbizu	izugudAt
+gudAtupA	uvAlAkAb
+lAkAbizu	izugudAt
+gudAtupA	uvAlAkAb
+bAduvA	ugitik
+lugi	ipil
+tikivu	ivubAd
+bAduvA	ugitik
+tikivu	ivubAd
+bAduvA	ugitik
+zipi	ipil
+lAkAbizu	izugudAt
+lugi	ipil
+bAduvA	ugitik
+gudAtupA	izugudAt
+bAduvA	ugitik
+gudAtupA	izugudAt
+zipi	upAz
+lAkAbizu	izugudAt
+zipi	upAz
+lugi	ipil
+tikivu	ugitik
+lAkAbizu	uvAlAkAb
+gudAtupA	izugudAt
+lAkAbizu	izugudAt
+lugi	ipil
+tikivu	ugitik
+gudAtupA	izugudAt
+lAkAbizu	uvAlAkAb
+lugi	ipil
+zipi	upAz
+tikivu	ugitik
+lAkAbizu	uvAlAkAb
+zipi	ipil
+bAduvA	ugitik
+zipi	upAz
+lugi	upAz
+lAkAbizu	izugudAt
+zipi	upAz
+gudAtupA	izugudAt
+tikivu	ugitik
+bAduvA	ivubAd
+tikivu	ugitik
+lugi	ipil
+bAduvA	ugitik
+tikivu	ivubAd
+zipi	upAz
+tikivu	ugitik
+lAkAbizu	uvAlAkAb
+tikivu	ugitik
+bAduvA	ivubAd
+tikivu	ugitik
+lAkAbizu	uvAlAkAb
+tikivu	ivubAd
+lAkAbizu	uvAlAkAb
+tikivu	ivubAd
+zipi	ipil
+gudAtupA	izugudAt
+tikivu	ugitik
+gudAtupA	izugudAt
+tikivu	ugitik
+zipi	ipil
+tikivu	ugitik
+bAduvA	ivubAd
+lugi	ipil
+tikivu	ugitik
+lugi	ipil
+lAkAbizu	izugudAt
+bAduvA	ugitik
+lAkAbizu	izugudAt
+tikivu	ivubAd
+gudAtupA	uvAlAkAb
+zipi	ipil

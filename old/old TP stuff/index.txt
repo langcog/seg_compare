@@ -1,0 +1,33 @@
+---
+saffran1996.txt
+
+Saffran, Aslin, Newport 1996 speech stream
+words: golabu, padoti, tupiro, bidaku
+
+test items
+words: tupiro, golabu
+non-words: dapiku, tilado
+part words: labupa, bakutu
+
+---
+aslin1998.txt
+
+Aslin, Saffran, Newport 1998 speech stream
+words: pabiku, tibudo, golatu, daropi
+
+test items
+words: pabiku, tibudo
+part words: tudaro pigola
+
+---
+saffran1996b.txt
+
+Saffran, Newport, & Aslin 1996b speech stream
+words: babupu, bupada, dutaba, patubi, pidabu, tutibu
+
+test items
+words: all of above
+part words: pidata, tutida, patuba, bitaba, bapada, pibupu 
+non-words: pitiba, bipapu, datuba, tadapa, tabapi, badabu
+                           tatuba, tadati, tabu
+(these distractors are made up by me, not listed in the paper) 

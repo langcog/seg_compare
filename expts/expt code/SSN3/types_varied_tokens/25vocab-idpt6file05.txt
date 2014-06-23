@@ -1,0 +1,60 @@
+Lexicon: Ml	bpf	BJzn	Zk	PGg	NmLR	
+
+Training Sentences:
+NmLRBJznMlPGg
+bpfBJznMlNmLR
+ZkBJznbpfPGg
+MlPGgNmLRBJzn
+MlbpfNmLRPGg
+PGgbpfZkNmLR
+bpfZkBJznMl
+BJznPGgNmLRMl
+bpfPGgBJznNmLR
+BJznNmLRMlZk
+NmLRBJznMlbpf
+MlBJznPGgZk
+BJznbpfZkPGg
+NmLRZkBJznbpf
+NmLRMlBJznbpf
+MlZkPGgNmLR
+MlZkbpfNmLR
+NmLRZkbpfPGg
+bpfMlPGgBJzn
+ZkPGgMlBJzn
+ZkNmLRMlbpf
+ZkbpfNmLRMl
+PGgZkNmLRMl
+PGgbpfZkBJzn
+PGgbpfBJznZk
+
+Test Items:
+Ml	RM
+BJzn	fBJz
+NmLR	gNmL
+PGg	lbp
+NmLR	fBJz
+BJzn	gNmL
+PGg	kPG
+NmLR	fBJz
+BJzn	fBJz
+PGg	kPG
+BJzn	fBJz
+Ml	RM
+Zk	nZ
+Ml	RM
+Zk	nZ
+PGg	kPG
+NmLR	gNmL
+bpf	kPG
+BJzn	gNmL
+PGg	kPG
+Ml	RM
+bpf	kPG
+Zk	RM
+NmLR	gNmL
+Ml	RM
+bpf	lbp
+BJzn	gNmL
+PGg	kPG
+BJzn	gNmL
+bpf	lbp

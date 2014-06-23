@@ -1,0 +1,42 @@
+Lexicon: Rz	DBl	rGtk	Fv	PML	fgnN	
+
+Training Sentences:
+PMLFvRzrGtk
+FvDBlRzfgnN
+rGtkFvfgnNPML
+DBlPMLrGtkRz
+rGtkPMLfgnNFv
+RzDBlfgnNrGtk
+DBlfgnNPMLRz
+
+Test Items:
+Fv	kF
+Rz	NR
+rGtk	Lfgn
+DBl	zDB
+Rz	kF
+rGtk	lrGt
+PML	vPM
+rGtk	Lfgn
+PML	vPM
+Fv	kF
+PML	zDB
+Rz	kF
+DBl	zDB
+rGtk	Lfgn
+fgnN	lrGt
+rGtk	Lfgn
+Rz	NR
+fgnN	lrGt
+rGtk	Lfgn
+DBl	vPM
+rGtk	lrGt
+Fv	NR
+PML	zDB
+rGtk	Lfgn
+DBl	zDB
+fgnN	lrGt
+rGtk	lrGt
+fgnN	Lfgn
+Fv	kF
+DBl	zDB

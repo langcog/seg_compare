@@ -1,0 +1,125 @@
+Lexicon: bApA	tulu	kidubi	pizugu	kAvAgidA	tizivulA	
+
+Training Sentences:
+tulupizugu
+tulupizugu
+tizivulAkAvAgidA
+bApAkAvAgidA
+kidubipizugu
+kidubitizivulA
+kAvAgidAtizivulA
+kAvAgidAtulu
+tulukidubi
+kidubipizugu
+kidubibApA
+tizivulAbApA
+pizugukidubi
+tizivulApizugu
+tizivulApizugu
+kAvAgidAkidubi
+kAvAgidAtulu
+tulukAvAgidA
+bApAtizivulA
+bApAtulu
+
+Test Items:
+pizugu	ubipiz
+kAvAgidA	idAtiziv
+kidubi	ulukid
+bApA	ApAt
+kidubi	ulukid
+tulu	ApAt
+bApA	ulAb
+pizugu	ubipiz
+bApA	ApAt
+tulu	ApAt
+pizugu	ubipiz
+bApA	ulAb
+kAvAgidA	ugukAvAg
+tizivulA	idAtiziv
+kidubi	ubipiz
+pizugu	ubipiz
+tizivulA	ugukAvAg
+kidubi	ubipiz
+bApA	ApAt
+kidubi	ubipiz
+bApA	ApAt
+tizivulA	idAtiziv
+pizugu	ubipiz
+kAvAgidA	idAtiziv
+pizugu	ulukid
+kAvAgidA	ugukAvAg
+tulu	ApAt
+kidubi	ubipiz
+pizugu	ulukid
+kidubi	ubipiz
+bApA	ulAb
+tulu	ApAt
+tizivulA	ugukAvAg
+pizugu	ubipiz
+tulu	ulAb
+tizivulA	ugukAvAg
+tulu	ulAb
+tizivulA	idAtiziv
+tulu	ApAt
+tizivulA	idAtiziv
+tulu	ulAb
+bApA	ApAt
+pizugu	ulukid
+tizivulA	ugukAvAg
+kAvAgidA	idAtiziv
+pizugu	ubipiz
+tizivulA	ugukAvAg
+kAvAgidA	idAtiziv
+kidubi	ubipiz
+pizugu	ulukid
+kAvAgidA	idAtiziv
+kidubi	ubipiz
+pizugu	ulukid
+kidubi	ulukid
+tizivulA	idAtiziv
+pizugu	ubipiz
+kAvAgidA	idAtiziv
+bApA	ulAb
+kAvAgidA	idAtiziv
+pizugu	ulukid
+bApA	ulAb
+tizivulA	ugukAvAg
+kAvAgidA	idAtiziv
+bApA	ulAb
+tulu	ApAt
+kAvAgidA	idAtiziv
+tulu	ApAt
+kidubi	ubipiz
+bApA	ApAt
+pizugu	ulukid
+tizivulA	idAtiziv
+kAvAgidA	ugukAvAg
+bApA	ApAt
+tizivulA	idAtiziv
+kAvAgidA	ugukAvAg
+pizugu	ubipiz
+kAvAgidA	idAtiziv
+bApA	ApAt
+kidubi	ubipiz
+kAvAgidA	idAtiziv
+pizugu	ulukid
+tulu	ApAt
+kidubi	ubipiz
+tizivulA	ugukAvAg
+kidubi	ulukid
+kAvAgidA	idAtiziv
+pizugu	ulukid
+kAvAgidA	ugukAvAg
+tulu	ApAt
+tizivulA	idAtiziv
+bApA	ulAb
+kidubi	ulukid
+pizugu	ubipiz
+tizivulA	ugukAvAg
+bApA	ApAt
+tizivulA	ugukAvAg
+pizugu	ulukid
+kAvAgidA	idAtiziv
+tulu	ApAt
+kAvAgidA	idAtiziv

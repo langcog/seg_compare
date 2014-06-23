@@ -1,0 +1,45 @@
+Lexicon: gr	LRv	JTnt	pZ	
+
+Training Sentences:
+pZgrJTntLRv
+grpZLRvJTnt
+pZJTntgrLRv
+grpZJTntLRv
+grJTntLRvpZ
+pZLRvJTntgr
+LRvgrpZJTnt
+LRvJTntpZgr
+pZgrJTntLRv
+JTntpZLRvgr
+
+Test Items:
+JTnt	vJTn
+gr	tp
+JTnt	vJTn
+LRv	rLR
+pZ	tp
+gr	Zg
+JTnt	vJTn
+LRv	rLR
+gr	tp
+pZ	Zg
+gr	tp
+pZ	tp
+JTnt	vJTn
+gr	Zg
+pZ	tp
+gr	tp
+LRv	rLR
+gr	tp
+JTnt	vJTn
+LRv	rLR
+JTnt	vJTn
+pZ	Zg
+JTnt	vJTn
+gr	Zg
+JTnt	vJTn
+LRv	rLR
+gr	tp
+JTnt	vJTn
+LRv	rLR
+pZ	tp

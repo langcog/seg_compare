@@ -1,0 +1,37 @@
+Lexicon: pibi	zitu	pAzudA	vuvAki	bAludugu	kAgitilA	
+
+Training Sentences:
+pibivuvAkikAgitilAbAludugupAzudAvuvAkipibibAludugupAzudAkAgitilAzituzitu
+pibibAludugupibibAluduguvuvAkizitupAzudAkAgitilAzituvuvAkikAgitilApAzudA
+
+Test Items:
+bAludugu	ugukAgit
+pibi	ibiz
+zitu	ilAp
+vuvAki	itupAz
+pibi	ilAp
+bAludugu	ugukAgit
+kAgitilA	ugukAgit
+pibi	ibiz
+bAludugu	AkibAlud
+pAzudA	itupAz
+vuvAki	udAvuv
+zitu	ibiz
+kAgitilA	AkibAlud
+pibi	ilAp
+pAzudA	itupAz
+pibi	ibiz
+zitu	ilAp
+pibi	ibiz
+kAgitilA	ugukAgit
+zitu	ibiz
+bAludugu	AkibAlud
+zitu	ibiz
+pibi	ilAp
+zitu	ibiz
+bAludugu	ugukAgit
+vuvAki	udAvuv
+kAgitilA	AkibAlud
+bAludugu	ugukAgit
+vuvAki	udAvuv
+bAludugu	ugukAgit

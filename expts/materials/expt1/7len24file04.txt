@@ -1,0 +1,36 @@
+Lexicon: gugi	dukA	bizitu	tizudA	bAlApivA	pAvukilu	
+
+Training Sentences:
+tizudApAvukilubAlApivApAvukiludukAbAlApivApAvukilutizudAdukAbAlApivAbizitubAlApivAdukAbizitupAvukilutizudAgugidukAgugibizitutizudAgugibizitugugi
+
+Test Items:
+bAlApivA	ivApAvuk
+tizudA	ukAbiz
+dukA	ilug
+bAlApivA	udAbAlAp
+gugi	ugid
+dukA	ilug
+pAvukilu	udAbAlAp
+bizitu	ukAbiz
+tizudA	itutiz
+gugi	ugid
+bAlApivA	udAbAlAp
+tizudA	ukAbiz
+bAlApivA	udAbAlAp
+tizudA	itutiz
+dukA	ugid
+gugi	ilug
+bizitu	itutiz
+dukA	ugid
+gugi	ugid
+dukA	ilug
+pAvukilu	ivApAvuk
+tizudA	ukAbiz
+gugi	ugid
+bizitu	itutiz
+pAvukilu	udAbAlAp
+tizudA	itutiz
+dukA	ugid
+bAlApivA	udAbAlAp
+gugi	ilug
+dukA	ugid

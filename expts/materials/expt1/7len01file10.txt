@@ -1,0 +1,63 @@
+Lexicon: dAzi	pApi	kAdulu	zubAlA	tubivAti	guvugiki	
+
+Training Sentences:
+kAdulu
+pApi
+guvugiki
+tubivAti
+tubivAti
+guvugiki
+dAzi
+zubAlA
+pApi
+kAdulu
+guvugiki
+kAdulu
+guvugiki
+zubAlA
+tubivAti
+guvugiki
+tubivAti
+dAzi
+kAdulu
+zubAlA
+dAzi
+dAzi
+pApi
+zubAlA
+pApi
+zubAlA
+dAzi
+pApi
+
+Test Items:
+guvugiki	AlAtubiv
+zubAlA	ApikAd
+guvugiki	AlAtubiv
+kAdulu	uluzub
+guvugiki	AlAtubiv
+zubAlA	uluzub
+dAzi	ikid
+tubivAti	AlAtubiv
+pApi	Azip
+tubivAti	AlAtubiv
+zubAlA	ApikAd
+dAzi	Azip
+kAdulu	uluzub
+dAzi	ikid
+guvugiki	AlAtubiv
+tubivAti	Atiguvug
+zubAlA	uluzub
+tubivAti	AlAtubiv
+kAdulu	ApikAd
+zubAlA	uluzub
+guvugiki	Atiguvug
+zubAlA	uluzub
+kAdulu	ApikAd
+dAzi	Azip
+guvugiki	Atiguvug
+dAzi	Azip
+tubivAti	AlAtubiv
+pApi	ikid
+dAzi	Azip
+tubivAti	Atiguvug

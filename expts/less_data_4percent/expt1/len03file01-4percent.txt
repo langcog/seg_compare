@@ -1,0 +1,73 @@
+Lexicon: kV	Pd	GtT	lKp	gLzZ	BvbD	
+
+Training Sentences:
+kVPdgLzZ
+kVgLzZGtT
+BvbDGtTkV
+PdgLzZlKp
+BvbDgLzZPd
+BvbDlKpkV
+lKpGtTPd
+GtTlKpBvbD
+
+Test Items:
+Pd	Dk
+lKp	TlK
+gLzZ	ZBvb
+BvbD	pgLz
+Pd	Dk
+kV	VP
+Pd	VP
+gLzZ	pgLz
+Pd	VP
+GtT	dGt
+lKp	TlK
+GtT	dGt
+lKp	TlK
+GtT	TlK
+kV	VP
+gLzZ	pgLz
+BvbD	ZBvb
+lKp	TlK
+gLzZ	ZBvb
+kV	Dk
+lKp	TlK
+kV	VP
+Pd	Dk
+lKp	TlK
+kV	Dk
+GtT	TlK
+BvbD	pgLz
+kV	Dk
+BvbD	pgLz
+gLzZ	ZBvb
+GtT	TlK
+kV	Dk
+Pd	VP
+gLzZ	ZBvb
+GtT	TlK
+kV	Dk
+Pd	VP
+gLzZ	ZBvb
+Pd	Dk
+gLzZ	pgLz
+BvbD	ZBvb
+Pd	VP
+lKp	TlK
+BvbD	ZBvb
+Pd	VP
+lKp	dGt
+BvbD	ZBvb
+lKp	dGt
+kV	VP
+lKp	TlK
+Pd	Dk
+GtT	dGt
+kV	Dk
+BvbD	ZBvb
+GtT	TlK
+gLzZ	pgLz
+BvbD	pgLz
+kV	Dk
+gLzZ	ZBvb
+kV	Dk

@@ -1,0 +1,38 @@
+Lexicon: bipA	kAzi	kibAvu	ludAgu	duzupivA	tugitilA	
+
+Training Sentences:
+duzupivAbipAtugitilAkibAvubipAkibAvukAziludAgu
+kAzibipAtugitilAkAziludAgubipAludAgutugitilA
+duzupivAkibAvubipAtugitilAkibAvukAziludAguduzupivA
+
+Test Items:
+tugitilA	Aguduzup
+ludAgu	Avulud
+kAzi	ilAb
+kibAvu	Azikib
+ludAgu	Avulud
+duzupivA	ivAtugit
+kibAvu	Azikib
+ludAgu	Avulud
+duzupivA	Aguduzup
+bipA	ipAk
+tugitilA	ivAtugit
+ludAgu	Azikib
+tugitilA	ivAtugit
+ludAgu	Azikib
+duzupivA	ivAtugit
+tugitilA	Aguduzup
+ludAgu	Avulud
+duzupivA	ivAtugit
+ludAgu	Azikib
+bipA	ipAk
+tugitilA	ivAtugit
+kibAvu	Azikib
+ludAgu	Avulud
+kibAvu	Azikib
+duzupivA	ivAtugit
+ludAgu	Avulud
+kibAvu	Azikib
+duzupivA	Aguduzup
+kAzi	ilAb
+tugitilA	ivAtugit

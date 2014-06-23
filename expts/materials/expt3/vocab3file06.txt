@@ -1,0 +1,185 @@
+Lexicon: rf	JLn	ltgB	
+
+Training Sentences:
+ltgBrfJLnrf
+JLnrfltgBJLn
+ltgBrfltgBrf
+ltgBrfltgBJLn
+ltgBJLnrfJLn
+JLnrfJLnltgB
+ltgBJLnltgBrf
+rfJLnrfltgB
+ltgBJLnltgBJLn
+ltgBJLnltgBrf
+rfltgBrfJLn
+JLnrfltgBrf
+rfJLnrfltgB
+ltgBrfJLnltgB
+JLnrfltgBrf
+ltgBJLnrfJLn
+rfltgBrfltgB
+ltgBrfJLnltgB
+rfltgBrfltgB
+ltgBJLnltgBJLn
+ltgBrfJLnltgB
+rfltgBJLnltgB
+rfltgBrfJLn
+JLnrfJLnltgB
+rfJLnltgBJLn
+JLnltgBrfJLn
+ltgBrfJLnrf
+rfJLnrfJLn
+rfltgBrfJLn
+JLnrfJLnltgB
+ltgBJLnltgBJLn
+rfltgBrfJLn
+JLnrfJLnrf
+ltgBrfltgBrf
+rfJLnltgBrf
+JLnltgBJLnltgB
+ltgBJLnltgBJLn
+rfJLnltgBrf
+JLnrfltgBrf
+JLnrfltgBrf
+ltgBrfltgBrf
+ltgBJLnrfltgB
+JLnrfltgBJLn
+ltgBJLnrfltgB
+ltgBJLnltgBJLn
+JLnrfltgBJLn
+rfJLnrfltgB
+ltgBJLnrfJLn
+ltgBJLnrfltgB
+ltgBJLnltgBJLn
+JLnltgBJLnrf
+rfJLnltgBrf
+ltgBrfltgBJLn
+ltgBJLnltgBrf
+JLnrfltgBrf
+JLnrfltgBrf
+ltgBJLnrfltgB
+ltgBJLnltgBrf
+JLnltgBJLnrf
+ltgBJLnltgBJLn
+rfJLnltgBrf
+JLnltgBrfltgB
+JLnltgBrfltgB
+JLnrfltgBrf
+ltgBrfltgBrf
+rfJLnrfJLn
+ltgBrfJLnrf
+ltgBJLnrfltgB
+ltgBJLnltgBJLn
+ltgBrfltgBrf
+rfJLnltgBJLn
+ltgBJLnrfltgB
+rfltgBrfltgB
+ltgBJLnrfJLn
+JLnrfJLnltgB
+rfltgBJLnrf
+JLnrfJLnltgB
+rfJLnltgBJLn
+rfltgBJLnrf
+ltgBrfltgBJLn
+rfJLnrfJLn
+rfJLnrfJLn
+rfJLnrfltgB
+JLnrfltgBrf
+JLnltgBJLnrf
+rfJLnltgBrf
+JLnrfltgBrf
+JLnrfltgBJLn
+ltgBrfltgBrf
+rfJLnrfltgB
+JLnltgBJLnrf
+rfltgBrfltgB
+JLnrfJLnrf
+JLnltgBJLnrf
+ltgBJLnrfltgB
+JLnltgBJLnltgB
+JLnrfltgBJLn
+rfJLnltgBrf
+rfJLnrfJLn
+ltgBrfJLnrf
+rfJLnltgBJLn
+JLnrfJLnltgB
+ltgBJLnrfJLn
+JLnltgBJLnltgB
+rfJLnltgBJLn
+rfJLnrfJLn
+rfJLnltgBJLn
+JLnltgBJLnltgB
+JLnltgBJLnrf
+JLnltgBrfJLn
+JLnrfltgBrf
+rfJLnrfJLn
+JLnrfJLnltgB
+rfltgBJLnltgB
+JLnrfJLnltgB
+JLnltgBJLnrf
+ltgBJLnrfltgB
+ltgBJLnltgBJLn
+JLnltgBJLnltgB
+rfltgBrfltgB
+JLnrfltgBrf
+JLnltgBrfltgB
+rfltgBJLnltgB
+ltgBJLnrfltgB
+JLnrfJLnltgB
+rfltgBrfJLn
+rfltgBrfltgB
+rfltgBrfJLn
+rfJLnltgBJLn
+JLnltgBJLnltgB
+JLnltgBrfJLn
+rfJLnrfltgB
+ltgBrfltgBrf
+ltgBJLnrfJLn
+JLnrfltgBrf
+ltgBrfJLnrf
+rfJLnltgBrf
+JLnrfltgBJLn
+JLnltgBrfltgB
+rfltgBJLnrf
+JLnltgBJLnrf
+ltgBJLnltgBrf
+rfJLnrfltgB
+rfltgBJLnltgB
+ltgBrfJLnrf
+JLnltgBJLnrf
+rfltgBJLnrf
+ltgBJLnrfltgB
+ltgBrfJLnltgB
+ltgBrfltgBrf
+
+Test Items:
+rf	Br
+ltgB	nltg
+JLn	fJL
+ltgB	nltg
+JLn	fJL
+rf	Br
+JLn	fJL
+ltgB	nltg
+rf	Br
+ltgB	nltg
+rf	Br
+JLn	fJL
+ltgB	nltg
+rf	Br
+ltgB	nltg
+JLn	fJL
+rf	Br
+JLn	fJL
+ltgB	nltg
+rf	Br
+JLn	fJL
+ltgB	nltg
+rf	Br
+JLn	fJL
+rf	Br
+JLn	fJL
+rf	Br
+ltgB	nltg
+JLn	fJL
+ltgB	nltg

@@ -1,0 +1,55 @@
+Lexicon: zidu	pAbA	lugikA	vutudA	tizulApi	kiguvAbi	
+
+Training Sentences:
+tizulApipAbA
+vutudAzidu
+ziduvutudA
+tizulApizidu
+lugikAtizulApi
+tizulApilugikA
+kiguvAbivutudA
+lugikApAbA
+kiguvAbipAbA
+vutudApAbA
+zidulugikA
+kiguvAbivutudA
+lugikAkiguvAbi
+vutudApAbA
+pAbAzidu
+lugikAkiguvAbi
+kiguvAbivutudA
+tizulApilugikA
+zidupAbA
+zidukiguvAbi
+
+Test Items:
+lugikA	ikAvut
+kiguvAbi	Apikiguv
+pAbA	idup
+kiguvAbi	Apikiguv
+vutudA	ikAvut
+lugikA	AbAlug
+kiguvAbi	udAtizul
+pAbA	idup
+tizulApi	udAtizul
+kiguvAbi	udAtizul
+vutudA	AbAlug
+zidu	idup
+vutudA	ikAvut
+tizulApi	udAtizul
+pAbA	Abiz
+vutudA	ikAvut
+pAbA	idup
+kiguvAbi	udAtizul
+vutudA	ikAvut
+lugikA	AbAlug
+pAbA	idup
+lugikA	AbAlug
+vutudA	ikAvut
+zidu	Abiz
+tizulApi	Apikiguv
+kiguvAbi	udAtizul
+zidu	idup
+vutudA	ikAvut
+pAbA	idup
+zidu	idup

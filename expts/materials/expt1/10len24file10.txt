@@ -1,0 +1,36 @@
+Lexicon: pivu	dAdu	zizubi	lulAgu	tutigikA	bAvApAki	
+
+Training Sentences:
+tutigikAbAvApAkilulAgubAvApAkilulAgudAdututigikAdAdututigikApivututigikAbAvApAkizizubipivululAguzizubidAduzizubilulAgupivuzizubidAdupivubAvApAki
+
+Test Items:
+dAdu	ivud
+zizubi	Aduziz
+lulAgu	ubilul
+pivu	Akip
+tutigikA	Agututig
+zizubi	Aduziz
+pivu	Akip
+tutigikA	Agututig
+zizubi	Aduziz
+lulAgu	Aduziz
+dAdu	Akip
+bAvApAki	ikAbAvAp
+dAdu	Akip
+pivu	Akip
+tutigikA	ikAbAvAp
+dAdu	Akip
+bAvApAki	Agututig
+dAdu	ivud
+tutigikA	Agututig
+lulAgu	ubilul
+tutigikA	ikAbAvAp
+bAvApAki	Agututig
+zizubi	ubilul
+dAdu	Akip
+bAvApAki	Agututig
+zizubi	Aduziz
+dAdu	ivud
+lulAgu	Aduziz
+tutigikA	ikAbAvAp
+bAvApAki	Agututig

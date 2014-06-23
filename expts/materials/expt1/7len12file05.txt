@@ -1,0 +1,37 @@
+Lexicon: pilu	vuti	bAzuki	gulAkA	pAtuduvA	gibizidA	
+
+Training Sentences:
+pAtuduvAgulAkApAtuduvAbAzukigibizidAvutigibizidApilugulAkAvutipilubAzuki
+bAzukigulAkApilugulAkApilubAzukigibizidApAtuduvAvutipAtuduvAvutigibizidA
+
+Test Items:
+gulAkA	utibAz
+vuti	iluv
+gulAkA	utibAz
+bAzuki	ukigul
+pAtuduvA	uvAgibiz
+gulAkA	utibAz
+gibizidA	AkApAtud
+gulAkA	utibAz
+vuti	iluv
+bAzuki	utibAz
+vuti	idAp
+pAtuduvA	uvAgibiz
+vuti	idAp
+gulAkA	ukigul
+bAzuki	ukigul
+vuti	idAp
+gulAkA	ukigul
+bAzuki	utibAz
+gibizidA	uvAgibiz
+bAzuki	utibAz
+gulAkA	ukigul
+pilu	idAp
+vuti	iluv
+gulAkA	utibAz
+pilu	idAp
+vuti	iluv
+gulAkA	ukigul
+pilu	iluv
+gibizidA	AkApAtud
+vuti	idAp

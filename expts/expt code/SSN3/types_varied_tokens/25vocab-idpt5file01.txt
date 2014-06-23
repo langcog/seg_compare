@@ -1,0 +1,60 @@
+Lexicon: ZT	KJz	Ggtb	Mr	dvN	
+
+Training Sentences:
+MrdvNGgtbZT
+KJzZTGgtbMr
+GgtbMrdvNKJz
+ZTMrdvNKJz
+GgtbdvNKJzMr
+dvNZTKJzGgtb
+KJzZTGgtbMr
+ZTKJzMrGgtb
+MrdvNZTKJz
+GgtbdvNZTKJz
+dvNKJzMrGgtb
+KJzMrZTdvN
+GgtbKJzdvNZT
+MrGgtbdvNKJz
+GgtbZTMrKJz
+dvNKJzMrZT
+GgtbdvNKJzZT
+GgtbdvNZTKJz
+ZTGgtbKJzdvN
+MrKJzdvNGgtb
+MrZTdvNGgtb
+GgtbMrZTdvN
+dvNZTKJzMr
+ZTMrGgtbdvN
+MrZTGgtbMr
+
+Test Items:
+dvN	TKJ
+Mr	NZ
+KJz	TKJ
+Ggtb	zGgt
+ZT	NZ
+Mr	bM
+dvN	TKJ
+Ggtb	zGgt
+dvN	rdv
+ZT	bM
+KJz	rdv
+Mr	NZ
+dvN	TKJ
+Ggtb	zGgt
+Mr	bM
+ZT	NZ
+Ggtb	zGgt
+ZT	NZ
+Mr	bM
+Ggtb	zGgt
+KJz	rdv
+Mr	NZ
+Ggtb	zGgt
+ZT	NZ
+KJz	rdv
+ZT	NZ
+Mr	bM
+Ggtb	zGgt
+dvN	TKJ
+Mr	NZ

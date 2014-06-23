@@ -1,0 +1,57 @@
+Lexicon: kipA	gulA	bilubA	dApivu	gikAvAzi	tizutudu	
+
+Training Sentences:
+gikAvAzidApivukipAgulA
+tizutudugikAvAzigulAdApivu
+tizutudukipAbilubAdApivu
+dApivugikAvAzibilubAkipA
+tizutudugulAbilubAkipA
+kipAdApivubilubAtizutudu
+gulAbilubAdApivukipA
+dApivutizutudukipAgulA
+gikAvAzitizutudubilubAkipA
+kipAtizutududApivugulA
+gikAvAzitizutudubilubAdApivu
+kipAbilubAtizutudugulA
+dApivugikAvAzibilubAtizutudu
+tizutudubilubAgikAvAzigulA
+gikAvAzidApivubilubAgulA
+gikAvAzigulAbilubAdApivu
+kipAtizutudubilubAgulA
+bilubAkipAdApivugulA
+tizutudugikAvAzigulAdApivu
+gulAtizutudugikAvAzikipA
+kipAgulAtizutudugikAvAzi
+gikAvAzikipAdApivubilubA
+
+Test Items:
+bilubA	ubAdAp
+tizutudu	Azitizut
+dApivu	ubAdAp
+bilubA	ubAdAp
+kipA	uduk
+gikAvAzi	Azitizut
+bilubA	ubAdAp
+dApivu	ubAdAp
+bilubA	ulAbil
+kipA	uduk
+dApivu	ulAbil
+bilubA	ulAbil
+tizutudu	ivugikAv
+gikAvAzi	Azitizut
+dApivu	ulAbil
+gulA	uduk
+dApivu	ulAbil
+gulA	uduk
+dApivu	ulAbil
+bilubA	ulAbil
+tizutudu	ivugikAv
+gikAvAzi	Azitizut
+gulA	uduk
+tizutudu	ivugikAv
+dApivu	ubAdAp
+bilubA	ulAbil
+gulA	uduk
+tizutudu	ivugikAv
+gikAvAzi	Azitizut
+bilubA	ulAbil

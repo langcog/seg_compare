@@ -1,0 +1,45 @@
+Lexicon: Bk	tpm	VlDb	TP	Nng	MJdr	
+
+Training Sentences:
+BkMJdrVlDbNng
+TPVlDbtpmBk
+tpmTPBkMJdr
+BktpmNngVlDb
+NngtpmVlDbBk
+TPtpmBkMJdr
+MJdrVlDbNngTP
+VlDbtpmNngMJdr
+TPNngMJdrtpm
+TPVlDbBkNng
+
+Test Items:
+Bk	rB
+VlDb	mVlD
+TP	rB
+tpm	PNn
+Nng	ktp
+tpm	PNn
+Bk	rB
+Nng	ktp
+VlDb	mVlD
+TP	rB
+VlDb	gMJd
+Bk	rB
+VlDb	gMJd
+tpm	PNn
+Nng	ktp
+Bk	bT
+VlDb	gMJd
+tpm	ktp
+VlDb	gMJd
+Nng	PNn
+Bk	bT
+Nng	PNn
+TP	rB
+Bk	bT
+MJdr	mVlD
+TP	bT
+Nng	PNn
+MJdr	gMJd
+TP	rB
+tpm	ktp

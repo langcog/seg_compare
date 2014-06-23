@@ -1,0 +1,44 @@
+Lexicon: giki	tudu	tilAzi	pibikA	dAvAzugu	pAbAvulu	
+
+Training Sentences:
+gikipibikAdAvAzugu
+gikipibikAdAvAzugu
+gikipAbAvulutilAzi
+pAbAvulugikitilAzi
+tududAvAzugupAbAvulu
+pAbAvulutudutilAzi
+tudupAbAvulupibikA
+gikitudupibikA
+tilAzidAvAzugutudu
+
+Test Items:
+giki	ikit
+tilAzi	Azipib
+pAbAvulu	ugupAbAv
+giki	ulug
+tilAzi	udutil
+pibikA	Azipib
+pAbAvulu	ikAdAvAz
+pibikA	Azipib
+giki	ulug
+pibikA	Azipib
+tudu	ulug
+pibikA	Azipib
+dAvAzugu	ugupAbAv
+giki	ikit
+pibikA	Azipib
+dAvAzugu	ikAdAvAz
+tilAzi	Azipib
+pibikA	udutil
+pAbAvulu	ikAdAvAz
+dAvAzugu	ugupAbAv
+pAbAvulu	ugupAbAv
+dAvAzugu	ikAdAvAz
+tilAzi	udutil
+pAbAvulu	ugupAbAv
+dAvAzugu	ikAdAvAz
+giki	ulug
+pibikA	Azipib
+pAbAvulu	ugupAbAv
+dAvAzugu	ikAdAvAz
+tilAzi	Azipib

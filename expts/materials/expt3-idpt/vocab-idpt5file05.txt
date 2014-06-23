@@ -1,0 +1,185 @@
+Lexicon: rz	lPV	RBTJ	vt	DgG	
+
+Training Sentences:
+vtRBTJrzlPV
+vtRBTJDgGlPV
+RBTJvtDgGlPV
+vtlPVRBTJrz
+DgGrzlPVRBTJ
+DgGrzRBTJvt
+RBTJvtrzlPV
+rzvtlPVRBTJ
+lPVRBTJvtDgG
+vtDgGlPVrz
+lPVDgGrzvt
+DgGvtRBTJrz
+rzlPVRBTJvt
+lPVrzDgGRBTJ
+rzlPVRBTJDgG
+vtRBTJDgGrz
+rzRBTJvtDgG
+lPVDgGRBTJrz
+lPVvtDgGrz
+rzlPVvtRBTJ
+DgGlPVvtrz
+lPVDgGRBTJvt
+DgGrzRBTJlPV
+rzRBTJlPVvt
+lPVrzDgGRBTJ
+lPVvtRBTJDgG
+lPVrzRBTJvt
+DgGrzRBTJlPV
+DgGlPVvtRBTJ
+RBTJrzvtDgG
+vtlPVrzRBTJ
+DgGlPVrzRBTJ
+RBTJlPVDgGvt
+rzDgGlPVvt
+RBTJrzlPVDgG
+lPVDgGrzvt
+lPVrzRBTJDgG
+RBTJDgGvtlPV
+lPVrzDgGRBTJ
+vtRBTJrzlPV
+rzDgGRBTJlPV
+RBTJvtrzlPV
+DgGrzRBTJlPV
+RBTJDgGvtrz
+rzvtRBTJDgG
+rzRBTJvtDgG
+RBTJDgGvtlPV
+RBTJlPVrzvt
+DgGrzlPVvt
+DgGvtRBTJrz
+vtDgGlPVRBTJ
+lPVDgGrzvt
+rzRBTJlPVDgG
+lPVDgGvtrz
+vtDgGlPVrz
+lPVRBTJrzvt
+DgGRBTJrzlPV
+rzRBTJDgGvt
+vtRBTJrzlPV
+rzDgGRBTJlPV
+DgGRBTJlPVrz
+vtrzRBTJDgG
+rzlPVDgGvt
+rzRBTJDgGlPV
+RBTJrzvtDgG
+DgGlPVvtRBTJ
+rzRBTJlPVDgG
+vtlPVRBTJDgG
+lPVvtRBTJrz
+RBTJrzDgGvt
+RBTJrzlPVvt
+DgGrzRBTJvt
+lPVDgGRBTJvt
+DgGvtRBTJrz
+rzDgGlPVRBTJ
+rzlPVDgGRBTJ
+vtRBTJlPVDgG
+DgGvtrzlPV
+lPVrzDgGRBTJ
+rzRBTJDgGvt
+RBTJDgGrzlPV
+lPVRBTJrzvt
+rzRBTJDgGlPV
+vtrzDgGRBTJ
+DgGrzlPVRBTJ
+DgGrzlPVvt
+vtRBTJrzDgG
+DgGrzRBTJvt
+RBTJlPVvtrz
+lPVvtRBTJDgG
+vtrzDgGlPV
+lPVrzvtDgG
+lPVvtrzRBTJ
+rzvtDgGlPV
+DgGrzlPVvt
+rzvtDgGRBTJ
+DgGlPVvtRBTJ
+DgGRBTJvtrz
+vtlPVRBTJrz
+lPVDgGvtRBTJ
+rzlPVDgGvt
+RBTJvtDgGlPV
+RBTJvtlPVDgG
+RBTJvtlPVDgG
+DgGrzlPVRBTJ
+lPVrzRBTJDgG
+DgGrzRBTJlPV
+RBTJlPVrzvt
+vtRBTJlPVDgG
+DgGrzvtlPV
+DgGvtlPVrz
+DgGlPVRBTJrz
+rzvtRBTJlPV
+lPVRBTJrzvt
+RBTJvtDgGrz
+lPVvtDgGRBTJ
+DgGvtrzlPV
+vtrzlPVRBTJ
+DgGlPVvtRBTJ
+DgGlPVrzvt
+rzvtlPVRBTJ
+vtRBTJrzDgG
+DgGvtrzRBTJ
+RBTJvtrzlPV
+rzvtDgGlPV
+DgGrzRBTJvt
+vtrzlPVRBTJ
+rzvtRBTJDgG
+vtrzlPVDgG
+lPVvtDgGRBTJ
+rzvtRBTJlPV
+lPVvtDgGrz
+RBTJDgGlPVvt
+DgGlPVvtRBTJ
+RBTJrzDgGlPV
+rzvtDgGlPV
+DgGlPVvtRBTJ
+RBTJvtlPVrz
+rzRBTJDgGvt
+lPVRBTJDgGrz
+vtrzDgGRBTJ
+lPVrzvtRBTJ
+lPVDgGRBTJvt
+DgGRBTJvtrz
+DgGvtlPVRBTJ
+rzDgGlPVRBTJ
+rzDgGvtlPV
+lPVrzvtDgG
+vtDgGlPVrz
+vtDgGvtvt
+
+Test Items:
+DgG	tDg
+lPV	zlP
+vt	Jv
+rz	Gr
+lPV	tDg
+vt	Jv
+rz	Gr
+DgG	zlP
+lPV	tDg
+DgG	tDg
+RBTJ	VRBT
+vt	Gr
+DgG	tDg
+vt	Jv
+RBTJ	VRBT
+lPV	tDg
+DgG	zlP
+RBTJ	VRBT
+vt	Gr
+DgG	tDg
+RBTJ	VRBT
+DgG	tDg
+lPV	zlP
+DgG	tDg
+vt	Gr
+rz	Jv
+vt	Gr
+RBTJ	VRBT
+vt	Gr
+DgG	tDg

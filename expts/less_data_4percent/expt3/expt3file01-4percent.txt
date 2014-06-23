@@ -1,0 +1,41 @@
+Lexicon: Fd	kgL	NlVr	
+
+Training Sentences:
+NlVrkgLFdkgL
+FdkgLFdkgL
+NlVrFdkgLNlVr
+FdkgLNlVrFd
+kgLNlVrkgLNlVr
+FdNlVrFdNlVr
+
+Test Items:
+Fd	rF
+kgL	dkg
+Fd	rF
+kgL	dkg
+Fd	rF
+kgL	dkg
+NlVr	LNlV
+Fd	rF
+NlVr	LNlV
+kgL	dkg
+NlVr	LNlV
+kgL	dkg
+NlVr	LNlV
+Fd	rF
+NlVr	LNlV
+Fd	rF
+kgL	dkg
+Fd	rF
+kgL	dkg
+Fd	rF
+kgL	dkg
+NlVr	LNlV
+Fd	rF
+NlVr	LNlV
+Fd	rF
+kgL	dkg
+NlVr	LNlV
+Fd	rF
+kgL	dkg
+Fd	rF

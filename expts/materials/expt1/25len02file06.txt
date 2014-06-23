@@ -1,0 +1,125 @@
+Lexicon: lAlu	tuki	tigidA	bAbivA	kAguzipA	vuduzupi	
+
+Training Sentences:
+tigidAtuki
+kAguzipAvuduzupi
+lAlutuki
+tigidAkAguzipA
+tukilAlu
+kAguzipAvuduzupi
+tigidAbAbivA
+tukibAbivA
+lAlutuki
+tigidAbAbivA
+kAguzipAtigidA
+lAlubAbivA
+kAguzipAvuduzupi
+lAlutigidA
+bAbivAkAguzipA
+lAlubAbivA
+vuduzupikAguzipA
+vuduzupilAlu
+tukivuduzupi
+vuduzupituki
+
+Test Items:
+tigidA	ukitig
+tuki	upil
+bAbivA	ukitig
+vuduzupi	ivAkAguz
+bAbivA	idAbAb
+kAguzipA	ipAvuduz
+vuduzupi	ipAvuduz
+kAguzipA	ivAkAguz
+lAlu	upil
+vuduzupi	ivAkAguz
+tuki	upil
+tigidA	ukitig
+bAbivA	idAbAb
+kAguzipA	ipAvuduz
+tuki	upil
+kAguzipA	ipAvuduz
+lAlu	Alut
+vuduzupi	ipAvuduz
+bAbivA	ukitig
+vuduzupi	ipAvuduz
+bAbivA	idAbAb
+tuki	upil
+kAguzipA	ipAvuduz
+tuki	upil
+vuduzupi	ivAkAguz
+tuki	upil
+bAbivA	idAbAb
+lAlu	upil
+tuki	Alut
+bAbivA	idAbAb
+vuduzupi	ivAkAguz
+lAlu	Alut
+kAguzipA	ipAvuduz
+bAbivA	idAbAb
+lAlu	Alut
+kAguzipA	ivAkAguz
+lAlu	upil
+tuki	Alut
+kAguzipA	ipAvuduz
+lAlu	upil
+vuduzupi	ivAkAguz
+kAguzipA	ipAvuduz
+tigidA	idAbAb
+bAbivA	ukitig
+tigidA	idAbAb
+kAguzipA	ipAvuduz
+vuduzupi	ivAkAguz
+tigidA	ukitig
+tuki	upil
+kAguzipA	ivAkAguz
+tuki	upil
+lAlu	Alut
+tigidA	idAbAb
+lAlu	Alut
+vuduzupi	ivAkAguz
+tigidA	idAbAb
+lAlu	upil
+kAguzipA	ivAkAguz
+lAlu	Alut
+tigidA	idAbAb
+bAbivA	ukitig
+tigidA	idAbAb
+kAguzipA	ipAvuduz
+vuduzupi	ivAkAguz
+tuki	Alut
+kAguzipA	ipAvuduz
+lAlu	upil
+bAbivA	ukitig
+kAguzipA	ivAkAguz
+bAbivA	idAbAb
+tuki	upil
+kAguzipA	ivAkAguz
+tigidA	idAbAb
+lAlu	Alut
+tuki	upil
+lAlu	Alut
+kAguzipA	ipAvuduz
+tigidA	idAbAb
+vuduzupi	ipAvuduz
+bAbivA	idAbAb
+kAguzipA	ivAkAguz
+vuduzupi	ipAvuduz
+tuki	upil
+bAbivA	idAbAb
+kAguzipA	ivAkAguz
+bAbivA	idAbAb
+tuki	Alut
+vuduzupi	ipAvuduz
+tigidA	ukitig
+lAlu	Alut
+vuduzupi	ivAkAguz
+tigidA	idAbAb
+kAguzipA	ivAkAguz
+tigidA	idAbAb
+kAguzipA	ivAkAguz
+tigidA	ukitig
+vuduzupi	ivAkAguz
+tigidA	idAbAb
+kAguzipA	ivAkAguz
+tigidA	idAbAb

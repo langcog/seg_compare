@@ -1,0 +1,185 @@
+Lexicon: lz	kg	LdZ	Ptv	TpVb	BDKG	
+
+Training Sentences:
+kgBDKGlzLdZ
+TpVbLdZBDKGkg
+BDKGkglzPtv
+BDKGkgLdZlz
+TpVbBDKGLdZkg
+LdZkgPtvTpVb
+PtvlzTpVbkg
+BDKGTpVbkgLdZ
+kgTpVbBDKGLdZ
+kgBDKGLdZTpVb
+TpVbPtvkglz
+kgLdZlzTpVb
+kgBDKGPtvLdZ
+TpVbBDKGPtvlz
+TpVbPtvBDKGkg
+lzPtvkgBDKG
+PtvkgLdZTpVb
+TpVbPtvlzLdZ
+PtvlzTpVbLdZ
+TpVbLdZkglz
+PtvkgBDKGlz
+PtvlzTpVbBDKG
+LdZBDKGkgPtv
+TpVblzPtvBDKG
+lzBDKGkgPtv
+kgPtvLdZTpVb
+TpVblzLdZBDKG
+LdZlzPtvTpVb
+PtvlzLdZkg
+TpVbPtvBDKGlz
+LdZkgBDKGPtv
+lzkgBDKGTpVb
+lzPtvLdZBDKG
+lzBDKGLdZkg
+lzBDKGPtvLdZ
+LdZBDKGlzTpVb
+kgPtvLdZTpVb
+lzPtvTpVbLdZ
+LdZlzBDKGTpVb
+TpVblzkgBDKG
+BDKGPtvlzLdZ
+lzPtvLdZTpVb
+TpVblzPtvkg
+kgPtvLdZlz
+LdZlzTpVbPtv
+lzkgPtvLdZ
+kgBDKGPtvTpVb
+TpVbPtvLdZlz
+lzTpVbLdZBDKG
+kglzLdZPtv
+LdZkgPtvlz
+LdZTpVbkglz
+PtvLdZBDKGlz
+kgTpVblzPtv
+kgPtvTpVbLdZ
+LdZlzPtvBDKG
+lzBDKGTpVbPtv
+TpVbLdZBDKGlz
+PtvTpVbLdZlz
+LdZBDKGPtvTpVb
+LdZPtvBDKGlz
+TpVbPtvkgBDKG
+BDKGkgPtvLdZ
+PtvlzTpVbBDKG
+TpVbPtvBDKGkg
+LdZBDKGTpVbPtv
+kglzBDKGTpVb
+TpVbPtvlzkg
+LdZTpVblzBDKG
+BDKGLdZkgPtv
+PtvBDKGTpVbkg
+kgBDKGlzPtv
+LdZBDKGPtvTpVb
+TpVblzkgLdZ
+kgTpVblzLdZ
+LdZkgTpVbBDKG
+BDKGPtvlzkg
+LdZlzBDKGTpVb
+kgPtvBDKGLdZ
+BDKGPtvlzLdZ
+PtvLdZTpVblz
+BDKGkgPtvlz
+PtvkgBDKGlz
+LdZlzkgBDKG
+kgLdZTpVbBDKG
+BDKGkgLdZlz
+PtvlzTpVbBDKG
+kgBDKGPtvlz
+lzTpVbLdZPtv
+PtvBDKGLdZTpVb
+BDKGPtvkglz
+kgBDKGLdZTpVb
+kgBDKGPtvLdZ
+BDKGLdZPtvkg
+PtvLdZkgTpVb
+LdZBDKGTpVbkg
+lzTpVbkgBDKG
+kgBDKGLdZTpVb
+lzTpVbkgBDKG
+lzTpVbLdZkg
+TpVblzLdZBDKG
+BDKGLdZkgTpVb
+BDKGLdZTpVblz
+PtvlzTpVbkg
+lzPtvTpVbBDKG
+LdZPtvTpVbkg
+kgPtvLdZlz
+BDKGLdZkgPtv
+LdZPtvkglz
+kglzBDKGLdZ
+kgTpVbLdZBDKG
+BDKGTpVblzkg
+lzPtvkgTpVb
+lzBDKGkgTpVb
+kglzLdZPtv
+BDKGTpVbLdZlz
+PtvlzkgLdZ
+BDKGPtvlzkg
+lzBDKGLdZTpVb
+PtvBDKGlzTpVb
+TpVbLdZBDKGlz
+TpVbkgLdZlz
+PtvlzLdZBDKG
+BDKGTpVbPtvLdZ
+LdZlzkgTpVb
+TpVbLdZlzkg
+PtvBDKGLdZkg
+kgBDKGPtvLdZ
+LdZTpVbPtvlz
+TpVbkgBDKGLdZ
+LdZlzTpVbBDKG
+BDKGlzkgPtv
+BDKGPtvkglz
+TpVbLdZkglz
+PtvTpVbBDKGLdZ
+TpVbPtvlzLdZ
+kgTpVblzBDKG
+TpVbLdZkglz
+PtvkgTpVblz
+BDKGkgTpVblz
+LdZlzkgBDKG
+TpVbPtvBDKGkg
+PtvTpVbkgBDKG
+LdZPtvTpVbBDKG
+kgBDKGPtvTpVb
+PtvTpVbkglz
+kgTpVbPtvBDKG
+BDKGLdZPtvkg
+LdZPtvTpVbkg
+PtvPtvPtvPtv
+
+Test Items:
+LdZ	gLd
+lz	Gl
+BDKG	vTpV
+LdZ	ZPt
+Ptv	ZPt
+lz	zk
+BDKG	bBDK
+Ptv	gLd
+lz	Gl
+BDKG	bBDK
+lz	zk
+Ptv	gLd
+kg	Gl
+Ptv	gLd
+lz	Gl
+Ptv	ZPt
+kg	Gl
+lz	zk
+TpVb	bBDK
+lz	Gl
+Ptv	gLd
+LdZ	gLd
+kg	zk
+lz	Gl
+LdZ	gLd
+TpVb	vTpV
+LdZ	ZPt
+Ptv	gLd
+kg	Gl
+TpVb	vTpV

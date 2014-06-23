@@ -1,0 +1,41 @@
+Lexicon: ZN	rGt	Tgbv	FV	kKm	
+
+Training Sentences:
+ZNTgbvkKmrGt
+TgbvrGtFVZN
+ZNTgbvFVrGt
+kKmFVTgbvrGt
+ZNFVTgbvkKm
+kKmrGtFVZN
+
+Test Items:
+Tgbv	tTgb
+kKm	VkK
+FV	vF
+rGt	VkK
+FV	mZ
+Tgbv	tTgb
+FV	vF
+ZN	mZ
+Tgbv	tTgb
+kKm	NrG
+ZN	vF
+kKm	VkK
+Tgbv	tTgb
+rGt	VkK
+ZN	vF
+Tgbv	tTgb
+rGt	NrG
+FV	vF
+Tgbv	tTgb
+FV	vF
+ZN	mZ
+kKm	NrG
+FV	vF
+rGt	VkK
+Tgbv	tTgb
+rGt	VkK
+kKm	NrG
+ZN	mZ
+kKm	VkK
+rGt	NrG

@@ -1,0 +1,260 @@
+Lexicon: PV	dk	vDl	KBp	bZtz	GgLT	
+
+Training Sentences:
+GgLTbZtzdkKBp
+dkbZtzKBpGgLT
+dkPVvDlbZtz
+KBpGgLTbZtzPV
+dkKBpbZtzPV
+PVKBpbZtzGgLT
+GgLTdkvDlbZtz
+PVbZtzdkvDl
+bZtzvDlKBpGgLT
+GgLTvDldkPV
+PVvDlKBpGgLT
+KBpdkbZtzvDl
+PVvDlKBpGgLT
+bZtzvDlKBpPV
+PVGgLTKBpdk
+GgLTKBpbZtzPV
+vDlKBpbZtzPV
+PVGgLTbZtzvDl
+bZtzdkKBpvDl
+vDlKBpbZtzPV
+GgLTvDlbZtzPV
+GgLTbZtzPVdk
+dkvDlbZtzPV
+KBpPVvDlGgLT
+dkbZtzPVGgLT
+GgLTKBpvDlPV
+PVKBpvDldk
+GgLTvDlbZtzKBp
+dkGgLTPVvDl
+GgLTPVdkvDl
+dkKBpPVvDl
+vDlbZtzdkGgLT
+PVGgLTbZtzvDl
+KBpdkbZtzPV
+PVGgLTKBpbZtz
+dkvDlKBpGgLT
+dkPVvDlKBp
+dkKBpGgLTPV
+bZtzGgLTPVdk
+bZtzGgLTdkKBp
+dkvDlGgLTKBp
+KBpbZtzdkPV
+KBpdkPVvDl
+KBpPVbZtzdk
+PVvDlGgLTdk
+GgLTPVdkbZtz
+GgLTvDlKBpPV
+PVKBpGgLTbZtz
+GgLTKBpdkvDl
+KBpGgLTvDlbZtz
+bZtzGgLTdkvDl
+KBpvDlPVdk
+PVvDlbZtzGgLT
+KBpPVdkvDl
+GgLTKBpbZtzdk
+dkGgLTPVvDl
+dkvDlbZtzGgLT
+dkvDlKBpbZtz
+dkbZtzKBpPV
+dkKBpvDlGgLT
+PVvDlbZtzKBp
+vDldkGgLTPV
+bZtzGgLTvDlKBp
+bZtzdkKBpvDl
+vDlGgLTKBpPV
+PVdkKBpGgLT
+KBpvDlPVdk
+bZtzGgLTPVdk
+bZtzdkPVKBp
+dkvDlKBpbZtz
+KBpGgLTPVdk
+vDlbZtzdkKBp
+GgLTPVdkvDl
+bZtzvDlPVGgLT
+vDlGgLTbZtzdk
+KBpPVGgLTbZtz
+bZtzvDlPVGgLT
+GgLTbZtzvDlPV
+bZtzKBpPVGgLT
+vDlGgLTKBpdk
+PVdkGgLTbZtz
+bZtzPVGgLTvDl
+PVGgLTdkKBp
+bZtzGgLTKBpdk
+vDldkKBpPV
+vDlbZtzPVKBp
+vDlKBpdkGgLT
+GgLTPVbZtzdk
+GgLTbZtzdkPV
+bZtzKBpdkPV
+GgLTKBpPVvDl
+GgLTvDldkPV
+dkPVGgLTbZtz
+vDlPVbZtzdk
+vDlbZtzdkKBp
+GgLTdkvDlbZtz
+GgLTKBpdkvDl
+GgLTKBpdkbZtz
+dkbZtzKBpGgLT
+dkvDlKBpbZtz
+PVKBpGgLTbZtz
+GgLTbZtzvDlKBp
+GgLTbZtzPVKBp
+KBpvDlGgLTdk
+KBpdkPVGgLT
+GgLTbZtzKBpvDl
+dkvDlPVbZtz
+KBpbZtzdkPV
+vDlGgLTbZtzPV
+PVGgLTvDlbZtz
+bZtzPVdkGgLT
+dkbZtzvDlGgLT
+bZtzvDlKBpdk
+dkPVbZtzvDl
+GgLTdkKBpvDl
+vDlPVbZtzKBp
+vDlGgLTPVKBp
+KBpdkPVGgLT
+GgLTKBpdkbZtz
+PVbZtzvDlKBp
+bZtzvDlPVdk
+dkKBpvDlbZtz
+GgLTKBpdkbZtz
+vDlKBpGgLTPV
+PVbZtzGgLTKBp
+dkbZtzPVGgLT
+dkbZtzKBpPV
+PVbZtzKBpdk
+GgLTKBpbZtzPV
+vDlbZtzdkGgLT
+bZtzGgLTPVdk
+dkKBpPVbZtz
+PVGgLTbZtzKBp
+vDldkKBpGgLT
+KBpbZtzPVvDl
+PVdkbZtzKBp
+GgLTPVdkvDl
+KBpbZtzvDldk
+GgLTPVdkvDl
+PVGgLTvDlKBp
+dkKBpPVvDl
+bZtzvDldkGgLT
+vDlGgLTbZtzPV
+dkvDlPVKBp
+bZtzdkvDlGgLT
+PVvDldkGgLT
+PVKBpvDlGgLT
+KBpGgLTPVbZtz
+KBpGgLTPVvDl
+PVbZtzvDldk
+GgLTdkvDlKBp
+KBpGgLTbZtzvDl
+KBpdkPVvDl
+dkGgLTvDlKBp
+dkGgLTvDlPV
+PVKBpGgLTdk
+KBpdkGgLTPV
+GgLTvDlPVbZtz
+GgLTvDlbZtzPV
+bZtzPVvDlKBp
+bZtzdkGgLTPV
+GgLTKBpvDlPV
+dkKBpbZtzvDl
+KBpvDlbZtzPV
+PVGgLTdkvDl
+PVdkbZtzGgLT
+KBpvDlPVGgLT
+bZtzvDlPVdk
+PVbZtzKBpGgLT
+PVKBpbZtzdk
+vDlbZtzdkKBp
+KBpbZtzPVvDl
+KBpdkGgLTPV
+KBpdkbZtzvDl
+dkPVvDlbZtz
+vDlGgLTKBpbZtz
+dkGgLTbZtzKBp
+GgLTKBpPVvDl
+GgLTbZtzdkKBp
+PVGgLTdkvDl
+vDlGgLTdkbZtz
+vDlPVbZtzGgLT
+dkbZtzGgLTPV
+bZtzvDlPVKBp
+vDlbZtzdkGgLT
+bZtzGgLTvDlKBp
+bZtzKBpdkPV
+vDldkKBpPV
+GgLTbZtzKBpdk
+PVKBpvDlGgLT
+bZtzvDldkKBp
+KBpvDlbZtzPV
+vDlGgLTdkbZtz
+bZtzKBpvDlGgLT
+dkbZtzGgLTvDl
+vDlGgLTbZtzPV
+KBpvDlbZtzGgLT
+PVbZtzKBpGgLT
+dkKBpGgLTbZtz
+dkvDlbZtzPV
+bZtzPVGgLTKBp
+vDldkGgLTKBp
+dkGgLTKBpbZtz
+dkPVKBpvDl
+dkvDlbZtzPV
+bZtzdkKBpGgLT
+bZtzvDlGgLTPV
+dkGgLTbZtzPV
+KBpvDldkGgLT
+dkGgLTbZtzKBp
+KBpvDlbZtzdk
+KBpdkbZtzvDl
+PVKBpdkGgLT
+vDldkKBpPV
+dkvDlGgLTbZtz
+bZtzKBpvDlPV
+vDldkPVbZtz
+KBpGgLTvDldk
+PVKBpbZtzdk
+vDlKBpGgLTbZtz
+vDlPVGgLTdk
+vDlPVdkKBp
+PVKBpvDlGgLT
+vDlPVGgLTdk
+KBpdkPVKBp
+
+Test Items:
+KBp	lKB
+bZtz	pbZt
+vDl	lKB
+dk	TP
+PV	Vd
+dk	Vd
+bZtz	pbZt
+dk	TP
+PV	Vd
+vDl	lKB
+bZtz	pbZt
+KBp	kvD
+vDl	kvD
+dk	Vd
+KBp	lKB
+bZtz	pbZt
+GgLT	zGgL
+PV	Vd
+bZtz	zGgL
+vDl	kvD
+KBp	lKB
+vDl	lKB
+bZtz	pbZt
+GgLT	zGgL
+PV	TP
+KBp	kvD
+PV	Vd
+dk	Vd
+KBp	kvD
+GgLT	pbZt

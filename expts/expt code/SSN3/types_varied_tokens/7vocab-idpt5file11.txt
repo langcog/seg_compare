@@ -1,0 +1,42 @@
+Lexicon: LD	mkP	RKvg	rz	ZfF	
+
+Training Sentences:
+RKvgmkPLDZfF
+ZfFLDmkPRKvg
+LDmkPZfFRKvg
+mkPrzZfFLD
+RKvgZfFLDrz
+mkPrzZfFRKvg
+mkPrzRKvgLD
+
+Test Items:
+LD	gr
+mkP	zZf
+ZfF	Dmk
+mkP	zZf
+rz	FL
+ZfF	Dmk
+rz	FL
+ZfF	Dmk
+LD	FL
+ZfF	zZf
+RKvg	PRKv
+mkP	Dmk
+RKvg	PRKv
+ZfF	zZf
+mkP	zZf
+LD	FL
+mkP	Dmk
+RKvg	PRKv
+rz	FL
+LD	gr
+rz	FL
+LD	gr
+RKvg	PRKv
+LD	gr
+rz	gr
+mkP	zZf
+rz	gr
+mkP	Dmk
+LD	gr
+rz	gr

@@ -1,0 +1,39 @@
+Lexicon: givA	lugu	dAzupi	bAlAkA	bikivudu	titupAzi	
+
+Training Sentences:
+bikivudutitupAzibAlAkAdAzupilugugivA
+lugubikivudutitupAzibAlAkAgivAdAzupi
+bikivudutitupAzibAlAkAlugudAzupigivA
+bAlAkAtitupAzilugugivAbikivududAzupi
+
+Test Items:
+bikivudu	udutitup
+lugu	Azig
+givA	ivAl
+titupAzi	udutitup
+bAlAkA	upibAl
+lugu	Azig
+bAlAkA	ugudAz
+dAzupi	upibAl
+givA	ivAl
+bikivudu	AkAbikiv
+lugu	ivAl
+titupAzi	udutitup
+bikivudu	AkAbikiv
+bAlAkA	upibAl
+bikivudu	AkAbikiv
+givA	Azig
+bAlAkA	ugudAz
+givA	Azig
+bikivudu	AkAbikiv
+lugu	ivAl
+givA	Azig
+lugu	Azig
+bikivudu	udutitup
+bAlAkA	ugudAz
+bikivudu	udutitup
+dAzupi	upibAl
+titupAzi	udutitup
+bAlAkA	ugudAz
+lugu	Azig
+givA	Azig

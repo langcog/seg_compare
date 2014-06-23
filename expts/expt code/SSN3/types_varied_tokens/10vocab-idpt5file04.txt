@@ -1,0 +1,45 @@
+Lexicon: nM	pmD	dRgz	GN	tBf	
+
+Training Sentences:
+tBfGNpmDdRgz
+GNdRgzpmDnM
+tBfnMdRgzGN
+pmDtBfGNnM
+dRgzpmDnMtBf
+tBfdRgznMpmD
+GNnMdRgztBf
+dRgznMtBfGN
+nMpmDtBfdRgz
+pmDGNGNpmD
+
+Test Items:
+GN	zG
+pmD	Mpm
+nM	zG
+tBf	NtB
+GN	zG
+tBf	Mpm
+dRgz	DdRg
+pmD	Mpm
+nM	fn
+GN	zG
+nM	fn
+dRgz	DdRg
+pmD	Mpm
+GN	fn
+tBf	NtB
+pmD	Mpm
+nM	zG
+dRgz	DdRg
+tBf	Mpm
+nM	fn
+GN	zG
+nM	zG
+tBf	NtB
+GN	zG
+pmD	Mpm
+GN	fn
+dRgz	DdRg
+nM	fn
+pmD	NtB
+dRgz	DdRg

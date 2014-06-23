@@ -1,0 +1,38 @@
+Lexicon: zipA	kilA	gitigu	kAlubi	bAdApitu	vuzuvAdu	
+
+Training Sentences:
+kAlubikilAgitiguvuzuvAdugitiguzipAbAdApitukAlubizipAkilAbAdApituvuzuvAdu
+kAlubizipAgitigukilAgitiguzipAkilAvuzuvAdubAdApituvuzuvAdukAlubibAdApitu
+zipAgitigukAlubikilAbAdApituvuzuvAdubAdApitukAlubizipAkilAvuzuvAdugitigu
+
+Test Items:
+vuzuvAdu	ituvuzuv
+gitigu	ilAgit
+kilA	Aduz
+vuzuvAdu	ituvuzuv
+bAdApitu	ubibAdAp
+kilA	ipAk
+zipA	Aduz
+kilA	ipAk
+vuzuvAdu	ubibAdAp
+bAdApitu	ituvuzuv
+kAlubi	igukAl
+vuzuvAdu	ituvuzuv
+bAdApitu	ubibAdAp
+zipA	ipAk
+kilA	Aduz
+vuzuvAdu	ubibAdAp
+zipA	Aduz
+kAlubi	igukAl
+zipA	ipAk
+gitigu	ilAgit
+kilA	ipAk
+vuzuvAdu	ituvuzuv
+zipA	Aduz
+bAdApitu	ituvuzuv
+zipA	Aduz
+kilA	ipAk
+gitigu	igukAl
+zipA	Aduz
+kAlubi	igukAl
+kilA	ipAk

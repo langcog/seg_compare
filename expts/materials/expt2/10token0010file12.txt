@@ -1,0 +1,37 @@
+Lexicon: vudu	bizi	gibApA	zutilu	lAvAgupi	kikAdAtu	
+
+Training Sentences:
+vudubizigibApAkikAdAtu
+vuduzutilukikAdAtubizi
+
+Test Items:
+bizi	Atuv
+gibApA	izigib
+vudu	udub
+kikAdAtu	ilulAvAg
+lAvAgupi	upikikAd
+kikAdAtu	ilulAvAg
+gibApA	ApAzut
+vudu	udub
+lAvAgupi	upikikAd
+kikAdAtu	ilulAvAg
+vudu	Atuv
+kikAdAtu	ilulAvAg
+bizi	udub
+zutilu	izigib
+vudu	udub
+gibApA	izigib
+bizi	Atuv
+lAvAgupi	upikikAd
+kikAdAtu	ilulAvAg
+zutilu	izigib
+bizi	udub
+lAvAgupi	ilulAvAg
+vudu	udub
+lAvAgupi	ilulAvAg
+kikAdAtu	upikikAd
+zutilu	ApAzut
+gibApA	ApAzut
+zutilu	izigib
+gibApA	ApAzut
+bizi	Atuv

@@ -1,0 +1,115 @@
+Lexicon: vAbA	gipi	luzugu	kibitu	ziduvuti	pAdAkAlA	
+
+Training Sentences:
+ziduvutipAdAkAlAkibitugipi
+vAbAgipikibitupAdAkAlA
+kibituluzuguvAbAgipi
+pAdAkAlAziduvutiluzugukibitu
+ziduvutikibitupAdAkAlAgipi
+luzuguziduvutigipivAbA
+gipivAbAluzuguziduvuti
+luzuguziduvutipAdAkAlAvAbA
+vAbAziduvutiluzugupAdAkAlA
+kibitugipipAdAkAlAvAbA
+
+Test Items:
+kibitu	ugukib
+vAbA	AbAg
+pAdAkAlA	ituziduv
+gipi	AlAv
+vAbA	AbAg
+gipi	AbAg
+vAbA	AlAv
+kibitu	ipiluz
+luzugu	ugukib
+kibitu	ipiluz
+gipi	AbAg
+kibitu	ipiluz
+gipi	AlAv
+luzugu	ipiluz
+vAbA	AbAg
+gipi	AlAv
+ziduvuti	utipAdAk
+pAdAkAlA	utipAdAk
+luzugu	ugukib
+vAbA	AbAg
+luzugu	ipiluz
+gipi	AlAv
+pAdAkAlA	ituziduv
+luzugu	ugukib
+gipi	AbAg
+ziduvuti	utipAdAk
+pAdAkAlA	utipAdAk
+ziduvuti	ituziduv
+vAbA	AbAg
+kibitu	ipiluz
+pAdAkAlA	utipAdAk
+vAbA	AlAv
+gipi	AbAg
+ziduvuti	utipAdAk
+vAbA	AlAv
+ziduvuti	utipAdAk
+luzugu	ugukib
+gipi	AbAg
+vAbA	AlAv
+luzugu	ugukib
+vAbA	AlAv
+pAdAkAlA	utipAdAk
+ziduvuti	ituziduv
+kibitu	ugukib
+luzugu	ipiluz
+gipi	AlAv
+kibitu	ipiluz
+gipi	AlAv
+pAdAkAlA	utipAdAk
+ziduvuti	ituziduv
+gipi	AbAg
+ziduvuti	utipAdAk
+vAbA	AbAg
+pAdAkAlA	ituziduv
+vAbA	AbAg
+gipi	AlAv
+pAdAkAlA	ituziduv
+ziduvuti	ituziduv
+gipi	AlAv
+luzugu	ugukib
+gipi	AlAv
+ziduvuti	ituziduv
+vAbA	AlAv
+gipi	AbAg
+vAbA	AlAv
+pAdAkAlA	utipAdAk
+kibitu	ipiluz
+vAbA	AlAv
+ziduvuti	utipAdAk
+pAdAkAlA	ituziduv
+ziduvuti	ituziduv
+vAbA	AbAg
+pAdAkAlA	ituziduv
+gipi	AlAv
+kibitu	ugukib
+ziduvuti	utipAdAk
+luzugu	ugukib
+vAbA	AbAg
+kibitu	ugukib
+gipi	AlAv
+kibitu	ipiluz
+vAbA	AlAv
+gipi	AbAg
+pAdAkAlA	utipAdAk
+ziduvuti	ituziduv
+kibitu	ipiluz
+pAdAkAlA	utipAdAk
+gipi	AlAv
+pAdAkAlA	utipAdAk
+gipi	AbAg
+pAdAkAlA	ituziduv
+gipi	AlAv
+kibitu	ipiluz
+vAbA	AbAg
+kibitu	ipiluz
+ziduvuti	ituziduv
+pAdAkAlA	ituziduv
+gipi	AbAg
+luzugu	ugukib
+gipi	AlAv

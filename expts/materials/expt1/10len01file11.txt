@@ -1,0 +1,75 @@
+Lexicon: bAdA	kAgu	givulA	pAluvA	tizupizi	bitukidu	
+
+Training Sentences:
+tizupizi
+bAdA
+bAdA
+givulA
+pAluvA
+tizupizi
+givulA
+bAdA
+tizupizi
+kAgu
+givulA
+pAluvA
+bAdA
+pAluvA
+kAgu
+pAluvA
+bAdA
+bitukidu
+bAdA
+tizupizi
+pAluvA
+tizupizi
+pAluvA
+kAgu
+tizupizi
+bitukidu
+pAluvA
+bitukidu
+tizupizi
+givulA
+bitukidu
+kAgu
+givulA
+givulA
+bitukidu
+kAgu
+bitukidu
+kAgu
+kAgu
+givulA
+
+Test Items:
+kAgu	AdAk
+givulA	ulApAl
+bitukidu	izibituk
+pAluvA	Agugiv
+givulA	ulApAl
+tizupizi	uvAtizup
+pAluvA	Agugiv
+bAdA	AdAk
+kAgu	idub
+tizupizi	izibituk
+pAluvA	ulApAl
+tizupizi	izibituk
+bAdA	idub
+givulA	ulApAl
+tizupizi	izibituk
+bAdA	idub
+kAgu	idub
+pAluvA	ulApAl
+givulA	Agugiv
+bitukidu	uvAtizup
+tizupizi	uvAtizup
+bAdA	idub
+pAluvA	ulApAl
+bitukidu	uvAtizup
+kAgu	AdAk
+givulA	ulApAl
+kAgu	idub
+givulA	Agugiv
+bAdA	idub
+bitukidu	izibituk

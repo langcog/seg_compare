@@ -1,0 +1,42 @@
+Lexicon: dAlu	zubA	tilAvu	pigukA	kizipAbi	dutuvAgi	
+
+Training Sentences:
+kizipAbitilAvuzubAdAlu
+pigukAzubAdutuvAgidAlu
+dutuvAgizubApigukAtilAvu
+dutuvAgidAlupigukAtilAvu
+zubAdutuvAgipigukAkizipAbi
+tilAvukizipAbidAlupigukA
+dutuvAgikizipAbidAluzubA
+
+Test Items:
+zubA	Agid
+dAlu	Aluz
+tilAvu	Avupig
+kizipAbi	Abidutuv
+dutuvAgi	ukAkizip
+pigukA	ubAtil
+dAlu	Agid
+tilAvu	Avupig
+zubA	Aluz
+pigukA	ubAtil
+tilAvu	Avupig
+kizipAbi	Abidutuv
+zubA	Agid
+pigukA	Avupig
+kizipAbi	Abidutuv
+tilAvu	ubAtil
+dutuvAgi	Abidutuv
+dAlu	Aluz
+pigukA	Avupig
+dutuvAgi	Abidutuv
+dAlu	Agid
+zubA	Aluz
+kizipAbi	ukAkizip
+dutuvAgi	Abidutuv
+pigukA	ubAtil
+dAlu	Agid
+dutuvAgi	ukAkizip
+tilAvu	Avupig
+pigukA	ubAtil
+dAlu	Aluz

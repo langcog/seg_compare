@@ -1,0 +1,125 @@
+Lexicon: dAvu	dubA	tukigu	lupApi	vAzitizu	kAlAgibi	
+
+Training Sentences:
+kAlAgibidubA
+dubAlupApi
+tukiguvAzitizu
+kAlAgibidAvu
+kAlAgibivAzitizu
+kAlAgibidubA
+dAvutukigu
+dAvulupApi
+tukiguvAzitizu
+vAzitizukAlAgibi
+tukigudAvu
+tukigudAvu
+lupApikAlAgibi
+vAzitizulupApi
+dubAdAvu
+lupApidubA
+tukigulupApi
+vAzitizudAvu
+tukiguvAzitizu
+dubAlupApi
+
+Test Items:
+dubA	ibid
+kAlAgibi	izukAlAg
+dubA	ibid
+lupApi	ubAtuk
+tukigu	igulup
+lupApi	ubAtuk
+tukigu	igulup
+kAlAgibi	izukAlAg
+vAzitizu	ApivAzit
+kAlAgibi	izukAlAg
+vAzitizu	ApivAzit
+dAvu	Avud
+vAzitizu	ApivAzit
+dAvu	ibid
+tukigu	ubAtuk
+dubA	Avud
+kAlAgibi	ApivAzit
+dubA	Avud
+tukigu	ubAtuk
+dubA	Avud
+tukigu	igulup
+dubA	ibid
+vAzitizu	izukAlAg
+lupApi	igulup
+dAvu	Avud
+dubA	ibid
+lupApi	ubAtuk
+dAvu	ibid
+vAzitizu	izukAlAg
+dubA	ibid
+vAzitizu	izukAlAg
+dAvu	Avud
+dubA	ibid
+kAlAgibi	izukAlAg
+lupApi	ubAtuk
+tukigu	igulup
+kAlAgibi	ApivAzit
+lupApi	igulup
+vAzitizu	izukAlAg
+lupApi	ubAtuk
+dubA	ibid
+tukigu	igulup
+vAzitizu	izukAlAg
+dubA	Avud
+vAzitizu	ApivAzit
+kAlAgibi	izukAlAg
+dAvu	Avud
+tukigu	ubAtuk
+kAlAgibi	ApivAzit
+dubA	ibid
+vAzitizu	izukAlAg
+dAvu	Avud
+lupApi	igulup
+kAlAgibi	izukAlAg
+lupApi	ubAtuk
+dubA	Avud
+lupApi	igulup
+dAvu	Avud
+vAzitizu	ApivAzit
+dubA	Avud
+vAzitizu	izukAlAg
+kAlAgibi	izukAlAg
+vAzitizu	izukAlAg
+dAvu	Avud
+kAlAgibi	ApivAzit
+lupApi	igulup
+dubA	Avud
+lupApi	ubAtuk
+dAvu	Avud
+kAlAgibi	ApivAzit
+dubA	Avud
+kAlAgibi	ApivAzit
+vAzitizu	izukAlAg
+lupApi	igulup
+dAvu	ibid
+lupApi	igulup
+dubA	ibid
+tukigu	igulup
+vAzitizu	izukAlAg
+dubA	ibid
+dAvu	ibid
+kAlAgibi	izukAlAg
+dubA	Avud
+tukigu	ubAtuk
+vAzitizu	ApivAzit
+lupApi	ubAtuk
+kAlAgibi	ApivAzit
+lupApi	igulup
+dubA	Avud
+lupApi	igulup
+dAvu	ibid
+dubA	Avud
+kAlAgibi	izukAlAg
+dAvu	Avud
+lupApi	igulup
+kAlAgibi	ApivAzit
+dAvu	Avud
+tukigu	igulup
+dubA	Avud
+kAlAgibi	izukAlAg

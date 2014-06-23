@@ -1,0 +1,57 @@
+Lexicon: duzi	bAki	pAtipi	gulAtu	bivAzudA	kAvugilu	
+
+Training Sentences:
+pAtipibivAzudAkAvugiluduzi
+bivAzudAbAkipAtipiduzi
+bAkiduzikAvugilugulAtu
+pAtipiduzibivAzudAgulAtu
+kAvugilupAtipibAkigulAtu
+duzikAvugilupAtipibivAzudA
+kAvugiluduzibAkipAtipi
+duzigulAtubAkikAvugilu
+duzibivAzudAgulAtupAtipi
+kAvugilugulAtubivAzudAbAki
+gulAtubivAzudAduzipAtipi
+gulAtupAtipikAvugilubAki
+pAtipigulAtubAkiduzi
+kAvugilubAkibivAzudAgulAtu
+pAtipibivAzudAgulAtubAki
+kAvugilugulAtupAtipibivAzudA
+bivAzudAkAvugilupAtipibAki
+duzipAtipikAvugilubivAzudA
+pAtipibAkiduzigulAtu
+bivAzudAbAkikAvugiluduzi
+duzibAkigulAtukAvugilu
+bAkibivAzudAgulAtukAvugilu
+
+Test Items:
+kAvugilu	AtubivAz
+bivAzudA	udAkAvug
+duzi	ilud
+pAtipi	ipigul
+kAvugilu	udAkAvug
+pAtipi	ipigul
+duzi	uzib
+bivAzudA	AtubivAz
+duzi	ilud
+kAvugilu	udAkAvug
+gulAtu	ipigul
+pAtipi	ipigul
+bAki	ilud
+bivAzudA	udAkAvug
+kAvugilu	AtubivAz
+pAtipi	AkipAt
+gulAtu	ipigul
+kAvugilu	AtubivAz
+duzi	uzib
+pAtipi	ipigul
+gulAtu	ipigul
+kAvugilu	AtubivAz
+bAki	uzib
+duzi	uzib
+gulAtu	AkipAt
+pAtipi	ipigul
+duzi	ilud
+gulAtu	ipigul
+kAvugilu	udAkAvug
+duzi	uzib

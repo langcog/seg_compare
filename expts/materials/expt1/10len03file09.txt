@@ -1,0 +1,48 @@
+Lexicon: lupA	zugu	kAkigi	pibizi	tutivAvu	bAlAdAdu	
+
+Training Sentences:
+bAlAdAdupibizizugu
+lupAzugupibizi
+lupAzugututivAvu
+tutivAvukAkigilupA
+lupApibizitutivAvu
+tutivAvubAlAdAdupibizi
+lupAkAkigipibizi
+tutivAvubAlAdAdukAkigi
+zugututivAvukAkigi
+bAlAdAdupibizizugu
+lupAbAlAdAdupibizi
+bAlAdAdututivAvuzugu
+kAkigilupAbAlAdAdu
+
+Test Items:
+bAlAdAdu	izitutiv
+kAkigi	ugukAk
+bAlAdAdu	izitutiv
+pibizi	igipib
+tutivAvu	AvubAlAd
+kAkigi	igipib
+tutivAvu	AvubAlAd
+kAkigi	ugukAk
+bAlAdAdu	AvubAlAd
+kAkigi	igipib
+bAlAdAdu	izitutiv
+lupA	upAz
+bAlAdAdu	AvubAlAd
+zugu	Adul
+kAkigi	ugukAk
+lupA	Adul
+bAlAdAdu	AvubAlAd
+tutivAvu	izitutiv
+lupA	Adul
+kAkigi	igipib
+pibizi	ugukAk
+kAkigi	igipib
+bAlAdAdu	AvubAlAd
+pibizi	ugukAk
+tutivAvu	izitutiv
+lupA	Adul
+zugu	Adul
+bAlAdAdu	izitutiv
+pibizi	igipib
+lupA	Adul

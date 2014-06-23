@@ -1,0 +1,41 @@
+Lexicon: kilA	kAvA	zutupA	tibidu	gudAgivu	pibAluzi	
+
+Training Sentences:
+tibidugudAgivuzutupAkilApibAluzikAvA
+kilAgudAgivutibidupibAluzizutupAkAvA
+tibidupibAluzizutupAgudAgivukAvAkilA
+kAvAzutupAkilApibAluzigudAgivutibidu
+kilAkAvAtibidugudAgivuzutupApibAluzi
+zutupApibAluzikilAtibidukAvAgudAgivu
+
+Test Items:
+zutupA	AvAzut
+pibAluzi	ivupibAl
+gudAgivu	idugudAg
+kAvA	uzik
+kilA	ilAk
+tibidu	upAtib
+kilA	ilAk
+gudAgivu	idugudAg
+pibAluzi	ivupibAl
+kAvA	uzik
+gudAgivu	ivupibAl
+pibAluzi	ivupibAl
+kilA	uzik
+zutupA	upAtib
+kAvA	uzik
+gudAgivu	ivupibAl
+kAvA	ilAk
+pibAluzi	ivupibAl
+gudAgivu	idugudAg
+kAvA	uzik
+tibidu	upAtib
+kilA	ilAk
+gudAgivu	idugudAg
+zutupA	AvAzut
+gudAgivu	ivupibAl
+kilA	uzik
+zutupA	upAtib
+tibidu	AvAzut
+pibAluzi	ivupibAl
+tibidu	AvAzut

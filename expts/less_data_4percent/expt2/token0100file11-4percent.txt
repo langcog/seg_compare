@@ -1,0 +1,36 @@
+Lexicon: PV	KZ	ztv	TLD	pbgB	klGd	
+
+Training Sentences:
+ztvklGdpbgBPV
+
+Test Items:
+ztv	vTL
+KZ	dP
+PV	VK
+TLD	vTL
+ztv	Zzt
+KZ	dP
+TLD	Zzt
+klGd	BklG
+KZ	dP
+pbgB	BklG
+PV	VK
+klGd	Dpbg
+PV	dP
+TLD	vTL
+KZ	VK
+klGd	BklG
+ztv	vTL
+pbgB	Dpbg
+klGd	BklG
+ztv	vTL
+klGd	BklG
+KZ	dP
+TLD	vTL
+pbgB	BklG
+TLD	vTL
+PV	dP
+TLD	Zzt
+ztv	vTL
+TLD	Zzt
+PV	dP

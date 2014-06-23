@@ -1,0 +1,42 @@
+Lexicon: MP	Nlt	FkvL	JD	Kdm	rVgZ	
+
+Training Sentences:
+FkvLrVgZJDNlt
+JDFkvLKdmrVgZ
+NltMPrVgZJD
+FkvLJDKdmMP
+rVgZMPKdmJD
+NltMPrVgZFkvL
+NltMPKdmFkvL
+
+Test Items:
+FkvL	mrVg
+rVgZ	tFkv
+FkvL	tFkv
+rVgZ	mrVg
+FkvL	tFkv
+MP	LJ
+rVgZ	mrVg
+Kdm	PNl
+FkvL	tFkv
+Nlt	PNl
+MP	LJ
+rVgZ	tFkv
+Nlt	DKd
+JD	ZM
+MP	LJ
+JD	ZM
+MP	LJ
+Kdm	PNl
+rVgZ	tFkv
+Kdm	DKd
+JD	LJ
+rVgZ	tFkv
+MP	LJ
+FkvL	tFkv
+JD	LJ
+FkvL	tFkv
+rVgZ	mrVg
+MP	LJ
+Kdm	DKd
+FkvL	mrVg

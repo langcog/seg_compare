@@ -1,0 +1,41 @@
+Lexicon: nt	pBJ	RvTg	zb	GmP	MDNl	
+
+Training Sentences:
+MDNlntGmPzb
+RvTgMDNlGmPpBJ
+RvTgzbntpBJ
+RvTgntGmPMDNl
+pBJRvTgGmPnt
+zbMDNlpBJzb
+
+Test Items:
+nt	gz
+zb	gz
+MDNl	PMDN
+nt	ln
+RvTg	PMDN
+pBJ	tpB
+RvTg	PMDN
+GmP	tpB
+pBJ	bGm
+zb	ln
+MDNl	PMDN
+RvTg	JRvT
+GmP	bGm
+MDNl	JRvT
+nt	gz
+pBJ	tpB
+GmP	bGm
+pBJ	bGm
+GmP	tpB
+MDNl	JRvT
+pBJ	bGm
+MDNl	PMDN
+zb	ln
+nt	gz
+GmP	tpB
+nt	gz
+GmP	bGm
+pBJ	tpB
+GmP	bGm
+nt	gz

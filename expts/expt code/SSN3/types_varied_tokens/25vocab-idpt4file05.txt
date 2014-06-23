@@ -1,0 +1,60 @@
+Lexicon: TN	rZg	PJVt	dF	
+
+Training Sentences:
+dFTNPJVtrZg
+rZgPJVtdFTN
+TNrZgPJVtdF
+PJVtdFTNrZg
+TNPJVtdFrZg
+TNrZgPJVtdF
+PJVtdFTNrZg
+rZgdFTNPJVt
+rZgdFPJVtTN
+TNrZgPJVtdF
+rZgTNdFPJVt
+TNPJVtrZgdF
+TNdFPJVtrZg
+rZgdFPJVtTN
+TNdFrZgPJVt
+rZgTNdFPJVt
+dFPJVtTNrZg
+TNrZgdFPJVt
+TNrZgPJVtdF
+TNdFPJVtrZg
+rZgdFPJVtTN
+rZgdFPJVtTN
+TNdFPJVtrZg
+TNPJVtrZgdF
+dFrZgTNPJVt
+
+Test Items:
+PJVt	gPJV
+rZg	NrZ
+dF	FT
+PJVt	gPJV
+rZg	NrZ
+dF	FT
+TN	td
+PJVt	gPJV
+dF	td
+rZg	NrZ
+PJVt	gPJV
+rZg	NrZ
+dF	td
+PJVt	gPJV
+rZg	NrZ
+PJVt	gPJV
+TN	FT
+dF	td
+PJVt	gPJV
+rZg	NrZ
+PJVt	gPJV
+TN	td
+PJVt	gPJV
+rZg	NrZ
+TN	FT
+rZg	NrZ
+dF	td
+PJVt	gPJV
+TN	FT
+dF	td

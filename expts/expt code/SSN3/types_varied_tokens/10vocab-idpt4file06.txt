@@ -1,0 +1,45 @@
+Lexicon: vL	fKD	MTJg	VZ	
+
+Training Sentences:
+vLVZfKDMTJg
+VZfKDMTJgvL
+MTJgVZfKDvL
+VZvLfKDMTJg
+VZfKDvLMTJg
+fKDvLVZMTJg
+VZMTJgfKDvL
+vLfKDVZMTJg
+fKDVZMTJgvL
+vLMTJgfKDVZ
+
+Test Items:
+vL	Zv
+fKD	LfK
+MTJg	DMTJ
+vL	Zv
+fKD	LfK
+VZ	gV
+MTJg	DMTJ
+vL	gV
+MTJg	DMTJ
+vL	Zv
+MTJg	DMTJ
+fKD	LfK
+VZ	gV
+MTJg	DMTJ
+vL	Zv
+fKD	LfK
+MTJg	DMTJ
+fKD	LfK
+MTJg	DMTJ
+fKD	LfK
+MTJg	DMTJ
+fKD	LfK
+VZ	Zv
+fKD	LfK
+vL	Zv
+VZ	gV
+vL	Zv
+MTJg	DMTJ
+fKD	LfK
+vL	gV

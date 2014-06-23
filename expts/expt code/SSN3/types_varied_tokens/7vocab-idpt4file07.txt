@@ -1,0 +1,42 @@
+Lexicon: zD	VBt	PgbZ	pR	
+
+Training Sentences:
+zDPgbZVBtpR
+PgbZzDpRVBt
+pRVBtPgbZzD
+VBtzDpRPgbZ
+PgbZzDVBtpR
+pRPgbZVBtzD
+zDVBtpRPgbZ
+
+Test Items:
+VBt	DVB
+pR	Zp
+PgbZ	tPgb
+pR	Zp
+zD	Zp
+PgbZ	tPgb
+zD	Zp
+PgbZ	tPgb
+pR	Zp
+zD	Zp
+VBt	DVB
+zD	Zp
+VBt	DVB
+pR	Zp
+PgbZ	tPgb
+pR	Zp
+zD	Rz
+PgbZ	tPgb
+VBt	DVB
+zD	Zp
+PgbZ	tPgb
+zD	Zp
+VBt	DVB
+zD	Zp
+VBt	DVB
+PgbZ	tPgb
+VBt	DVB
+PgbZ	tPgb
+zD	Zp
+VBt	DVB

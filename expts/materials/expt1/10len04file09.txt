@@ -1,0 +1,45 @@
+Lexicon: biki	bAvu	lAluvA	zitidu	dAzupipA	kAtugigu	
+
+Training Sentences:
+bAvudAzupipAlAluvAkAtugigu
+lAluvAbikikAtugigudAzupipA
+bAvubikidAzupipAzitidu
+lAluvAzitidudAzupipAkAtugigu
+bAvubikizitidudAzupipA
+kAtugiguzitidubikilAluvA
+bAvulAluvAzitidudAzupipA
+bAvubikikAtugigulAluvA
+kAtugigulAluvAbAvuzitidu
+bikizitidukAtugigudAzupipA
+
+Test Items:
+biki	igub
+zitidu	uvAzit
+biki	ikib
+lAluvA	AvulAl
+dAzupipA	idudAzup
+lAluvA	AvulAl
+zitidu	uvAzit
+kAtugigu	idudAzup
+zitidu	AvulAl
+bAvu	igub
+kAtugigu	ipAkAtug
+biki	igub
+lAluvA	AvulAl
+dAzupipA	ipAkAtug
+bAvu	igub
+dAzupipA	idudAzup
+kAtugigu	ipAkAtug
+bAvu	igub
+kAtugigu	ipAkAtug
+biki	igub
+zitidu	uvAzit
+kAtugigu	ipAkAtug
+biki	igub
+lAluvA	uvAzit
+biki	igub
+lAluvA	uvAzit
+bAvu	ikib
+lAluvA	AvulAl
+biki	ikib
+kAtugigu	ipAkAtug

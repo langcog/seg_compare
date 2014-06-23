@@ -1,0 +1,48 @@
+Lexicon: lulA	tupi	bAkigu	zubigi	pAvAvuti	kAdAduzi	
+
+Training Sentences:
+tupilulAkAdAduzi
+lulAtupipAvAvuti
+tupibAkigukAdAduzi
+zubigikAdAduzitupi
+kAdAduzizubigilulA
+pAvAvutikAdAduzizubigi
+pAvAvutitupilulA
+pAvAvutibAkigukAdAduzi
+pAvAvutikAdAduzizubigi
+lulAbAkiguzubigi
+bAkigupAvAvutitupi
+zubigilulApAvAvuti
+bAkigutupilulA
+
+Test Items:
+lulA	uzil
+zubigi	iguzub
+kAdAduzi	utikAdAd
+tupi	uzil
+pAvAvuti	igipAvAv
+lulA	ulAt
+zubigi	upibAk
+bAkigu	upibAk
+tupi	ulAt
+pAvAvuti	igipAvAv
+lulA	uzil
+pAvAvuti	igipAvAv
+bAkigu	upibAk
+zubigi	iguzub
+tupi	uzil
+zubigi	iguzub
+tupi	ulAt
+bAkigu	upibAk
+kAdAduzi	utikAdAd
+pAvAvuti	igipAvAv
+kAdAduzi	igipAvAv
+tupi	ulAt
+bAkigu	iguzub
+tupi	uzil
+zubigi	upibAk
+tupi	uzil
+zubigi	upibAk
+kAdAduzi	utikAdAd
+pAvAvuti	igipAvAv
+zubigi	iguzub

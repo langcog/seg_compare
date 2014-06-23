@@ -1,0 +1,135 @@
+Lexicon: zZ	Bk	ptb	dlP	gVvG	DLKT	
+
+Training Sentences:
+DLKTzZBkgVvGdlPptb
+DLKTzZgVvGptbdlPBk
+zZdlPptbBkDLKTgVvG
+ptbzZdlPDLKTgVvGBk
+ptbgVvGBkDLKTdlPzZ
+dlPBkptbDLKTzZgVvG
+gVvGBkDLKTptbzZdlP
+zZgVvGBkptbdlPDLKT
+gVvGDLKTBkzZdlPptb
+BkgVvGptbzZDLKTdlP
+gVvGptbdlPDLKTzZBk
+gVvGBkptbzZdlPDLKT
+BkzZdlPgVvGDLKTptb
+gVvGBkDLKTzZdlPptb
+BkptbdlPgVvGzZDLKT
+BkptbDLKTgVvGzZdlP
+dlPptbBkgVvGzZDLKT
+zZBkDLKTptbdlPgVvG
+DLKTBkdlPgVvGptbzZ
+gVvGDLKTptbzZdlPBk
+gVvGptbDLKTBkdlPzZ
+ptbgVvGzZBkDLKTdlP
+gVvGdlPptbzZBkDLKT
+DLKTptbzZgVvGdlPBk
+gVvGptbBkDLKTzZdlP
+BkDLKTgVvGdlPzZptb
+DLKTptbBkgVvGzZdlP
+DLKTBkdlPzZgVvGptb
+zZDLKTptbBkgVvGdlP
+dlPgVvGBkzZDLKTptb
+zZptbgVvGdlPDLKTBk
+zZptbgVvGDLKTBkdlP
+BkzZgVvGdlPDLKTptb
+dlPDLKTgVvGzZBkptb
+gVvGzZDLKTptbBkdlP
+gVvGBkptbDLKTzZdlP
+zZDLKTBkgVvGptbdlP
+ptbdlPzZgVvGBkDLKT
+ptbDLKTdlPgVvGBkzZ
+gVvGBkzZdlPDLKTptb
+zZdlPptbgVvGDLKTBk
+DLKTBkdlPptbgVvGzZ
+zZgVvGDLKTptbdlPBk
+dlPgVvGzZptbBkDLKT
+zZptbDLKTBkdlPgVvG
+DLKTptbdlPzZgVvGBk
+BkdlPDLKTzZptbgVvG
+zZDLKTBkgVvGptbdlP
+BkgVvGdlPDLKTzZptb
+gVvGDLKTptbzZdlPBk
+gVvGdlPzZptbBkDLKT
+BkptbgVvGdlPDLKTzZ
+ptbzZDLKTBkgVvGdlP
+DLKTBkgVvGdlPzZptb
+DLKTdlPptbzZgVvGBk
+ptbBkDLKTzZdlPgVvG
+BkzZDLKTptbdlPgVvG
+zZDLKTdlPgVvGptbBk
+gVvGptbBkDLKTdlPzZ
+zZDLKTBkgVvGdlPptb
+gVvGdlPDLKTptbzZBk
+gVvGdlPBkptbDLKTzZ
+dlPBkzZgVvGptbDLKT
+DLKTBkdlPptbzZgVvG
+dlPBkDLKTgVvGptbzZ
+zZgVvGBkdlPDLKTptb
+zZDLKTdlPBkptbgVvG
+ptbDLKTdlPgVvGzZBk
+zZDLKTgVvGdlPptbBk
+DLKTzZdlPgVvGptbBk
+gVvGDLKTzZBkptbdlP
+dlPptbzZDLKTgVvGBk
+BkDLKTptbdlPzZgVvG
+zZgVvGdlPDLKTptbBk
+gVvGptbzZBkdlPDLKT
+ptbzZDLKTgVvGdlPBk
+gVvGBkdlPptbDLKTzZ
+ptbDLKTBkdlPzZgVvG
+zZBkptbgVvGdlPDLKT
+ptbDLKTgVvGBkzZdlP
+BkptbdlPgVvGDLKTzZ
+gVvGBkDLKTdlPzZptb
+dlPDLKTgVvGzZBkptb
+zZptbDLKTBkdlPgVvG
+DLKTptbzZBkdlPgVvG
+dlPptbDLKTgVvGBkzZ
+zZBkdlPptbgVvGDLKT
+gVvGzZptbdlPDLKTBk
+DLKTgVvGptbdlPBkzZ
+DLKTBkgVvGzZdlPptb
+DLKTBkzZptbdlPgVvG
+DLKTzZptbdlPgVvGBk
+ptbDLKTzZdlPBkgVvG
+zZptbgVvGBkDLKTdlP
+ptbdlPBkzZDLKTgVvG
+zZgVvGptbdlPBkDLKT
+dlPgVvGzZBkDLKTptb
+zZptbdlPgVvGBkDLKT
+DLKTdlPBkgVvGzZptb
+dlPptbgVvGzZBkDLKT
+
+Test Items:
+zZ	ZB
+DLKT	GDLK
+ptb	bdl
+gVvG	GDLK
+DLKT	PgVv
+ptb	bdl
+Bk	ZB
+dlP	bdl
+gVvG	PgVv
+dlP	kpt
+ptb	kpt
+dlP	bdl
+zZ	ZB
+DLKT	GDLK
+Bk	Tz
+ptb	bdl
+zZ	Tz
+Bk	ZB
+dlP	kpt
+zZ	ZB
+Bk	Tz
+ptb	kpt
+Bk	Tz
+zZ	ZB
+gVvG	PgVv
+DLKT	GDLK
+dlP	kpt
+zZ	ZB
+DLKT	GDLK
+gVvG	PgVv

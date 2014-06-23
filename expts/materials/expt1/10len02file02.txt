@@ -1,0 +1,55 @@
+Lexicon: vulu	guzi	pAbipi	dulAdA	zutuvAti	gikikAbA	
+
+Training Sentences:
+pAbipigikikAbA
+vulugikikAbA
+vulugikikAbA
+guzigikikAbA
+vulupAbipi
+vulugikikAbA
+dulAdAzutuvAti
+guzivulu
+guzigikikAbA
+guzizutuvAti
+pAbipizutuvAti
+zutuvAtidulAdA
+zutuvAtiguzi
+dulAdAzutuvAti
+pAbipivulu
+guzivulu
+gikikAbAdulAdA
+pAbipidulAdA
+zutuvAtidulAdA
+pAbipiguzi
+
+Test Items:
+guzi	AbAv
+zutuvAti	Atigikik
+pAbipi	ipidul
+gikikAbA	Atigikik
+pAbipi	ipidul
+dulAdA	uzipAb
+zutuvAti	AdAzutuv
+gikikAbA	Atigikik
+vulu	ulug
+dulAdA	uzipAb
+gikikAbA	Atigikik
+zutuvAti	Atigikik
+pAbipi	uzipAb
+vulu	AbAv
+pAbipi	uzipAb
+dulAdA	ipidul
+guzi	AbAv
+pAbipi	uzipAb
+zutuvAti	Atigikik
+guzi	ulug
+gikikAbA	Atigikik
+guzi	ulug
+gikikAbA	AdAzutuv
+zutuvAti	Atigikik
+vulu	ulug
+gikikAbA	AdAzutuv
+vulu	ulug
+pAbipi	ipidul
+zutuvAti	AdAzutuv
+guzi	ulug

@@ -1,0 +1,145 @@
+Lexicon: bigu	kAgi	lAtizi	pAvupi	dAdubAlu	zukivAtu	
+
+Training Sentences:
+lAtizi
+bigu
+pAvupi
+pAvupi
+bigu
+dAdubAlu
+bigu
+dAdubAlu
+pAvupi
+pAvupi
+kAgi
+kAgi
+zukivAtu
+pAvupi
+bigu
+zukivAtu
+lAtizi
+lAtizi
+dAdubAlu
+kAgi
+dAdubAlu
+zukivAtu
+lAtizi
+zukivAtu
+bigu
+kAgi
+lAtizi
+kAgi
+lAtizi
+dAdubAlu
+zukivAtu
+bigu
+dAdubAlu
+lAtizi
+dAdubAlu
+pAvupi
+bigu
+kAgi
+kAgi
+zukivAtu
+
+Test Items:
+pAvupi	izipAv
+bigu	iguk
+lAtizi	AgilAt
+kAgi	iguk
+bigu	Atub
+kAgi	iguk
+lAtizi	izipAv
+pAvupi	izipAv
+dAdubAlu	Aluzukiv
+bigu	Atub
+dAdubAlu	Aluzukiv
+kAgi	iguk
+lAtizi	AgilAt
+pAvupi	izipAv
+zukivAtu	Aluzukiv
+kAgi	Atub
+dAdubAlu	Aluzukiv
+lAtizi	izipAv
+bigu	iguk
+pAvupi	AgilAt
+lAtizi	izipAv
+pAvupi	AgilAt
+zukivAtu	Aluzukiv
+pAvupi	izipAv
+zukivAtu	Aluzukiv
+bigu	iguk
+kAgi	Atub
+bigu	Atub
+zukivAtu	upidAdub
+pAvupi	izipAv
+zukivAtu	upidAdub
+bigu	iguk
+pAvupi	AgilAt
+bigu	iguk
+lAtizi	AgilAt
+pAvupi	izipAv
+bigu	iguk
+kAgi	iguk
+pAvupi	izipAv
+dAdubAlu	Aluzukiv
+kAgi	Atub
+zukivAtu	upidAdub
+bigu	Atub
+kAgi	iguk
+bigu	Atub
+lAtizi	izipAv
+pAvupi	AgilAt
+kAgi	Atub
+pAvupi	AgilAt
+zukivAtu	Aluzukiv
+dAdubAlu	upidAdub
+zukivAtu	Aluzukiv
+pAvupi	AgilAt
+bigu	Atub
+zukivAtu	Aluzukiv
+lAtizi	AgilAt
+pAvupi	izipAv
+bigu	Atub
+kAgi	iguk
+dAdubAlu	Aluzukiv
+bigu	iguk
+kAgi	iguk
+lAtizi	izipAv
+bigu	Atub
+zukivAtu	Aluzukiv
+bigu	Atub
+kAgi	iguk
+zukivAtu	Aluzukiv
+dAdubAlu	upidAdub
+kAgi	Atub
+zukivAtu	Aluzukiv
+kAgi	iguk
+dAdubAlu	Aluzukiv
+bigu	Atub
+pAvupi	AgilAt
+bigu	iguk
+dAdubAlu	Aluzukiv
+bigu	iguk
+lAtizi	AgilAt
+kAgi	Atub
+bigu	iguk
+pAvupi	AgilAt
+zukivAtu	Aluzukiv
+bigu	Atub
+lAtizi	izipAv
+kAgi	Atub
+dAdubAlu	upidAdub
+bigu	Atub
+zukivAtu	upidAdub
+pAvupi	izipAv
+lAtizi	AgilAt
+kAgi	iguk
+bigu	iguk
+dAdubAlu	upidAdub
+kAgi	iguk
+pAvupi	AgilAt
+dAdubAlu	Aluzukiv
+lAtizi	AgilAt
+pAvupi	izipAv
+kAgi	iguk

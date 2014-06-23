@@ -1,0 +1,45 @@
+Lexicon: Bv	Zbm	pGzl	nd	TFJ	LKRD	
+
+Training Sentences:
+ZbmTFJLKRDpGzl
+LKRDpGzlBvZbm
+ZbmLKRDTFJpGzl
+TFJndZbmLKRD
+BvndLKRDpGzl
+ndZbmTFJLKRD
+ndBvTFJpGzl
+ZbmBvpGzlnd
+TFJLKRDBvnd
+BvpGzlndTFJ
+
+Test Items:
+pGzl	JLKR
+TFJ	dTF
+nd	DB
+TFJ	dTF
+pGzl	JLKR
+Bv	ln
+TFJ	dTF
+Bv	ln
+pGzl	JLKR
+nd	DB
+Zbm	vZb
+pGzl	mpGz
+nd	ln
+Bv	DB
+TFJ	vZb
+Zbm	dTF
+LKRD	mpGz
+nd	DB
+TFJ	vZb
+pGzl	mpGz
+LKRD	JLKR
+pGzl	JLKR
+TFJ	vZb
+Zbm	vZb
+Bv	DB
+TFJ	vZb
+LKRD	mpGz
+Bv	DB
+nd	DB
+TFJ	vZb

@@ -1,0 +1,38 @@
+Lexicon: pivA	bAkA	bitiki	tuvugu	luzudAdu	gipAlAzi	
+
+Training Sentences:
+tuvugugipAlAzibitikigipAlAzituvuguluzudAdubAkApivA
+luzudAdupivAtuvugubitikipivAgipAlAzituvugubAkA
+pivAbAkAbitikibAkAluzudAdutuvugugipAlAzibitiki
+
+Test Items:
+tuvugu	AkAbit
+luzudAdu	uguluzud
+gipAlAzi	AdugipAl
+pivA	Azip
+bitiki	ikituv
+bAkA	ivAb
+tuvugu	AkAbit
+bitiki	ikituv
+luzudAdu	uguluzud
+tuvugu	AkAbit
+pivA	Azip
+gipAlAzi	AdugipAl
+tuvugu	ikituv
+bitiki	AkAbit
+luzudAdu	uguluzud
+gipAlAzi	AdugipAl
+bitiki	ikituv
+tuvugu	ikituv
+bAkA	Azip
+bitiki	ikituv
+luzudAdu	AdugipAl
+gipAlAzi	uguluzud
+bitiki	ikituv
+pivA	Azip
+bitiki	AkAbit
+tuvugu	ikituv
+luzudAdu	AdugipAl
+gipAlAzi	uguluzud
+tuvugu	ikituv
+bAkA	Azip

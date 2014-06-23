@@ -1,0 +1,185 @@
+Lexicon: kp	frR	DFBv	Pg	VNn	
+
+Training Sentences:
+frRkpPgVNn
+kpPgDFBvfrR
+DFBvPgkpVNn
+frRVNnPgDFBv
+frRDFBvkpPg
+VNnfrRkpPg
+kpfrRDFBvPg
+frRPgkpVNn
+frRkpVNnDFBv
+DFBvkpPgfrR
+frRPgkpDFBv
+frRVNnkpPg
+DFBvVNnkpfrR
+VNnkpPgDFBv
+kpVNnPgDFBv
+DFBvfrRkpVNn
+DFBvkpfrRPg
+frRkpVNnDFBv
+frRkpPgVNn
+VNnfrRDFBvPg
+frRPgkpDFBv
+DFBvVNnPgkp
+PgVNnfrRkp
+VNnkpPgDFBv
+frRDFBvkpVNn
+DFBvkpVNnfrR
+VNnfrRPgkp
+frRVNnkpPg
+kpVNnDFBvfrR
+frRVNnPgDFBv
+PgVNnfrRkp
+frRDFBvVNnkp
+frRPgVNnkp
+VNnDFBvfrRkp
+kpVNnfrRDFBv
+PgkpVNnDFBv
+frRkpPgVNn
+PgkpVNnDFBv
+DFBvPgkpVNn
+kpDFBvPgVNn
+DFBvVNnPgkp
+frRkpVNnDFBv
+PgkpDFBvfrR
+kpVNnDFBvfrR
+frRVNnPgkp
+DFBvPgfrRkp
+DFBvPgVNnkp
+PgVNnkpfrR
+PgfrRDFBvVNn
+VNnkpPgDFBv
+frRkpVNnDFBv
+DFBvVNnPgkp
+DFBvkpPgVNn
+kpDFBvPgfrR
+kpfrRPgDFBv
+VNnDFBvkpPg
+kpfrRPgVNn
+VNnfrRkpDFBv
+DFBvkpPgfrR
+DFBvfrRkpVNn
+VNnPgDFBvfrR
+VNnfrRDFBvPg
+PgkpDFBvfrR
+PgDFBvVNnfrR
+PgkpVNnfrR
+DFBvVNnPgfrR
+VNnDFBvfrRkp
+DFBvPgkpVNn
+frRkpPgDFBv
+frRkpVNnPg
+PgfrRkpVNn
+DFBvfrRPgVNn
+kpfrRVNnPg
+PgfrRVNnDFBv
+PgDFBvfrRVNn
+DFBvPgVNnkp
+PgVNnDFBvkp
+VNnPgDFBvfrR
+DFBvVNnkpfrR
+DFBvfrRVNnPg
+frRVNnkpPg
+PgDFBvVNnkp
+VNnfrRDFBvPg
+frRDFBvkpVNn
+frRPgkpDFBv
+PgVNnDFBvfrR
+VNnkpDFBvPg
+kpDFBvPgfrR
+DFBvkpVNnfrR
+frRVNnDFBvPg
+frRkpDFBvVNn
+DFBvVNnPgkp
+PgVNnDFBvfrR
+frRPgDFBvVNn
+kpVNnDFBvfrR
+VNnDFBvPgfrR
+frRkpVNnPg
+frRVNnkpPg
+PgVNnfrRDFBv
+kpPgDFBvfrR
+kpVNnPgfrR
+DFBvfrRVNnPg
+VNnkpPgfrR
+VNnDFBvfrRPg
+VNnDFBvPgkp
+kpPgDFBvfrR
+DFBvPgVNnfrR
+kpDFBvfrRPg
+kpPgDFBvfrR
+kpDFBvVNnfrR
+kpDFBvPgVNn
+frRPgVNnkp
+kpDFBvVNnPg
+DFBvkpfrRPg
+DFBvPgfrRkp
+DFBvPgkpfrR
+PgVNnfrRDFBv
+kpDFBvfrRPg
+frRVNnPgDFBv
+DFBvPgfrRkp
+VNnkpPgfrR
+DFBvkpfrRVNn
+DFBvfrRPgkp
+PgkpDFBvVNn
+PgVNnkpDFBv
+DFBvVNnPgkp
+kpfrRVNnDFBv
+PgkpfrRVNn
+DFBvkpVNnfrR
+PgkpVNnfrR
+DFBvkpfrRVNn
+kpVNnDFBvPg
+frRkpVNnDFBv
+VNnkpfrRDFBv
+kpfrRPgDFBv
+DFBvPgkpVNn
+VNnkpDFBvfrR
+DFBvkpVNnPg
+DFBvkpPgfrR
+kpPgDFBvfrR
+kpDFBvVNnPg
+VNnDFBvPgfrR
+kpfrRPgDFBv
+frRPgVNnDFBv
+VNnPgfrRDFBv
+kpVNnPgfrR
+kpfrRVNnPg
+PgfrRVNnDFBv
+frRDFBvkpPg
+frRVNnfrRVNn
+
+Test Items:
+kp	vP
+frR	gVN
+DFBv	RDFB
+VNn	pfr
+frR	gVN
+DFBv	RDFB
+frR	pfr
+Pg	nk
+DFBv	RDFB
+VNn	gVN
+DFBv	RDFB
+frR	pfr
+VNn	gVN
+frR	gVN
+kp	vP
+VNn	gVN
+Pg	vP
+VNn	pfr
+frR	pfr
+kp	vP
+frR	pfr
+DFBv	RDFB
+VNn	gVN
+kp	vP
+frR	gVN
+Pg	nk
+DFBv	RDFB
+VNn	gVN
+Pg	nk
+DFBv	RDFB

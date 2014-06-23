@@ -1,0 +1,55 @@
+Lexicon: pidA	luvu	tizuvA	bigukA	bApAdutu	zigikilA	
+
+Training Sentences:
+bigukAzigikilA
+bApAdututizuvA
+tizuvAluvu
+luvubApAdutu
+tizuvApidA
+tizuvAzigikilA
+zigikilAbigukA
+zigikilAbigukA
+tizuvApidA
+bigukAluvu
+zigikilApidA
+bigukAbApAdutu
+zigikilAbApAdutu
+pidAbigukA
+bApAdutupidA
+luvutizuvA
+luvupidA
+bApAdutuluvu
+tizuvAzigikilA
+bigukAbApAdutu
+
+Test Items:
+tizuvA	uvAbig
+zigikilA	utuzigik
+luvu	idAl
+bigukA	uvAbig
+bApAdutu	utuzigik
+pidA	idAl
+luvu	ilAp
+pidA	idAl
+bApAdutu	utuzigik
+bigukA	uvutiz
+luvu	idAl
+pidA	ilAp
+bApAdutu	ukAbApAd
+bigukA	uvAbig
+tizuvA	uvutiz
+bigukA	uvAbig
+pidA	ilAp
+luvu	idAl
+zigikilA	ukAbApAd
+tizuvA	uvAbig
+bigukA	uvutiz
+bApAdutu	utuzigik
+zigikilA	ukAbApAd
+bigukA	uvAbig
+luvu	ilAp
+bigukA	uvAbig
+tizuvA	uvutiz
+zigikilA	ukAbApAd
+pidA	idAl
+bigukA	uvutiz

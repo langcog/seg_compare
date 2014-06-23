@@ -1,0 +1,38 @@
+Lexicon: lAvA	zukA	dAbiti	pibAzi	pAlutudu	gikivugu	
+
+Training Sentences:
+dAbitizukAgikivuguzukAlAvAdAbitipAlutudugikivugupibAzilAvApibAzipAlutudu
+gikivugupAlutuduzukAlAvApibAzizukAdAbitipibAzipAlutududAbitigikivugulAvA
+pibAzigikivugudAbitilAvAgikivugupAlutuduzukAdAbitilAvApibAzipAlutuduzukA
+
+Test Items:
+dAbiti	ukAdAb
+gikivugu	AzipAlut
+lAvA	ugul
+gikivugu	AzipAlut
+pibAzi	ukAdAb
+zukA	ugul
+lAvA	AvAz
+pibAzi	itipib
+lAvA	ugul
+gikivugu	udugikiv
+zukA	ugul
+gikivugu	AzipAlut
+pibAzi	ukAdAb
+pAlutudu	udugikiv
+pibAzi	ukAdAb
+pAlutudu	AzipAlut
+dAbiti	ukAdAb
+zukA	AvAz
+pibAzi	itipib
+zukA	ugul
+pibAzi	ukAdAb
+gikivugu	udugikiv
+lAvA	ugul
+pAlutudu	udugikiv
+dAbiti	itipib
+zukA	ugul
+pibAzi	ukAdAb
+pAlutudu	udugikiv
+dAbiti	itipib
+gikivugu	udugikiv

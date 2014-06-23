@@ -1,0 +1,42 @@
+Lexicon: rT	dNk	GLpV	
+
+Training Sentences:
+rTGLpVdNkrT
+rTdNkrTGLpV
+GLpVdNkrTGLpV
+GLpVrTdNkGLpV
+dNkrTGLpVrT
+GLpVdNkrTGLpV
+GLpVdNkrTdNk
+
+Test Items:
+dNk	TdN
+rT	Vr
+dNk	TdN
+GLpV	kGLp
+rT	Vr
+dNk	TdN
+rT	Vr
+dNk	TdN
+rT	Vr
+dNk	TdN
+GLpV	kGLp
+rT	Vr
+GLpV	kGLp
+dNk	TdN
+rT	Vr
+GLpV	kGLp
+rT	Vr
+dNk	TdN
+rT	Vr
+GLpV	kGLp
+rT	Vr
+GLpV	kGLp
+dNk	TdN
+rT	Vr
+GLpV	kGLp
+rT	Vr
+GLpV	kGLp
+dNk	TdN
+rT	Vr
+dNk	TdN

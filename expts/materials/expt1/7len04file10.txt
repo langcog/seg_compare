@@ -1,0 +1,42 @@
+Lexicon: kAti	lAbi	bAludu	zigitu	zukipivA	guvupAdA	
+
+Training Sentences:
+zigituzukipivAkAtiguvupAdA
+kAtiguvupAdAbAluduzukipivA
+zigitulAbikAtizukipivA
+zigitubAludukAtizukipivA
+guvupAdAzigitubAludulAbi
+zigitukAtizukipivAlAbi
+guvupAdAbAludulAbilAbi
+
+Test Items:
+zukipivA	ituzukip
+kAti	Atil
+lAbi	AdAk
+zukipivA	ivAguvup
+zigitu	uduzig
+guvupAdA	ivAguvup
+kAti	AdAk
+zukipivA	ivAguvup
+bAludu	AbibAl
+zigitu	uduzig
+kAti	AdAk
+guvupAdA	ivAguvup
+zukipivA	ituzukip
+zigitu	uduzig
+bAludu	uduzig
+lAbi	AdAk
+bAludu	AbibAl
+zukipivA	ituzukip
+bAludu	uduzig
+zigitu	uduzig
+kAti	Atil
+guvupAdA	ituzukip
+lAbi	Atil
+kAti	AdAk
+lAbi	Atil
+zukipivA	ituzukip
+bAludu	AbibAl
+zigitu	uduzig
+lAbi	AdAk
+guvupAdA	ituzukip

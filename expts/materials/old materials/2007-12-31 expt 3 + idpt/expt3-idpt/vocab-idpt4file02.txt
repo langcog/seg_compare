@@ -1,0 +1,185 @@
+Lexicon: Lg	KbT	Zpvr	zM	
+
+Training Sentences:
+KbTzMZpvrLg
+KbTLgzMZpvr
+KbTLgZpvrzM
+KbTZpvrzMLg
+zMLgKbTZpvr
+LgzMZpvrKbT
+ZpvrzMLgKbT
+KbTLgZpvrzM
+zMKbTZpvrLg
+KbTLgZpvrzM
+KbTzMLgZpvr
+KbTZpvrzMLg
+zMLgKbTZpvr
+zMKbTLgZpvr
+ZpvrKbTLgzM
+zMKbTLgZpvr
+zMLgZpvrKbT
+KbTLgZpvrzM
+KbTLgzMZpvr
+KbTzMLgZpvr
+KbTLgZpvrzM
+LgZpvrKbTzM
+zMLgKbTZpvr
+KbTLgzMZpvr
+zMZpvrLgKbT
+LgzMZpvrKbT
+LgzMZpvrKbT
+ZpvrzMKbTLg
+ZpvrLgKbTzM
+ZpvrLgzMKbT
+KbTLgZpvrzM
+KbTZpvrzMLg
+ZpvrLgzMKbT
+LgzMKbTZpvr
+zMKbTLgZpvr
+ZpvrKbTLgzM
+ZpvrLgzMKbT
+ZpvrzMKbTLg
+KbTZpvrzMLg
+ZpvrLgKbTzM
+zMKbTLgZpvr
+zMLgKbTZpvr
+zMLgKbTZpvr
+LgZpvrzMKbT
+zMLgKbTZpvr
+zMZpvrLgKbT
+KbTzMLgZpvr
+KbTzMZpvrLg
+ZpvrzMKbTLg
+ZpvrKbTLgzM
+zMLgZpvrKbT
+LgzMKbTZpvr
+ZpvrzMKbTLg
+LgKbTzMZpvr
+ZpvrzMLgKbT
+KbTLgZpvrzM
+zMKbTZpvrLg
+KbTZpvrzMLg
+KbTZpvrLgzM
+ZpvrKbTzMLg
+KbTZpvrLgzM
+zMZpvrKbTLg
+KbTLgzMZpvr
+KbTZpvrzMLg
+LgKbTZpvrzM
+LgKbTZpvrzM
+zMLgKbTZpvr
+zMLgKbTZpvr
+LgZpvrzMKbT
+KbTZpvrLgzM
+zMZpvrKbTLg
+ZpvrLgKbTzM
+zMKbTLgZpvr
+ZpvrKbTzMLg
+LgKbTZpvrzM
+LgzMZpvrKbT
+KbTLgzMZpvr
+ZpvrLgzMKbT
+ZpvrKbTzMLg
+ZpvrLgzMKbT
+KbTLgZpvrzM
+ZpvrLgKbTzM
+LgZpvrzMKbT
+ZpvrzMKbTLg
+zMKbTLgZpvr
+ZpvrKbTLgzM
+ZpvrKbTLgzM
+LgZpvrKbTzM
+KbTzMZpvrLg
+zMKbTLgZpvr
+KbTZpvrLgzM
+zMLgZpvrKbT
+KbTzMZpvrLg
+ZpvrLgzMKbT
+KbTZpvrzMLg
+LgzMKbTZpvr
+zMKbTLgZpvr
+ZpvrzMKbTLg
+KbTzMZpvrLg
+ZpvrzMLgKbT
+KbTzMLgZpvr
+LgKbTZpvrzM
+LgzMZpvrKbT
+KbTZpvrzMLg
+zMKbTZpvrLg
+ZpvrLgKbTzM
+zMKbTLgZpvr
+ZpvrKbTLgzM
+ZpvrzMKbTLg
+KbTzMZpvrLg
+KbTzMZpvrLg
+zMLgKbTZpvr
+zMLgKbTZpvr
+ZpvrLgzMKbT
+LgzMZpvrKbT
+KbTLgZpvrzM
+KbTLgzMZpvr
+ZpvrzMKbTLg
+ZpvrLgzMKbT
+ZpvrKbTzMLg
+KbTLgZpvrzM
+zMLgKbTZpvr
+ZpvrzMLgKbT
+ZpvrKbTzMLg
+LgzMZpvrKbT
+KbTZpvrLgzM
+LgZpvrKbTzM
+LgZpvrKbTzM
+KbTzMLgZpvr
+zMLgZpvrKbT
+zMZpvrKbTLg
+zMLgZpvrKbT
+KbTzMZpvrLg
+KbTzMLgZpvr
+LgKbTzMZpvr
+zMLgZpvrKbT
+KbTLgzMZpvr
+ZpvrKbTzMLg
+ZpvrKbTLgzM
+zMLgKbTZpvr
+LgZpvrKbTzM
+ZpvrLgzMKbT
+zMKbTZpvrLg
+LgZpvrKbTzM
+LgzMZpvrKbT
+LgZpvrKbTzM
+KbTzMLgZpvr
+ZpvrKbTLgzM
+zMKbTLgZpvr
+ZpvrKbTzMLg
+
+Test Items:
+zM	rz
+KbT	gKb
+zM	rz
+Zpvr	TZpv
+KbT	gKb
+Zpvr	TZpv
+Lg	ML
+Zpvr	TZpv
+KbT	gKb
+zM	rz
+KbT	gKb
+zM	ML
+Lg	rz
+KbT	gKb
+Zpvr	TZpv
+Lg	ML
+zM	ML
+Lg	ML
+KbT	gKb
+Lg	rz
+zM	rz
+KbT	gKb
+zM	rz
+Lg	ML
+Zpvr	TZpv
+Lg	ML
+KbT	gKb
+zM	rz
+KbT	gKb
+zM	rz

@@ -1,0 +1,42 @@
+Lexicon: kAgu	bAvA	lududA	zitupi	bilAkipA	givuzuti	
+
+Training Sentences:
+kAgubAvAgivuzutilududA
+bilAkipAgivuzutizitupilududA
+kAgulududAgivuzutibAvA
+bilAkipAzitupilududAgivuzuti
+kAgubAvAbilAkipAlududA
+bAvAzitupibilAkipAkAgu
+bilAkipAkAguzitupigivuzuti
+
+Test Items:
+bilAkipA	ipAgivuz
+kAgu	utik
+bilAkipA	upibilAk
+lududA	AvAlud
+kAgu	utik
+bAvA	Agub
+kAgu	utik
+bilAkipA	ipAgivuz
+kAgu	Agub
+bAvA	Agub
+givuzuti	upibilAk
+lududA	AvAlud
+givuzuti	upibilAk
+lududA	AvAlud
+bAvA	utik
+givuzuti	ipAgivuz
+bilAkipA	upibilAk
+kAgu	utik
+bAvA	Agub
+givuzuti	upibilAk
+bilAkipA	ipAgivuz
+kAgu	Agub
+bilAkipA	upibilAk
+kAgu	utik
+lududA	AvAlud
+bAvA	Agub
+bilAkipA	ipAgivuz
+bAvA	Agub
+kAgu	utik
+givuzuti	upibilAk

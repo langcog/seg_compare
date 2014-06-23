@@ -1,0 +1,45 @@
+Lexicon: gizu	kiti	dApAkA	duguzi	pivuvAbA	tubilulA	
+
+Training Sentences:
+duguzipivuvAbAgizudApAkA
+gizutubilulAkitipivuvAbA
+tubilulAkitiduguzipivuvAbA
+dApAkApivuvAbAtubilulAgizu
+pivuvAbAdApAkAduguzitubilulA
+dApAkAgizuduguzitubilulA
+dApAkApivuvAbAkitiduguzi
+pivuvAbAgizuduguzikiti
+gizudApAkAkitiduguzi
+tubilulAgizukitidApAkA
+
+Test Items:
+gizu	izuk
+dApAkA	itidAp
+duguzi	itidAp
+tubilulA	uzipivuv
+dApAkA	AkAdug
+kiti	izuk
+pivuvAbA	AbAtubil
+tubilulA	uzipivuv
+dApAkA	AkAdug
+gizu	ulAg
+kiti	izuk
+pivuvAbA	uzipivuv
+duguzi	AkAdug
+kiti	ulAg
+pivuvAbA	uzipivuv
+dApAkA	itidAp
+pivuvAbA	uzipivuv
+gizu	ulAg
+kiti	izuk
+gizu	ulAg
+dApAkA	itidAp
+duguzi	AkAdug
+tubilulA	AbAtubil
+gizu	ulAg
+pivuvAbA	AbAtubil
+dApAkA	itidAp
+pivuvAbA	AbAtubil
+dApAkA	AkAdug
+pivuvAbA	AbAtubil
+kiti	ulAg

@@ -1,0 +1,65 @@
+Lexicon: pigi	guvu	lubizi	pAvAtu	dAlAbAdu	kAkizuti	
+
+Training Sentences:
+lubizidAlAbAdukAkizutipAvAtu
+dAlAbAdukAkizutiguvupigi
+kAkizutidAlAbAdupAvAtulubizi
+pigidAlAbAdupAvAtukAkizuti
+lubiziguvukAkizutidAlAbAdu
+guvudAlAbAdulubizikAkizuti
+guvukAkizutipigilubizi
+pigilubiziguvukAkizuti
+lubizipigikAkizutipAvAtu
+pAvAtulubizidAlAbAdukAkizuti
+lubizipigiguvudAlAbAdu
+guvupigikAkizutilubizi
+pAvAtupigidAlAbAdukAkizuti
+dAlAbAdupigipAvAtuguvu
+pAvAtupigikAkizutidAlAbAdu
+dAlAbAdupigiguvulubizi
+pAvAtudAlAbAdukAkizutipigi
+pigilubizikAkizutipAvAtu
+pAvAtudAlAbAduguvulubizi
+pAvAtudAlAbAduguvulubizi
+pigipAvAtukAkizutiguvu
+kAkizutilubiziguvudAlAbAdu
+lubizipAvAtukAkizutidAlAbAdu
+dAlAbAdulubiziguvupAvAtu
+pigidAlAbAdupAvAtukAkizuti
+pigiguvukAkizutilubizi
+guvupigipAvAtudAlAbAdu
+guvupigipAvAtulubizi
+guvupAvAtupigilubizi
+pAvAtuguvupigiguvu
+
+Test Items:
+guvu	igig
+pigi	utip
+guvu	igig
+lubizi	izipAv
+pigi	igig
+kAkizuti	AdukAkiz
+dAlAbAdu	AtudAlAb
+pigi	igig
+guvu	utip
+pAvAtu	uvulub
+pigi	igig
+dAlAbAdu	AdukAkiz
+pigi	utip
+lubizi	uvulub
+dAlAbAdu	AdukAkiz
+kAkizuti	AtudAlAb
+guvu	utip
+kAkizuti	AdukAkiz
+guvu	igig
+kAkizuti	AtudAlAb
+pigi	igig
+lubizi	uvulub
+pAvAtu	izipAv
+guvu	utip
+lubizi	izipAv
+guvu	igig
+pigi	utip
+pAvAtu	izipAv
+lubizi	izipAv
+pAvAtu	uvulub

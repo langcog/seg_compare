@@ -1,0 +1,36 @@
+Lexicon: zivA	vubi	lAzubA	dAkAlu	tigupAki	dugipitu	
+
+Training Sentences:
+tigupAkivubidugipitulAzubAdugipituvubidAkAludugipitudAkAlulAzubAdAkAluzivAdAkAludugipitutigupAkizivAtigupAkilAzubAzivAlAzubAtigupAkivubizivAvubi
+
+Test Items:
+vubi	ituz
+zivA	ivAv
+dAkAlu	ubAdAk
+tigupAki	Akidugip
+dAkAlu	ubilAz
+zivA	ivAv
+dugipitu	Akidugip
+vubi	ivAv
+lAzubA	ubilAz
+zivA	ivAv
+dAkAlu	ubilAz
+zivA	ivAv
+dugipitu	Akidugip
+zivA	ivAv
+lAzubA	ubilAz
+zivA	ituz
+vubi	ivAv
+zivA	ituz
+dugipitu	Alutigup
+tigupAki	Akidugip
+vubi	ituz
+dugipitu	Akidugip
+vubi	ivAv
+dugipitu	Akidugip
+vubi	ivAv
+dugipitu	Alutigup
+tigupAki	Akidugip
+lAzubA	ubilAz
+tigupAki	Alutigup
+vubi	ivAv

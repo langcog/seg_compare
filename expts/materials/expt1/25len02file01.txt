@@ -1,0 +1,125 @@
+Lexicon: pibi	dudA	givuvA	tulAkA	luzupAti	kiguzibA	
+
+Training Sentences:
+givuvApibi
+luzupAtidudA
+luzupAtipibi
+pibigivuvA
+kiguzibApibi
+givuvAkiguzibA
+dudAkiguzibA
+pibidudA
+kiguzibAtulAkA
+givuvAtulAkA
+luzupAtikiguzibA
+luzupAtitulAkA
+dudAluzupAti
+givuvAdudA
+tulAkAgivuvA
+pibitulAkA
+dudApibi
+kiguzibAluzupAti
+givuvAkiguzibA
+luzupAtitulAkA
+
+Test Items:
+dudA	ibid
+tulAkA	uvAtul
+dudA	ibAp
+kiguzibA	Atikiguz
+tulAkA	udAgiv
+luzupAti	AkAluzup
+givuvA	udAgiv
+luzupAti	AkAluzup
+givuvA	udAgiv
+kiguzibA	Atikiguz
+luzupAti	AkAluzup
+kiguzibA	Atikiguz
+tulAkA	udAgiv
+dudA	ibAp
+luzupAti	AkAluzup
+pibi	ibAp
+tulAkA	udAgiv
+luzupAti	AkAluzup
+kiguzibA	Atikiguz
+givuvA	uvAtul
+pibi	ibAp
+kiguzibA	AkAluzup
+givuvA	udAgiv
+pibi	ibAp
+dudA	ibid
+kiguzibA	AkAluzup
+luzupAti	Atikiguz
+givuvA	uvAtul
+pibi	ibid
+givuvA	udAgiv
+dudA	ibAp
+tulAkA	uvAtul
+givuvA	udAgiv
+luzupAti	AkAluzup
+tulAkA	uvAtul
+luzupAti	Atikiguz
+givuvA	uvAtul
+tulAkA	udAgiv
+givuvA	uvAtul
+dudA	ibAp
+pibi	ibid
+tulAkA	udAgiv
+pibi	ibAp
+tulAkA	uvAtul
+givuvA	udAgiv
+pibi	ibid
+kiguzibA	AkAluzup
+tulAkA	udAgiv
+pibi	ibid
+dudA	ibAp
+givuvA	udAgiv
+tulAkA	uvAtul
+luzupAti	Atikiguz
+tulAkA	uvAtul
+luzupAti	Atikiguz
+givuvA	udAgiv
+pibi	ibid
+givuvA	uvAtul
+pibi	ibAp
+dudA	ibid
+pibi	ibAp
+kiguzibA	Atikiguz
+tulAkA	udAgiv
+kiguzibA	AkAluzup
+dudA	ibAp
+pibi	ibAp
+dudA	ibid
+pibi	ibAp
+givuvA	uvAtul
+luzupAti	Atikiguz
+pibi	ibid
+tulAkA	udAgiv
+pibi	ibid
+kiguzibA	Atikiguz
+givuvA	uvAtul
+dudA	ibAp
+luzupAti	AkAluzup
+kiguzibA	Atikiguz
+tulAkA	uvAtul
+givuvA	uvAtul
+dudA	ibAp
+kiguzibA	Atikiguz
+dudA	ibAp
+luzupAti	AkAluzup
+tulAkA	uvAtul
+luzupAti	AkAluzup
+dudA	ibid
+pibi	ibAp
+dudA	ibid
+luzupAti	AkAluzup
+kiguzibA	Atikiguz
+dudA	ibid
+pibi	ibAp
+givuvA	uvAtul
+luzupAti	AkAluzup
+givuvA	udAgiv
+kiguzibA	Atikiguz
+givuvA	udAgiv
+luzupAti	AkAluzup
+kiguzibA	Atikiguz

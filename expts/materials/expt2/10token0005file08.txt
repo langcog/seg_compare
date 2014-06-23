@@ -1,0 +1,36 @@
+Lexicon: lupA	giti	dApibi	zutubA	kizivukA	vAgudulA	
+
+Training Sentences:
+lupAdApibizutubAgiti
+
+Test Items:
+kizivukA	ukAvAgud
+lupA	ulAl
+dApibi	ibizut
+lupA	ulAl
+vAgudulA	ubAkiziv
+kizivukA	ukAvAgud
+zutubA	itidAp
+lupA	upAg
+vAgudulA	ubAkiziv
+lupA	ulAl
+giti	upAg
+zutubA	ibizut
+vAgudulA	ukAvAgud
+kizivukA	ubAkiziv
+dApibi	itidAp
+giti	ulAl
+lupA	upAg
+zutubA	itidAp
+dApibi	itidAp
+kizivukA	ubAkiziv
+zutubA	ibizut
+giti	ulAl
+lupA	upAg
+giti	ulAl
+vAgudulA	ukAvAgud
+giti	ulAl
+dApibi	ibizut
+lupA	ulAl
+kizivukA	ukAvAgud
+vAgudulA	ubAkiziv

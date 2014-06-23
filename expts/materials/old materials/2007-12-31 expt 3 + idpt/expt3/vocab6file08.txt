@@ -1,0 +1,185 @@
+Lexicon: Zz	MGV	Tgrl	Jv	BKn	NtPd	
+
+Training Sentences:
+BKnTgrlMGVZz
+ZzBKnTgrlJv
+ZzBKnJvNtPd
+TgrlJvMGVNtPd
+BKnZzTgrlMGV
+NtPdBKnMGVZz
+NtPdZzJvBKn
+NtPdJvZzMGV
+JvTgrlNtPdMGV
+MGVBKnZzJv
+MGVZzBKnNtPd
+BKnTgrlJvNtPd
+JvNtPdTgrlZz
+BKnMGVNtPdJv
+ZzMGVTgrlBKn
+ZzNtPdJvTgrl
+TgrlNtPdBKnJv
+NtPdJvTgrlZz
+MGVBKnNtPdTgrl
+TgrlJvMGVZz
+JvBKnTgrlNtPd
+ZzJvMGVBKn
+ZzNtPdTgrlJv
+MGVZzNtPdTgrl
+TgrlZzMGVBKn
+BKnTgrlMGVNtPd
+MGVNtPdTgrlBKn
+TgrlNtPdMGVJv
+ZzNtPdJvBKn
+TgrlJvMGVBKn
+MGVNtPdZzJv
+MGVJvBKnZz
+NtPdZzBKnMGV
+BKnMGVTgrlZz
+MGVZzJvBKn
+JvTgrlNtPdZz
+BKnJvZzMGV
+MGVBKnTgrlJv
+ZzTgrlNtPdMGV
+ZzMGVJvNtPd
+BKnTgrlJvNtPd
+BKnZzMGVNtPd
+NtPdJvMGVBKn
+BKnTgrlJvZz
+TgrlBKnNtPdJv
+NtPdTgrlBKnJv
+MGVZzNtPdJv
+BKnZzJvNtPd
+ZzMGVBKnTgrl
+MGVTgrlZzNtPd
+ZzNtPdTgrlMGV
+MGVBKnNtPdTgrl
+MGVJvBKnZz
+MGVTgrlZzBKn
+NtPdTgrlBKnZz
+JvBKnZzTgrl
+MGVTgrlZzJv
+NtPdMGVTgrlZz
+JvZzTgrlBKn
+ZzTgrlJvBKn
+ZzTgrlJvMGV
+JvMGVBKnTgrl
+MGVBKnZzNtPd
+ZzNtPdBKnTgrl
+NtPdMGVJvBKn
+ZzBKnJvNtPd
+TgrlJvBKnMGV
+JvTgrlZzBKn
+ZzTgrlNtPdMGV
+JvZzTgrlNtPd
+ZzTgrlNtPdMGV
+MGVTgrlNtPdJv
+TgrlMGVBKnZz
+MGVBKnNtPdJv
+NtPdJvZzTgrl
+JvZzTgrlBKn
+ZzMGVTgrlNtPd
+NtPdJvMGVZz
+NtPdBKnMGVJv
+JvBKnZzNtPd
+JvTgrlNtPdZz
+JvTgrlZzBKn
+NtPdTgrlMGVJv
+MGVZzJvTgrl
+ZzMGVBKnJv
+BKnJvZzNtPd
+BKnMGVTgrlNtPd
+TgrlJvZzNtPd
+ZzNtPdMGVBKn
+TgrlZzNtPdJv
+TgrlMGVZzNtPd
+BKnJvNtPdTgrl
+MGVBKnTgrlJv
+JvBKnMGVTgrl
+NtPdMGVBKnJv
+TgrlJvMGVBKn
+BKnMGVJvTgrl
+TgrlNtPdBKnMGV
+ZzNtPdBKnTgrl
+MGVZzBKnJv
+JvZzMGVNtPd
+MGVNtPdJvTgrl
+TgrlNtPdBKnMGV
+MGVZzBKnNtPd
+TgrlBKnMGVNtPd
+NtPdZzMGVTgrl
+JvMGVTgrlZz
+BKnZzNtPdJv
+BKnZzJvMGV
+ZzBKnMGVJv
+BKnMGVTgrlZz
+JvZzBKnMGV
+ZzTgrlNtPdJv
+JvTgrlMGVNtPd
+TgrlNtPdJvBKn
+TgrlJvBKnMGV
+ZzBKnNtPdTgrl
+MGVNtPdZzBKn
+JvZzNtPdMGV
+NtPdBKnMGVZz
+ZzNtPdMGVBKn
+NtPdZzTgrlJv
+MGVTgrlBKnJv
+MGVJvBKnZz
+ZzJvBKnTgrl
+JvMGVTgrlZz
+NtPdTgrlJvBKn
+NtPdMGVJvTgrl
+TgrlZzBKnNtPd
+NtPdMGVJvTgrl
+MGVTgrlNtPdBKn
+MGVTgrlNtPdBKn
+JvMGVTgrlNtPd
+ZzBKnTgrlMGV
+BKnMGVZzNtPd
+BKnMGVNtPdJv
+ZzNtPdBKnJv
+JvTgrlMGVNtPd
+NtPdBKnZzMGV
+ZzMGVNtPdTgrl
+NtPdBKnZzMGV
+JvBKnMGVNtPd
+ZzJvNtPdTgrl
+ZzBKnJvTgrl
+TgrlZzBKnJv
+NtPdZzMGVBKn
+JvTgrlMGVNtPd
+JvTgrlBKnZz
+NtPdJvBKnZz
+TgrlJvNtPdTgrl
+
+Test Items:
+MGV	zMG
+BKn	vBK
+Tgrl	nNtP
+Zz	dZ
+Tgrl	nNtP
+MGV	vBK
+BKn	vBK
+Jv	dZ
+NtPd	nNtP
+Tgrl	VTgr
+Jv	dZ
+BKn	vBK
+Tgrl	nNtP
+NtPd	VTgr
+Jv	lJ
+Zz	lJ
+Jv	dZ
+MGV	vBK
+NtPd	nNtP
+MGV	zMG
+BKn	vBK
+Jv	lJ
+Tgrl	VTgr
+NtPd	VTgr
+Tgrl	nNtP
+Jv	dZ
+MGV	vBK
+Jv	lJ
+MGV	vBK
+NtPd	VTgr

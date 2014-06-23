@@ -1,0 +1,40 @@
+Lexicon: gubA	vAdA	pAzilu	tupivu	kAlAgibi	tidukizu	
+
+Training Sentences:
+pAziluvAdAtidukizukAlAgibipAzilukAlAgibigubAtidukizu
+tidukizutupivutidukizukAlAgibigubApAzilutupivuvAdA
+tidukizuvAdAtidukizutupivugubAvAdAkAlAgibipAzilu
+vAdAtupivugubAtupivugubAvAdAkAlAgibitidukizu
+pAzilukAlAgibigubApAziluvAdAgubAtupivukAlAgibi
+
+Test Items:
+gubA	ubAv
+pAzilu	AdApAz
+gubA	ubAv
+vAdA	izug
+kAlAgibi	ivukAlAg
+tidukizu	ibitiduk
+vAdA	ubAv
+tupivu	ilutup
+tidukizu	ivukAlAg
+gubA	izug
+tidukizu	ibitiduk
+kAlAgibi	ivukAlAg
+gubA	izug
+tidukizu	ibitiduk
+gubA	ubAv
+tidukizu	ibitiduk
+gubA	ubAv
+pAzilu	AdApAz
+kAlAgibi	ivukAlAg
+pAzilu	AdApAz
+tupivu	ilutup
+tidukizu	ivukAlAg
+pAzilu	ilutup
+vAdA	ubAv
+tupivu	AdApAz
+gubA	izug
+vAdA	ubAv
+tupivu	AdApAz
+vAdA	izug
+tupivu	ilutup

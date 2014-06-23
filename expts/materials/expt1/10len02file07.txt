@@ -1,0 +1,55 @@
+Lexicon: gipi	kAvA	dApAdu	zuvutu	bikiguzi	tilubAlA	
+
+Training Sentences:
+gipikAvA
+zuvutugipi
+tilubAlAdApAdu
+kAvAtilubAlA
+zuvutukAvA
+bikiguzigipi
+zuvutubikiguzi
+dApAdubikiguzi
+gipitilubAlA
+kAvAbikiguzi
+bikiguzidApAdu
+kAvAbikiguzi
+dApAdubikiguzi
+tilubAlAzuvutu
+zuvututilubAlA
+dApAduzuvutu
+gipitilubAlA
+zuvutugipi
+kAvAgipi
+dApAdukAvA
+
+Test Items:
+tilubAlA	uzitilub
+kAvA	AlAg
+dApAdu	AvAdAp
+tilubAlA	uzitilub
+bikiguzi	uzitilub
+gipi	AlAg
+dApAdu	Aduzuv
+bikiguzi	utubikig
+dApAdu	AvAdAp
+tilubAlA	uzitilub
+kAvA	AlAg
+tilubAlA	uzitilub
+dApAdu	AvAdAp
+tilubAlA	uzitilub
+bikiguzi	utubikig
+tilubAlA	uzitilub
+dApAdu	AvAdAp
+gipi	ipik
+dApAdu	AvAdAp
+zuvutu	Aduzuv
+tilubAlA	utubikig
+bikiguzi	uzitilub
+gipi	ipik
+bikiguzi	utubikig
+gipi	ipik
+tilubAlA	uzitilub
+kAvA	AlAg
+bikiguzi	uzitilub
+tilubAlA	utubikig
+kAvA	ipik

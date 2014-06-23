@@ -1,0 +1,45 @@
+Lexicon: Pz	tgm	KnFZ	bD	
+
+Training Sentences:
+PztgmKnFZbD
+PzKnFZbDtgm
+PztgmKnFZbD
+bDKnFZtgmPz
+bDPzKnFZtgm
+bDKnFZtgmPz
+tgmbDKnFZPz
+PztgmbDKnFZ
+PzbDtgmKnFZ
+PzbDtgmKnFZ
+
+Test Items:
+tgm	ztg
+bD	Zb
+tgm	ztg
+KnFZ	mKnF
+Pz	DP
+KnFZ	mKnF
+bD	Zb
+tgm	ztg
+Pz	Zb
+tgm	ztg
+Pz	DP
+bD	DP
+tgm	ztg
+KnFZ	mKnF
+bD	Zb
+tgm	ztg
+KnFZ	mKnF
+tgm	ztg
+KnFZ	mKnF
+bD	Zb
+KnFZ	mKnF
+tgm	ztg
+bD	DP
+Pz	Zb
+bD	Zb
+tgm	ztg
+bD	Zb
+KnFZ	mKnF
+tgm	ztg
+bD	DP

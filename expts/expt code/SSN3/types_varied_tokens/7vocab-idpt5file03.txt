@@ -1,0 +1,42 @@
+Lexicon: BN	vnJ	bZLg	Fd	trD	
+
+Training Sentences:
+BNtrDFdbZLg
+trDbZLgFdBN
+FdvnJtrDBN
+FdbZLgvnJtrD
+BNvnJFdtrD
+BNvnJbZLgFd
+BNvnJbZLgtrD
+
+Test Items:
+bZLg	JbZL
+BN	DB
+Fd	gF
+BN	gF
+bZLg	JbZL
+trD	dtr
+bZLg	JbZL
+Fd	gF
+BN	DB
+vnJ	dtr
+BN	DB
+Fd	DB
+vnJ	dtr
+bZLg	JbZL
+BN	gF
+trD	Nvn
+BN	gF
+trD	dtr
+Fd	DB
+vnJ	dtr
+BN	DB
+trD	dtr
+Fd	gF
+trD	dtr
+bZLg	JbZL
+trD	dtr
+BN	gF
+Fd	gF
+vnJ	Nvn
+Fd	gF

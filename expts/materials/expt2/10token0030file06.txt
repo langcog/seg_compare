@@ -1,0 +1,42 @@
+Lexicon: zitu	dApA	vulAbi	bAdugi	kAlukigu	tipizuvA	
+
+Training Sentences:
+dApAzituvulAbikAlukigu
+zitudApAtipizuvAkAlukigu
+kAlukigutipizuvAdApAzitu
+tipizuvAzitubAdugivulAbi
+bAdugitipizuvAdApAkAlukigu
+dApAzitubAdugitipizuvA
+bAdugivulAbikAlukiguvulAbi
+
+Test Items:
+zitu	uvAz
+tipizuvA	ugikAluk
+bAdugi	ApAvul
+dApA	uvAz
+vulAbi	ApAvul
+tipizuvA	ugikAluk
+vulAbi	ApAvul
+kAlukigu	ugikAluk
+tipizuvA	igutipiz
+dApA	itud
+vulAbi	ApAvul
+zitu	itud
+dApA	uvAz
+tipizuvA	igutipiz
+zitu	itud
+dApA	uvAz
+zitu	itud
+bAdugi	ApAvul
+dApA	uvAz
+tipizuvA	igutipiz
+bAdugi	ApAvul
+dApA	uvAz
+kAlukigu	igutipiz
+bAdugi	AbibAd
+dApA	uvAz
+zitu	uvAz
+bAdugi	AbibAd
+dApA	itud
+tipizuvA	igutipiz
+kAlukigu	ugikAluk

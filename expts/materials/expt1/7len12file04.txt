@@ -1,0 +1,37 @@
+Lexicon: bipA	guki	vAlutu	bApigi	zuziduti	kAlAdAvu	
+
+Training Sentences:
+vAlutugukikAlAdAvugukizuzidutibApigibipAzuzidutivAlutukAlAdAvubApigibipA
+kAlAdAvubipAvAlutuzuzidutivAlutugukizuzidutibApigikAlAdAvugukibApigibipA
+
+Test Items:
+kAlAdAvu	igizuzid
+bApigi	ukivAl
+kAlAdAvu	utikAlAd
+bipA	Avub
+vAlutu	ukivAl
+kAlAdAvu	igizuzid
+vAlutu	utubAp
+kAlAdAvu	utikAlAd
+vAlutu	utubAp
+guki	ipAg
+vAlutu	ukivAl
+kAlAdAvu	igizuzid
+bApigi	ukivAl
+bipA	ipAg
+zuziduti	igizuzid
+bipA	ipAg
+bApigi	utubAp
+bipA	Avub
+guki	ipAg
+kAlAdAvu	igizuzid
+vAlutu	utubAp
+bipA	ipAg
+zuziduti	igizuzid
+bipA	ipAg
+bApigi	ukivAl
+zuziduti	igizuzid
+vAlutu	utubAp
+bipA	ipAg
+vAlutu	ukivAl
+guki	ipAg

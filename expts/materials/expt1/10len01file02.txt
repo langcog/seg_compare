@@ -1,0 +1,75 @@
+Lexicon: pigu	zulA	luduvu	kAbiki	bAgituvA	dAtipAzi	
+
+Training Sentences:
+zulA
+bAgituvA
+zulA
+kAbiki
+dAtipAzi
+luduvu
+pigu
+dAtipAzi
+dAtipAzi
+luduvu
+kAbiki
+bAgituvA
+bAgituvA
+pigu
+luduvu
+pigu
+zulA
+kAbiki
+dAtipAzi
+pigu
+luduvu
+kAbiki
+bAgituvA
+pigu
+luduvu
+kAbiki
+luduvu
+pigu
+zulA
+dAtipAzi
+bAgituvA
+pigu
+zulA
+bAgituvA
+bAgituvA
+luduvu
+kAbiki
+dAtipAzi
+kAbiki
+zulA
+
+Test Items:
+luduvu	uvukAb
+zulA	Azip
+dAtipAzi	ikibAgit
+bAgituvA	uvAdAtip
+dAtipAzi	ikibAgit
+kAbiki	uvukAb
+zulA	iguz
+pigu	Azip
+dAtipAzi	ikibAgit
+bAgituvA	uvAdAtip
+luduvu	ulAlud
+bAgituvA	ikibAgit
+zulA	Azip
+luduvu	ulAlud
+pigu	iguz
+bAgituvA	uvAdAtip
+kAbiki	uvukAb
+pigu	iguz
+dAtipAzi	ikibAgit
+bAgituvA	ikibAgit
+pigu	iguz
+dAtipAzi	ikibAgit
+luduvu	uvukAb
+zulA	Azip
+kAbiki	uvukAb
+bAgituvA	ikibAgit
+kAbiki	ulAlud
+pigu	Azip
+bAgituvA	ikibAgit
+pigu	iguz

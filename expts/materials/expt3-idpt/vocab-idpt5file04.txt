@@ -1,0 +1,185 @@
+Lexicon: Jb	Vgf	lFTk	NL	pDM	
+
+Training Sentences:
+JblFTkNLVgf
+lFTkNLJbpDM
+JbVgfpDMlFTk
+VgflFTkNLJb
+pDMJbVgflFTk
+VgfNLpDMlFTk
+lFTkpDMVgfJb
+pDMJbVgflFTk
+NLJbVgflFTk
+VgflFTkJbNL
+lFTkNLpDMVgf
+pDMlFTkNLVgf
+VgfNLlFTkpDM
+NLJbpDMVgf
+JbVgflFTkpDM
+lFTkVgfpDMJb
+JbVgfpDMlFTk
+NLlFTkJbVgf
+pDMJbVgflFTk
+pDMNLlFTkJb
+NLVgflFTkJb
+pDMVgflFTkNL
+NLVgfpDMlFTk
+JblFTkNLVgf
+JbNLpDMlFTk
+pDMVgflFTkJb
+lFTkJbNLpDM
+JblFTkpDMVgf
+NLlFTkpDMJb
+NLpDMVgfJb
+NLlFTkVgfpDM
+JbNLpDMlFTk
+lFTkNLJbVgf
+VgfpDMJblFTk
+VgfpDMJblFTk
+VgfJbNLlFTk
+pDMJblFTkVgf
+JblFTkNLpDM
+JbpDMVgfNL
+NLJbpDMlFTk
+VgfNLpDMJb
+NLVgfJbpDM
+pDMVgfJblFTk
+lFTkNLpDMJb
+NLpDMVgflFTk
+pDMNLVgflFTk
+JbVgflFTkNL
+JblFTkNLpDM
+VgfJblFTkNL
+VgfJbpDMNL
+pDMNLVgflFTk
+VgfpDMJblFTk
+NLJbpDMlFTk
+pDMNLVgfJb
+NLlFTkpDMVgf
+VgfNLlFTkpDM
+JblFTkNLVgf
+VgfpDMJbNL
+pDMlFTkJbVgf
+JbVgflFTkNL
+pDMlFTkNLJb
+VgfJblFTkpDM
+NLlFTkpDMJb
+VgfpDMNLlFTk
+VgfpDMJblFTk
+NLJblFTkpDM
+pDMVgfJbNL
+pDMJblFTkVgf
+lFTkJbVgfNL
+NLpDMVgfJb
+JbpDMVgflFTk
+NLJbVgflFTk
+VgfpDMJbNL
+pDMNLVgflFTk
+pDMVgfNLlFTk
+pDMJbNLlFTk
+NLVgflFTkpDM
+JblFTkpDMVgf
+pDMNLJblFTk
+JbNLpDMVgf
+pDMlFTkNLJb
+JblFTkVgfNL
+JbNLlFTkpDM
+JbpDMlFTkNL
+VgfNLlFTkpDM
+JbVgfNLlFTk
+JbpDMlFTkVgf
+lFTkpDMJbNL
+NLlFTkJbpDM
+NLJbVgflFTk
+JbNLVgfpDM
+pDMlFTkJbNL
+pDMJbVgfNL
+NLpDMlFTkVgf
+VgfNLlFTkJb
+NLpDMlFTkVgf
+NLJbpDMlFTk
+VgfJbpDMNL
+NLpDMVgfJb
+VgfpDMJbNL
+pDMJbVgfNL
+JbVgflFTkNL
+VgfNLlFTkpDM
+pDMVgfNLlFTk
+JbVgfpDMlFTk
+pDMVgfJbNL
+VgfpDMNLlFTk
+VgflFTkNLJb
+pDMJbNLlFTk
+VgfpDMJblFTk
+NLpDMJbVgf
+VgfNLJbpDM
+lFTkJbNLVgf
+VgflFTkNLpDM
+pDMJbNLVgf
+lFTkpDMVgfJb
+NLVgfpDMlFTk
+NLVgflFTkJb
+lFTkNLJbpDM
+pDMJblFTkNL
+NLlFTkJbpDM
+VgflFTkNLJb
+JbVgflFTkpDM
+VgfNLlFTkJb
+JbpDMVgfNL
+lFTkJbNLpDM
+NLJbpDMVgf
+pDMlFTkNLVgf
+pDMJblFTkNL
+JbVgfNLlFTk
+lFTkNLJbpDM
+VgfNLJbpDM
+VgfpDMJblFTk
+NLVgfJblFTk
+NLlFTkVgfJb
+pDMNLlFTkJb
+lFTkVgfNLpDM
+pDMJbNLVgf
+JbVgflFTkNL
+pDMVgflFTkJb
+pDMVgflFTkNL
+pDMVgfNLlFTk
+lFTkpDMVgfNL
+JbVgfNLpDM
+pDMJbNLVgf
+JbVgflFTkpDM
+JbNLVgfpDM
+VgflFTkpDMJb
+lFTkVgfJbNL
+pDMNLVgfVgf
+
+Test Items:
+Jb	MJ
+Vgf	bVg
+lFTk	flFT
+NL	MJ
+lFTk	flFT
+NL	MJ
+lFTk	flFT
+Vgf	bVg
+pDM	LpD
+Jb	MJ
+lFTk	flFT
+Vgf	bVg
+lFTk	flFT
+pDM	LpD
+lFTk	flFT
+Jb	MJ
+NL	MJ
+lFTk	flFT
+NL	kN
+Jb	MJ
+pDM	LpD
+NL	MJ
+pDM	bVg
+Vgf	bVg
+NL	kN
+lFTk	flFT
+Vgf	bVg
+Jb	MJ
+lFTk	flFT
+Vgf	bVg

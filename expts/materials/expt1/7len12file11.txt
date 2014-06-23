@@ -1,0 +1,37 @@
+Lexicon: kibi	dAdu	pAlugi	bAzutu	kAguvAti	zilAvupi	
+
+Training Sentences:
+dAdukAguvAtikibizilAvupipAlugikAguvAtikibipAlugidAduzilAvupibAzutuzilAvupi
+kAguvAtibAzutukAguvAtipAlugibAzutudAdupAlugikibizilAvupidAdukibizilAvupi
+
+Test Items:
+kibi	upik
+bAzutu	AdupAl
+kAguvAti	AtizilAv
+dAdu	upik
+kAguvAti	AtizilAv
+zilAvupi	AtizilAv
+kAguvAti	utukAguv
+bAzutu	AdupAl
+zilAvupi	utukAguv
+bAzutu	ugibAz
+dAdu	ibid
+zilAvupi	AtizilAv
+kibi	ibid
+bAzutu	ugibAz
+zilAvupi	AtizilAv
+bAzutu	AdupAl
+dAdu	ibid
+zilAvupi	utukAguv
+pAlugi	AdupAl
+kibi	upik
+kAguvAti	utukAguv
+pAlugi	ugibAz
+zilAvupi	AtizilAv
+dAdu	ibid
+kibi	upik
+kAguvAti	AtizilAv
+pAlugi	ugibAz
+kAguvAti	utukAguv
+zilAvupi	AtizilAv
+pAlugi	AdupAl

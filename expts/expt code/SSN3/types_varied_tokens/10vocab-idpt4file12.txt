@@ -1,0 +1,45 @@
+Lexicon: MR	PvZ	flkD	tB	
+
+Training Sentences:
+MRflkDtBPvZ
+flkDMRtBPvZ
+flkDPvZMRtB
+PvZMRflkDtB
+tBflkDMRPvZ
+tBflkDMRPvZ
+flkDtBMRPvZ
+tBflkDPvZMR
+PvZMRtBflkD
+PvZflkDtBMR
+
+Test Items:
+MR	Dt
+flkD	Zflk
+MR	BM
+flkD	Zflk
+tB	BM
+MR	BM
+tB	Dt
+flkD	Zflk
+tB	BM
+flkD	Zflk
+tB	BM
+MR	Dt
+tB	BM
+flkD	Zflk
+tB	BM
+PvZ	RPv
+MR	Dt
+tB	BM
+flkD	Zflk
+tB	Dt
+MR	BM
+PvZ	RPv
+flkD	Zflk
+tB	BM
+PvZ	RPv
+MR	BM
+PvZ	RPv
+tB	BM
+MR	BM
+PvZ	RPv

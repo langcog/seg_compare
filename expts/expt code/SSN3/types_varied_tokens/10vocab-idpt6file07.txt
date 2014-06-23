@@ -1,0 +1,45 @@
+Lexicon: bf	pBr	RgtF	Dn	Nlz	MKGZ	
+
+Training Sentences:
+RgtFDnMKGZNlz
+RgtFMKGZNlzbf
+NlzpBrDnMKGZ
+pBrbfNlzMKGZ
+MKGZpBrNlzRgtF
+MKGZRgtFDnbf
+DnpBrNlzbf
+RgtFbfDnNlz
+pBrDnRgtFbf
+MKGZbfpBrDn
+
+Test Items:
+Dn	FD
+bf	Zb
+pBr	fpB
+RgtF	zMKG
+bf	FD
+pBr	nNl
+bf	FD
+MKGZ	zMKG
+pBr	nNl
+RgtF	zMKG
+pBr	fpB
+bf	Zb
+pBr	fpB
+Nlz	nNl
+bf	Zb
+pBr	nNl
+Nlz	fpB
+RgtF	rRgt
+pBr	fpB
+Nlz	nNl
+pBr	fpB
+Nlz	nNl
+RgtF	zMKG
+bf	FD
+Dn	Zb
+pBr	nNl
+RgtF	zMKG
+Dn	FD
+RgtF	rRgt
+MKGZ	rRgt

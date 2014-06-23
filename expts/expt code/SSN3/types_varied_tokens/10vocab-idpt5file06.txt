@@ -1,0 +1,45 @@
+Lexicon: DF	Ngb	GBlf	vT	MPV	
+
+Training Sentences:
+MPVDFvTGBlf
+GBlfDFNgbMPV
+MPVNgbvTGBlf
+DFMPVGBlfNgb
+MPVDFNgbvT
+MPVDFGBlfNgb
+DFNgbGBlfvT
+vTNgbGBlfMPV
+vTNgbMPVGBlf
+DFvTvTDF
+
+Test Items:
+DF	fv
+vT	VD
+DF	fv
+Ngb	FNg
+MPV	TMP
+vT	VD
+GBlf	bGBl
+DF	fv
+GBlf	bGBl
+Ngb	FNg
+GBlf	bGBl
+MPV	FNg
+GBlf	bGBl
+MPV	TMP
+GBlf	bGBl
+Ngb	FNg
+vT	VD
+Ngb	FNg
+DF	fv
+vT	VD
+DF	VD
+MPV	FNg
+Ngb	TMP
+DF	VD
+GBlf	bGBl
+DF	fv
+vT	VD
+MPV	FNg
+DF	VD
+GBlf	bGBl

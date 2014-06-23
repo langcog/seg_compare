@@ -1,0 +1,41 @@
+Lexicon: dG	nlm	pNrf	bJ	
+
+Training Sentences:
+bJnlmpNrfdG
+bJnlmdGpNrf
+pNrfnlmbJdG
+bJpNrfnlmdG
+pNrfbJdGnlm
+pNrfnlmbJdG
+
+Test Items:
+bJ	Jd
+nlm	Gnl
+pNrf	mpNr
+nlm	Gnl
+dG	Jd
+bJ	fb
+dG	fb
+pNrf	mpNr
+nlm	Gnl
+bJ	Jd
+nlm	Gnl
+pNrf	mpNr
+dG	fb
+pNrf	mpNr
+nlm	Gnl
+dG	fb
+nlm	Gnl
+bJ	Jd
+nlm	Gnl
+bJ	Jd
+dG	fb
+nlm	Gnl
+dG	Jd
+pNrf	mpNr
+bJ	Jd
+pNrf	mpNr
+dG	Jd
+nlm	Gnl
+dG	Jd
+nlm	Gnl

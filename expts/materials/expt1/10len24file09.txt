@@ -1,0 +1,36 @@
+Lexicon: zipA	pitu	vAludA	biguzu	kAgitibA	dulAkivu	
+
+Training Sentences:
+zipAkAgitibAzipAdulAkivupitukAgitibApitudulAkivubiguzupitudulAkivubiguzupitukAgitibAvAludAkAgitibAbiguzudulAkivuvAludAzipAbiguzuvAludAzipAvAludA
+
+Test Items:
+zipA	ipAp
+dulAkivu	uzukAgit
+vAludA	udAbig
+zipA	ipAp
+dulAkivu	ibAdulAk
+kAgitibA	uzukAgit
+dulAkivu	ibAdulAk
+vAludA	udAbig
+kAgitibA	uzukAgit
+zipA	ipAp
+kAgitibA	uzukAgit
+biguzu	ituvAl
+vAludA	udAbig
+zipA	ipAp
+kAgitibA	ibAdulAk
+pitu	ipAp
+kAgitibA	uzukAgit
+zipA	ipAp
+biguzu	udAbig
+pitu	ipAp
+zipA	ipAp
+biguzu	ituvAl
+kAgitibA	ibAdulAk
+dulAkivu	uzukAgit
+vAludA	ituvAl
+biguzu	udAbig
+kAgitibA	ibAdulAk
+dulAkivu	uzukAgit
+pitu	ivuz
+kAgitibA	uzukAgit

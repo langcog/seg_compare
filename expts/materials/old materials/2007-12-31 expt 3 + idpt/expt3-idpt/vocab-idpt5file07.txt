@@ -1,0 +1,185 @@
+Lexicon: gK	VpN	rmfT	JM	FGd	
+
+Training Sentences:
+FGdrmfTJMVpN
+rmfTgKVpNJM
+gKJMFGdVpN
+FGdJMVpNrmfT
+gKJMFGdVpN
+gKJMrmfTVpN
+JMFGdgKVpN
+gKVpNFGdrmfT
+VpNrmfTFGdJM
+VpNJMrmfTgK
+VpNrmfTgKJM
+FGdVpNgKJM
+VpNrmfTFGdJM
+JMgKrmfTFGd
+gKrmfTVpNJM
+JMVpNFGdgK
+FGdJMgKVpN
+VpNFGdJMrmfT
+gKrmfTVpNJM
+FGdgKrmfTVpN
+FGdrmfTVpNgK
+FGdJMgKVpN
+VpNFGdgKrmfT
+rmfTgKJMVpN
+gKrmfTFGdVpN
+rmfTJMVpNFGd
+FGdrmfTJMgK
+gKVpNFGdJM
+gKrmfTJMFGd
+gKFGdrmfTJM
+JMFGdgKrmfT
+VpNgKFGdJM
+VpNrmfTFGdgK
+JMVpNrmfTgK
+rmfTFGdgKVpN
+gKFGdVpNJM
+gKVpNFGdJM
+VpNgKJMrmfT
+gKFGdJMVpN
+JMVpNFGdrmfT
+rmfTgKVpNJM
+VpNJMFGdrmfT
+rmfTgKJMFGd
+JMgKrmfTFGd
+gKrmfTFGdVpN
+FGdVpNJMgK
+gKrmfTFGdJM
+rmfTFGdVpNgK
+FGdJMVpNrmfT
+rmfTgKVpNFGd
+JMrmfTFGdgK
+JMgKFGdrmfT
+JMVpNrmfTFGd
+gKJMVpNFGd
+rmfTFGdVpNgK
+VpNgKFGdJM
+rmfTVpNFGdJM
+rmfTJMVpNFGd
+rmfTJMVpNgK
+VpNFGdgKJM
+JMgKrmfTVpN
+rmfTFGdVpNgK
+JMrmfTgKVpN
+FGdJMVpNgK
+FGdVpNJMrmfT
+FGdgKVpNrmfT
+rmfTVpNgKJM
+FGdgKrmfTVpN
+gKrmfTVpNFGd
+gKrmfTVpNJM
+JMgKVpNrmfT
+gKVpNrmfTFGd
+VpNgKrmfTFGd
+JMrmfTFGdVpN
+JMgKFGdrmfT
+VpNgKrmfTJM
+JMrmfTgKFGd
+rmfTFGdgKJM
+FGdrmfTJMVpN
+FGdJMrmfTgK
+gKrmfTVpNJM
+gKFGdrmfTVpN
+FGdrmfTVpNgK
+rmfTgKJMFGd
+rmfTJMVpNFGd
+rmfTJMVpNFGd
+JMFGdrmfTVpN
+gKFGdJMVpN
+JMgKFGdVpN
+FGdrmfTJMVpN
+gKJMVpNFGd
+VpNrmfTJMgK
+gKVpNJMrmfT
+FGdgKVpNrmfT
+FGdVpNgKrmfT
+FGdVpNgKJM
+gKVpNJMFGd
+gKrmfTVpNFGd
+rmfTFGdJMVpN
+FGdVpNgKJM
+FGdrmfTJMgK
+gKVpNJMFGd
+VpNrmfTFGdgK
+rmfTFGdgKVpN
+VpNrmfTJMFGd
+rmfTFGdVpNgK
+VpNgKJMFGd
+JMrmfTgKFGd
+JMrmfTVpNFGd
+VpNrmfTgKFGd
+rmfTVpNFGdgK
+FGdVpNrmfTgK
+JMVpNrmfTgK
+JMgKFGdrmfT
+VpNgKJMFGd
+JMFGdrmfTVpN
+gKJMrmfTFGd
+gKJMrmfTVpN
+VpNrmfTJMFGd
+FGdVpNgKrmfT
+gKFGdVpNrmfT
+FGdJMgKrmfT
+rmfTFGdgKVpN
+rmfTFGdgKJM
+JMFGdrmfTgK
+gKJMVpNrmfT
+VpNgKFGdrmfT
+gKVpNrmfTFGd
+JMFGdgKrmfT
+VpNgKrmfTJM
+rmfTJMFGdgK
+FGdrmfTVpNJM
+JMVpNgKrmfT
+JMFGdrmfTgK
+JMFGdrmfTgK
+JMgKVpNFGd
+gKrmfTJMVpN
+JMgKFGdVpN
+rmfTgKVpNJM
+FGdVpNJMgK
+FGdVpNrmfTJM
+gKJMVpNFGd
+FGdVpNJMrmfT
+gKJMrmfTFGd
+JMrmfTFGdVpN
+JMgKrmfTVpN
+JMVpNgKrmfT
+JMFGdrmfTgK
+JMrmfTFGdJM
+JMrmfTJMJM
+
+Test Items:
+rmfT	Nrmf
+VpN	MFG
+gK	TJ
+rmfT	Nrmf
+gK	TJ
+rmfT	Nrmf
+JM	TJ
+gK	dg
+FGd	KVp
+VpN	KVp
+gK	TJ
+FGd	KVp
+gK	dg
+JM	TJ
+gK	dg
+VpN	KVp
+FGd	MFG
+JM	TJ
+FGd	MFG
+gK	dg
+rmfT	Nrmf
+FGd	MFG
+rmfT	Nrmf
+gK	dg
+rmfT	Nrmf
+FGd	MFG
+gK	dg
+rmfT	Nrmf
+VpN	KVp
+rmfT	Nrmf

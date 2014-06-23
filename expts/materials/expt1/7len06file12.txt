@@ -1,0 +1,39 @@
+Lexicon: tilA	dApA	vAzivu	bAguki	duzulubi	tukApigi	
+
+Training Sentences:
+dApAtilAvAzivubAgukiduzulubitukApigi
+vAzivudApAtilAduzulubibAgukitukApigi
+bAgukivAzivutilAtukApigiduzulubidApA
+dApAbAgukiduzulubivAzivutilAtukApigi
+
+Test Items:
+bAguki	ApAvAz
+duzulubi	ukiduzul
+tilA	igit
+bAguki	ivubAg
+tilA	igit
+bAguki	ivubAg
+duzulubi	ukiduzul
+tukApigi	ukiduzul
+vAzivu	ivubAg
+dApA	igit
+duzulubi	ukiduzul
+tukApigi	ubitukAp
+bAguki	ApAvAz
+dApA	igit
+tilA	ilAd
+tukApigi	ukiduzul
+vAzivu	ivubAg
+tukApigi	ukiduzul
+bAguki	ivubAg
+vAzivu	ApAvAz
+dApA	igit
+bAguki	ApAvAz
+vAzivu	ApAvAz
+bAguki	ivubAg
+vAzivu	ApAvAz
+tukApigi	ubitukAp
+bAguki	ApAvAz
+tukApigi	ukiduzul
+bAguki	ApAvAz
+tilA	igit

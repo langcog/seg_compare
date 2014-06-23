@@ -1,0 +1,41 @@
+Lexicon: pT	kBK	mlvn	zG	bdZ	NLrJ	
+
+Training Sentences:
+mlvnbdZpTNLrJ
+NLrJkBKzGbdZ
+zGmlvnNLrJpT
+kBKbdZzGpT
+mlvnNLrJkBKbdZ
+kBKmlvnzGpT
+
+Test Items:
+bdZ	TkB
+zG	Jp
+bdZ	Gbd
+pT	nz
+NLrJ	ZNLr
+zG	nz
+pT	nz
+mlvn	ZNLr
+zG	nz
+mlvn	Kmlv
+bdZ	TkB
+pT	nz
+zG	Jp
+bdZ	Gbd
+pT	nz
+bdZ	TkB
+NLrJ	ZNLr
+bdZ	Gbd
+kBK	TkB
+zG	nz
+mlvn	ZNLr
+NLrJ	Kmlv
+mlvn	ZNLr
+kBK	Gbd
+pT	nz
+bdZ	Gbd
+zG	Jp
+pT	nz
+NLrJ	Kmlv
+pT	nz

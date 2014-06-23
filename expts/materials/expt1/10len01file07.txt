@@ -1,0 +1,75 @@
+Lexicon: bipA	lugi	vubAlA	zududA	tipikikA	zigutuvA	
+
+Training Sentences:
+bipA
+zigutuvA
+tipikikA
+vubAlA
+bipA
+tipikikA
+zududA
+lugi
+vubAlA
+bipA
+zigutuvA
+lugi
+vubAlA
+tipikikA
+zududA
+vubAlA
+tipikikA
+vubAlA
+lugi
+bipA
+vubAlA
+bipA
+lugi
+zududA
+tipikikA
+zigutuvA
+tipikikA
+zududA
+bipA
+zigutuvA
+lugi
+zigutuvA
+lugi
+vubAlA
+tipikikA
+lugi
+zigutuvA
+bipA
+zududA
+zududA
+
+Test Items:
+vubAlA	AlAzud
+bipA	uvAb
+tipikikA	ikAzigut
+bipA	uvAb
+vubAlA	ugivub
+tipikikA	udAtipik
+vubAlA	ugivub
+lugi	ipAl
+vubAlA	AlAzud
+bipA	ipAl
+vubAlA	ugivub
+tipikikA	udAtipik
+lugi	ipAl
+bipA	uvAb
+lugi	ipAl
+bipA	ipAl
+vubAlA	ugivub
+bipA	ipAl
+zigutuvA	ikAzigut
+lugi	uvAb
+tipikikA	udAtipik
+zududA	AlAzud
+vubAlA	ugivub
+zududA	AlAzud
+lugi	ipAl
+tipikikA	udAtipik
+zududA	AlAzud
+tipikikA	udAtipik
+zududA	AlAzud
+bipA	uvAb

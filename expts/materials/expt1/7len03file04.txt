@@ -1,0 +1,44 @@
+Lexicon: pAgi	dAdu	zikigu	lAlubA	zubivutu	vAtipikA	
+
+Training Sentences:
+vAtipikAzikigudAdu
+dAdulAlubAzubivutu
+lAlubAdAdupAgi
+zikigupAgizubivutu
+zikigupAgidAdu
+pAgilAlubAzubivutu
+lAlubAvAtipikAdAdu
+vAtipikApAgizubivutu
+zubivutulAlubAvAtipikA
+
+Test Items:
+zikigu	Aduzik
+pAgi	ikAp
+zikigu	igulAl
+zubivutu	utuvAtip
+pAgi	ikAp
+lAlubA	igulAl
+vAtipikA	ubAzubiv
+pAgi	ikAp
+zikigu	Aduzik
+lAlubA	igulAl
+vAtipikA	ubAzubiv
+zikigu	Aduzik
+zubivutu	ubAzubiv
+pAgi	Agid
+dAdu	ikAp
+zubivutu	ubAzubiv
+lAlubA	igulAl
+vAtipikA	ubAzubiv
+zikigu	igulAl
+lAlubA	Aduzik
+pAgi	ikAp
+vAtipikA	utuvAtip
+zubivutu	ubAzubiv
+pAgi	Agid
+vAtipikA	ubAzubiv
+pAgi	ikAp
+dAdu	Agid
+zikigu	igulAl
+lAlubA	Aduzik
+dAdu	Agid

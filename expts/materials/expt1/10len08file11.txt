@@ -1,0 +1,40 @@
+Lexicon: luvA	guti	kibilA	dAgidu	tupikAbA	zuzivupA	
+
+Training Sentences:
+gutitupikAbAzuzivupAluvAkibilAdAgidukibilAluvA
+gutitupikAbAkibilAtupikAbAdAgiduluvAzuzivupAdAgidu
+luvAzuzivupAgutikibilAdAgidutupikAbAkibilAguti
+luvAkibilAtupikAbAzuzivupAdAgiduzuzivupAgutiluvA
+tupikAbAgutidAgiduluvAtupikAbAgutizuzivupAdAgidu
+
+Test Items:
+dAgidu	utikib
+luvA	uvAg
+kibilA	ilAdAg
+tupikAbA	idutupik
+zuzivupA	AbAzuziv
+dAgidu	ilAdAg
+luvA	upAl
+guti	uvAg
+tupikAbA	AbAzuziv
+zuzivupA	idutupik
+dAgidu	utikib
+luvA	uvAg
+dAgidu	ilAdAg
+kibilA	utikib
+tupikAbA	idutupik
+dAgidu	ilAdAg
+tupikAbA	AbAzuziv
+dAgidu	utikib
+zuzivupA	idutupik
+tupikAbA	AbAzuziv
+dAgidu	ilAdAg
+tupikAbA	idutupik
+kibilA	utikib
+dAgidu	ilAdAg
+luvA	uvAg
+kibilA	utikib
+guti	upAl
+luvA	uvAg
+tupikAbA	AbAzuziv
+luvA	upAl

@@ -1,0 +1,65 @@
+Lexicon: bApA	luvA	dAkAti	zipilA	biguvudu	zugituki	
+
+Training Sentences:
+biguvududAkAtizipilAbApA
+dAkAtizipilAbiguvudubApA
+bApAluvAdAkAtizipilA
+luvAbiguvududAkAtizugituki
+biguvuduzipilAdAkAtizugituki
+dAkAtibApAzugitukizipilA
+luvAdAkAtizugitukibiguvudu
+biguvuduzugitukizipilAdAkAti
+dAkAtibiguvudubApAzipilA
+zipilAbiguvudubApAdAkAti
+zipilAdAkAtibiguvuduluvA
+luvAdAkAtizipilAzugituki
+zugitukidAkAtibApAzipilA
+zugitukibApAzipilAluvA
+zipilAzugitukibiguvuduluvA
+luvAzipilAbiguvuduzugituki
+dAkAtizipilAluvAbApA
+zugitukibiguvudubApAdAkAti
+bApAzugitukiluvAbiguvudu
+biguvuduzugitukizipilAbApA
+dAkAtiluvAbApAzugituki
+zugitukizipilAbApAluvA
+bApAzugitukiluvAdAkAti
+zipilAbApAluvAzugituki
+biguvududAkAtibApAzipilA
+zipilAbApAluvAzugituki
+luvAbiguvududAkAtizugituki
+biguvudubApAdAkAtiluvA
+bApAzugitukiluvAbiguvudu
+luvAbiguvuduluvAbiguvudu
+
+Test Items:
+zugituki	ilAbiguv
+bApA	ApAl
+luvA	ukib
+biguvudu	ilAbiguv
+zugituki	uduzugit
+dAkAti	uvAdAk
+zipilA	uvAdAk
+dAkAti	Atizip
+luvA	ukib
+biguvudu	ilAbiguv
+dAkAti	Atizip
+zipilA	uvAdAk
+luvA	ApAl
+zipilA	Atizip
+luvA	ApAl
+zipilA	Atizip
+bApA	ukib
+dAkAti	Atizip
+bApA	ukib
+zugituki	ilAbiguv
+luvA	ukib
+biguvudu	uduzugit
+bApA	ApAl
+dAkAti	uvAdAk
+biguvudu	uduzugit
+dAkAti	uvAdAk
+luvA	ApAl
+dAkAti	Atizip
+luvA	ApAl
+zugituki	uduzugit

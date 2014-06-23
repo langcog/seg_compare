@@ -1,0 +1,45 @@
+Lexicon: ZJ	PnL	RTNm	
+
+Training Sentences:
+RTNmPnLZJRTNm
+PnLZJRTNmZJ
+ZJRTNmPnLRTNm
+RTNmPnLRTNmZJ
+ZJRTNmZJPnL
+ZJPnLZJRTNm
+PnLRTNmPnLRTNm
+RTNmPnLZJPnL
+ZJPnLZJPnL
+ZJPnLZJPnL
+
+Test Items:
+RTNm	LRTN
+PnL	JPn
+ZJ	mZ
+PnL	JPn
+ZJ	mZ
+PnL	JPn
+ZJ	mZ
+PnL	JPn
+ZJ	mZ
+PnL	JPn
+ZJ	mZ
+PnL	JPn
+ZJ	mZ
+RTNm	LRTN
+ZJ	mZ
+PnL	JPn
+ZJ	mZ
+RTNm	LRTN
+ZJ	mZ
+RTNm	LRTN
+ZJ	mZ
+PnL	JPn
+ZJ	mZ
+PnL	JPn
+RTNm	LRTN
+ZJ	mZ
+PnL	JPn
+RTNm	LRTN
+PnL	JPn
+ZJ	mZ

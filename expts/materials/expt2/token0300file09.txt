@@ -1,0 +1,110 @@
+Lexicon: zL	gV	vbB	kKt	dDZp	lGPT	
+
+Training Sentences:
+vbBdDZplGPTgV
+zLdDZpkKtvbB
+vbBgVlGPTdDZp
+vbBgVdDZpkKt
+vbBzLlGPTdDZp
+gVlGPTzLkKt
+gVvbBdDZpkKt
+zLvbBkKtlGPT
+lGPTkKtgVzL
+vbBkKtgVzL
+vbBkKtdDZpzL
+gVkKtlGPTzL
+dDZpvbBkKtlGPT
+kKtdDZpvbBzL
+gVvbBkKtlGPT
+zLvbBdDZpgV
+kKtlGPTdDZpgV
+dDZpvbBlGPTzL
+gVvbBlGPTzL
+gVlGPTvbBzL
+dDZpkKtvbBlGPT
+dDZpvbBzLlGPT
+kKtgVdDZplGPT
+zLdDZpvbBgV
+lGPTzLkKtdDZp
+gVkKtzLdDZp
+gVzLvbBlGPT
+kKtgVlGPTzL
+gVdDZpkKtvbB
+gVvbBkKtzL
+lGPTdDZpkKtgV
+kKtzLvbBgV
+dDZpkKtzLgV
+kKtdDZplGPTzL
+vbBzLgVdDZp
+gVkKtdDZplGPT
+gVdDZpkKtzL
+vbBkKtdDZplGPT
+kKtvbBgVlGPT
+gVkKtlGPTdDZp
+lGPTdDZpkKtzL
+vbBkKtlGPTdDZp
+lGPTkKtvbBdDZp
+gVvbBzLdDZp
+kKtdDZpzLlGPT
+kKtzLgVvbB
+lGPTdDZpvbBzL
+lGPTzLgVvbB
+gVzLkKtvbB
+vbBdDZpgVzL
+vbBgVlGPTzL
+zLlGPTvbBdDZp
+lGPTgVvbBkKt
+kKtzLvbBlGPT
+vbBgVkKtlGPT
+gVdDZpvbBlGPT
+dDZpvbBlGPTkKt
+kKtdDZplGPTzL
+dDZpgVlGPTvbB
+lGPTzLgVdDZp
+zLvbBlGPTkKt
+gVlGPTzLdDZp
+lGPTvbBgVzL
+dDZpkKtgVzL
+zLlGPTgVdDZp
+vbBdDZpkKtzL
+gVkKtzLlGPT
+kKtdDZpgVzL
+dDZpzLlGPTgV
+dDZplGPTkKtvbB
+dDZpvbBlGPTgV
+vbBkKtgVzL
+lGPTvbBkKtdDZp
+kKtvbBdDZpgV
+zLkKtgVzL
+
+Test Items:
+gV	Tz
+dDZp	plGP
+zL	Tz
+vbB	Vvb
+kKt	BkK
+zL	Tz
+gV	Lg
+zL	Tz
+dDZp	plGP
+zL	Lg
+dDZp	tdDZ
+vbB	BkK
+kKt	Vvb
+dDZp	plGP
+vbB	Vvb
+zL	Tz
+kKt	BkK
+dDZp	tdDZ
+zL	Lg
+vbB	Vvb
+lGPT	tdDZ
+zL	Tz
+lGPT	tdDZ
+kKt	BkK
+gV	Tz
+lGPT	plGP
+dDZp	plGP
+vbB	Vvb
+lGPT	plGP
+gV	Lg

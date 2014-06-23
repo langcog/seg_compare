@@ -1,0 +1,60 @@
+Lexicon: Ff	JLT	kvBG	gV	lDn	bPZN	
+
+Training Sentences:
+gVJLTbPZNlDn
+bPZNFfJLTkvBG
+gVFfbPZNkvBG
+kvBGFfbPZNlDn
+FfbPZNgVlDn
+gVlDnkvBGJLT
+FfkvBGbPZNJLT
+kvBGgVlDnJLT
+bPZNFfkvBGlDn
+JLTlDnFfgV
+lDnJLTgVFf
+JLTbPZNgVlDn
+gVlDnbPZNJLT
+kvBGlDnFfbPZN
+JLTlDngVkvBG
+bPZNkvBGgVFf
+kvBGgVFfJLT
+JLTkvBGFfbPZN
+FfJLTgVkvBG
+kvBGJLTgVFf
+lDngVJLTbPZN
+lDnbPZNkvBGJLT
+FflDnkvBGJLT
+FflDnbPZNgV
+kvBGlDngVFf
+
+Test Items:
+bPZN	TkvB
+lDn	VlD
+gV	NF
+lDn	VlD
+bPZN	nbPZ
+Ff	Gg
+JLT	VlD
+bPZN	TkvB
+kvBG	nbPZ
+JLT	VlD
+kvBG	nbPZ
+Ff	NF
+gV	Gg
+kvBG	TkvB
+gV	Gg
+lDn	VlD
+JLT	VlD
+bPZN	nbPZ
+gV	NF
+JLT	VlD
+Ff	Gg
+JLT	VlD
+lDn	fJL
+gV	Gg
+bPZN	TkvB
+JLT	VlD
+lDn	fJL
+bPZN	TkvB
+gV	Gg
+kvBG	TkvB

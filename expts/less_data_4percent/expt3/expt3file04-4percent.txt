@@ -1,0 +1,41 @@
+Lexicon: Mr	lTd	FRDf	
+
+Training Sentences:
+FRDfMrFRDfMr
+lTdMrlTdMr
+FRDflTdFRDflTd
+MrFRDflTdFRDf
+lTdFRDfMrlTd
+FRDfMrlTdMr
+
+Test Items:
+Mr	fM
+lTd	rlT
+Mr	fM
+lTd	rlT
+FRDf	dFRD
+Mr	fM
+lTd	rlT
+FRDf	dFRD
+Mr	fM
+FRDf	dFRD
+lTd	rlT
+Mr	fM
+FRDf	dFRD
+Mr	fM
+FRDf	dFRD
+Mr	fM
+lTd	rlT
+Mr	fM
+lTd	rlT
+FRDf	dFRD
+Mr	fM
+lTd	rlT
+FRDf	dFRD
+Mr	fM
+FRDf	dFRD
+Mr	fM
+lTd	rlT
+FRDf	dFRD
+Mr	fM
+lTd	rlT

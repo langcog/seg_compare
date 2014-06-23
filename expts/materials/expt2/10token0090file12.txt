@@ -1,0 +1,57 @@
+Lexicon: vulu	dugu	zukidA	tibipi	gilAtubA	kApAvAzi	
+
+Training Sentences:
+tibipidugugilAtubAvulu
+gilAtubAvuluzukidAtibipi
+zukidAdugugilAtubAkApAvAzi
+kApAvAzivuluzukidAgilAtubA
+vulugilAtubAtibipidugu
+gilAtubAdugukApAvAzivulu
+kApAvAzitibipizukidAdugu
+kApAvAzidugutibipigilAtubA
+zukidAvulukApAvAzigilAtubA
+gilAtubAvuludugukApAvAzi
+vulugilAtubAkApAvAzitibipi
+vulutibipigilAtubAzukidA
+zukidAkApAvAzigilAtubAdugu
+tibipikApAvAzizukidAdugu
+tibipikApAvAziduguzukidA
+vulukApAvAzidugutibipi
+zukidAvulutibipigilAtubA
+tibipiduguvulugilAtubA
+vuluzukidAdugukApAvAzi
+dugutibipizukidAvulu
+duguvulugilAtubAzukidA
+zukidAtibipikApAvAzizukidA
+
+Test Items:
+zukidA	uguzuk
+gilAtubA	ubAkApAv
+dugu	Aziv
+zukidA	idAtib
+kApAvAzi	ipigilAt
+zukidA	idAtib
+dugu	Aziv
+vulu	ulud
+tibipi	idAtib
+dugu	Aziv
+tibipi	idAtib
+vulu	Aziv
+zukidA	uguzuk
+gilAtubA	ipigilAt
+vulu	Aziv
+tibipi	uguzuk
+vulu	ulud
+zukidA	idAtib
+tibipi	uguzuk
+vulu	ulud
+kApAvAzi	ubAkApAv
+zukidA	uguzuk
+kApAvAzi	ipigilAt
+tibipi	idAtib
+dugu	Aziv
+vulu	ulud
+tibipi	uguzuk
+dugu	ulud
+gilAtubA	ipigilAt
+zukidA	idAtib

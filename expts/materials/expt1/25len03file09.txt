@@ -1,0 +1,118 @@
+Lexicon: tivA	bizu	dApAgu	bAtuvu	kipigilu	lAkAduzi	
+
+Training Sentences:
+kipigilutivAbizu
+bAtuvulAkAduzikipigilu
+kipigilulAkAduzidApAgu
+kipigilutivAbizu
+tivAbAtuvudApAgu
+lAkAduzidApAgubAtuvu
+bAtuvulAkAduzikipigilu
+bizubAtuvutivA
+tivAbAtuvudApAgu
+tivAlAkAduzibAtuvu
+dApAgubizukipigilu
+lAkAduzikipigiludApAgu
+bizulAkAduzidApAgu
+
+Test Items:
+kipigilu	ilulAkAd
+lAkAduzi	uvukipig
+kipigilu	ilulAkAd
+lAkAduzi	uvukipig
+bAtuvu	izudAp
+bizu	uzit
+tivA	ivAb
+kipigilu	uvukipig
+dApAgu	AgubAt
+tivA	ivAb
+bizu	uzit
+tivA	uzit
+bAtuvu	AgubAt
+tivA	uzit
+lAkAduzi	ilulAkAd
+bAtuvu	izudAp
+lAkAduzi	ilulAkAd
+bAtuvu	AgubAt
+bizu	ivAb
+dApAgu	AgubAt
+tivA	uzit
+dApAgu	AgubAt
+bizu	ivAb
+dApAgu	izudAp
+tivA	uzit
+bAtuvu	izudAp
+tivA	ivAb
+dApAgu	AgubAt
+lAkAduzi	uvukipig
+dApAgu	izudAp
+lAkAduzi	uvukipig
+tivA	ivAb
+lAkAduzi	ilulAkAd
+kipigilu	uvukipig
+lAkAduzi	ilulAkAd
+tivA	uzit
+lAkAduzi	ilulAkAd
+dApAgu	AgubAt
+bAtuvu	izudAp
+lAkAduzi	uvukipig
+tivA	uzit
+kipigilu	ilulAkAd
+bizu	uzit
+dApAgu	AgubAt
+bizu	uzit
+lAkAduzi	uvukipig
+kipigilu	ilulAkAd
+bAtuvu	AgubAt
+tivA	uzit
+lAkAduzi	uvukipig
+tivA	ivAb
+bizu	uzit
+kipigilu	ilulAkAd
+lAkAduzi	uvukipig
+kipigilu	ilulAkAd
+bAtuvu	izudAp
+dApAgu	AgubAt
+tivA	ivAb
+bAtuvu	AgubAt
+dApAgu	izudAp
+lAkAduzi	uvukipig
+dApAgu	AgubAt
+kipigilu	ilulAkAd
+bAtuvu	izudAp
+lAkAduzi	ilulAkAd
+dApAgu	izudAp
+bAtuvu	AgubAt
+bizu	ivAb
+lAkAduzi	ilulAkAd
+bizu	uzit
+bAtuvu	izudAp
+bizu	uzit
+dApAgu	AgubAt
+bizu	uzit
+dApAgu	izudAp
+tivA	ivAb
+dApAgu	AgubAt
+bizu	uzit
+tivA	ivAb
+bAtuvu	AgubAt
+bizu	uzit
+dApAgu	AgubAt
+kipigilu	uvukipig
+lAkAduzi	ilulAkAd
+bizu	uzit
+bAtuvu	izudAp
+tivA	uzit
+kipigilu	ilulAkAd
+lAkAduzi	uvukipig
+bizu	ivAb
+kipigilu	ilulAkAd
+bAtuvu	izudAp
+bizu	uzit
+tivA	uzit
+bAtuvu	izudAp
+bizu	uzit
+dApAgu	AgubAt
+tivA	uzit
+bizu	ivAb
+bAtuvu	izudAp

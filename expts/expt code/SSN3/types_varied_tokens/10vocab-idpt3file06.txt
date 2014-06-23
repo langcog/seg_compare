@@ -1,0 +1,45 @@
+Lexicon: Ml	FRJ	nkbD	
+
+Training Sentences:
+FRJMlnkbDMl
+FRJnkbDMlnkbD
+FRJnkbDMlFRJ
+MlFRJMlnkbD
+FRJnkbDMlnkbD
+nkbDFRJMlFRJ
+MlnkbDFRJMl
+FRJnkbDMlFRJ
+FRJMlFRJnkbD
+nkbDMlFRJnkbD
+
+Test Items:
+Ml	DM
+nkbD	Jnkb
+FRJ	lFR
+Ml	DM
+nkbD	Jnkb
+FRJ	lFR
+nkbD	Jnkb
+FRJ	lFR
+Ml	DM
+nkbD	Jnkb
+Ml	DM
+nkbD	Jnkb
+FRJ	lFR
+nkbD	Jnkb
+Ml	DM
+nkbD	Jnkb
+Ml	DM
+nkbD	Jnkb
+Ml	DM
+FRJ	lFR
+nkbD	Jnkb
+Ml	DM
+FRJ	lFR
+Ml	DM
+FRJ	lFR
+nkbD	Jnkb
+FRJ	lFR
+nkbD	Jnkb
+Ml	DM
+FRJ	lFR

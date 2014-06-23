@@ -1,0 +1,48 @@
+Lexicon: vuki	pAzu	lubAtu	bipizi	dulAgugi	kAdAvAti	
+
+Training Sentences:
+lubAtukAdAvAtivuki
+dulAgugipAzuvuki
+pAzuvukidulAgugi
+lubAtukAdAvAtidulAgugi
+lubAtupAzubipizi
+dulAgugilubAtukAdAvAti
+kAdAvAtidulAgugivuki
+bipizilubAtudulAgugi
+bipizivukikAdAvAti
+kAdAvAtidulAgugipAzu
+kAdAvAtibipizilubAtu
+bipizivukipAzu
+bipizivukipAzu
+
+Test Items:
+pAzu	Ativ
+kAdAvAti	izidulAg
+lubAtu	Azulub
+kAdAvAti	ugikAdAv
+bipizi	Azulub
+dulAgugi	izidulAg
+pAzu	ukip
+vuki	ukip
+bipizi	Azulub
+pAzu	ukip
+vuki	ukip
+lubAtu	Atubip
+vuki	Ativ
+dulAgugi	izidulAg
+kAdAvAti	ugikAdAv
+lubAtu	Atubip
+bipizi	Atubip
+kAdAvAti	izidulAg
+pAzu	ukip
+dulAgugi	ugikAdAv
+vuki	Ativ
+dulAgugi	izidulAg
+kAdAvAti	ugikAdAv
+bipizi	Azulub
+pAzu	Ativ
+lubAtu	Atubip
+vuki	ukip
+bipizi	Azulub
+kAdAvAti	ugikAdAv
+bipizi	Atubip

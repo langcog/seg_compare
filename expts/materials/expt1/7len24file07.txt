@@ -1,0 +1,36 @@
+Lexicon: tigi	zulA	kivAlu	kApidA	gubAbivu	zitupAdu	
+
+Training Sentences:
+zitupAdugubAbivukApidAkivAluzitupAdutigikivAlugubAbivukApidAtigizulAzitupAdutigigubAbivukApidAtigizulAkApidAgubAbivukivAluzulAzitupAduzulAkivAlu
+
+Test Items:
+zitupAdu	ivuzitup
+kivAlu	ulAkiv
+kApidA	AlukAp
+kivAlu	ulAkiv
+gubAbivu	idAgubAb
+zulA	igiz
+tigi	Adut
+kApidA	AlukAp
+zulA	igiz
+tigi	Adut
+kApidA	ulAkiv
+zitupAdu	idAgubAb
+zulA	igiz
+kApidA	ulAkiv
+tigi	igiz
+gubAbivu	idAgubAb
+zulA	Adut
+zitupAdu	ivuzitup
+tigi	igiz
+zitupAdu	idAgubAb
+tigi	igiz
+zulA	Adut
+kivAlu	ulAkiv
+zitupAdu	idAgubAb
+tigi	igiz
+kivAlu	AlukAp
+tigi	Adut
+kApidA	AlukAp
+gubAbivu	idAgubAb
+kivAlu	ulAkiv

@@ -1,0 +1,41 @@
+Lexicon: MZ	NRp	DtzT	fn	mPr	
+
+Training Sentences:
+fnNRpmPrMZ
+NRpMZmPrfn
+DtzTmPrNRpMZ
+mPrfnMZDtzT
+MZmPrDtzTfn
+NRpDtzTfnDtzT
+
+Test Items:
+mPr	nmP
+fn	rM
+MZ	Tf
+mPr	ZNR
+fn	Tf
+MZ	rM
+DtzT	pDtz
+fn	rM
+mPr	ZNR
+DtzT	pDtz
+mPr	nmP
+NRp	ZNR
+fn	rM
+DtzT	pDtz
+mPr	nmP
+DtzT	pDtz
+mPr	ZNR
+DtzT	pDtz
+MZ	rM
+NRp	ZNR
+MZ	Tf
+NRp	nmP
+mPr	nmP
+MZ	rM
+mPr	nmP
+DtzT	pDtz
+mPr	ZNR
+fn	Tf
+mPr	ZNR
+MZ	rM

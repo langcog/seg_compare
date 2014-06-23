@@ -1,0 +1,185 @@
+Lexicon: pM	DLz	ZvkF	
+
+Training Sentences:
+DLzZvkFpMZvkF
+ZvkFDLzpMDLz
+DLzZvkFDLzpM
+ZvkFDLzpMDLz
+DLzpMZvkFpM
+pMZvkFpMZvkF
+pMDLzZvkFpM
+DLzpMDLzpM
+pMDLzZvkFpM
+DLzpMDLzZvkF
+ZvkFDLzpMDLz
+ZvkFDLzZvkFDLz
+DLzpMZvkFDLz
+ZvkFDLzZvkFpM
+ZvkFpMDLzZvkF
+pMZvkFDLzpM
+DLzpMZvkFpM
+ZvkFpMDLzpM
+DLzZvkFpMZvkF
+ZvkFpMZvkFpM
+pMZvkFpMZvkF
+ZvkFpMZvkFpM
+ZvkFpMZvkFDLz
+pMDLzpMZvkF
+DLzpMZvkFDLz
+ZvkFDLzpMDLz
+ZvkFDLzZvkFpM
+ZvkFDLzpMDLz
+DLzZvkFpMZvkF
+ZvkFDLzpMDLz
+pMZvkFDLzZvkF
+ZvkFpMZvkFDLz
+DLzpMZvkFpM
+pMZvkFDLzpM
+pMDLzZvkFDLz
+pMDLzpMZvkF
+ZvkFpMDLzZvkF
+DLzpMDLzZvkF
+ZvkFpMZvkFDLz
+pMZvkFDLzpM
+pMZvkFDLzZvkF
+DLzZvkFpMDLz
+DLzpMDLzZvkF
+ZvkFDLzZvkFpM
+DLzpMZvkFDLz
+pMZvkFpMDLz
+DLzpMZvkFpM
+DLzZvkFpMZvkF
+DLzZvkFDLzpM
+pMZvkFDLzpM
+pMDLzZvkFDLz
+ZvkFDLzZvkFDLz
+ZvkFpMDLzZvkF
+pMDLzZvkFpM
+pMZvkFDLzpM
+DLzpMDLzpM
+ZvkFDLzZvkFDLz
+ZvkFpMDLzpM
+ZvkFDLzZvkFpM
+DLzZvkFDLzpM
+DLzpMZvkFDLz
+ZvkFDLzpMZvkF
+pMDLzpMDLz
+DLzpMDLzZvkF
+DLzpMZvkFDLz
+DLzZvkFDLzpM
+ZvkFpMDLzZvkF
+ZvkFDLzZvkFDLz
+ZvkFpMDLzpM
+pMZvkFpMDLz
+DLzZvkFDLzZvkF
+DLzZvkFpMZvkF
+ZvkFpMDLzZvkF
+DLzZvkFpMZvkF
+pMDLzpMZvkF
+pMZvkFpMDLz
+DLzZvkFpMDLz
+ZvkFDLzpMZvkF
+ZvkFpMZvkFpM
+pMZvkFDLzpM
+DLzZvkFDLzZvkF
+pMDLzpMZvkF
+pMDLzpMZvkF
+DLzpMDLzZvkF
+DLzpMZvkFDLz
+DLzZvkFpMDLz
+ZvkFDLzpMZvkF
+pMZvkFDLzpM
+DLzpMZvkFpM
+DLzpMDLzZvkF
+DLzpMZvkFDLz
+pMZvkFpMDLz
+pMDLzZvkFDLz
+ZvkFDLzpMZvkF
+ZvkFpMDLzZvkF
+pMDLzZvkFpM
+DLzZvkFpMDLz
+pMZvkFDLzpM
+DLzZvkFDLzpM
+ZvkFpMZvkFDLz
+DLzpMZvkFpM
+ZvkFDLzpMDLz
+ZvkFpMDLzZvkF
+DLzpMDLzZvkF
+ZvkFDLzpMDLz
+ZvkFpMZvkFDLz
+DLzZvkFpMZvkF
+ZvkFpMZvkFDLz
+DLzZvkFpMDLz
+pMDLzpMDLz
+pMZvkFDLzZvkF
+pMDLzpMZvkF
+ZvkFDLzpMDLz
+pMDLzpMDLz
+pMDLzZvkFDLz
+DLzZvkFpMZvkF
+ZvkFpMZvkFpM
+pMDLzZvkFpM
+ZvkFpMDLzpM
+DLzpMZvkFpM
+pMDLzZvkFpM
+pMDLzpMDLz
+ZvkFpMDLzpM
+pMDLzZvkFpM
+DLzpMDLzpM
+ZvkFDLzZvkFDLz
+pMZvkFDLzZvkF
+DLzZvkFpMDLz
+DLzpMZvkFpM
+pMZvkFpMZvkF
+ZvkFDLzpMZvkF
+pMDLzZvkFDLz
+DLzZvkFDLzZvkF
+pMZvkFDLzZvkF
+pMDLzZvkFpM
+ZvkFpMZvkFpM
+DLzpMZvkFDLz
+ZvkFDLzZvkFpM
+DLzpMDLzZvkF
+pMDLzZvkFpM
+pMDLzpMZvkF
+ZvkFpMZvkFpM
+DLzZvkFpMZvkF
+DLzZvkFDLzpM
+ZvkFpMDLzpM
+pMZvkFDLzZvkF
+pMZvkFpMDLz
+ZvkFpMZvkFDLz
+pMDLzZvkFDLz
+DLzZvkFDLzZvkF
+
+Test Items:
+pM	Fp
+DLz	MDL
+ZvkF	zZvk
+pM	Fp
+ZvkF	zZvk
+pM	Fp
+DLz	MDL
+ZvkF	zZvk
+DLz	MDL
+ZvkF	zZvk
+DLz	MDL
+pM	Fp
+DLz	MDL
+ZvkF	zZvk
+pM	Fp
+ZvkF	zZvk
+pM	Fp
+ZvkF	zZvk
+pM	Fp
+ZvkF	zZvk
+pM	Fp
+ZvkF	zZvk
+DLz	MDL
+pM	Fp
+DLz	MDL
+ZvkF	zZvk
+pM	Fp
+ZvkF	zZvk
+pM	Fp
+ZvkF	zZvk

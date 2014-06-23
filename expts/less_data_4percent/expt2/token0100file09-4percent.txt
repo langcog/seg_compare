@@ -1,0 +1,36 @@
+Lexicon: pV	Dk	vgZ	BGP	tdTK	Llzb	
+
+Training Sentences:
+DkBGPpVvgZ
+
+Test Items:
+tdTK	PtdT
+Llzb	KLlz
+Dk	bp
+vgZ	kvg
+Dk	VD
+vgZ	ZBG
+Llzb	PtdT
+Dk	bp
+pV	bp
+Dk	VD
+BGP	ZBG
+Dk	VD
+pV	bp
+BGP	ZBG
+tdTK	PtdT
+vgZ	kvg
+pV	bp
+tdTK	KLlz
+vgZ	kvg
+Llzb	KLlz
+Dk	VD
+Llzb	PtdT
+tdTK	KLlz
+Dk	bp
+vgZ	ZBG
+Dk	bp
+Llzb	KLlz
+vgZ	ZBG
+Llzb	PtdT
+tdTK	KLlz

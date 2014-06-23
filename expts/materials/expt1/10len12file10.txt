@@ -1,0 +1,38 @@
+Lexicon: vAzu	tipi	bAtudu	lukAki	dApAvubi	gizigulA	
+
+Training Sentences:
+lukAkidApAvubivAzutipibAtudutipilukAkidApAvubibAtuduvAzugizigulAbAtudu
+tipivAzutipilukAkigizigulAdApAvubigizigulAdApAvubibAtuduvAzulukAkibAtudu
+bAtudulukAkigizigulAtipigizigulAbAtudulukAkitipidApAvubivAzudApAvubivAzu
+
+Test Items:
+dApAvubi	AkidApAv
+gizigulA	ubigizig
+vAzu	ulAv
+dApAvubi	AkidApAv
+tipi	ulAv
+lukAki	ipibAt
+vAzu	ulAv
+gizigulA	AkidApAv
+vAzu	Azut
+gizigulA	AkidApAv
+vAzu	ulAv
+gizigulA	ubigizig
+lukAki	ipibAt
+bAtudu	uduluk
+vAzu	ulAv
+dApAvubi	ubigizig
+tipi	ulAv
+gizigulA	AkidApAv
+dApAvubi	ubigizig
+vAzu	Azut
+lukAki	ipibAt
+dApAvubi	ubigizig
+vAzu	ulAv
+tipi	ulAv
+vAzu	Azut
+bAtudu	ipibAt
+lukAki	uduluk
+bAtudu	ipibAt
+gizigulA	AkidApAv
+tipi	ulAv

@@ -1,0 +1,42 @@
+Lexicon: Bt	TLb	kFVP	JD	
+
+Training Sentences:
+kFVPTLbBtJD
+JDBtTLbkFVP
+BtTLbkFVPJD
+JDkFVPBtTLb
+JDBtkFVPTLb
+JDTLbkFVPBt
+JDBtkFVPTLb
+
+Test Items:
+TLb	tTL
+kFVP	bkFV
+Bt	DB
+JD	PJ
+TLb	tTL
+kFVP	bkFV
+TLb	tTL
+kFVP	bkFV
+TLb	tTL
+kFVP	bkFV
+TLb	tTL
+kFVP	bkFV
+TLb	tTL
+kFVP	bkFV
+JD	PJ
+Bt	DB
+kFVP	bkFV
+TLb	tTL
+Bt	PJ
+JD	DB
+TLb	tTL
+JD	DB
+Bt	DB
+kFVP	bkFV
+TLb	tTL
+kFVP	bkFV
+Bt	DB
+TLb	tTL
+Bt	PJ
+kFVP	bkFV

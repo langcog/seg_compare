@@ -1,0 +1,37 @@
+Lexicon: pAvu	kizi	dudAbA	bipilu	gizulAvA	tutikAgu	
+
+Training Sentences:
+bipilugizulAvAtutikAgukizigizulAvAbipilupAvukizidudAbApAvududAbAtutikAgu
+kizipAvututikAgubipilududAbApAvugizulAvAdudAbAkizigizulAvAbipilututikAgu
+
+Test Items:
+dudAbA	AbAbip
+pAvu	Avuk
+tutikAgu	AvAtutik
+bipilu	izidud
+gizulAvA	ilugizul
+bipilu	AbAbip
+gizulAvA	AvAtutik
+dudAbA	AbAbip
+tutikAgu	AvAtutik
+dudAbA	AbAbip
+kizi	Avuk
+tutikAgu	ilugizul
+gizulAvA	AvAtutik
+bipilu	izidud
+gizulAvA	AvAtutik
+pAvu	Agup
+kizi	Avuk
+dudAbA	izidud
+tutikAgu	AvAtutik
+pAvu	Avuk
+kizi	Agup
+tutikAgu	ilugizul
+bipilu	izidud
+dudAbA	AbAbip
+pAvu	Agup
+bipilu	izidud
+pAvu	Agup
+tutikAgu	AvAtutik
+dudAbA	AbAbip
+bipilu	izidud

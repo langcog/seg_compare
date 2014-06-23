@@ -1,0 +1,41 @@
+Lexicon: gJ	mvF	rMpd	kT	ZVG	
+
+Training Sentences:
+rMpdZVGgJmvF
+kTgJrMpdmvF
+ZVGkTrMpdmvF
+rMpdZVGmvFgJ
+kTgJmvFZVG
+kTZVGgJrMpd
+
+Test Items:
+ZVG	TZV
+rMpd	FrMp
+gJ	Gg
+kT	Gg
+gJ	dk
+mvF	Jmv
+rMpd	FrMp
+ZVG	TZV
+mvF	Jmv
+gJ	dk
+kT	Gg
+ZVG	Jmv
+kT	dk
+mvF	Jmv
+kT	dk
+ZVG	TZV
+gJ	Gg
+ZVG	Jmv
+mvF	TZV
+ZVG	Jmv
+rMpd	FrMp
+ZVG	TZV
+kT	dk
+gJ	Gg
+ZVG	TZV
+mvF	Jmv
+rMpd	FrMp
+ZVG	Jmv
+gJ	Gg
+ZVG	TZV

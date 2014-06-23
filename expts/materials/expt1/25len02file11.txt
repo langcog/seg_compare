@@ -1,0 +1,125 @@
+Lexicon: lubi	bAvA	vulAzu	tutigi	pAkAdAdu	piguziki	
+
+Training Sentences:
+vulAzulubi
+vulAzubAvA
+pAkAdAdubAvA
+lubipiguziki
+vulAzupAkAdAdu
+pAkAdAdupiguziki
+pAkAdAdupiguziki
+tutigipAkAdAdu
+bAvAlubi
+bAvApAkAdAdu
+vulAzututigi
+vulAzulubi
+tutigibAvA
+lubitutigi
+piguzikipAkAdAdu
+lubibAvA
+piguzikitutigi
+piguzikibAvA
+tutigivulAzu
+vulAzupiguziki
+
+Test Items:
+bAvA	ubib
+piguziki	igipAkAd
+bAvA	ubib
+lubi	ikil
+pAkAdAdu	Adupiguz
+lubi	ubib
+tutigi	Azutut
+pAkAdAdu	Adupiguz
+tutigi	Azutut
+pAkAdAdu	Adupiguz
+lubi	ubib
+bAvA	ikil
+tutigi	AvAvul
+pAkAdAdu	Adupiguz
+vulAzu	Azutut
+tutigi	AvAvul
+piguziki	igipAkAd
+vulAzu	Azutut
+lubi	ikil
+pAkAdAdu	Adupiguz
+lubi	ubib
+pAkAdAdu	igipAkAd
+tutigi	Azutut
+vulAzu	AvAvul
+bAvA	ubib
+lubi	ubib
+piguziki	Adupiguz
+tutigi	AvAvul
+pAkAdAdu	Adupiguz
+piguziki	igipAkAd
+tutigi	AvAvul
+vulAzu	Azutut
+lubi	ubib
+piguziki	igipAkAd
+lubi	ikil
+bAvA	ubib
+piguziki	igipAkAd
+tutigi	AvAvul
+vulAzu	Azutut
+pAkAdAdu	igipAkAd
+lubi	ubib
+tutigi	AvAvul
+lubi	ubib
+bAvA	ikil
+pAkAdAdu	igipAkAd
+piguziki	Adupiguz
+lubi	ubib
+bAvA	ikil
+tutigi	Azutut
+pAkAdAdu	igipAkAd
+bAvA	ubib
+lubi	ikil
+pAkAdAdu	igipAkAd
+piguziki	Adupiguz
+lubi	ikil
+piguziki	Adupiguz
+vulAzu	AvAvul
+tutigi	Azutut
+lubi	ikil
+piguziki	Adupiguz
+pAkAdAdu	igipAkAd
+tutigi	AvAvul
+bAvA	ikil
+piguziki	igipAkAd
+bAvA	ikil
+lubi	ubib
+bAvA	ubib
+pAkAdAdu	Adupiguz
+bAvA	ubib
+lubi	ikil
+piguziki	Adupiguz
+vulAzu	AvAvul
+pAkAdAdu	Adupiguz
+tutigi	Azutut
+bAvA	ikil
+piguziki	Adupiguz
+bAvA	ikil
+tutigi	Azutut
+pAkAdAdu	igipAkAd
+piguziki	Adupiguz
+bAvA	ikil
+lubi	ubib
+vulAzu	AvAvul
+piguziki	igipAkAd
+bAvA	ikil
+piguziki	Adupiguz
+pAkAdAdu	igipAkAd
+tutigi	Azutut
+pAkAdAdu	igipAkAd
+piguziki	Adupiguz
+vulAzu	Azutut
+pAkAdAdu	igipAkAd
+tutigi	AvAvul
+piguziki	Adupiguz
+vulAzu	Azutut
+lubi	ubib
+bAvA	ikil
+pAkAdAdu	igipAkAd
+tutigi	Azutut
+piguziki	Adupiguz

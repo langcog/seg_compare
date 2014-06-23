@@ -1,0 +1,42 @@
+Lexicon: Tv	VDJ	BrFG	gm	dkR	bPpn	
+
+Training Sentences:
+gmVDJdkRTv
+bPpnBrFGgmdkR
+BrFGgmdkRVDJ
+VDJbPpnBrFGdkR
+VDJgmTvBrFG
+VDJbPpnTvgm
+TvBrFGdkRbPpn
+
+Test Items:
+VDJ	vVD
+gm	Gg
+BrFG	JBrF
+gm	nT
+Tv	Gg
+BrFG	JBrF
+Tv	Gg
+BrFG	JBrF
+dkR	vVD
+gm	nT
+Tv	Gg
+BrFG	JBrF
+dkR	vVD
+bPpn	RbPp
+BrFG	JBrF
+Tv	nT
+dkR	vVD
+BrFG	JBrF
+bPpn	RbPp
+gm	nT
+Tv	Gg
+bPpn	JBrF
+dkR	mdk
+Tv	nT
+gm	Gg
+VDJ	mdk
+dkR	vVD
+VDJ	mdk
+bPpn	RbPp
+BrFG	JBrF

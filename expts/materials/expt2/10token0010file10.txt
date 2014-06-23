@@ -1,0 +1,37 @@
+Lexicon: tuti	kAgu	dAgivu	pAkivA	bizidulA	zubAlupi	
+
+Training Sentences:
+tutipAkivAzubAlupibizidulA
+tutizubAlupibizidulAkAgu
+
+Test Items:
+kAgu	utik
+zubAlupi	ivAbizid
+dAgivu	AgudAg
+kAgu	utik
+tuti	upit
+dAgivu	ivupAk
+bizidulA	ulAzubAl
+zubAlupi	ivAbizid
+dAgivu	ivupAk
+tuti	upit
+pAkivA	ivupAk
+tuti	utik
+kAgu	upit
+tuti	utik
+zubAlupi	ivAbizid
+kAgu	utik
+bizidulA	ivAbizid
+zubAlupi	ulAzubAl
+bizidulA	ivAbizid
+kAgu	upit
+bizidulA	ulAzubAl
+tuti	utik
+pAkivA	ivupAk
+dAgivu	AgudAg
+kAgu	utik
+tuti	upit
+zubAlupi	ivAbizid
+bizidulA	ulAzubAl
+kAgu	utik
+bizidulA	ulAzubAl

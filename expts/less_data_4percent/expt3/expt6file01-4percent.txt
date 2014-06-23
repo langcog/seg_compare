@@ -1,0 +1,41 @@
+Lexicon: TM	vJz	bLdn	DP	BRg	VFmr	
+
+Training Sentences:
+BRgVFmrDPTM
+TMDPvJzVFmr
+DPbLdnBRgvJz
+VFmrvJzbLdnBRg
+vJzBRgbLdnVFmr
+TMbLdnDPTM
+
+Test Items:
+DP	nD
+TM	rT
+DP	nD
+VFmr	zbLd
+bLdn	gVFm
+vJz	PBR
+TM	nD
+vJz	MvJ
+TM	rT
+BRg	MvJ
+vJz	PBR
+VFmr	gVFm
+DP	nD
+vJz	MvJ
+TM	rT
+vJz	MvJ
+DP	rT
+vJz	PBR
+BRg	MvJ
+DP	nD
+TM	rT
+BRg	PBR
+VFmr	gVFm
+BRg	MvJ
+DP	nD
+BRg	MvJ
+vJz	PBR
+BRg	MvJ
+VFmr	zbLd
+BRg	PBR

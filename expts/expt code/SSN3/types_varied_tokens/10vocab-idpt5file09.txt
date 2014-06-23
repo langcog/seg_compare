@@ -1,0 +1,45 @@
+Lexicon: DZ	VTP	nzJB	lN	GgL	
+
+Training Sentences:
+VTPnzJBlNGgL
+lNDZGgLVTP
+GgLDZlNnzJB
+nzJBVTPDZlN
+VTPGgLDZnzJB
+DZVTPlNGgL
+GgLlNnzJBVTP
+DZGgLVTPnzJB
+GgLlNVTPDZ
+nzJBlNDZnzJB
+
+Test Items:
+DZ	LD
+GgL	NGg
+nzJB	PnzJ
+DZ	LD
+nzJB	PnzJ
+GgL	ZVT
+nzJB	PnzJ
+lN	Bl
+DZ	Bl
+GgL	NGg
+VTP	ZVT
+nzJB	PnzJ
+GgL	ZVT
+lN	LD
+GgL	NGg
+lN	Bl
+DZ	LD
+GgL	ZVT
+DZ	Bl
+nzJB	PnzJ
+GgL	ZVT
+DZ	Bl
+GgL	ZVT
+DZ	LD
+GgL	ZVT
+nzJB	PnzJ
+DZ	Bl
+VTP	NGg
+GgL	ZVT
+DZ	LD

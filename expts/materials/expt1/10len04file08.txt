@@ -1,0 +1,45 @@
+Lexicon: tilu	dAbi	kizuzi	pAtupi	lAgivugu	kAbAduvA	
+
+Training Sentences:
+kizuzidAbilAgivugukAbAduvA
+kizuzitilupAtupidAbi
+tilukizuzikAbAduvAlAgivugu
+tiludAbilAgivugukAbAduvA
+pAtupikAbAduvAtilukizuzi
+kAbAduvAtilupAtupidAbi
+pAtupikAbAduvAkizuzidAbi
+kizuzitilupAtupilAgivugu
+kAbAduvApAtupitilulAgivugu
+dAbikizuzipAtupilAgivugu
+
+Test Items:
+lAgivugu	ugukAbAd
+kAbAduvA	upilAgiv
+pAtupi	uzipAt
+kAbAduvA	ugukAbAd
+kizuzi	Abikiz
+tilu	ilud
+dAbi	uvAt
+tilu	ilud
+dAbi	uvAt
+kizuzi	uzipAt
+dAbi	uvAt
+pAtupi	Abikiz
+lAgivugu	upilAgiv
+kAbAduvA	ugukAbAd
+tilu	ilud
+lAgivugu	upilAgiv
+tilu	ilud
+kizuzi	uzipAt
+tilu	uvAt
+pAtupi	Abikiz
+kAbAduvA	ugukAbAd
+lAgivugu	upilAgiv
+pAtupi	uzipAt
+tilu	ilud
+pAtupi	uzipAt
+tilu	uvAt
+pAtupi	Abikiz
+kizuzi	uzipAt
+dAbi	ilud
+tilu	uvAt

@@ -1,0 +1,42 @@
+Lexicon: gV	fLM	Fblz	vk	DBt	
+
+Training Sentences:
+vkfLMDBtFblz
+FblzfLMDBtgV
+vkDBtgVFblz
+gVFblzDBtvk
+FblzvkgVDBt
+vkfLMDBtgV
+vkFblzfLMgV
+
+Test Items:
+Fblz	MFbl
+DBt	VfL
+fLM	kDB
+vk	tg
+gV	tg
+Fblz	MFbl
+DBt	VfL
+gV	tg
+DBt	VfL
+vk	tg
+Fblz	MFbl
+DBt	VfL
+Fblz	MFbl
+vk	tg
+fLM	VfL
+gV	tg
+fLM	VfL
+vk	zv
+gV	tg
+DBt	kDB
+fLM	VfL
+Fblz	MFbl
+DBt	VfL
+vk	tg
+Fblz	MFbl
+fLM	VfL
+vk	zv
+fLM	kDB
+Fblz	MFbl
+vk	tg

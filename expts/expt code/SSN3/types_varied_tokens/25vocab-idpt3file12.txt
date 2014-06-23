@@ -1,0 +1,60 @@
+Lexicon: tr	MBk	TnmR	
+
+Training Sentences:
+trTnmRtrMBk
+trMBktrTnmR
+trMBktrTnmR
+MBkTnmRtrMBk
+MBkTnmRMBkTnmR
+MBktrMBkTnmR
+TnmRtrMBktr
+trTnmRtrTnmR
+MBktrMBktr
+trMBktrTnmR
+MBkTnmRtrTnmR
+trMBkTnmRMBk
+TnmRMBkTnmRMBk
+TnmRtrTnmRMBk
+TnmRMBktrTnmR
+TnmRMBktrMBk
+trTnmRtrTnmR
+TnmRtrMBkTnmR
+MBktrTnmRMBk
+TnmRMBkTnmRtr
+MBktrTnmRMBk
+trMBktrMBk
+trTnmRMBkTnmR
+TnmRtrMBkTnmR
+MBkTnmRtrMBk
+
+Test Items:
+MBk	rMB
+tr	Rt
+MBk	rMB
+tr	Rt
+TnmR	kTnm
+tr	Rt
+MBk	rMB
+TnmR	kTnm
+tr	Rt
+TnmR	kTnm
+MBk	rMB
+tr	Rt
+TnmR	kTnm
+MBk	rMB
+TnmR	kTnm
+MBk	rMB
+TnmR	kTnm
+MBk	rMB
+TnmR	kTnm
+tr	Rt
+MBk	rMB
+TnmR	kTnm
+MBk	rMB
+TnmR	kTnm
+tr	Rt
+MBk	rMB
+tr	Rt
+TnmR	kTnm
+MBk	rMB
+TnmR	kTnm

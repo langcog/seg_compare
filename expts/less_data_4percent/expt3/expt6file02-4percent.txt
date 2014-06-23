@@ -1,0 +1,41 @@
+Lexicon: MR	tbV	fNDv	Tn	grP	JlFk	
+
+Training Sentences:
+TnJlFktbVMR
+MRJlFkfNDvTn
+fNDvJlFkMRgrP
+grPTnMRtbV
+tbVgrPTnfNDv
+JlFktbVfNDvgrP
+
+Test Items:
+tbV	ngr
+JlFk	PJlF
+fNDv	VfND
+grP	ngr
+JlFk	PJlF
+fNDv	VfND
+grP	Rtb
+JlFk	PJlF
+fNDv	VfND
+Tn	kM
+grP	Rtb
+fNDv	VfND
+Tn	kM
+fNDv	PJlF
+Tn	vT
+grP	ngr
+Tn	kM
+MR	vT
+tbV	Rtb
+JlFk	PJlF
+MR	vT
+tbV	Rtb
+MR	vT
+fNDv	PJlF
+Tn	kM
+MR	vT
+Tn	kM
+MR	vT
+Tn	kM
+MR	vT

@@ -1,0 +1,65 @@
+Lexicon: lAki	vAgi	zulukA	dApitu	vugupAdu	bAzibiti	
+
+Training Sentences:
+lAkibAzibitidApituzulukA
+vugupAdubAzibitizulukAlAki
+vugupAduvAgilAkibAzibiti
+dApitulAkibAzibitizulukA
+zulukAvugupAdubAzibitivAgi
+dApituvAgizulukAlAki
+zulukAlAkivAgidApitu
+vugupAdulAkidApitubAzibiti
+zulukAbAzibitidApituvugupAdu
+vAgibAzibitivugupAdudApitu
+bAzibitivugupAduzulukAdApitu
+dApituzulukAlAkibAzibiti
+dApituzulukAvugupAdubAzibiti
+vAgibAzibitilAkivugupAdu
+vAgibAzibitizulukAlAki
+zulukAvAgivugupAdulAki
+dApituvugupAduzulukAbAzibiti
+dApituvAgizulukAlAki
+bAzibitilAkivAgizulukA
+vAgilAkidApituvugupAdu
+vAgizulukAbAzibitilAki
+dApitubAzibitilAkivAgi
+vugupAdudApitubAzibitivAgi
+lAkizulukAvugupAdubAzibiti
+vAgidApituzulukAlAki
+lAkivAgidApituvugupAdu
+lAkivugupAduvAgidApitu
+bAzibitivAgivugupAdudApitu
+vugupAdudApituvAgizulukA
+vugupAduzulukAvAgivugupAdu
+
+Test Items:
+zulukA	Agizul
+bAzibiti	ituvugup
+zulukA	Agizul
+bAzibiti	ituvugup
+dApitu	Agizul
+vAgi	itil
+bAzibiti	AdubAzib
+vAgi	itil
+zulukA	ukAdAp
+vugupAdu	AdubAzib
+dApitu	ukAdAp
+vAgi	Akiv
+lAki	itil
+zulukA	Agizul
+bAzibiti	ituvugup
+vAgi	itil
+zulukA	Agizul
+bAzibiti	ituvugup
+dApitu	Agizul
+bAzibiti	AdubAzib
+dApitu	ukAdAp
+vAgi	itil
+bAzibiti	ituvugup
+zulukA	Agizul
+vAgi	Akiv
+dApitu	ukAdAp
+bAzibiti	ituvugup
+lAki	Akiv
+zulukA	Agizul
+lAki	Akiv

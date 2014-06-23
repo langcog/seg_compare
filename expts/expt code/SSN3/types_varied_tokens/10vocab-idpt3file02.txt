@@ -1,0 +1,45 @@
+Lexicon: dL	tFD	fMRP	
+
+Training Sentences:
+tFDdLfMRPdL
+fMRPtFDdLtFD
+dLtFDfMRPtFD
+fMRPdLfMRPtFD
+dLfMRPdLtFD
+tFDfMRPdLfMRP
+fMRPdLtFDdL
+fMRPtFDdLfMRP
+tFDdLfMRPtFD
+fMRPtFDfMRPtFD
+
+Test Items:
+fMRP	DfMR
+dL	Pd
+fMRP	DfMR
+dL	Pd
+fMRP	DfMR
+dL	Pd
+tFD	LtF
+fMRP	DfMR
+tFD	LtF
+dL	Pd
+tFD	LtF
+dL	Pd
+fMRP	DfMR
+dL	Pd
+fMRP	DfMR
+tFD	LtF
+fMRP	DfMR
+tFD	LtF
+dL	Pd
+tFD	LtF
+dL	Pd
+fMRP	DfMR
+tFD	LtF
+fMRP	DfMR
+tFD	LtF
+fMRP	DfMR
+tFD	LtF
+fMRP	DfMR
+dL	Pd
+tFD	LtF

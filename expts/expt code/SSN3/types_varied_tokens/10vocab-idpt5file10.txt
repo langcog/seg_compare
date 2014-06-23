@@ -1,0 +1,45 @@
+Lexicon: kK	lbv	rNzV	PJ	DZm	
+
+Training Sentences:
+rNzVPJkKlbv
+lbvkKPJrNzV
+kKDZmrNzVlbv
+kKPJDZmrNzV
+lbvDZmkKPJ
+lbvrNzVDZmPJ
+PJkKlbvrNzV
+kKDZmrNzVPJ
+PJlbvrNzVkK
+DZmlbvDZmDZm
+
+Test Items:
+kK	mk
+DZm	JDZ
+rNzV	vrNz
+DZm	Klb
+rNzV	vrNz
+lbv	JDZ
+PJ	mk
+rNzV	vrNz
+kK	VP
+lbv	JDZ
+rNzV	vrNz
+lbv	JDZ
+kK	mk
+rNzV	vrNz
+lbv	Klb
+kK	mk
+lbv	Klb
+DZm	JDZ
+kK	VP
+lbv	JDZ
+rNzV	vrNz
+DZm	JDZ
+rNzV	vrNz
+PJ	mk
+rNzV	vrNz
+lbv	Klb
+kK	VP
+lbv	JDZ
+rNzV	vrNz
+kK	VP

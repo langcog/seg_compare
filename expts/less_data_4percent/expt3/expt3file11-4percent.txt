@@ -1,0 +1,41 @@
+Lexicon: pV	zlG	KdgD	
+
+Training Sentences:
+pVzlGpVKdgD
+zlGKdgDzlGpV
+pVzlGKdgDpV
+KdgDpVzlGKdgD
+pVKdgDzlGpV
+zlGKdgDzlGKdgD
+
+Test Items:
+KdgD	GKdg
+zlG	Vzl
+KdgD	GKdg
+zlG	Vzl
+KdgD	GKdg
+zlG	Vzl
+KdgD	GKdg
+pV	Dp
+zlG	Vzl
+KdgD	GKdg
+pV	Dp
+KdgD	GKdg
+zlG	Vzl
+pV	Dp
+zlG	Vzl
+pV	Dp
+KdgD	GKdg
+zlG	Vzl
+pV	Dp
+KdgD	GKdg
+zlG	Vzl
+pV	Dp
+KdgD	GKdg
+zlG	Vzl
+KdgD	GKdg
+pV	Dp
+KdgD	GKdg
+pV	Dp
+KdgD	GKdg
+zlG	Vzl

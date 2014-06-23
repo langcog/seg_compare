@@ -1,0 +1,57 @@
+Lexicon: pAzi	kAki	lAtubi	pidAti	giluduzu	guvAbAvu	
+
+Training Sentences:
+kAkipidAtiguvAbAvugiluduzu
+lAtubikAkiguvAbAvugiluduzu
+lAtubikAkigiluduzupidAti
+lAtubipidAtikAkipAzi
+kAkipidAtigiluduzupAzi
+lAtubikAkipidAtiguvAbAvu
+lAtubiguvAbAvupAzipidAti
+guvAbAvupidAtipAzikAki
+pAzigiluduzupidAtikAki
+giluduzukAkiguvAbAvulAtubi
+pidAtigiluduzulAtubikAki
+pAzigiluduzuguvAbAvulAtubi
+giluduzukAkiguvAbAvupidAti
+pAzikAkipidAtiguvAbAvu
+pAzilAtubikAkigiluduzu
+kAkilAtubiguvAbAvupAzi
+giluduzupAzilAtubiguvAbAvu
+pAzigiluduzuguvAbAvupidAti
+lAtubipAzipidAtigiluduzu
+pAzikAkiguvAbAvupidAti
+pidAtiguvAbAvulAtubipAzi
+lAtubipAzigiluduzuguvAbAvu
+
+Test Items:
+giluduzu	uzuguvAb
+pidAti	AkilAt
+pAzi	Avup
+lAtubi	AkilAt
+guvAbAvu	uzuguvAb
+lAtubi	AkilAt
+pAzi	Avup
+kAki	Azik
+giluduzu	Atigilud
+kAki	Avup
+pidAti	AkilAt
+giluduzu	Atigilud
+guvAbAvu	uzuguvAb
+kAki	Azik
+pidAti	ubipid
+giluduzu	uzuguvAb
+guvAbAvu	Atigilud
+kAki	Avup
+pidAti	AkilAt
+pAzi	Azik
+guvAbAvu	Atigilud
+pAzi	Avup
+giluduzu	uzuguvAb
+pidAti	ubipid
+guvAbAvu	uzuguvAb
+pAzi	Avup
+pidAti	AkilAt
+pAzi	Azik
+giluduzu	Atigilud
+pAzi	Avup

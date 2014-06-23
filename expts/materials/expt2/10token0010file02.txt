@@ -1,0 +1,37 @@
+Lexicon: zulu	kipi	pAdAti	dukAtu	zibAgigu	lAvuvAbi	
+
+Training Sentences:
+kipipAdAtidukAtulAvuvAbi
+kipilAvuvAbizibAgiguzulu
+
+Test Items:
+kipi	Abiz
+lAvuvAbi	AtuzibAg
+kipi	Abiz
+zibAgigu	AtuzibAg
+zulu	uluk
+pAdAti	Atiduk
+dukAtu	ipipAd
+lAvuvAbi	igulAvuv
+zulu	uluk
+lAvuvAbi	igulAvuv
+kipi	Abiz
+dukAtu	ipipAd
+pAdAti	Atiduk
+kipi	uluk
+lAvuvAbi	igulAvuv
+kipi	uluk
+zulu	Abiz
+zibAgigu	AtuzibAg
+lAvuvAbi	AtuzibAg
+zulu	Abiz
+pAdAti	Atiduk
+dukAtu	ipipAd
+lAvuvAbi	AtuzibAg
+dukAtu	Atiduk
+kipi	Abiz
+zulu	uluk
+lAvuvAbi	igulAvuv
+kipi	Abiz
+zibAgigu	AtuzibAg
+pAdAti	ipipAd

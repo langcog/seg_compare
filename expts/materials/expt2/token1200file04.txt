@@ -1,0 +1,335 @@
+Lexicon: lP	kT	LKd	vBp	VzZt	DGgb	
+
+Training Sentences:
+LKdvBplPDGgb
+vBpDGgbVzZtlP
+lPVzZtvBpDGgb
+lPLKdVzZtDGgb
+kTDGgblPLKd
+DGgbVzZtvBpLKd
+lPLKdkTvBp
+kTDGgbVzZtvBp
+kTlPDGgbvBp
+vBpLKdkTlP
+lPkTLKdDGgb
+kTLKdlPVzZt
+DGgbLKdVzZtkT
+vBpLKdDGgbkT
+vBpLKdDGgbkT
+vBpDGgbkTlP
+kTvBpLKdDGgb
+kTVzZtLKdvBp
+LKdkTVzZtlP
+LKdvBpVzZtkT
+vBpDGgbVzZtlP
+lPDGgbkTLKd
+vBplPVzZtkT
+DGgbvBpVzZtLKd
+VzZtlPvBpkT
+vBpkTVzZtDGgb
+DGgbLKdkTvBp
+lPVzZtLKdDGgb
+vBpkTVzZtLKd
+lPVzZtvBpDGgb
+kTlPVzZtDGgb
+LKdkTDGgblP
+LKdVzZtlPDGgb
+lPLKdvBpkT
+lPVzZtDGgbkT
+DGgblPkTLKd
+DGgbLKdkTvBp
+vBpkTLKdlP
+vBplPkTDGgb
+lPvBpkTVzZt
+vBpVzZtlPDGgb
+kTvBpDGgbVzZt
+LKdkTVzZtDGgb
+vBpVzZtLKdlP
+VzZtLKdDGgbvBp
+lPDGgbkTvBp
+kTLKdVzZtlP
+vBpLKdkTlP
+LKdDGgbvBplP
+DGgblPkTLKd
+LKdVzZtDGgbvBp
+vBpDGgbkTLKd
+DGgblPVzZtkT
+kTLKdVzZtvBp
+lPVzZtkTvBp
+lPvBpkTVzZt
+vBplPVzZtkT
+DGgbVzZtLKdlP
+DGgbvBpVzZtkT
+DGgblPVzZtLKd
+vBpDGgbVzZtLKd
+DGgbVzZtLKdkT
+DGgbLKdvBpVzZt
+lPkTDGgbLKd
+LKdkTVzZtvBp
+DGgbVzZtkTlP
+lPvBpVzZtkT
+DGgbVzZtvBpLKd
+lPVzZtDGgbLKd
+VzZtkTLKdDGgb
+lPLKdvBpDGgb
+LKdkTvBpVzZt
+kTVzZtlPDGgb
+lPVzZtvBpDGgb
+DGgbLKdlPkT
+kTVzZtvBpLKd
+vBplPVzZtkT
+vBpLKdlPDGgb
+lPVzZtLKdkT
+LKdDGgbVzZtvBp
+vBplPLKdDGgb
+VzZtlPDGgbkT
+lPkTvBpLKd
+kTDGgblPvBp
+vBpLKdkTVzZt
+LKdVzZtkTlP
+vBpVzZtLKdkT
+VzZtkTDGgbvBp
+LKdvBpkTVzZt
+lPLKdVzZtDGgb
+lPDGgbVzZtvBp
+DGgblPkTVzZt
+lPvBpLKdDGgb
+LKdDGgbvBpVzZt
+kTVzZtLKdvBp
+DGgbLKdVzZtvBp
+VzZtlPLKdkT
+DGgbLKdvBplP
+lPDGgbLKdkT
+lPkTDGgbLKd
+LKdVzZtlPvBp
+lPvBpVzZtLKd
+VzZtLKdDGgbvBp
+DGgbkTlPVzZt
+VzZtvBpDGgbLKd
+DGgbkTvBpLKd
+kTLKdlPvBp
+lPVzZtvBpLKd
+DGgbvBplPLKd
+vBpDGgblPVzZt
+LKdVzZtvBpDGgb
+vBpDGgblPLKd
+vBplPkTDGgb
+LKdlPvBpkT
+vBpVzZtlPkT
+lPkTDGgbLKd
+LKdvBpkTlP
+DGgblPkTVzZt
+lPkTVzZtLKd
+DGgbvBpkTLKd
+vBplPVzZtLKd
+LKdVzZtkTlP
+VzZtvBpkTlP
+VzZtLKdkTlP
+VzZtlPkTDGgb
+VzZtDGgbvBplP
+DGgbVzZtkTvBp
+DGgbVzZtvBplP
+DGgbvBpkTlP
+VzZtvBpDGgbkT
+vBplPVzZtkT
+VzZtLKdlPvBp
+LKdlPvBpVzZt
+lPvBpVzZtDGgb
+LKdkTVzZtDGgb
+VzZtlPvBpLKd
+LKdkTvBplP
+VzZtLKdlPDGgb
+LKdlPvBpVzZt
+VzZtDGgbLKdvBp
+lPvBpLKdVzZt
+lPvBpkTDGgb
+lPVzZtDGgbkT
+DGgbVzZtLKdlP
+lPVzZtkTvBp
+VzZtvBplPkT
+LKdkTDGgbvBp
+VzZtDGgblPvBp
+vBpLKdDGgbkT
+VzZtvBpLKdDGgb
+lPvBpDGgbkT
+DGgbLKdVzZtkT
+kTLKdlPvBp
+VzZtvBplPDGgb
+lPVzZtDGgbkT
+vBpDGgbLKdVzZt
+VzZtkTLKdlP
+VzZtlPvBpLKd
+lPvBpDGgbkT
+vBpVzZtkTlP
+DGgbVzZtLKdvBp
+vBplPDGgbkT
+DGgbLKdVzZtvBp
+DGgblPvBpLKd
+kTlPLKdVzZt
+VzZtkTDGgbLKd
+kTVzZtDGgbvBp
+VzZtvBplPLKd
+VzZtlPLKdkT
+LKdlPvBpVzZt
+kTVzZtlPvBp
+LKdlPvBpVzZt
+kTVzZtDGgblP
+DGgbLKdvBplP
+lPVzZtDGgbvBp
+VzZtvBpDGgbLKd
+lPVzZtLKdkT
+VzZtDGgblPLKd
+LKdDGgbvBpVzZt
+LKdDGgbvBplP
+LKdvBplPkT
+kTlPLKdVzZt
+VzZtlPvBpLKd
+DGgbVzZtvBpkT
+lPvBpDGgbkT
+DGgbLKdlPvBp
+kTlPDGgbLKd
+LKdDGgbVzZtkT
+kTVzZtvBpDGgb
+LKdlPVzZtvBp
+kTDGgbLKdvBp
+lPLKdVzZtvBp
+VzZtvBpkTDGgb
+DGgbVzZtlPLKd
+kTvBpLKdlP
+VzZtDGgblPkT
+kTlPLKdVzZt
+kTvBpLKdDGgb
+VzZtlPvBpkT
+kTVzZtlPLKd
+LKdlPVzZtvBp
+kTlPVzZtLKd
+VzZtLKdkTlP
+kTDGgbvBplP
+vBpLKdVzZtkT
+vBpLKdlPVzZt
+lPkTLKdVzZt
+VzZtlPkTDGgb
+kTDGgbLKdlP
+kTVzZtDGgbvBp
+DGgbvBpVzZtlP
+LKdkTvBpDGgb
+vBpDGgbVzZtkT
+LKdlPkTDGgb
+LKdVzZtlPvBp
+VzZtvBplPkT
+lPkTDGgbLKd
+DGgbkTVzZtlP
+vBpkTDGgbLKd
+VzZtkTlPvBp
+vBpVzZtLKdlP
+LKdVzZtkTlP
+LKdvBplPVzZt
+lPLKdVzZtDGgb
+lPDGgbkTLKd
+kTLKdDGgbVzZt
+kTlPDGgbLKd
+vBpkTLKdDGgb
+kTlPvBpVzZt
+vBpkTDGgbVzZt
+vBpDGgbVzZtLKd
+LKdkTlPvBp
+kTDGgbLKdlP
+LKdDGgbVzZtvBp
+DGgbkTVzZtvBp
+vBpVzZtDGgbLKd
+LKdDGgbkTVzZt
+DGgbvBplPVzZt
+DGgbLKdvBplP
+VzZtkTLKdDGgb
+DGgblPVzZtkT
+VzZtvBpkTLKd
+VzZtvBpLKdlP
+kTDGgbvBpVzZt
+vBpkTLKdlP
+VzZtLKdkTvBp
+DGgbVzZtLKdkT
+vBpVzZtkTDGgb
+LKdvBpDGgbVzZt
+vBpVzZtDGgblP
+DGgbvBpkTLKd
+lPvBpVzZtLKd
+VzZtlPkTLKd
+lPVzZtvBpDGgb
+DGgbLKdvBpVzZt
+lPvBpkTDGgb
+kTDGgbVzZtLKd
+kTLKdvBpDGgb
+LKdvBpkTVzZt
+VzZtLKdkTlP
+LKdkTDGgblP
+kTvBplPDGgb
+kTvBpLKdDGgb
+DGgblPVzZtvBp
+LKdlPVzZtvBp
+kTDGgbLKdvBp
+lPDGgbLKdkT
+kTDGgbLKdVzZt
+vBplPVzZtkT
+lPDGgbLKdkT
+VzZtvBpDGgblP
+kTvBpDGgbLKd
+VzZtkTvBpDGgb
+vBpLKdlPVzZt
+LKdkTvBpVzZt
+LKdDGgbvBplP
+lPVzZtkTvBp
+DGgbkTvBplP
+VzZtLKdDGgbkT
+LKdDGgblPkT
+lPvBpDGgbkT
+DGgbLKdlPvBp
+lPvBpkTLKd
+VzZtDGgbvBplP
+LKdVzZtkTDGgb
+DGgbkTLKdVzZt
+DGgbkTlPLKd
+lPDGgbVzZtkT
+DGgblPLKdkT
+VzZtDGgbvBpLKd
+DGgbLKdlPkT
+kTlPvBpDGgb
+kTDGgbVzZtlP
+LKdVzZtlPDGgb
+VzZtDGgbkTLKd
+lPvBpkTDGgb
+LKdkTDGgblP
+DGgbkTlPLKd
+DGgbkTvBpkT
+kTDGgbDGgbkT
+
+Test Items:
+vBp	dvB
+kT	bl
+lP	Pk
+LKd	dvB
+kT	Pk
+lP	bl
+vBp	TLK
+kT	bl
+DGgb	tDGg
+kT	bl
+lP	bl
+vBp	TLK
+lP	bl
+LKd	TLK
+vBp	dvB
+kT	bl
+LKd	dvB
+kT	Pk
+LKd	TLK
+kT	bl
+lP	Pk
+vBp	dvB
+VzZt	pVzZ
+DGgb	tDGg
+LKd	TLK
+lP	Pk
+vBp	dvB
+kT	Pk
+DGgb	pVzZ
+LKd	TLK

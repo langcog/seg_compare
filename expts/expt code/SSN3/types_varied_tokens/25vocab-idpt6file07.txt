@@ -1,0 +1,60 @@
+Lexicon: Fd	lNz	fnRm	rv	DZG	PJtb	
+
+Training Sentences:
+fnRmlNzDZGFd
+FdlNzDZGrv
+lNzPJtbDZGrv
+DZGlNzrvFd
+PJtblNzfnRmFd
+DZGFdrvPJtb
+DZGlNzFdPJtb
+rvlNzfnRmDZG
+PJtbfnRmFdrv
+rvfnRmPJtblNz
+PJtbDZGfnRmFd
+PJtbDZGrvfnRm
+fnRmlNzFdDZG
+FdfnRmrvDZG
+lNzPJtbDZGfnRm
+FdrvlNzDZG
+lNzrvfnRmDZG
+fnRmrvDZGFd
+FdfnRmPJtbDZG
+rvFdPJtbfnRm
+DZGPJtbrvlNz
+lNzrvfnRmFd
+PJtbrvlNzfnRm
+fnRmPJtblNzrv
+FdPJtblNzPJtb
+
+Test Items:
+DZG	vDZ
+Fd	mr
+rv	mr
+Fd	bF
+fnRm	GPJt
+PJtb	zfnR
+lNz	dlN
+fnRm	GPJt
+rv	bF
+lNz	dlN
+DZG	vDZ
+Fd	mr
+DZG	vDZ
+rv	bF
+PJtb	zfnR
+rv	mr
+DZG	dlN
+Fd	bF
+rv	mr
+fnRm	GPJt
+rv	mr
+lNz	vDZ
+fnRm	zfnR
+DZG	vDZ
+rv	bF
+lNz	vDZ
+DZG	dlN
+rv	mr
+lNz	vDZ
+PJtb	GPJt

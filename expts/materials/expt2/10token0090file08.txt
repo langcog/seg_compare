@@ -1,0 +1,57 @@
+Lexicon: tubi	bApA	ludAki	zigivA	gupizuti	vulAdukA	
+
+Training Sentences:
+zigivAgupizutitubivulAdukA
+ludAkigupizutibApAzigivA
+ludAkibApAvulAdukAgupizuti
+gupizutibApAludAkitubi
+gupizutivulAdukAtubiludAki
+ludAkizigivAvulAdukAtubi
+ludAkitubizigivAbApA
+vulAdukAtubizigivAgupizuti
+gupizutivulAdukAtubiludAki
+ludAkizigivAtubivulAdukA
+gupizutiludAkivulAdukAzigivA
+vulAdukAgupizutibApAtubi
+zigivAgupizutitubiludAki
+zigivAludAkibApAvulAdukA
+vulAdukAgupizutizigivAbApA
+vulAdukAgupizutizigivAbApA
+vulAdukAludAkibApAgupizuti
+zigivAludAkitubibApA
+vulAdukAgupizutibApAzigivA
+bApAtubiludAkivulAdukA
+ludAkigupizutizigivAbApA
+zigivAbApAtubibApA
+
+Test Items:
+bApA	ubib
+zigivA	ApAlud
+gupizuti	ivAgupiz
+zigivA	Akizig
+tubi	ubib
+gupizuti	ivAgupiz
+zigivA	ApAlud
+tubi	ubib
+vulAdukA	utivulAd
+gupizuti	ivAgupiz
+ludAki	Akizig
+zigivA	Akizig
+bApA	ubib
+tubi	ukAt
+bApA	ukAt
+gupizuti	ivAgupiz
+bApA	ubib
+ludAki	Akizig
+vulAdukA	utivulAd
+bApA	ukAt
+ludAki	ApAlud
+zigivA	ApAlud
+bApA	ukAt
+tubi	ubib
+ludAki	ApAlud
+bApA	ubib
+zigivA	ApAlud
+gupizuti	utivulAd
+tubi	ubib
+bApA	ukAt

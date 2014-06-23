@@ -1,0 +1,185 @@
+Lexicon: Vn	JtR	MmTZ	dF	gzB	
+
+Training Sentences:
+MmTZVndFgzB
+VngzBMmTZJtR
+VnJtRMmTZdF
+JtRgzBVndF
+dFMmTZVngzB
+gzBMmTZdFJtR
+gzBMmTZJtRdF
+VndFMmTZgzB
+gzBVnJtRMmTZ
+gzBdFJtRMmTZ
+MmTZJtRdFVn
+MmTZJtRVngzB
+VnJtRMmTZgzB
+VngzBJtRdF
+dFMmTZgzBJtR
+dFMmTZJtRVn
+MmTZJtRgzBVn
+gzBVndFJtR
+JtRVndFMmTZ
+MmTZVndFJtR
+MmTZgzBVndF
+dFVnMmTZJtR
+MmTZJtRgzBVn
+gzBdFVnJtR
+VnMmTZdFgzB
+gzBdFJtRVn
+gzBJtRVndF
+VnMmTZJtRgzB
+JtRgzBMmTZdF
+dFJtRVnMmTZ
+gzBJtRdFVn
+JtRdFMmTZVn
+JtRdFVnMmTZ
+VndFgzBJtR
+JtRdFMmTZgzB
+VnMmTZdFgzB
+gzBVnJtRdF
+VndFgzBJtR
+JtRgzBdFMmTZ
+VnMmTZJtRgzB
+JtRgzBVnMmTZ
+VnJtRdFgzB
+MmTZdFJtRgzB
+gzBdFJtRVn
+dFMmTZJtRVn
+VnJtRdFgzB
+MmTZVndFJtR
+MmTZgzBJtRdF
+MmTZgzBVndF
+dFJtRMmTZVn
+JtRVndFgzB
+VngzBdFMmTZ
+VnMmTZgzBdF
+VndFMmTZgzB
+JtRgzBVndF
+VnMmTZgzBdF
+dFgzBMmTZJtR
+MmTZVnJtRgzB
+gzBMmTZVndF
+dFMmTZgzBVn
+dFJtRVnMmTZ
+gzBJtRVnMmTZ
+JtRVnMmTZgzB
+dFJtRgzBVn
+gzBMmTZVnJtR
+JtRVnMmTZdF
+MmTZgzBdFJtR
+gzBMmTZVnJtR
+dFgzBJtRMmTZ
+gzBdFVnJtR
+VngzBMmTZdF
+gzBdFJtRVn
+dFJtRMmTZgzB
+gzBVndFMmTZ
+dFMmTZJtRgzB
+JtRgzBVnMmTZ
+gzBJtRMmTZVn
+VndFgzBJtR
+gzBdFVnMmTZ
+dFVnJtRgzB
+MmTZgzBVnJtR
+dFgzBVnMmTZ
+dFMmTZJtRVn
+MmTZdFgzBJtR
+VngzBdFMmTZ
+MmTZVnJtRdF
+VndFgzBMmTZ
+JtRgzBdFMmTZ
+VngzBdFJtR
+dFMmTZJtRVn
+JtRdFgzBVn
+VnJtRdFgzB
+JtRdFgzBVn
+MmTZVnJtRdF
+dFMmTZJtRgzB
+dFVnJtRMmTZ
+MmTZJtRgzBdF
+MmTZJtRVngzB
+gzBJtRdFMmTZ
+MmTZgzBdFJtR
+MmTZgzBJtRVn
+gzBVnJtRMmTZ
+gzBVnMmTZdF
+MmTZgzBJtRVn
+VngzBdFJtR
+JtRVngzBdF
+gzBVnMmTZdF
+VnMmTZgzBdF
+dFJtRMmTZVn
+gzBdFJtRVn
+MmTZJtRgzBdF
+JtRgzBdFMmTZ
+dFJtRVngzB
+MmTZdFJtRVn
+dFgzBVnMmTZ
+dFgzBMmTZVn
+JtRVnMmTZgzB
+JtRgzBMmTZdF
+gzBdFMmTZJtR
+dFMmTZVnJtR
+dFMmTZVngzB
+JtRgzBdFVn
+dFMmTZgzBJtR
+MmTZJtRdFVn
+gzBdFJtRVn
+VndFMmTZJtR
+dFVnMmTZJtR
+dFJtRMmTZgzB
+VnMmTZdFgzB
+VndFgzBMmTZ
+MmTZJtRdFgzB
+JtRVnMmTZgzB
+dFVngzBJtR
+gzBMmTZJtRVn
+JtRdFgzBMmTZ
+JtRdFMmTZgzB
+VndFJtRgzB
+dFVngzBJtR
+VnMmTZJtRgzB
+MmTZVndFJtR
+VnMmTZJtRgzB
+JtRdFgzBMmTZ
+VndFMmTZgzB
+VngzBdFMmTZ
+JtRVnMmTZgzB
+MmTZVnJtRgzB
+VnMmTZdFJtR
+JtRMmTZVndF
+MmTZVnJtRMmTZ
+VnMmTZMmTZMmTZ
+
+Test Items:
+JtR	nJt
+dF	Zd
+Vn	BV
+dF	Zd
+Vn	Zd
+gzB	nJt
+JtR	Fgz
+MmTZ	RMmT
+Vn	BV
+dF	Zd
+gzB	Fgz
+MmTZ	RMmT
+Vn	Zd
+gzB	nJt
+JtR	Fgz
+MmTZ	RMmT
+dF	BV
+JtR	Fgz
+Vn	Zd
+gzB	Fgz
+Vn	BV
+JtR	Fgz
+dF	Zd
+JtR	nJt
+Vn	Zd
+MmTZ	RMmT
+Vn	BV
+dF	BV
+gzB	nJt
+Vn	BV

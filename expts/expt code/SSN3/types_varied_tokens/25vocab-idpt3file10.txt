@@ -1,0 +1,60 @@
+Lexicon: tk	VfL	JzrR	
+
+Training Sentences:
+JzrRtkJzrRVfL
+JzrRVfLtkJzrR
+VfLJzrRtkVfL
+VfLJzrRVfLJzrR
+tkVfLJzrRVfL
+tkVfLtkVfL
+JzrRVfLtkVfL
+JzrRtkJzrRtk
+tkVfLJzrRtk
+tkVfLtkJzrR
+JzrRtkVfLJzrR
+JzrRtkJzrRVfL
+VfLJzrRVfLJzrR
+tkJzrRtkVfL
+tkVfLJzrRtk
+JzrRVfLtkVfL
+tkVfLJzrRVfL
+tkJzrRtkVfL
+tkJzrRtkJzrR
+JzrRVfLtkJzrR
+tkVfLtkVfL
+VfLJzrRVfLtk
+VfLJzrRtkJzrR
+tkVfLJzrRtk
+VfLtkVfLtk
+
+Test Items:
+VfL	kVf
+JzrR	LJzr
+tk	Rt
+JzrR	LJzr
+tk	Rt
+JzrR	LJzr
+tk	Rt
+VfL	kVf
+tk	Rt
+JzrR	LJzr
+tk	Rt
+JzrR	LJzr
+VfL	kVf
+JzrR	LJzr
+tk	Rt
+VfL	kVf
+JzrR	LJzr
+tk	Rt
+JzrR	LJzr
+VfL	kVf
+JzrR	LJzr
+VfL	kVf
+tk	Rt
+JzrR	LJzr
+VfL	kVf
+tk	Rt
+VfL	kVf
+tk	Rt
+JzrR	LJzr
+tk	Rt

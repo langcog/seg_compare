@@ -1,0 +1,36 @@
+Lexicon: giti	bAvA	guzivu	kAlutu	pibilAdA	zukipAdu	
+
+Training Sentences:
+guzivupibilAdAgitikAlutupibilAdAguzivuzukipAduguzivubAvAzukipAdubAvAzukipAdukAlutubAvAzukipAduguzivugitipibilAdAkAlutupibilAdAgitibAvAgitikAlutu
+
+Test Items:
+giti	Adug
+guzivu	AvAguz
+giti	Adug
+kAlutu	ivukAl
+zukipAdu	utupibil
+bAvA	Adug
+kAlutu	ivukAl
+bAvA	Adug
+zukipAdu	utupibil
+pibilAdA	AdAzukip
+guzivu	ivukAl
+kAlutu	AvAguz
+guzivu	ivukAl
+zukipAdu	utupibil
+kAlutu	AvAguz
+guzivu	ivukAl
+bAvA	Adug
+kAlutu	ivukAl
+bAvA	itib
+kAlutu	AvAguz
+bAvA	Adug
+zukipAdu	utupibil
+bAvA	itib
+giti	itib
+pibilAdA	utupibil
+guzivu	ivukAl
+giti	Adug
+guzivu	ivukAl
+pibilAdA	AdAzukip
+kAlutu	AvAguz

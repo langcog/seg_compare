@@ -1,0 +1,50 @@
+Lexicon: pibi	lAdu	givAtu	vukAgu	tidApAzu	bAkizilu	
+
+Training Sentences:
+vukAgugivAtulAdupibi
+givAtupibivukAgulAdu
+vukAgugivAtubAkizilupibi
+lAdugivAtubAkizilupibi
+lAdugivAtubAkiziluvukAgu
+givAtutidApAzuvukAgulAdu
+pibilAdutidApAzuvukAgu
+pibitidApAzubAkiziluvukAgu
+bAkizilutidApAzugivAtupibi
+givAtubAkiziluvukAgutidApAzu
+pibigivAtubAkizilutidApAzu
+lAdutidApAzuvukAgugivAtu
+pibibAkizilulAduvukAgu
+bAkizilutidApAzulAdupibi
+tidApAzubAkizilulAdutidApAzu
+
+Test Items:
+tidApAzu	AgutidAp
+givAtu	Atuvuk
+lAdu	ilup
+pibi	ibil
+tidApAzu	AzubAkiz
+bAkizilu	AgutidAp
+lAdu	ibil
+givAtu	Adugiv
+lAdu	ibil
+vukAgu	Adugiv
+bAkizilu	AzubAkiz
+pibi	ibil
+vukAgu	Adugiv
+givAtu	Adugiv
+lAdu	ilup
+givAtu	Atuvuk
+lAdu	ilup
+vukAgu	Atuvuk
+givAtu	Adugiv
+lAdu	ilup
+vukAgu	Atuvuk
+pibi	ilup
+tidApAzu	AzubAkiz
+givAtu	Adugiv
+vukAgu	Atuvuk
+givAtu	Adugiv
+tidApAzu	AzubAkiz
+vukAgu	Adugiv
+pibi	ibil
+bAkizilu	AgutidAp

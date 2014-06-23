@@ -1,0 +1,185 @@
+Lexicon: Pk	tbr	FBZD	gv	nRJ	
+
+Training Sentences:
+gvtbrPknRJ
+PktbrnRJgv
+FBZDPkgvnRJ
+gvnRJFBZDtbr
+FBZDnRJtbrgv
+nRJPktbrFBZD
+PkFBZDgvnRJ
+nRJtbrFBZDPk
+FBZDnRJPkgv
+tbrnRJgvPk
+gvnRJFBZDPk
+PknRJtbrFBZD
+gvtbrnRJPk
+nRJPkgvtbr
+gvPkFBZDnRJ
+tbrPkgvFBZD
+nRJPkFBZDtbr
+FBZDgvtbrPk
+FBZDnRJgvPk
+FBZDgvtbrnRJ
+tbrFBZDnRJgv
+gvPktbrFBZD
+PkgvFBZDnRJ
+tbrFBZDnRJgv
+gvtbrFBZDnRJ
+gvnRJtbrFBZD
+nRJPktbrgv
+nRJgvtbrFBZD
+PknRJFBZDtbr
+nRJPkFBZDgv
+tbrgvPkFBZD
+tbrPkFBZDgv
+FBZDnRJtbrgv
+nRJFBZDgvtbr
+nRJgvFBZDPk
+tbrgvFBZDnRJ
+FBZDgvtbrnRJ
+tbrgvFBZDnRJ
+FBZDnRJPkgv
+nRJPkFBZDgv
+tbrgvFBZDPk
+tbrgvPkFBZD
+PkFBZDtbrnRJ
+FBZDgvnRJPk
+FBZDgvtbrPk
+nRJtbrPkFBZD
+nRJtbrgvPk
+gvnRJPkFBZD
+PkgvnRJFBZD
+tbrPknRJgv
+gvPktbrnRJ
+tbrFBZDnRJgv
+gvFBZDnRJtbr
+PkgvFBZDtbr
+FBZDtbrPknRJ
+nRJgvPktbr
+tbrPkFBZDgv
+tbrgvPkFBZD
+gvtbrnRJFBZD
+tbrnRJPkgv
+gvPkFBZDtbr
+nRJtbrgvFBZD
+gvnRJtbrPk
+PktbrFBZDgv
+gvFBZDnRJPk
+nRJgvtbrFBZD
+FBZDgvPknRJ
+PkFBZDtbrgv
+FBZDtbrnRJgv
+tbrgvPknRJ
+gvFBZDnRJtbr
+PkgvFBZDtbr
+tbrFBZDPknRJ
+PkgvnRJFBZD
+FBZDgvPktbr
+FBZDPktbrgv
+PknRJFBZDtbr
+PkgvtbrFBZD
+nRJtbrPkgv
+tbrPkgvnRJ
+FBZDnRJtbrPk
+PkFBZDnRJtbr
+FBZDnRJgvtbr
+FBZDtbrnRJgv
+FBZDtbrnRJgv
+gvtbrnRJPk
+nRJPkFBZDtbr
+tbrPkgvnRJ
+tbrPknRJFBZD
+tbrPkgvFBZD
+FBZDnRJgvPk
+tbrPkFBZDnRJ
+FBZDgvnRJPk
+gvFBZDPknRJ
+PkgvFBZDnRJ
+gvtbrPknRJ
+FBZDtbrgvPk
+tbrnRJgvFBZD
+FBZDPkgvnRJ
+tbrPkFBZDgv
+gvPkFBZDtbr
+nRJtbrgvPk
+nRJtbrFBZDgv
+PktbrnRJFBZD
+FBZDgvPknRJ
+PknRJgvFBZD
+tbrnRJgvFBZD
+gvtbrnRJFBZD
+FBZDPkgvtbr
+FBZDPknRJtbr
+tbrPknRJFBZD
+PknRJFBZDgv
+nRJtbrgvPk
+nRJtbrFBZDPk
+FBZDtbrPknRJ
+FBZDtbrgvPk
+FBZDPkgvnRJ
+tbrgvPkFBZD
+tbrnRJPkgv
+tbrgvPknRJ
+nRJgvPkFBZD
+gvPktbrFBZD
+nRJtbrFBZDPk
+nRJtbrgvPk
+gvPktbrFBZD
+PktbrgvnRJ
+PkgvFBZDnRJ
+tbrPkFBZDgv
+nRJtbrFBZDPk
+FBZDgvtbrPk
+tbrnRJPkgv
+tbrgvnRJFBZD
+gvtbrnRJPk
+PknRJgvFBZD
+gvPktbrnRJ
+FBZDnRJPktbr
+FBZDPknRJgv
+PknRJtbrgv
+nRJtbrPkFBZD
+PkgvnRJFBZD
+PktbrnRJFBZD
+tbrgvnRJFBZD
+nRJPkFBZDtbr
+nRJFBZDPkgv
+tbrgvFBZDnRJ
+PknRJFBZDtbr
+tbrnRJFBZDPk
+tbrPknRJFBZD
+nRJtbrPkgv
+Pktbrtbrtbr
+
+Test Items:
+gv	Dg
+tbr	vnR
+nRJ	vnR
+tbr	ktb
+FBZD	rFBZ
+Pk	Dg
+FBZD	rFBZ
+nRJ	vnR
+Pk	Dg
+gv	JP
+tbr	vnR
+nRJ	ktb
+tbr	vnR
+gv	Dg
+tbr	vnR
+gv	Dg
+Pk	Dg
+tbr	vnR
+gv	JP
+nRJ	vnR
+Pk	JP
+FBZD	rFBZ
+Pk	JP
+FBZD	rFBZ
+tbr	vnR
+nRJ	ktb
+Pk	JP
+gv	Dg
+FBZD	rFBZ
+tbr	vnR

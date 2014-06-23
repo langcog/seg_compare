@@ -1,0 +1,36 @@
+Lexicon: dubA	dAlu	zibitu	kApAzu	vAgilAki	pigutivu	
+
+Training Sentences:
+pigutivudAluvAgilAkikApAzu
+
+Test Items:
+kApAzu	Aluzib
+vAgilAki	AzuvAgil
+kApAzu	itukAp
+pigutivu	Akipigut
+zibitu	itukAp
+dAlu	ubAd
+vAgilAki	Akipigut
+dubA	ivud
+kApAzu	itukAp
+pigutivu	AzuvAgil
+dubA	ubAd
+kApAzu	itukAp
+vAgilAki	AzuvAgil
+pigutivu	Akipigut
+zibitu	itukAp
+vAgilAki	AzuvAgil
+kApAzu	Aluzib
+pigutivu	Akipigut
+kApAzu	Aluzib
+vAgilAki	AzuvAgil
+dAlu	ivud
+vAgilAki	Akipigut
+pigutivu	AzuvAgil
+dubA	ivud
+pigutivu	AzuvAgil
+vAgilAki	AzuvAgil
+dubA	ivud
+pigutivu	AzuvAgil
+kApAzu	itukAp
+pigutivu	AzuvAgil

@@ -1,0 +1,42 @@
+Lexicon: gb	rDp	LlfZ	
+
+Training Sentences:
+LlfZgbrDpLlfZ
+rDpgbLlfZrDp
+rDpgbLlfZrDp
+gbLlfZgbrDp
+LlfZgbLlfZgb
+gbLlfZrDpgb
+LlfZgbrDpLlfZ
+
+Test Items:
+rDp	brD
+LlfZ	pLlf
+gb	Zg
+LlfZ	pLlf
+rDp	brD
+gb	Zg
+rDp	brD
+gb	Zg
+LlfZ	pLlf
+gb	Zg
+LlfZ	pLlf
+rDp	brD
+gb	Zg
+LlfZ	pLlf
+gb	Zg
+rDp	brD
+gb	Zg
+rDp	brD
+gb	Zg
+rDp	brD
+LlfZ	pLlf
+gb	Zg
+LlfZ	pLlf
+gb	Zg
+rDp	brD
+gb	Zg
+LlfZ	pLlf
+gb	Zg
+LlfZ	pLlf
+rDp	brD

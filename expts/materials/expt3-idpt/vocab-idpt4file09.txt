@@ -1,0 +1,185 @@
+Lexicon: mK	lrk	DdNn	Zg	
+
+Training Sentences:
+mKDdNnlrkZg
+lrkmKZgDdNn
+ZglrkmKDdNn
+mKlrkDdNnZg
+ZgDdNnlrkmK
+mKlrkZgDdNn
+DdNnZgmKlrk
+DdNnmKlrkZg
+ZglrkDdNnmK
+DdNnZglrkmK
+mKDdNnZglrk
+lrkZgDdNnmK
+mKlrkZgDdNn
+lrkZgDdNnmK
+mKlrkZgDdNn
+lrkZgDdNnmK
+ZgDdNnmKlrk
+DdNnmKZglrk
+mKDdNnZglrk
+lrkDdNnZgmK
+ZglrkDdNnmK
+mKZgDdNnlrk
+ZgDdNnlrkmK
+mKZgDdNnlrk
+DdNnZgmKlrk
+DdNnmKZglrk
+ZgDdNnmKlrk
+lrkZgmKDdNn
+mKDdNnlrkZg
+DdNnZglrkmK
+mKDdNnlrkZg
+DdNnZgmKlrk
+lrkZgmKDdNn
+ZglrkDdNnmK
+ZgmKlrkDdNn
+DdNnZgmKlrk
+ZglrkmKDdNn
+lrkmKZgDdNn
+mKDdNnlrkZg
+mKDdNnlrkZg
+lrkZgmKDdNn
+DdNnmKZglrk
+mKlrkZgDdNn
+ZgmKlrkDdNn
+ZgDdNnmKlrk
+lrkDdNnmKZg
+mKlrkDdNnZg
+lrkZgDdNnmK
+ZglrkmKDdNn
+lrkmKZgDdNn
+ZglrkmKDdNn
+lrkZgDdNnmK
+lrkDdNnZgmK
+mKZglrkDdNn
+DdNnmKZglrk
+lrkZgmKDdNn
+lrkmKDdNnZg
+ZgDdNnmKlrk
+lrkDdNnZgmK
+DdNnlrkZgmK
+lrkZgDdNnmK
+ZglrkmKDdNn
+lrkZgmKDdNn
+mKDdNnZglrk
+mKZglrkDdNn
+ZglrkmKDdNn
+DdNnlrkZgmK
+DdNnZglrkmK
+mKlrkDdNnZg
+lrkmKZgDdNn
+ZglrkDdNnmK
+ZglrkmKDdNn
+DdNnmKlrkZg
+lrkZgDdNnmK
+lrkDdNnZgmK
+ZgDdNnlrkmK
+mKZglrkDdNn
+DdNnlrkmKZg
+ZglrkmKDdNn
+lrkZgDdNnmK
+ZglrkmKDdNn
+ZgDdNnlrkmK
+mKDdNnlrkZg
+lrkDdNnZgmK
+ZgmKlrkDdNn
+DdNnlrkmKZg
+DdNnlrkmKZg
+mKDdNnZglrk
+lrkmKZgDdNn
+lrkmKDdNnZg
+ZglrkDdNnmK
+lrkmKDdNnZg
+lrkmKZgDdNn
+mKlrkDdNnZg
+ZgDdNnmKlrk
+mKlrkZgDdNn
+DdNnZglrkmK
+DdNnlrkmKZg
+DdNnmKZglrk
+DdNnZglrkmK
+mKDdNnZglrk
+ZgDdNnmKlrk
+mKDdNnlrkZg
+mKlrkZgDdNn
+ZglrkmKDdNn
+lrkDdNnmKZg
+lrkZgDdNnmK
+DdNnZglrkmK
+ZgDdNnmKlrk
+lrkmKZgDdNn
+DdNnZgmKlrk
+lrkmKZgDdNn
+ZgDdNnmKlrk
+ZgDdNnlrkmK
+mKlrkZgDdNn
+lrkZgDdNnmK
+lrkDdNnZgmK
+ZgDdNnmKlrk
+ZgmKDdNnlrk
+DdNnZgmKlrk
+ZglrkDdNnmK
+mKZgDdNnlrk
+mKZgDdNnlrk
+DdNnmKZglrk
+ZgDdNnlrkmK
+lrkZgDdNnmK
+lrkDdNnZgmK
+ZgmKlrkDdNn
+ZglrkmKDdNn
+lrkmKZgDdNn
+mKZglrkDdNn
+ZgmKDdNnlrk
+lrkDdNnZgmK
+lrkmKZgDdNn
+ZglrkDdNnmK
+mKDdNnZglrk
+ZglrkDdNnmK
+DdNnZglrkmK
+DdNnmKZglrk
+ZglrkDdNnmK
+lrkmKDdNnZg
+DdNnZgmKlrk
+mKDdNnZglrk
+mKDdNnlrkZg
+DdNnlrkmKZg
+lrkDdNnZgmK
+DdNnlrkmKZg
+ZgmKDdNnlrk
+lrkmKZgDdNn
+lrkZgmKDdNn
+
+Test Items:
+mK	nZ
+lrk	Klr
+Zg	nZ
+mK	gm
+Zg	nZ
+DdNn	kDdN
+lrk	Klr
+Zg	nZ
+mK	gm
+DdNn	kDdN
+lrk	Klr
+Zg	gm
+mK	nZ
+Zg	gm
+DdNn	kDdN
+mK	nZ
+Zg	gm
+lrk	Klr
+DdNn	kDdN
+lrk	Klr
+mK	nZ
+lrk	Klr
+mK	gm
+lrk	Klr
+mK	gm
+Zg	nZ
+mK	nZ
+lrk	Klr
+DdNn	kDdN
+lrk	Klr

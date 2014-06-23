@@ -1,0 +1,39 @@
+Lexicon: duki	lAbA	gigubi	zipAkA	vuvAtudA	pitiluzu	
+
+Training Sentences:
+pitiluzulAbAzipAkAvuvAtudAgigubiduki
+dukigigubivuvAtudAlAbApitiluzuzipAkA
+vuvAtudAdukilAbAzipAkApitiluzugigubi
+zipAkApitiluzudukigigubivuvAtudAlAbA
+
+Test Items:
+vuvAtudA	udApitil
+duki	ukil
+pitiluzu	udApitil
+gigubi	ubizip
+pitiluzu	AkAvuvAt
+duki	uzud
+pitiluzu	AkAvuvAt
+gigubi	AbAgig
+vuvAtudA	AkAvuvAt
+zipAkA	ubizip
+vuvAtudA	AkAvuvAt
+lAbA	uzud
+pitiluzu	AkAvuvAt
+gigubi	ubizip
+lAbA	uzud
+duki	ukil
+lAbA	uzud
+zipAkA	AbAgig
+vuvAtudA	udApitil
+pitiluzu	AkAvuvAt
+zipAkA	ubizip
+gigubi	AbAgig
+lAbA	ukil
+pitiluzu	udApitil
+zipAkA	AbAgig
+lAbA	uzud
+pitiluzu	udApitil
+duki	uzud
+vuvAtudA	AkAvuvAt
+gigubi	ubizip

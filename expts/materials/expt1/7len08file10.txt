@@ -1,0 +1,38 @@
+Lexicon: vApA	tidu	lugugi	pibilA	zivutubA	dAkAzuki	
+
+Training Sentences:
+tidudAkAzukilugugitiduvApAdAkAzukivApAzivutubA
+tidudAkAzukilugugidAkAzukipibilAlugugivApApibilA
+zivutubApibilAzivutubAvApAtidupibilAlugugidAkAzuki
+
+Test Items:
+pibilA	ugipib
+zivutubA	ubAdAkAz
+dAkAzuki	ilAzivut
+lugugi	idulug
+tidu	ApAt
+vApA	ukiv
+pibilA	ugipib
+vApA	ukiv
+lugugi	ugipib
+dAkAzuki	ilAzivut
+pibilA	idulug
+vApA	ukiv
+lugugi	idulug
+dAkAzuki	ilAzivut
+pibilA	ugipib
+dAkAzuki	ilAzivut
+zivutubA	ubAdAkAz
+vApA	ApAt
+pibilA	idulug
+lugugi	ugipib
+dAkAzuki	ilAzivut
+vApA	ApAt
+tidu	ukiv
+vApA	ApAt
+lugugi	ugipib
+vApA	ApAt
+dAkAzuki	ilAzivut
+vApA	ukiv
+dAkAzuki	ubAdAkAz
+vApA	ukiv

@@ -1,0 +1,41 @@
+Lexicon: fJ	ltB	VMvG	
+
+Training Sentences:
+VMvGltBVMvGltB
+fJltBVMvGltB
+fJltBfJVMvG
+fJVMvGltBVMvG
+fJltBfJltB
+fJVMvGfJVMvG
+
+Test Items:
+fJ	Gf
+VMvG	BVMv
+fJ	Gf
+ltB	Jlt
+fJ	Gf
+VMvG	BVMv
+fJ	Gf
+ltB	Jlt
+fJ	Gf
+VMvG	BVMv
+ltB	Jlt
+VMvG	BVMv
+fJ	Gf
+VMvG	BVMv
+ltB	Jlt
+fJ	Gf
+ltB	Jlt
+VMvG	BVMv
+ltB	Jlt
+VMvG	BVMv
+ltB	Jlt
+VMvG	BVMv
+fJ	Gf
+ltB	Jlt
+fJ	Gf
+ltB	Jlt
+fJ	Gf
+ltB	Jlt
+fJ	Gf
+ltB	Jlt

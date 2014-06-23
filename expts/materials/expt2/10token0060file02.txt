@@ -1,0 +1,50 @@
+Lexicon: vAgi	kAlA	bituzi	luduki	zupivubA	pAdAtigu	
+
+Training Sentences:
+vAgiludukizupivubAbituzi
+vAgikAlAzupivubAluduki
+ludukibituzizupivubApAdAtigu
+zupivubAbituzivAgipAdAtigu
+vAgipAdAtigukAlAluduki
+kAlAbituzivAgizupivubA
+kAlAvAgibituzizupivubA
+ludukikAlAzupivubAbituzi
+ludukikAlAvAgizupivubA
+kAlAbituzivAgipAdAtigu
+bituzipAdAtigukAlAzupivubA
+pAdAtigukAlAbituzivAgi
+pAdAtiguzupivubAbituziluduki
+ludukipAdAtigukAlAvAgi
+pAdAtiguludukiludukipAdAtigu
+
+Test Items:
+kAlA	Agik
+vAgi	iguv
+kAlA	Agik
+luduki	AlAbit
+vAgi	Agik
+pAdAtigu	ubApAdAt
+bituzi	AlAbit
+kAlA	Agik
+luduki	uzilud
+pAdAtigu	ukizupiv
+zupivubA	ukizupiv
+kAlA	Agik
+luduki	uzilud
+kAlA	Agik
+luduki	uzilud
+bituzi	AlAbit
+kAlA	Agik
+bituzi	AlAbit
+vAgi	iguv
+bituzi	uzilud
+kAlA	iguv
+bituzi	AlAbit
+pAdAtigu	ukizupiv
+zupivubA	ubApAdAt
+pAdAtigu	ukizupiv
+bituzi	uzilud
+pAdAtigu	ukizupiv
+luduki	AlAbit
+pAdAtigu	ubApAdAt
+kAlA	iguv

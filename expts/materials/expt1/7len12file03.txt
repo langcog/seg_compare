@@ -1,0 +1,37 @@
+Lexicon: dupA	dApi	bivAbA	kiguti	gitulAkA	luvuzuzi	
+
+Training Sentences:
+bivAbAdupAbivAbAgitulAkAdupAluvuzuzigitulAkAkigutidApikigutidApiluvuzuzi
+luvuzuzidApiluvuzuzidupAdApikigutibivAbAkigutidupAgitulAkAbivAbAgitulAkA
+
+Test Items:
+kiguti	Apibiv
+bivAbA	AbAkig
+gitulAkA	utigitul
+bivAbA	Apibiv
+dApi	upAd
+luvuzuzi	utigitul
+dupA	uzid
+gitulAkA	AkAluvuz
+dupA	uzid
+bivAbA	Apibiv
+dupA	uzid
+bivAbA	Apibiv
+dApi	upAd
+dupA	upAd
+gitulAkA	utigitul
+luvuzuzi	utigitul
+bivAbA	Apibiv
+dupA	uzid
+bivAbA	Apibiv
+dApi	upAd
+bivAbA	AbAkig
+gitulAkA	AkAluvuz
+dApi	uzid
+luvuzuzi	utigitul
+dupA	uzid
+kiguti	Apibiv
+gitulAkA	AkAluvuz
+luvuzuzi	utigitul
+bivAbA	AbAkig
+luvuzuzi	AkAluvuz

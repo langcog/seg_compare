@@ -1,0 +1,77 @@
+Lexicon: LP	TV	dpv	kZz	tgGl	KDBb	
+
+Training Sentences:
+dpvKDBb
+dpvTV
+LPTV
+TVLP
+tgGlLP
+tgGlkZz
+dpvtgGl
+kZzLP
+tgGldpv
+KDBbkZz
+KDBbTV
+KDBbkZz
+
+Test Items:
+KDBb	lKDB
+kZz	Vdp
+TV	bL
+KDBb	ztgG
+kZz	Vdp
+TV	bL
+kZz	vkZ
+tgGl	ztgG
+dpv	vkZ
+kZz	Vdp
+LP	PT
+tgGl	lKDB
+TV	PT
+LP	bL
+TV	bL
+KDBb	lKDB
+dpv	Vdp
+tgGl	lKDB
+KDBb	lKDB
+dpv	vkZ
+KDBb	lKDB
+kZz	Vdp
+tgGl	ztgG
+TV	PT
+dpv	vkZ
+KDBb	ztgG
+LP	PT
+tgGl	lKDB
+dpv	vkZ
+KDBb	ztgG
+tgGl	lKDB
+TV	bL
+kZz	vkZ
+TV	bL
+tgGl	ztgG
+KDBb	lKDB
+tgGl	ztgG
+LP	bL
+TV	PT
+tgGl	ztgG
+kZz	vkZ
+LP	bL
+dpv	Vdp
+LP	PT
+kZz	Vdp
+tgGl	ztgG
+dpv	Vdp
+tgGl	lKDB
+KDBb	ztgG
+LP	PT
+KDBb	ztgG
+LP	bL
+tgGl	ztgG
+KDBb	lKDB
+TV	bL
+LP	PT
+dpv	vkZ
+LP	bL
+KDBb	ztgG
+dpv	Vdp

@@ -1,0 +1,41 @@
+Lexicon: mF	bnl	LrpK	dP	JtZ	gRNT	
+
+Training Sentences:
+gRNTmFJtZLrpK
+mFLrpKJtZbnl
+dPmFLrpKbnl
+gRNTbnlLrpKmF
+dPJtZbnlgRNT
+dPgRNTJtZdP
+
+Test Items:
+gRNT	lLrp
+dP	Tm
+LrpK	lLrp
+gRNT	ZgRN
+mF	Kd
+gRNT	lLrp
+dP	Tm
+JtZ	PJt
+gRNT	ZgRN
+mF	Tm
+gRNT	ZgRN
+dP	Kd
+bnl	Fbn
+gRNT	ZgRN
+dP	Kd
+gRNT	ZgRN
+mF	Kd
+gRNT	ZgRN
+JtZ	Fbn
+bnl	PJt
+mF	Kd
+dP	Kd
+LrpK	ZgRN
+gRNT	lLrp
+LrpK	lLrp
+bnl	PJt
+LrpK	ZgRN
+bnl	PJt
+gRNT	lLrp
+LrpK	ZgRN

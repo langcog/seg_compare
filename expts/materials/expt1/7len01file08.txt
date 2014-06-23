@@ -1,0 +1,63 @@
+Lexicon: zugi	bAlu	tukAdu	pivuti	dAgubipA	kizivAlA	
+
+Training Sentences:
+tukAdu
+bAlu
+bAlu
+pivuti
+zugi
+pivuti
+pivuti
+bAlu
+dAgubipA
+tukAdu
+zugi
+dAgubipA
+kizivAlA
+kizivAlA
+bAlu
+tukAdu
+tukAdu
+kizivAlA
+pivuti
+tukAdu
+dAgubipA
+bAlu
+kizivAlA
+kizivAlA
+zugi
+zugi
+zugi
+pivuti
+
+Test Items:
+bAlu	ugib
+kizivAlA	utidAgub
+tukAdu	Adupiv
+bAlu	AlAz
+dAgubipA	utidAgub
+zugi	ugib
+kizivAlA	ipAkiziv
+bAlu	AlAz
+pivuti	Alutuk
+kizivAlA	ipAkiziv
+zugi	ugib
+pivuti	Alutuk
+tukAdu	Adupiv
+zugi	AlAz
+kizivAlA	ipAkiziv
+bAlu	AlAz
+dAgubipA	utidAgub
+kizivAlA	ipAkiziv
+bAlu	ugib
+zugi	AlAz
+kizivAlA	utidAgub
+bAlu	AlAz
+kizivAlA	ipAkiziv
+dAgubipA	utidAgub
+bAlu	ugib
+pivuti	Alutuk
+kizivAlA	ipAkiziv
+tukAdu	Alutuk
+pivuti	Adupiv
+kizivAlA	ipAkiziv

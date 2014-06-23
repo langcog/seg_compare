@@ -1,0 +1,36 @@
+Lexicon: tibi	pigu	dAbAzu	vAzitu	kigilukA	lAduvupA	
+
+Training Sentences:
+kigilukAdAbAzulAduvupAvAzitupiguvAzitudAbAzupigutibilAduvupApigutibilAduvupAkigilukAtibidAbAzuvAzitupigukigilukAtibilAduvupAdAbAzuvAzitukigilukA
+
+Test Items:
+lAduvupA	ukAlAduv
+pigu	upAt
+vAzitu	AzuvAz
+dAbAzu	AzuvAz
+lAduvupA	ukAlAduv
+tibi	ibip
+kigilukA	itukigil
+pigu	ibip
+tibi	upAt
+vAzitu	igudAb
+kigilukA	ukAlAduv
+lAduvupA	itukigil
+dAbAzu	igudAb
+pigu	ibip
+vAzitu	AzuvAz
+pigu	ibip
+vAzitu	AzuvAz
+tibi	upAt
+dAbAzu	igudAb
+pigu	ibip
+tibi	upAt
+kigilukA	ukAlAduv
+tibi	upAt
+pigu	ibip
+vAzitu	igudAb
+kigilukA	ukAlAduv
+pigu	ibip
+lAduvupA	itukigil
+kigilukA	ukAlAduv
+vAzitu	igudAb

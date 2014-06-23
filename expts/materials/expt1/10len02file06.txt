@@ -1,0 +1,55 @@
+Lexicon: lAdu	bizu	vudAlu	pAbAgi	kitivAzi	gukAtupi	
+
+Training Sentences:
+lAdukitivAzi
+pAbAgikitivAzi
+kitivAzigukAtupi
+vudAlupAbAgi
+bizukitivAzi
+kitivAzilAdu
+lAdugukAtupi
+kitivAzipAbAgi
+vudAlubizu
+kitivAzipAbAgi
+vudAlupAbAgi
+bizupAbAgi
+bizuvudAlu
+gukAtupivudAlu
+gukAtupilAdu
+vudAlupAbAgi
+gukAtupilAdu
+gukAtupivudAlu
+bizugukAtupi
+lAdubizu
+
+Test Items:
+bizu	Adub
+vudAlu	AlupAb
+bizu	Adub
+gukAtupi	AzigukAt
+bizu	Adub
+vudAlu	izuvud
+gukAtupi	AzigukAt
+lAdu	upil
+gukAtupi	AzigukAt
+bizu	upil
+vudAlu	AlupAb
+bizu	upil
+kitivAzi	AzigukAt
+lAdu	upil
+vudAlu	AlupAb
+kitivAzi	AzigukAt
+vudAlu	AlupAb
+kitivAzi	AzigukAt
+gukAtupi	Agikitiv
+lAdu	upil
+pAbAgi	AlupAb
+vudAlu	izuvud
+pAbAgi	AlupAb
+lAdu	upil
+gukAtupi	AzigukAt
+bizu	Adub
+vudAlu	AlupAb
+kitivAzi	Agikitiv
+gukAtupi	AzigukAt
+vudAlu	AlupAb

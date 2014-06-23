@@ -1,0 +1,42 @@
+Lexicon: guvu	vAzi	tibilA	kApAgi	dutudAlu	zukibApi	
+
+Training Sentences:
+vAzitibilAkApAgiguvu
+kApAgizukibApitibilAvAzi
+dutudAluguvuvAzizukibApi
+kApAgiguvudutudAlutibilA
+guvuzukibApidutudAlutibilA
+vAzikApAgitibilAzukibApi
+zukibApivAziguvudutudAlu
+
+Test Items:
+guvu	uvuv
+tibilA	ilAkAp
+guvu	Apig
+zukibApi	Aluzukib
+tibilA	ilAkAp
+dutudAlu	Agidutud
+tibilA	Azitib
+guvu	Apig
+vAzi	uvuv
+kApAgi	ilAkAp
+dutudAlu	Aluzukib
+tibilA	ilAkAp
+vAzi	Apig
+dutudAlu	Agidutud
+vAzi	Apig
+kApAgi	Azitib
+guvu	Apig
+zukibApi	Agidutud
+guvu	Apig
+vAzi	uvuv
+dutudAlu	Aluzukib
+zukibApi	Agidutud
+guvu	uvuv
+dutudAlu	Agidutud
+zukibApi	Aluzukib
+vAzi	Apig
+dutudAlu	Agidutud
+vAzi	Apig
+tibilA	ilAkAp
+vAzi	Apig

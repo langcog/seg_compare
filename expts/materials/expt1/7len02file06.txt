@@ -1,0 +1,49 @@
+Lexicon: zuti	dAlu	kAvupA	bAvAlA	gigubitu	kiduzipi	
+
+Training Sentences:
+bAvAlAkAvupA
+dAlukiduzipi
+gigubitukAvupA
+zutigigubitu
+kiduzipizuti
+gigubitudAlu
+bAvAlAkAvupA
+zutidAlu
+bAvAlAdAlu
+kiduzipizuti
+kiduzipigigubitu
+kAvupAzuti
+bAvAlAdAlu
+kiduzipibAvAlA
+
+Test Items:
+dAlu	ipiz
+kAvupA	upAbAv
+kiduzipi	itukiduz
+kAvupA	AlukAv
+dAlu	ipiz
+kAvupA	AlukAv
+zuti	utid
+kiduzipi	AlAgigub
+kAvupA	upAbAv
+kiduzipi	itukiduz
+bAvAlA	upAbAv
+kiduzipi	AlAgigub
+bAvAlA	upAbAv
+zuti	utid
+dAlu	ipiz
+zuti	utid
+dAlu	ipiz
+kAvupA	upAbAv
+gigubitu	itukiduz
+zuti	utid
+kAvupA	AlukAv
+zuti	utid
+dAlu	utid
+kiduzipi	itukiduz
+gigubitu	AlAgigub
+dAlu	utid
+bAvAlA	AlukAv
+kAvupA	AlukAv
+kiduzipi	itukiduz
+bAvAlA	AlukAv

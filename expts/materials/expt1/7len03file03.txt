@@ -1,0 +1,44 @@
+Lexicon: lupA	lApi	gukidu	dAzutu	vuvAbAzi	kAgitibi	
+
+Training Sentences:
+gukidulupAdAzutu
+dAzutulupAgukidu
+kAgitibilApivuvAbAzi
+kAgitibilApilupA
+lApivuvAbAzikAgitibi
+vuvAbAzilApikAgitibi
+dAzutuvuvAbAzigukidu
+dAzutulupAgukidu
+lApigukidukAgitibi
+
+Test Items:
+vuvAbAzi	utuvuvAb
+kAgitibi	AzikAgit
+lApi	ibil
+dAzutu	idudAz
+kAgitibi	AzikAgit
+gukidu	Apiguk
+vuvAbAzi	AzikAgit
+lApi	upAl
+kAgitibi	AzikAgit
+gukidu	idudAz
+dAzutu	idudAz
+lApi	ibil
+lupA	upAl
+lApi	ibil
+dAzutu	Apiguk
+vuvAbAzi	utuvuvAb
+lupA	upAl
+vuvAbAzi	utuvuvAb
+gukidu	idudAz
+kAgitibi	AzikAgit
+lApi	upAl
+vuvAbAzi	utuvuvAb
+gukidu	idudAz
+vuvAbAzi	utuvuvAb
+dAzutu	Apiguk
+lupA	ibil
+dAzutu	Apiguk
+lupA	upAl
+kAgitibi	AzikAgit
+vuvAbAzi	utuvuvAb

@@ -1,0 +1,145 @@
+Lexicon: vukA	tivA	bidAgi	lAdupA	tubApiki	guzizulu	
+
+Training Sentences:
+tubApiki
+tivA
+bidAgi
+tubApiki
+tubApiki
+tivA
+tubApiki
+tubApiki
+tivA
+lAdupA
+vukA
+bidAgi
+tivA
+vukA
+lAdupA
+guzizulu
+guzizulu
+vukA
+vukA
+guzizulu
+tubApiki
+guzizulu
+tivA
+vukA
+vukA
+guzizulu
+tivA
+lAdupA
+lAdupA
+lAdupA
+bidAgi
+guzizulu
+bidAgi
+vukA
+bidAgi
+lAdupA
+bidAgi
+lAdupA
+tubApiki
+tivA
+
+Test Items:
+tivA	uluv
+bidAgi	AgilAd
+tubApiki	ikiguziz
+tivA	ukAt
+guzizulu	upAtubAp
+tivA	uluv
+guzizulu	ikiguziz
+tubApiki	upAtubAp
+guzizulu	upAtubAp
+lAdupA	ivAbid
+tivA	uluv
+vukA	ukAt
+tivA	ukAt
+lAdupA	AgilAd
+vukA	uluv
+guzizulu	ikiguziz
+bidAgi	AgilAd
+vukA	uluv
+tivA	uluv
+vukA	uluv
+tubApiki	ikiguziz
+bidAgi	AgilAd
+vukA	ukAt
+lAdupA	AgilAd
+bidAgi	ivAbid
+guzizulu	upAtubAp
+bidAgi	AgilAd
+tubApiki	ikiguziz
+vukA	ukAt
+tubApiki	ikiguziz
+lAdupA	AgilAd
+tivA	ukAt
+lAdupA	AgilAd
+bidAgi	AgilAd
+tubApiki	upAtubAp
+vukA	uluv
+guzizulu	upAtubAp
+lAdupA	AgilAd
+tivA	uluv
+bidAgi	ivAbid
+tivA	uluv
+guzizulu	upAtubAp
+bidAgi	AgilAd
+tivA	uluv
+vukA	ukAt
+guzizulu	ikiguziz
+tivA	ukAt
+vukA	uluv
+lAdupA	ivAbid
+guzizulu	ikiguziz
+bidAgi	AgilAd
+guzizulu	upAtubAp
+tubApiki	ikiguziz
+guzizulu	ikiguziz
+tivA	ukAt
+guzizulu	ikiguziz
+tivA	uluv
+bidAgi	ivAbid
+lAdupA	AgilAd
+tivA	uluv
+lAdupA	AgilAd
+bidAgi	ivAbid
+guzizulu	ikiguziz
+bidAgi	ivAbid
+guzizulu	upAtubAp
+vukA	uluv
+guzizulu	upAtubAp
+lAdupA	AgilAd
+bidAgi	ivAbid
+tivA	uluv
+vukA	ukAt
+bidAgi	AgilAd
+tubApiki	upAtubAp
+tivA	uluv
+lAdupA	AgilAd
+tivA	ukAt
+guzizulu	ikiguziz
+lAdupA	ivAbid
+tubApiki	ikiguziz
+guzizulu	upAtubAp
+lAdupA	ivAbid
+tubApiki	ikiguziz
+bidAgi	ivAbid
+guzizulu	upAtubAp
+tubApiki	ikiguziz
+lAdupA	ivAbid
+guzizulu	ikiguziz
+bidAgi	ivAbid
+guzizulu	ikiguziz
+bidAgi	ivAbid
+lAdupA	AgilAd
+tubApiki	upAtubAp
+lAdupA	AgilAd
+tubApiki	ikiguziz
+bidAgi	ivAbid
+tubApiki	upAtubAp
+lAdupA	ivAbid
+tivA	uluv
+lAdupA	ivAbid
+tivA	uluv

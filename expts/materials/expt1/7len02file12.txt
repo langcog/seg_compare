@@ -1,0 +1,49 @@
+Lexicon: tudA	gibi	bAluvA	zitigu	dukAlAvu	pAzupiki	
+
+Training Sentences:
+gibizitigu
+dukAlAvupAzupiki
+pAzupikigibi
+gibitudA
+zitigupAzupiki
+zitigubAluvA
+tudAdukAlAvu
+tudAbAluvA
+dukAlAvutudA
+pAzupikitudA
+dukAlAvugibi
+bAluvApAzupiki
+zitigugibi
+zitigubAluvA
+
+Test Items:
+bAluvA	uvAzit
+zitigu	ibibAl
+dukAlAvu	igudukAl
+bAluvA	uvAzit
+tudA	ikit
+bAluvA	ibibAl
+tudA	ikit
+bAluvA	ibibAl
+tudA	ikit
+gibi	udAg
+zitigu	ibibAl
+dukAlAvu	AvupAzup
+zitigu	uvAzit
+dukAlAvu	AvupAzup
+zitigu	ibibAl
+gibi	ikit
+pAzupiki	AvupAzup
+dukAlAvu	igudukAl
+pAzupiki	AvupAzup
+gibi	udAg
+pAzupiki	AvupAzup
+zitigu	ibibAl
+bAluvA	uvAzit
+gibi	udAg
+zitigu	uvAzit
+bAluvA	uvAzit
+gibi	ikit
+pAzupiki	AvupAzup
+bAluvA	uvAzit
+gibi	ikit

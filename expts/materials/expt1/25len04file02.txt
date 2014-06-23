@@ -1,0 +1,115 @@
+Lexicon: vulu	tipi	tulAbA	gukAgi	pAkivAzi	zududAbi	
+
+Training Sentences:
+tulAbAgukAgipAkivAzizududAbi
+tulAbAtipizududAbigukAgi
+zududAbivulutipigukAgi
+vulutipigukAgizududAbi
+pAkivAzizududAbivulugukAgi
+tulAbAgukAgipAkivAzitipi
+vulupAkivAzizududAbigukAgi
+pAkivAzitipitulAbAvulu
+tulAbApAkivAzivulutipi
+zududAbitipipAkivAzitulAbA
+
+Test Items:
+tipi	Abiv
+vulu	ulut
+tulAbA	AbAguk
+gukAgi	ipitul
+zududAbi	Azizudud
+gukAgi	ipitul
+pAkivAzi	AgipAkiv
+gukAgi	AbAguk
+zududAbi	Azizudud
+gukAgi	AbAguk
+tipi	Abiv
+tulAbA	ipitul
+gukAgi	AbAguk
+vulu	ulut
+tulAbA	AbAguk
+pAkivAzi	Azizudud
+tipi	ulut
+tulAbA	AbAguk
+vulu	Abiv
+tulAbA	ipitul
+vulu	ulut
+pAkivAzi	Azizudud
+vulu	ulut
+tulAbA	AbAguk
+pAkivAzi	AgipAkiv
+gukAgi	AbAguk
+zududAbi	AgipAkiv
+pAkivAzi	Azizudud
+zududAbi	AgipAkiv
+vulu	ulut
+tipi	Abiv
+zududAbi	Azizudud
+tipi	ulut
+pAkivAzi	AgipAkiv
+vulu	ulut
+zududAbi	AgipAkiv
+tulAbA	AbAguk
+zududAbi	Azizudud
+pAkivAzi	AgipAkiv
+gukAgi	ipitul
+vulu	Abiv
+tipi	ulut
+zududAbi	Azizudud
+vulu	ulut
+gukAgi	AbAguk
+zududAbi	Azizudud
+pAkivAzi	AgipAkiv
+tipi	Abiv
+zududAbi	Azizudud
+pAkivAzi	Azizudud
+tulAbA	AbAguk
+vulu	Abiv
+gukAgi	AbAguk
+tipi	Abiv
+pAkivAzi	AgipAkiv
+tipi	ulut
+vulu	Abiv
+pAkivAzi	AgipAkiv
+tipi	Abiv
+zududAbi	Azizudud
+pAkivAzi	AgipAkiv
+tulAbA	AbAguk
+vulu	Abiv
+pAkivAzi	AgipAkiv
+vulu	Abiv
+pAkivAzi	AgipAkiv
+tulAbA	AbAguk
+zududAbi	AgipAkiv
+pAkivAzi	Azizudud
+tipi	Abiv
+tulAbA	AbAguk
+pAkivAzi	Azizudud
+tipi	ulut
+gukAgi	AbAguk
+tulAbA	ipitul
+gukAgi	AbAguk
+tulAbA	ipitul
+zududAbi	AgipAkiv
+vulu	ulut
+gukAgi	AbAguk
+tipi	Abiv
+vulu	ulut
+tulAbA	ipitul
+tipi	Abiv
+pAkivAzi	Azizudud
+tulAbA	AbAguk
+pAkivAzi	Azizudud
+gukAgi	ipitul
+vulu	ulut
+pAkivAzi	AgipAkiv
+gukAgi	ipitul
+tipi	Abiv
+zududAbi	AgipAkiv
+pAkivAzi	Azizudud
+tipi	ulut
+pAkivAzi	Azizudud
+gukAgi	ipitul
+zududAbi	AgipAkiv
+vulu	ulut
+tipi	Abiv

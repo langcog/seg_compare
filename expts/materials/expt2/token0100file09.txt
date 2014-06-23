@@ -1,0 +1,60 @@
+Lexicon: kZ	LP	DGv	gTd	BKzV	btpl	
+
+Training Sentences:
+DGvLPgTdbtpl
+btplDGvBKzVLP
+BKzVkZDGvgTd
+LPBKzVbtplDGv
+gTdDGvkZBKzV
+kZLPBKzVgTd
+LPDGvgTdBKzV
+kZbtplDGvgTd
+kZBKzVbtplgTd
+DGvLPBKzVgTd
+LPkZDGvgTd
+LPkZgTdbtpl
+BKzVkZDGvbtpl
+gTdbtplDGvBKzV
+gTdBKzVbtplkZ
+kZBKzVDGvgTd
+kZLPDGvgTd
+gTdDGvbtplLP
+DGvbtplLPkZ
+btplkZDGvLP
+gTdBKzVbtplkZ
+kZLPBKzVbtpl
+BKzVLPDGvkZ
+LPbtplkZBKzV
+LPgTdBKzVbtpl
+
+Test Items:
+btpl	dBKz
+DGv	vgT
+LP	ZL
+BKzV	dBKz
+DGv	vgT
+kZ	lk
+BKzV	dBKz
+DGv	vgT
+BKzV	dBKz
+LP	ZL
+btpl	dBKz
+gTd	PDG
+kZ	lk
+gTd	vgT
+DGv	PDG
+btpl	dBKz
+LP	ZL
+gTd	PDG
+BKzV	Vbtp
+btpl	dBKz
+gTd	PDG
+LP	ZL
+DGv	PDG
+BKzV	dBKz
+LP	ZL
+gTd	PDG
+BKzV	dBKz
+gTd	vgT
+btpl	dBKz
+LP	ZL

@@ -1,0 +1,36 @@
+Lexicon: zuvu	luvA	tuzigi	pilAti	dApAkAbi	dubAguki	
+
+Training Sentences:
+tuzigizuvudubAgukidApAkAbi
+
+Test Items:
+luvA	uvul
+pilAti	uvAtuz
+tuzigi	uvAtuz
+dApAkAbi	AbidubAg
+zuvu	ukiz
+tuzigi	igipil
+dubAguki	AtidApAk
+dApAkAbi	AbidubAg
+zuvu	ukiz
+luvA	uvul
+zuvu	ukiz
+tuzigi	igipil
+dubAguki	AbidubAg
+luvA	ukiz
+zuvu	uvul
+tuzigi	uvAtuz
+dApAkAbi	AtidApAk
+pilAti	uvAtuz
+luvA	ukiz
+pilAti	uvAtuz
+zuvu	uvul
+tuzigi	uvAtuz
+dubAguki	AbidubAg
+zuvu	uvul
+pilAti	uvAtuz
+tuzigi	uvAtuz
+luvA	uvul
+dubAguki	AbidubAg
+luvA	ukiz
+tuzigi	igipil

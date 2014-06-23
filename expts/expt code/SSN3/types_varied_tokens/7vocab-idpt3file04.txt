@@ -1,0 +1,42 @@
+Lexicon: mG	kDM	nPgF	
+
+Training Sentences:
+mGnPgFmGkDM
+mGkDMnPgFkDM
+kDMnPgFkDMmG
+nPgFmGkDMmG
+kDMnPgFkDMmG
+nPgFmGkDMmG
+nPgFkDMnPgFmG
+
+Test Items:
+kDM	GkD
+mG	Fm
+kDM	GkD
+mG	Fm
+nPgF	MnPg
+mG	Fm
+nPgF	MnPg
+mG	Fm
+nPgF	MnPg
+mG	Fm
+kDM	GkD
+mG	Fm
+nPgF	MnPg
+mG	Fm
+nPgF	MnPg
+mG	Fm
+kDM	GkD
+nPgF	MnPg
+kDM	GkD
+mG	Fm
+nPgF	MnPg
+kDM	GkD
+nPgF	MnPg
+mG	Fm
+nPgF	MnPg
+mG	Fm
+kDM	GkD
+mG	Fm
+kDM	GkD
+nPgF	MnPg

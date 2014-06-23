@@ -1,0 +1,185 @@
+Lexicon: ZP	plz	NrfF	gJ	KVM	
+
+Training Sentences:
+gJZPKVMplz
+NrfFplzZPKVM
+NrfFplzKVMgJ
+plzgJKVMZP
+NrfFKVMplzgJ
+KVMZPgJplz
+KVMNrfFplzZP
+gJKVMNrfFZP
+NrfFKVMplzgJ
+ZPplzKVMNrfF
+KVMNrfFplzgJ
+gJplzNrfFKVM
+gJplzNrfFZP
+NrfFZPgJKVM
+KVMNrfFplzZP
+NrfFplzgJKVM
+KVMplzZPNrfF
+ZPNrfFplzKVM
+gJplzKVMNrfF
+plzNrfFKVMZP
+plzZPKVMNrfF
+gJplzZPNrfF
+ZPKVMNrfFplz
+KVMgJplzZP
+ZPplzgJNrfF
+gJZPKVMplz
+gJZPNrfFplz
+gJNrfFplzZP
+plzNrfFZPKVM
+plzgJKVMNrfF
+NrfFKVMgJplz
+gJKVMZPNrfF
+plzgJNrfFKVM
+NrfFplzKVMgJ
+KVMZPgJNrfF
+NrfFZPgJKVM
+ZPNrfFgJplz
+ZPgJplzKVM
+plzgJKVMZP
+plzZPNrfFKVM
+gJNrfFKVMZP
+KVMZPplzNrfF
+plzNrfFKVMgJ
+NrfFgJZPplz
+ZPplzKVMgJ
+gJZPplzNrfF
+gJplzZPKVM
+NrfFZPKVMgJ
+ZPKVMNrfFplz
+plzKVMZPNrfF
+ZPNrfFKVMgJ
+NrfFplzgJKVM
+gJZPNrfFKVM
+KVMZPplzgJ
+plzZPNrfFKVM
+KVMplzgJZP
+NrfFZPKVMgJ
+plzZPgJKVM
+gJZPplzNrfF
+ZPKVMgJplz
+KVMNrfFplzgJ
+KVMplzgJNrfF
+gJplzZPKVM
+NrfFKVMgJplz
+KVMZPgJNrfF
+ZPplzgJNrfF
+KVMNrfFgJZP
+KVMZPplzNrfF
+gJKVMZPplz
+plzKVMNrfFgJ
+KVMNrfFgJplz
+ZPgJplzNrfF
+ZPplzKVMgJ
+ZPgJplzNrfF
+KVMZPplzgJ
+plzZPNrfFKVM
+ZPgJKVMplz
+KVMgJZPNrfF
+gJNrfFplzKVM
+gJZPKVMplz
+KVMplzNrfFZP
+gJZPKVMplz
+plzZPgJNrfF
+ZPKVMplzgJ
+plzNrfFZPgJ
+NrfFgJKVMplz
+gJKVMplzZP
+ZPNrfFKVMgJ
+plzKVMNrfFgJ
+plzZPKVMgJ
+ZPgJKVMNrfF
+gJNrfFplzKVM
+NrfFplzKVMgJ
+NrfFgJZPKVM
+KVMZPNrfFplz
+ZPgJNrfFplz
+ZPgJNrfFKVM
+KVMplzNrfFZP
+KVMZPgJplz
+plzgJNrfFZP
+ZPNrfFgJplz
+ZPgJNrfFplz
+NrfFZPgJplz
+NrfFKVMZPplz
+plzNrfFZPKVM
+NrfFKVMgJZP
+NrfFZPplzKVM
+plzNrfFKVMgJ
+ZPgJKVMplz
+gJKVMNrfFZP
+NrfFplzZPgJ
+gJKVMZPNrfF
+ZPKVMplzgJ
+KVMgJNrfFZP
+KVMgJNrfFZP
+gJNrfFZPplz
+ZPNrfFgJKVM
+KVMplzgJNrfF
+gJplzKVMZP
+ZPplzgJNrfF
+NrfFZPplzgJ
+NrfFKVMZPgJ
+KVMplzNrfFZP
+plzZPgJKVM
+gJKVMNrfFplz
+ZPplzKVMNrfF
+NrfFZPgJplz
+plzKVMZPNrfF
+ZPgJplzNrfF
+plzKVMNrfFgJ
+NrfFgJZPplz
+KVMNrfFgJZP
+ZPKVMgJplz
+NrfFgJplzZP
+NrfFgJplzZP
+NrfFplzKVMgJ
+KVMNrfFplzZP
+ZPplzgJKVM
+NrfFgJZPKVM
+NrfFplzgJZP
+plzgJKVMNrfF
+ZPKVMgJplz
+ZPNrfFgJKVM
+KVMNrfFZPgJ
+gJKVMZPplz
+ZPKVMplzNrfF
+gJNrfFZPKVM
+ZPNrfFgJKVM
+plzZPNrfFKVM
+NrfFplzNrfFNrfF
+
+Test Items:
+NrfF	zNrf
+KVM	JKV
+ZP	Fg
+plz	Ppl
+ZP	MZ
+NrfF	zNrf
+plz	Ppl
+ZP	MZ
+gJ	MZ
+NrfF	zNrf
+gJ	Fg
+KVM	JKV
+ZP	Fg
+KVM	Ppl
+NrfF	zNrf
+ZP	Fg
+KVM	JKV
+gJ	Fg
+KVM	Ppl
+ZP	MZ
+KVM	JKV
+NrfF	zNrf
+gJ	MZ
+KVM	Ppl
+gJ	MZ
+ZP	MZ
+NrfF	zNrf
+KVM	JKV
+NrfF	zNrf
+ZP	MZ

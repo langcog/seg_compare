@@ -1,0 +1,41 @@
+Lexicon: kAzu	pAgi	kitidu	bAbidA	gupizilu	lAvuvAtu	
+
+Training Sentences:
+kAzugupizilulAvuvAtukitidubAbidApAgi
+bAbidAgupizilupAgikAzulAvuvAtukitidu
+lAvuvAtugupizilubAbidApAgikAzukitidu
+pAgikitidubAbidAgupizilukAzulAvuvAtu
+kAzukitidugupizilulAvuvAtubAbidApAgi
+pAgikAzukitidulAvuvAtubAbidAgupizilu
+
+Test Items:
+bAbidA	Agikit
+kitidu	idubAb
+pAgi	Atuk
+kAzu	Azup
+lAvuvAtu	idAgupiz
+kAzu	Atuk
+bAbidA	Agikit
+kAzu	Atuk
+lAvuvAtu	idAgupiz
+kitidu	idubAb
+gupizilu	ilulAvuv
+kitidu	Agikit
+kAzu	Atuk
+pAgi	Azup
+kAzu	Atuk
+gupizilu	ilulAvuv
+kitidu	Agikit
+bAbidA	idubAb
+kAzu	Atuk
+kitidu	Agikit
+pAgi	Atuk
+gupizilu	ilulAvuv
+kAzu	Azup
+pAgi	Atuk
+kitidu	Agikit
+lAvuvAtu	idAgupiz
+bAbidA	Agikit
+kitidu	idubAb
+gupizilu	idAgupiz
+lAvuvAtu	ilulAvuv

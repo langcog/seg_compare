@@ -1,0 +1,45 @@
+Lexicon: bg	mMG	JBtv	Nr	
+
+Training Sentences:
+NrJBtvmMGbg
+NrbgmMGJBtv
+bgJBtvNrmMG
+mMGJBtvbgNr
+NrJBtvbgmMG
+NrJBtvbgmMG
+NrJBtvbgmMG
+JBtvbgNrmMG
+mMGJBtvbgNr
+NrJBtvmMGbg
+
+Test Items:
+Nr	vN
+mMG	gmM
+bg	vN
+Nr	rb
+bg	vN
+JBtv	GJBt
+Nr	vN
+mMG	gmM
+Nr	rb
+mMG	gmM
+Nr	rb
+JBtv	GJBt
+Nr	vN
+bg	rb
+mMG	gmM
+Nr	rb
+mMG	gmM
+Nr	vN
+JBtv	GJBt
+mMG	gmM
+Nr	vN
+JBtv	GJBt
+bg	rb
+Nr	vN
+mMG	gmM
+Nr	rb
+JBtv	GJBt
+bg	vN
+mMG	gmM
+Nr	rb

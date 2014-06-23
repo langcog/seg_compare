@@ -1,0 +1,42 @@
+Lexicon: GL	tlB	Rzfn	
+
+Training Sentences:
+tlBGLRzfntlB
+tlBRzfntlBGL
+RzfntlBGLRzfn
+RzfnGLRzfnGL
+tlBGLRzfntlB
+GLtlBGLRzfn
+tlBRzfntlBGL
+
+Test Items:
+Rzfn	BRzf
+tlB	Ltl
+GL	nG
+tlB	Ltl
+Rzfn	BRzf
+tlB	Ltl
+GL	nG
+Rzfn	BRzf
+tlB	Ltl
+Rzfn	BRzf
+tlB	Ltl
+Rzfn	BRzf
+GL	nG
+tlB	Ltl
+Rzfn	BRzf
+tlB	Ltl
+Rzfn	BRzf
+tlB	Ltl
+GL	nG
+tlB	Ltl
+GL	nG
+Rzfn	BRzf
+GL	nG
+Rzfn	BRzf
+tlB	Ltl
+Rzfn	BRzf
+GL	nG
+tlB	Ltl
+GL	nG
+Rzfn	BRzf

@@ -1,0 +1,39 @@
+Lexicon: dAkA	pilA	zugigu	bAtivu	pAlubitu	vAkizidu	
+
+Training Sentences:
+vAkizidupilAbAtivuzugigudAkApAlubitu
+dAkApAlubitubAtivuzugiguvAkizidupilA
+pilAzugigudAkAvAkizidubAtivupAlubitu
+pilAzugiguvAkizidubAtivupAlubitudAkA
+
+Test Items:
+vAkizidu	ivupAlub
+pilA	AkAp
+zugigu	ilAzug
+pAlubitu	ituvAkiz
+zugigu	igubAt
+dAkA	AkAp
+zugigu	ilAzug
+bAtivu	ilAzug
+pilA	AkAp
+vAkizidu	ituvAkiz
+dAkA	idud
+bAtivu	igubAt
+pilA	AkAp
+bAtivu	igubAt
+pAlubitu	ivupAlub
+pilA	AkAp
+vAkizidu	ivupAlub
+bAtivu	ilAzug
+pAlubitu	ivupAlub
+dAkA	idud
+vAkizidu	ivupAlub
+pilA	AkAp
+dAkA	idud
+pilA	AkAp
+pAlubitu	ivupAlub
+zugigu	ilAzug
+pAlubitu	ituvAkiz
+vAkizidu	ituvAkiz
+pilA	idud
+dAkA	AkAp

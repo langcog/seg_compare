@@ -1,0 +1,60 @@
+Lexicon: ZK	frN	zTpF	Dd	
+
+Training Sentences:
+ZKDdzTpFfrN
+ZKzTpFfrNDd
+ZKzTpFfrNDd
+frNDdZKzTpF
+frNDdzTpFZK
+frNzTpFZKDd
+frNDdzTpFZK
+ZKfrNzTpFDd
+DdfrNZKzTpF
+DdfrNzTpFZK
+zTpFZKDdfrN
+zTpFDdfrNZK
+ZKDdfrNzTpF
+zTpFfrNDdZK
+frNDdzTpFZK
+DdzTpFfrNZK
+frNzTpFDdZK
+frNzTpFDdZK
+DdfrNzTpFZK
+frNzTpFDdZK
+frNDdZKzTpF
+DdzTpFZKfrN
+DdzTpFfrNZK
+frNzTpFZKDd
+frNDdZKzTpF
+
+Test Items:
+Dd	dZ
+frN	Kfr
+zTpF	NzTp
+ZK	dZ
+Dd	FD
+ZK	dZ
+frN	Kfr
+Dd	dZ
+zTpF	NzTp
+Dd	FD
+frN	Kfr
+ZK	FD
+frN	Kfr
+Dd	FD
+zTpF	NzTp
+ZK	FD
+frN	Kfr
+Dd	dZ
+zTpF	NzTp
+frN	Kfr
+ZK	FD
+zTpF	NzTp
+Dd	FD
+frN	Kfr
+ZK	FD
+zTpF	NzTp
+Dd	dZ
+frN	Kfr
+Dd	dZ
+ZK	FD

@@ -1,0 +1,41 @@
+Lexicon: Zk	Tvg	rnRP	Bl	
+
+Training Sentences:
+rnRPZkTvgBl
+BlZkTvgrnRP
+BlTvgZkrnRP
+BlZkTvgrnRP
+ZkTvgrnRPBl
+rnRPTvgZkBl
+
+Test Items:
+rnRP	grnR
+Tvg	kTv
+Zk	lZ
+rnRP	grnR
+Zk	PB
+rnRP	grnR
+Zk	PB
+Tvg	kTv
+rnRP	grnR
+Bl	PB
+rnRP	grnR
+Zk	lZ
+Tvg	kTv
+Bl	lZ
+rnRP	grnR
+Zk	lZ
+Tvg	kTv
+Bl	lZ
+rnRP	grnR
+Zk	PB
+Bl	lZ
+rnRP	grnR
+Tvg	kTv
+rnRP	grnR
+Tvg	kTv
+rnRP	grnR
+Zk	PB
+rnRP	grnR
+Bl	lZ
+Tvg	kTv

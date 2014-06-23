@@ -1,0 +1,50 @@
+Lexicon: zuvA	bilu	kitipA	gugikA	dAvuzitu	bAlAdupi	
+
+Training Sentences:
+bAlAdupikitipAdAvuzitugugikA
+bAlAdupikitipAgugikAbilu
+bAlAdupibiluzuvAdAvuzitu
+bilukitipAgugikAzuvA
+gugikAzuvAbilubAlAdupi
+gugikAzuvAdAvuzitukitipA
+dAvuzitukitipAbiluzuvA
+bilubAlAdupikitipAgugikA
+kitipAdAvuzitubilubAlAdupi
+zuvAkitipAbilugugikA
+biludAvuzitugugikAbAlAdupi
+bAlAdupidAvuzituzuvAkitipA
+zuvAdAvuzitugugikAbilu
+zuvAbAlAdupigugikAdAvuzitu
+dAvuzitubAlAdupikitipAzuvA
+
+Test Items:
+gugikA	ilukit
+zuvA	upiz
+gugikA	ilukit
+kitipA	ipAgug
+dAvuzitu	itubAlAd
+bAlAdupi	ikAdAvuz
+kitipA	ipAgug
+zuvA	upiz
+bAlAdupi	ikAdAvuz
+dAvuzitu	ikAdAvuz
+kitipA	ilukit
+bAlAdupi	itubAlAd
+gugikA	ipAgug
+bilu	upiz
+bAlAdupi	itubAlAd
+zuvA	upiz
+gugikA	ilukit
+kitipA	ipAgug
+bAlAdupi	ikAdAvuz
+kitipA	ipAgug
+gugikA	ilukit
+dAvuzitu	itubAlAd
+zuvA	upiz
+gugikA	ilukit
+bAlAdupi	itubAlAd
+bilu	uvAb
+kitipA	ipAgug
+zuvA	upiz
+bAlAdupi	ikAdAvuz
+bilu	uvAb

@@ -1,0 +1,71 @@
+Lexicon: vt	bL	gkz	GPl	DpZV	dBKT	
+
+Training Sentences:
+bLGPlgkzDpZV
+vtdBKTDpZVbL
+GPlvtbLdBKT
+DpZVgkzbLdBKT
+GPlvtdBKTDpZV
+gkzGPlvtgkz
+
+Test Items:
+dBKT	lDpZ
+DpZV	VdBK
+vt	Tv
+GPl	Lgk
+vt	Tv
+DpZV	VdBK
+gkz	zGP
+dBKT	VdBK
+DpZV	VdBK
+vt	Tv
+dBKT	lDpZ
+bL	Tv
+gkz	Lgk
+dBKT	VdBK
+DpZV	lDpZ
+gkz	zGP
+bL	tb
+DpZV	VdBK
+GPl	zGP
+bL	Tv
+DpZV	VdBK
+gkz	zGP
+dBKT	lDpZ
+gkz	Lgk
+dBKT	lDpZ
+gkz	Lgk
+vt	tb
+DpZV	lDpZ
+GPl	Lgk
+bL	Tv
+GPl	Lgk
+bL	Tv
+DpZV	VdBK
+dBKT	lDpZ
+GPl	Lgk
+bL	tb
+gkz	Lgk
+dBKT	lDpZ
+DpZV	lDpZ
+bL	Tv
+gkz	Lgk
+bL	tb
+vt	Tv
+dBKT	VdBK
+DpZV	lDpZ
+gkz	Lgk
+dBKT	VdBK
+DpZV	lDpZ
+gkz	zGP
+GPl	Lgk
+gkz	zGP
+GPl	Lgk
+gkz	zGP
+GPl	zGP
+vt	Tv
+bL	tb
+GPl	zGP
+DpZV	lDpZ
+GPl	zGP
+dBKT	lDpZ

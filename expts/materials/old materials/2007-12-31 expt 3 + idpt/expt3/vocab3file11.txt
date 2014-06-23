@@ -1,0 +1,185 @@
+Lexicon: Mm	KLg	DbvR	
+
+Training Sentences:
+DbvRMmDbvRKLg
+MmDbvRKLgMm
+KLgMmKLgMm
+DbvRKLgDbvRMm
+MmKLgDbvRMm
+DbvRMmDbvRKLg
+MmDbvRMmDbvR
+MmDbvRKLgMm
+MmKLgDbvRKLg
+KLgMmDbvRMm
+DbvRMmKLgMm
+MmDbvRKLgMm
+DbvRMmKLgDbvR
+MmKLgDbvRKLg
+MmDbvRKLgMm
+KLgMmKLgMm
+KLgMmDbvRKLg
+MmKLgDbvRMm
+KLgMmDbvRKLg
+MmDbvRKLgMm
+MmKLgDbvRMm
+MmDbvRKLgDbvR
+MmDbvRKLgMm
+DbvRMmKLgMm
+DbvRMmKLgMm
+KLgDbvRMmDbvR
+DbvRMmDbvRMm
+MmKLgMmDbvR
+MmKLgMmDbvR
+DbvRKLgDbvRKLg
+MmDbvRMmKLg
+DbvRMmDbvRMm
+KLgMmKLgMm
+MmKLgMmDbvR
+DbvRKLgDbvRMm
+DbvRKLgDbvRMm
+KLgDbvRKLgDbvR
+DbvRKLgMmKLg
+DbvRKLgMmKLg
+KLgDbvRKLgMm
+DbvRKLgDbvRKLg
+DbvRMmDbvRKLg
+DbvRMmKLgMm
+DbvRMmDbvRKLg
+MmDbvRMmKLg
+DbvRMmKLgDbvR
+DbvRKLgMmDbvR
+DbvRKLgMmDbvR
+DbvRKLgMmDbvR
+KLgDbvRMmDbvR
+DbvRMmKLgDbvR
+KLgDbvRKLgDbvR
+DbvRMmKLgMm
+KLgDbvRMmDbvR
+MmDbvRKLgMm
+DbvRMmKLgMm
+KLgMmDbvRKLg
+DbvRKLgMmKLg
+KLgDbvRMmKLg
+MmDbvRKLgDbvR
+DbvRMmKLgDbvR
+MmKLgMmDbvR
+DbvRMmDbvRMm
+KLgDbvRKLgMm
+KLgDbvRMmKLg
+DbvRMmKLgDbvR
+KLgDbvRKLgMm
+KLgDbvRMmKLg
+KLgDbvRMmDbvR
+MmDbvRKLgDbvR
+DbvRKLgMmKLg
+DbvRMmKLgDbvR
+MmDbvRMmDbvR
+KLgDbvRMmKLg
+KLgMmDbvRKLg
+MmDbvRKLgDbvR
+KLgDbvRKLgMm
+MmDbvRKLgMm
+DbvRMmDbvRKLg
+DbvRKLgDbvRMm
+MmKLgDbvRKLg
+DbvRMmDbvRKLg
+MmKLgDbvRKLg
+MmDbvRMmKLg
+DbvRKLgDbvRKLg
+DbvRMmDbvRMm
+MmDbvRMmDbvR
+KLgDbvRMmDbvR
+KLgMmKLgDbvR
+KLgMmDbvRKLg
+KLgDbvRKLgMm
+DbvRMmKLgMm
+MmKLgDbvRKLg
+KLgDbvRKLgMm
+KLgDbvRMmKLg
+KLgMmKLgMm
+KLgDbvRMmKLg
+MmDbvRKLgMm
+MmDbvRKLgDbvR
+KLgMmKLgDbvR
+DbvRMmDbvRKLg
+KLgDbvRMmKLg
+KLgMmKLgMm
+MmKLgDbvRKLg
+KLgDbvRMmKLg
+MmDbvRKLgDbvR
+DbvRMmKLgMm
+KLgDbvRKLgMm
+KLgDbvRMmKLg
+KLgDbvRMmDbvR
+MmKLgDbvRMm
+DbvRKLgDbvRKLg
+KLgDbvRKLgMm
+KLgDbvRMmKLg
+MmDbvRMmDbvR
+MmDbvRMmKLg
+KLgDbvRKLgDbvR
+DbvRMmKLgDbvR
+KLgDbvRMmKLg
+KLgDbvRKLgMm
+DbvRMmDbvRKLg
+MmKLgMmDbvR
+MmDbvRKLgMm
+KLgDbvRKLgMm
+KLgMmDbvRKLg
+DbvRKLgMmKLg
+KLgDbvRKLgDbvR
+DbvRMmKLgDbvR
+KLgMmKLgMm
+KLgDbvRKLgDbvR
+DbvRKLgDbvRMm
+MmDbvRKLgMm
+DbvRMmKLgMm
+MmKLgDbvRKLg
+DbvRMmKLgDbvR
+MmDbvRKLgDbvR
+DbvRMmKLgMm
+KLgDbvRMmDbvR
+KLgMmKLgMm
+KLgMmKLgDbvR
+KLgMmKLgMm
+MmDbvRKLgMm
+MmKLgMmDbvR
+DbvRKLgDbvRKLg
+MmDbvRMmDbvR
+MmDbvRKLgMm
+MmKLgMmDbvR
+KLgMmDbvRMm
+MmDbvRMmKLg
+DbvRMmMmMm
+
+Test Items:
+KLg	mKL
+Mm	RM
+DbvR	gDbv
+Mm	RM
+DbvR	gDbv
+KLg	mKL
+Mm	RM
+KLg	mKL
+DbvR	gDbv
+KLg	mKL
+DbvR	gDbv
+KLg	mKL
+Mm	RM
+DbvR	gDbv
+KLg	mKL
+Mm	RM
+KLg	mKL
+DbvR	gDbv
+KLg	mKL
+Mm	RM
+KLg	mKL
+DbvR	gDbv
+Mm	RM
+DbvR	gDbv
+Mm	RM
+KLg	mKL
+Mm	RM
+KLg	mKL
+Mm	RM
+DbvR	gDbv

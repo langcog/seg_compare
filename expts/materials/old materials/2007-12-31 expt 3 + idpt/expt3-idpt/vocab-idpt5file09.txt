@@ -1,0 +1,185 @@
+Lexicon: Mp	mLK	lZbz	DR	dtJ	
+
+Training Sentences:
+mLKDRdtJMp
+dtJlZbzMpDR
+DRmLKMplZbz
+dtJmLKlZbzDR
+dtJmLKMplZbz
+lZbzmLKDRMp
+dtJlZbzmLKDR
+DRlZbzdtJmLK
+dtJMplZbzDR
+DRmLKMplZbz
+MplZbzdtJmLK
+lZbzDRdtJmLK
+DRdtJlZbzMp
+mLKDRMpdtJ
+MpDRdtJmLK
+DRmLKdtJlZbz
+lZbzMpDRdtJ
+lZbzMpDRmLK
+MpDRdtJlZbz
+dtJMpDRlZbz
+MplZbzDRdtJ
+mLKDRlZbzdtJ
+mLKlZbzMpdtJ
+MpdtJmLKDR
+dtJMpmLKDR
+DRlZbzMpdtJ
+mLKdtJlZbzMp
+mLKdtJDRlZbz
+DRlZbzMpmLK
+DRMplZbzmLK
+MpmLKdtJDR
+dtJMplZbzDR
+DRdtJlZbzMp
+mLKdtJlZbzDR
+mLKlZbzDRMp
+mLKdtJMpDR
+DRlZbzdtJmLK
+mLKlZbzDRdtJ
+MpDRmLKlZbz
+dtJmLKlZbzDR
+DRmLKMpdtJ
+dtJmLKDRMp
+MpDRlZbzdtJ
+dtJmLKMpDR
+mLKDRdtJMp
+MpdtJlZbzDR
+MpDRlZbzdtJ
+DRmLKdtJlZbz
+lZbzMpdtJmLK
+mLKdtJDRlZbz
+lZbzdtJMpmLK
+lZbzmLKdtJMp
+lZbzDRdtJMp
+mLKlZbzMpDR
+lZbzdtJMpmLK
+mLKdtJMplZbz
+mLKlZbzDRMp
+mLKMpDRdtJ
+MpdtJmLKDR
+lZbzdtJDRmLK
+MpmLKDRdtJ
+lZbzDRMpdtJ
+MpDRlZbzmLK
+mLKDRdtJMp
+DRMpmLKdtJ
+DRlZbzmLKMp
+mLKDRdtJlZbz
+mLKDRdtJlZbz
+dtJMpmLKDR
+DRmLKdtJMp
+lZbzmLKDRMp
+lZbzDRMpmLK
+MplZbzDRdtJ
+mLKdtJMplZbz
+mLKdtJlZbzDR
+DRMpmLKdtJ
+lZbzMpdtJDR
+lZbzDRdtJmLK
+lZbzMpdtJDR
+dtJlZbzDRmLK
+mLKDRMplZbz
+MpDRmLKlZbz
+mLKlZbzMpDR
+MpdtJDRlZbz
+lZbzmLKdtJMp
+DRdtJMpmLK
+MpDRdtJmLK
+mLKDRMplZbz
+MpmLKdtJDR
+mLKdtJDRlZbz
+lZbzDRdtJmLK
+mLKDRMplZbz
+DRmLKlZbzMp
+lZbzDRdtJMp
+lZbzdtJmLKMp
+mLKdtJMplZbz
+lZbzdtJmLKDR
+dtJmLKMpDR
+mLKdtJDRMp
+MplZbzdtJDR
+lZbzMpmLKdtJ
+lZbzMpmLKDR
+mLKDRMplZbz
+lZbzMpdtJDR
+MpmLKDRdtJ
+DRMpmLKlZbz
+MpmLKdtJDR
+DRdtJMpmLK
+dtJlZbzmLKDR
+mLKMpdtJlZbz
+mLKlZbzMpdtJ
+dtJmLKMplZbz
+lZbzmLKMpdtJ
+MplZbzdtJmLK
+lZbzdtJMpDR
+MpdtJlZbzmLK
+dtJMpmLKlZbz
+lZbzDRdtJMp
+lZbzMpdtJDR
+dtJMpDRmLK
+lZbzmLKdtJDR
+lZbzmLKdtJMp
+mLKMpDRlZbz
+mLKMpdtJlZbz
+mLKlZbzDRMp
+dtJlZbzDRmLK
+MpdtJDRmLK
+lZbzMpdtJDR
+MpmLKDRlZbz
+MpmLKdtJDR
+lZbzmLKDRMp
+DRmLKMplZbz
+lZbzmLKdtJMp
+DRlZbzdtJmLK
+mLKlZbzMpDR
+mLKdtJlZbzDR
+DRMplZbzdtJ
+DRmLKMplZbz
+DRlZbzdtJMp
+dtJlZbzmLKDR
+DRlZbzmLKMp
+MpdtJDRlZbz
+lZbzMpdtJmLK
+MpdtJmLKlZbz
+mLKdtJlZbzDR
+lZbzdtJmLKMp
+dtJlZbzmLKMp
+dtJMpmLKlZbz
+dtJlZbzmLKMp
+dtJDRlZbzdtJ
+
+Test Items:
+mLK	Rdt
+DR	zD
+lZbz	KlZb
+mLK	Rdt
+dtJ	pmL
+DR	zD
+lZbz	KlZb
+mLK	Rdt
+Mp	JM
+dtJ	pmL
+Mp	zD
+dtJ	pmL
+mLK	Rdt
+DR	zD
+dtJ	Rdt
+mLK	pmL
+lZbz	KlZb
+dtJ	Rdt
+DR	JM
+dtJ	Rdt
+mLK	pmL
+Mp	zD
+dtJ	pmL
+lZbz	KlZb
+dtJ	pmL
+lZbz	KlZb
+DR	JM
+Mp	zD
+DR	JM
+mLK	Rdt

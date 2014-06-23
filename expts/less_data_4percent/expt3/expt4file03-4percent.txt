@@ -1,0 +1,41 @@
+Lexicon: Jr	MkD	PlKn	FR	
+
+Training Sentences:
+PlKnMkDJrFR
+JrFRPlKnMkD
+PlKnJrFRMkD
+JrFRMkDPlKn
+PlKnJrMkDFR
+FRPlKnMkDJr
+
+Test Items:
+FR	nF
+MkD	rMk
+Jr	nF
+PlKn	DPlK
+MkD	rMk
+Jr	nF
+PlKn	DPlK
+MkD	rMk
+FR	nF
+MkD	rMk
+PlKn	DPlK
+Jr	RJ
+MkD	rMk
+FR	RJ
+Jr	nF
+MkD	rMk
+PlKn	DPlK
+Jr	RJ
+MkD	rMk
+FR	RJ
+PlKn	DPlK
+Jr	nF
+PlKn	DPlK
+FR	RJ
+PlKn	DPlK
+Jr	RJ
+FR	nF
+MkD	rMk
+FR	RJ
+MkD	rMk

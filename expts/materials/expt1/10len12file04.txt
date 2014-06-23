@@ -1,0 +1,38 @@
+Lexicon: kApi	giti	lApAzu	kitulu	bivubAdA	ziguvAdu	
+
+Training Sentences:
+lApAzuziguvAdubivubAdAgitikitulugitikApibivubAdAkituluziguvAdukApilApAzu
+ziguvAdukitulubivubAdAlApAzukitulubivubAdAgitikApiziguvAdulApAzugitikApi
+kitululApAzuziguvAdukApiziguvAdukitululApAzubivubAdAgitikApigitibivubAdA
+
+Test Items:
+kitulu	itilAp
+ziguvAdu	ulubivub
+bivubAdA	AdAziguv
+ziguvAdu	ulubivub
+giti	Aduk
+bivubAdA	ulubivub
+ziguvAdu	AdAziguv
+giti	Aduk
+ziguvAdu	AdAziguv
+kitulu	itilAp
+giti	Aduk
+bivubAdA	ulubivub
+ziguvAdu	AdAziguv
+kApi	Apig
+lApAzu	itilAp
+giti	Aduk
+bivubAdA	AdAziguv
+kitulu	itilAp
+giti	Apig
+lApAzu	itilAp
+bivubAdA	ulubivub
+kitulu	itilAp
+lApAzu	Azukit
+ziguvAdu	AdAziguv
+kitulu	itilAp
+giti	Apig
+kApi	Apig
+lApAzu	itilAp
+ziguvAdu	AdAziguv
+lApAzu	Azukit

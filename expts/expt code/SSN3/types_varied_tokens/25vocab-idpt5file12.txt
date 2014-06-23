@@ -1,0 +1,60 @@
+Lexicon: KP	VvR	mkpb	Ft	lTM	
+
+Training Sentences:
+lTMVvRmkpbFt
+FtKPVvRlTM
+lTMKPVvRmkpb
+KPlTMVvRmkpb
+mkpbVvRlTMFt
+FtKPlTMVvR
+VvRmkpbKPlTM
+mkpbVvRKPFt
+FtlTMmkpbKP
+lTMKPFtmkpb
+VvRmkpbFtKP
+KPlTMmkpbFt
+lTMFtmkpbKP
+mkpblTMFtVvR
+mkpbFtlTMVvR
+FtmkpbKPVvR
+KPFtmkpbVvR
+lTMFtmkpbVvR
+KPVvRlTMFt
+mkpbKPVvRlTM
+KPFtVvRmkpb
+FtmkpblTMVvR
+VvRlTMmkpbKP
+lTMKPFtVvR
+KPlTMFtKP
+
+Test Items:
+mkpb	Rmkp
+VvR	PVv
+Ft	bF
+mkpb	Rmkp
+KP	MK
+lTM	tlT
+VvR	PVv
+mkpb	Rmkp
+Ft	MK
+KP	bF
+lTM	tlT
+mkpb	Rmkp
+VvR	PVv
+Ft	bF
+lTM	tlT
+mkpb	Rmkp
+VvR	PVv
+mkpb	Rmkp
+KP	MK
+mkpb	Rmkp
+lTM	PVv
+mkpb	Rmkp
+Ft	bF
+KP	MK
+Ft	MK
+VvR	tlT
+mkpb	Rmkp
+Ft	bF
+VvR	PVv
+mkpb	Rmkp

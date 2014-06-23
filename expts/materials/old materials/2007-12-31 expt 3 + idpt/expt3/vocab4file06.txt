@@ -1,0 +1,185 @@
+Lexicon: pz	LkP	BGtl	mT	
+
+Training Sentences:
+LkPmTBGtlpz
+LkPmTpzBGtl
+LkPmTpzBGtl
+BGtlpzmTLkP
+BGtlmTpzLkP
+LkPBGtlpzmT
+BGtlmTpzLkP
+mTBGtlpzLkP
+LkPmTBGtlpz
+pzLkPBGtlmT
+mTLkPBGtlpz
+BGtlpzmTLkP
+mTpzLkPBGtl
+mTLkPpzBGtl
+LkPpzBGtlmT
+pzmTLkPBGtl
+mTpzBGtlLkP
+LkPBGtlmTpz
+mTBGtlpzLkP
+BGtlpzmTLkP
+mTBGtlpzLkP
+BGtlpzmTLkP
+BGtlpzLkPmT
+LkPmTpzBGtl
+BGtlLkPmTpz
+BGtlmTLkPpz
+pzBGtlmTLkP
+pzBGtlLkPmT
+mTpzLkPBGtl
+LkPpzmTBGtl
+BGtlpzmTLkP
+pzLkPBGtlmT
+BGtlLkPpzmT
+mTBGtlpzLkP
+mTLkPpzBGtl
+pzBGtlmTLkP
+pzLkPBGtlmT
+LkPBGtlmTpz
+pzmTBGtlLkP
+LkPBGtlpzmT
+LkPpzmTBGtl
+BGtlmTpzLkP
+mTpzLkPBGtl
+BGtlmTLkPpz
+BGtlpzmTLkP
+mTLkPBGtlpz
+pzLkPmTBGtl
+BGtlmTLkPpz
+BGtlpzLkPmT
+mTBGtlpzLkP
+LkPBGtlpzmT
+mTpzBGtlLkP
+BGtlpzmTLkP
+mTLkPpzBGtl
+BGtlLkPmTpz
+pzmTBGtlLkP
+BGtlmTpzLkP
+BGtlmTpzLkP
+LkPmTpzBGtl
+LkPBGtlpzmT
+mTBGtlpzLkP
+mTLkPpzBGtl
+mTpzBGtlLkP
+LkPBGtlmTpz
+pzBGtlLkPmT
+LkPmTBGtlpz
+LkPmTBGtlpz
+pzmTBGtlLkP
+mTBGtlpzLkP
+mTLkPBGtlpz
+BGtlpzLkPmT
+mTpzLkPBGtl
+mTpzLkPBGtl
+LkPBGtlpzmT
+LkPpzmTBGtl
+pzLkPBGtlmT
+pzLkPmTBGtl
+mTpzBGtlLkP
+pzmTBGtlLkP
+mTBGtlpzLkP
+pzBGtlmTLkP
+pzLkPBGtlmT
+LkPpzBGtlmT
+LkPpzmTBGtl
+pzBGtlmTLkP
+mTLkPBGtlpz
+BGtlLkPpzmT
+BGtlmTLkPpz
+mTLkPBGtlpz
+BGtlpzLkPmT
+mTpzBGtlLkP
+BGtlpzLkPmT
+BGtlLkPpzmT
+pzmTBGtlLkP
+pzBGtlmTLkP
+BGtlmTpzLkP
+mTLkPpzBGtl
+BGtlmTLkPpz
+LkPBGtlmTpz
+BGtlLkPmTpz
+LkPmTBGtlpz
+mTLkPpzBGtl
+LkPpzBGtlmT
+LkPmTpzBGtl
+LkPBGtlmTpz
+mTBGtlpzLkP
+BGtlLkPmTpz
+BGtlpzmTLkP
+pzLkPBGtlmT
+BGtlmTpzLkP
+LkPmTBGtlpz
+BGtlmTLkPpz
+pzBGtlmTLkP
+pzLkPBGtlmT
+mTBGtlLkPpz
+LkPpzBGtlmT
+LkPpzBGtlmT
+BGtlpzmTLkP
+pzmTLkPBGtl
+LkPBGtlpzmT
+BGtlpzmTLkP
+pzmTLkPBGtl
+mTBGtlLkPpz
+pzmTBGtlLkP
+mTLkPpzBGtl
+pzmTLkPBGtl
+mTLkPBGtlpz
+mTpzBGtlLkP
+pzmTBGtlLkP
+LkPBGtlpzmT
+pzmTBGtlLkP
+mTLkPpzBGtl
+BGtlpzmTLkP
+mTBGtlLkPpz
+BGtlmTpzLkP
+LkPmTpzBGtl
+pzBGtlmTLkP
+pzmTBGtlLkP
+mTpzLkPBGtl
+BGtlpzmTLkP
+BGtlpzLkPmT
+pzBGtlLkPmT
+BGtlLkPmTpz
+LkPmTpzBGtl
+pzLkPBGtlmT
+pzmTBGtlLkP
+mTBGtlpzLkP
+LkPmTpzBGtl
+mTpzBGtlLkP
+LkPpzBGtlmT
+
+Test Items:
+mT	Tp
+pz	Tp
+LkP	zLk
+pz	lm
+BGtl	PBGt
+LkP	zLk
+BGtl	PBGt
+LkP	zLk
+BGtl	PBGt
+LkP	zLk
+pz	Tp
+mT	lm
+LkP	zLk
+BGtl	PBGt
+pz	lm
+mT	lm
+LkP	zLk
+pz	Tp
+BGtl	PBGt
+mT	lm
+pz	lm
+mT	lm
+pz	Tp
+mT	Tp
+LkP	zLk
+mT	Tp
+BGtl	PBGt
+pz	lm
+LkP	zLk
+pz	Tp

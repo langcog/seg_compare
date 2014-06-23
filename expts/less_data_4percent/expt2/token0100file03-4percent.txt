@@ -1,0 +1,36 @@
+Lexicon: bB	VD	dKt	TZk	lLPg	Gvzp	
+
+Training Sentences:
+VDbBGvzplLPg
+
+Test Items:
+Gvzp	gGvz
+dKt	tTZ
+Gvzp	gGvz
+bB	BV
+lLPg	gGvz
+VD	BV
+dKt	DdK
+Gvzp	klLP
+lLPg	gGvz
+VD	pb
+Gvzp	klLP
+TZk	tTZ
+dKt	DdK
+TZk	tTZ
+VD	BV
+bB	pb
+VD	BV
+lLPg	klLP
+Gvzp	gGvz
+lLPg	klLP
+TZk	DdK
+lLPg	klLP
+Gvzp	klLP
+bB	pb
+Gvzp	gGvz
+bB	pb
+dKt	tTZ
+lLPg	gGvz
+dKt	DdK
+VD	BV

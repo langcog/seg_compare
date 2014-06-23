@@ -1,0 +1,36 @@
+Lexicon: kAti	lubi	zuduki	lAzivu	vAbAtupi	dAgipAgu	
+
+Training Sentences:
+dAgipAgulubizudukivAbAtupidAgipAgulubivAbAtupilAzivuvAbAtupizudukilubidAgipAgukAtivAbAtupikAtilubikAtilAzivukAtilAzivudAgipAguzudukilAzivuzuduki
+
+Test Items:
+lAzivu	ukilAz
+kAti	Aguk
+lAzivu	ukilAz
+zuduki	ubizud
+kAti	Aguk
+vAbAtupi	upidAgip
+dAgipAgu	ivuvAbAt
+lAzivu	ukilAz
+zuduki	ukilAz
+lAzivu	ubizud
+zuduki	ukilAz
+kAti	Atil
+zuduki	ukilAz
+kAti	Atil
+lubi	Aguk
+dAgipAgu	ivuvAbAt
+lubi	Aguk
+zuduki	ubizud
+dAgipAgu	upidAgip
+zuduki	ukilAz
+lubi	Aguk
+zuduki	ukilAz
+vAbAtupi	ivuvAbAt
+dAgipAgu	upidAgip
+lAzivu	ukilAz
+vAbAtupi	upidAgip
+lubi	Atil
+dAgipAgu	upidAgip
+zuduki	ukilAz
+lubi	Atil

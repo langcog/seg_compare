@@ -1,0 +1,60 @@
+Lexicon: TZ	KgB	dpfM	Vb	
+
+Training Sentences:
+dpfMKgBVbTZ
+VbTZdpfMKgB
+TZKgBVbdpfM
+dpfMKgBTZVb
+TZKgBdpfMVb
+KgBdpfMTZVb
+KgBVbTZdpfM
+TZVbKgBdpfM
+KgBVbTZdpfM
+dpfMVbKgBTZ
+VbTZdpfMKgB
+TZdpfMVbKgB
+dpfMTZKgBVb
+TZVbdpfMKgB
+TZdpfMVbKgB
+KgBVbdpfMTZ
+VbTZdpfMKgB
+KgBVbTZdpfM
+TZKgBdpfMVb
+dpfMKgBTZVb
+KgBVbTZdpfM
+TZVbKgBdpfM
+KgBdpfMVbTZ
+VbdpfMTZKgB
+TZdpfMVbKgB
+
+Test Items:
+dpfM	Bdpf
+TZ	bT
+dpfM	Bdpf
+KgB	ZKg
+TZ	MV
+KgB	ZKg
+TZ	MV
+Vb	bT
+dpfM	Bdpf
+KgB	ZKg
+TZ	bT
+dpfM	Bdpf
+KgB	ZKg
+TZ	bT
+Vb	MV
+KgB	ZKg
+dpfM	Bdpf
+Vb	MV
+dpfM	Bdpf
+TZ	bT
+KgB	ZKg
+dpfM	Bdpf
+KgB	ZKg
+Vb	MV
+TZ	MV
+Vb	bT
+TZ	bT
+Vb	MV
+dpfM	Bdpf
+TZ	MV

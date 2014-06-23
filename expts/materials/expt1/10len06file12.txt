@@ -1,0 +1,41 @@
+Lexicon: lAvu	gubi	gizipA	zukAdA	kibAtudu	tipivAlu	
+
+Training Sentences:
+tipivAlugubilAvugizipAkibAtuduzukAdA
+kibAtudulAvuzukAdAgizipAgubitipivAlu
+lAvugubitipivAlugizipAzukAdAkibAtudu
+zukAdAgizipAkibAtudugubilAvutipivAlu
+gizipAtipivAlugubikibAtuduzukAdAlAvu
+lAvugizipAkibAtudutipivAlugubizukAdA
+
+Test Items:
+kibAtudu	udutipiv
+tipivAlu	AdAkibAt
+gizipA	ubigiz
+tipivAlu	AdAkibAt
+kibAtudu	udutipiv
+lAvu	Alul
+gizipA	ubigiz
+lAvu	Avug
+kibAtudu	udutipiv
+zukAdA	ubigiz
+tipivAlu	AdAkibAt
+gizipA	ipAzuk
+zukAdA	ipAzuk
+tipivAlu	AdAkibAt
+gubi	Alul
+lAvu	Avug
+gubi	Alul
+lAvu	Avug
+gizipA	ipAzuk
+zukAdA	ubigiz
+kibAtudu	AdAkibAt
+lAvu	Avug
+gubi	Alul
+gizipA	ipAzuk
+lAvu	Alul
+gizipA	ipAzuk
+kibAtudu	udutipiv
+lAvu	Avug
+zukAdA	ipAzuk
+gizipA	ubigiz

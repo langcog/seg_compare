@@ -1,0 +1,60 @@
+Lexicon: Nb	Bgn	mTKM	PL	
+
+Training Sentences:
+NbmTKMBgnPL
+mTKMPLBgnNb
+PLBgnNbmTKM
+mTKMBgnPLNb
+mTKMNbBgnPL
+BgnNbmTKMPL
+NbPLmTKMBgn
+NbmTKMBgnPL
+mTKMNbPLBgn
+mTKMBgnPLNb
+NbmTKMPLBgn
+BgnmTKMPLNb
+mTKMPLNbBgn
+mTKMNbBgnPL
+BgnPLNbmTKM
+PLBgnmTKMNb
+mTKMNbPLBgn
+mTKMPLNbBgn
+NbBgnPLmTKM
+BgnmTKMNbPL
+mTKMBgnNbPL
+BgnmTKMNbPL
+mTKMPLNbBgn
+mTKMPLNbBgn
+NbmTKMPLBgn
+
+Test Items:
+mTKM	nmTK
+Nb	MP
+Bgn	bBg
+PL	LN
+Nb	LN
+Bgn	bBg
+mTKM	nmTK
+Bgn	bBg
+mTKM	nmTK
+Nb	MP
+PL	LN
+Nb	LN
+mTKM	nmTK
+PL	MP
+Bgn	bBg
+Nb	MP
+PL	LN
+Bgn	bBg
+PL	LN
+mTKM	nmTK
+Nb	LN
+Bgn	bBg
+Nb	MP
+mTKM	nmTK
+PL	MP
+Bgn	bBg
+mTKM	nmTK
+Bgn	bBg
+mTKM	nmTK
+PL	MP

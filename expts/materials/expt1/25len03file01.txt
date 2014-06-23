@@ -1,0 +1,118 @@
+Lexicon: duvu	tivA	lAbAgi	pituzi	dAbipAzu	kilukAgu	
+
+Training Sentences:
+kilukAguduvutivA
+kilukAgudAbipAzupituzi
+pituzidAbipAzutivA
+kilukAgudAbipAzulAbAgi
+kilukAgupituzilAbAgi
+tivApituzilAbAgi
+lAbAgitivAdAbipAzu
+tivAlAbAgipituzi
+duvutivAlAbAgi
+duvudAbipAzukilukAgu
+dAbipAzuduvupituzi
+kilukAgulAbAgiduvu
+duvukilukAgudAbipAzu
+
+Test Items:
+tivA	uvut
+duvu	Agud
+lAbAgi	Agipit
+dAbipAzu	Azukiluk
+lAbAgi	ivAlAb
+duvu	Agud
+lAbAgi	Agipit
+kilukAgu	uzidAbip
+lAbAgi	Agipit
+kilukAgu	uzidAbip
+tivA	uvut
+dAbipAzu	uzidAbip
+duvu	Agud
+lAbAgi	Agipit
+duvu	uvut
+kilukAgu	uzidAbip
+lAbAgi	ivAlAb
+tivA	uvut
+pituzi	Agipit
+tivA	Agud
+duvu	uvut
+lAbAgi	Agipit
+kilukAgu	uzidAbip
+dAbipAzu	Azukiluk
+lAbAgi	Agipit
+duvu	uvut
+lAbAgi	ivAlAb
+kilukAgu	Azukiluk
+lAbAgi	Agipit
+tivA	uvut
+duvu	uvut
+kilukAgu	uzidAbip
+dAbipAzu	Azukiluk
+pituzi	ivAlAb
+duvu	uvut
+dAbipAzu	Azukiluk
+kilukAgu	Azukiluk
+duvu	uvut
+tivA	Agud
+lAbAgi	ivAlAb
+tivA	uvut
+dAbipAzu	uzidAbip
+tivA	uvut
+dAbipAzu	uzidAbip
+duvu	uvut
+pituzi	Agipit
+kilukAgu	Azukiluk
+pituzi	Agipit
+duvu	Agud
+dAbipAzu	uzidAbip
+pituzi	ivAlAb
+kilukAgu	uzidAbip
+pituzi	ivAlAb
+dAbipAzu	Azukiluk
+duvu	uvut
+pituzi	ivAlAb
+tivA	Agud
+kilukAgu	Azukiluk
+tivA	Agud
+dAbipAzu	Azukiluk
+duvu	Agud
+kilukAgu	Azukiluk
+dAbipAzu	uzidAbip
+kilukAgu	Azukiluk
+lAbAgi	ivAlAb
+tivA	uvut
+duvu	Agud
+dAbipAzu	uzidAbip
+pituzi	ivAlAb
+duvu	uvut
+dAbipAzu	uzidAbip
+tivA	uvut
+duvu	Agud
+pituzi	ivAlAb
+lAbAgi	Agipit
+tivA	Agud
+duvu	uvut
+dAbipAzu	uzidAbip
+tivA	uvut
+kilukAgu	uzidAbip
+duvu	uvut
+lAbAgi	ivAlAb
+duvu	uvut
+kilukAgu	uzidAbip
+tivA	uvut
+duvu	Agud
+pituzi	ivAlAb
+lAbAgi	Agipit
+tivA	uvut
+pituzi	Agipit
+tivA	Agud
+lAbAgi	ivAlAb
+pituzi	ivAlAb
+kilukAgu	Azukiluk
+lAbAgi	ivAlAb
+duvu	uvut
+pituzi	ivAlAb
+lAbAgi	Agipit
+kilukAgu	uzidAbip
+pituzi	Agipit

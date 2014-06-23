@@ -1,0 +1,125 @@
+Lexicon: tuti	dAzu	vubAki	guluzi	pApilAdu	gibivAkA	
+
+Training Sentences:
+dAzuguluzi
+tutipApilAdu
+dAzuvubAki
+guluzivubAki
+dAzupApilAdu
+guluzituti
+gibivAkAguluzi
+dAzututi
+dAzupApilAdu
+pApilAdugibivAkA
+pApilAduvubAki
+gibivAkAvubAki
+pApilAdudAzu
+tutipApilAdu
+vubAkigibivAkA
+guluzidAzu
+vubAkiguluzi
+gibivAkAtuti
+gibivAkAtuti
+guluzigibivAkA
+
+Test Items:
+pApilAdu	uzipApil
+tuti	utid
+dAzu	AkAt
+guluzi	Azuvub
+tuti	AkAt
+gibivAkA	uzipApil
+guluzi	Akigul
+gibivAkA	uzipApil
+vubAki	Azuvub
+gibivAkA	Adugibiv
+dAzu	AkAt
+guluzi	Azuvub
+pApilAdu	uzipApil
+gibivAkA	Adugibiv
+tuti	AkAt
+pApilAdu	uzipApil
+gibivAkA	Adugibiv
+tuti	AkAt
+gibivAkA	Adugibiv
+dAzu	utid
+guluzi	Azuvub
+tuti	utid
+vubAki	Azuvub
+pApilAdu	Adugibiv
+dAzu	utid
+guluzi	Azuvub
+vubAki	Akigul
+tuti	utid
+gibivAkA	uzipApil
+dAzu	utid
+gibivAkA	uzipApil
+vubAki	Azuvub
+gibivAkA	Adugibiv
+dAzu	utid
+guluzi	Azuvub
+vubAki	Akigul
+pApilAdu	Adugibiv
+guluzi	Azuvub
+vubAki	Akigul
+tuti	AkAt
+dAzu	utid
+tuti	AkAt
+pApilAdu	Adugibiv
+gibivAkA	uzipApil
+dAzu	AkAt
+vubAki	Azuvub
+tuti	utid
+dAzu	AkAt
+vubAki	Akigul
+dAzu	AkAt
+tuti	utid
+pApilAdu	Adugibiv
+gibivAkA	uzipApil
+tuti	AkAt
+pApilAdu	uzipApil
+guluzi	Akigul
+pApilAdu	Adugibiv
+guluzi	Azuvub
+dAzu	AkAt
+tuti	utid
+gibivAkA	uzipApil
+tuti	AkAt
+gibivAkA	uzipApil
+dAzu	utid
+pApilAdu	Adugibiv
+dAzu	AkAt
+tuti	utid
+vubAki	Akigul
+pApilAdu	Adugibiv
+dAzu	utid
+pApilAdu	Adugibiv
+tuti	utid
+vubAki	Azuvub
+pApilAdu	uzipApil
+tuti	AkAt
+guluzi	Akigul
+tuti	utid
+gibivAkA	uzipApil
+tuti	utid
+guluzi	Azuvub
+vubAki	Akigul
+tuti	AkAt
+pApilAdu	Adugibiv
+guluzi	Azuvub
+gibivAkA	Adugibiv
+pApilAdu	uzipApil
+vubAki	Akigul
+gibivAkA	Adugibiv
+tuti	AkAt
+guluzi	Akigul
+pApilAdu	uzipApil
+dAzu	utid
+tuti	AkAt
+dAzu	utid
+gibivAkA	uzipApil
+guluzi	Azuvub
+vubAki	Akigul
+pApilAdu	uzipApil
+guluzi	Azuvub
+gibivAkA	Adugibiv

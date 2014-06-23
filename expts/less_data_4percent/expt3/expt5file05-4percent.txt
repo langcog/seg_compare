@@ -1,0 +1,41 @@
+Lexicon: mJ	rbN	flPt	zL	TdK	
+
+Training Sentences:
+TdKrbNmJzL
+flPtmJzLrbN
+mJzLrbNflPt
+flPtrbNmJTdK
+mJTdKflPtrbN
+zLflPtTdKTdK
+
+Test Items:
+zL	tz
+flPt	NflP
+zL	Km
+rbN	Jrb
+TdK	LTd
+zL	tz
+TdK	Jrb
+flPt	NflP
+TdK	Jrb
+mJ	Km
+rbN	LTd
+zL	Km
+flPt	NflP
+rbN	Jrb
+TdK	Jrb
+mJ	tz
+zL	Km
+flPt	NflP
+rbN	Jrb
+flPt	NflP
+mJ	tz
+zL	Km
+TdK	LTd
+rbN	Jrb
+zL	tz
+mJ	Km
+zL	tz
+TdK	LTd
+mJ	tz
+flPt	NflP

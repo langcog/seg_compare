@@ -1,0 +1,45 @@
+Lexicon: zitu	dAbi	vAlAki	gipAkA	piguvudu	bAtiluzu	
+
+Training Sentences:
+vAlAkidAbibAtiluzugipAkA
+piguvuduvAlAkibAtiluzudAbi
+bAtiluzudAbipiguvudugipAkA
+vAlAkigipAkAbAtiluzudAbi
+vAlAkipiguvudugipAkAzitu
+piguvuduvAlAkibAtiluzudAbi
+zitudAbipiguvudugipAkA
+vAlAkizitubAtiluzudAbi
+vAlAkipiguvuduzitugipAkA
+gipAkAzitubAtiluzupiguvudu
+
+Test Items:
+gipAkA	Akigip
+zitu	uzuz
+dAbi	uzuz
+zitu	itud
+vAlAki	AbivAl
+dAbi	uzuz
+vAlAki	AbivAl
+piguvudu	AkApiguv
+gipAkA	Akigip
+dAbi	itud
+zitu	uzuz
+bAtiluzu	udubAtil
+gipAkA	Akigip
+zitu	itud
+vAlAki	AbivAl
+gipAkA	Akigip
+piguvudu	AkApiguv
+vAlAki	Akigip
+piguvudu	udubAtil
+dAbi	uzuz
+vAlAki	AbivAl
+zitu	itud
+dAbi	uzuz
+zitu	uzuz
+piguvudu	AkApiguv
+zitu	uzuz
+piguvudu	udubAtil
+gipAkA	AbivAl
+dAbi	itud
+piguvudu	AkApiguv

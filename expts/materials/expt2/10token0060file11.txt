@@ -1,0 +1,50 @@
+Lexicon: tidu	vAbA	bipidA	guluzu	tupAvulA	gizikAki	
+
+Training Sentences:
+guluzutupAvulAvAbAbipidA
+vAbAtidugizikAkiguluzu
+guluzugizikAkibipidAtidu
+tupAvulAgizikAkibipidAguluzu
+tiduvAbAtupAvulAgizikAki
+tiduvAbAgizikAkibipidA
+guluzuvAbAtidutupAvulA
+bipidAgizikAkitupAvulAtidu
+tupAvulAguluzuvAbAtidu
+tiduguluzubipidAtupAvulA
+vAbAgizikAkibipidAguluzu
+gizikAkibipidAtidutupAvulA
+bipidAtiduguluzugizikAki
+bipidAvAbAtupAvulAguluzu
+vAbAgizikAkitupAvulAvAbA
+
+Test Items:
+gizikAki	uzutupAv
+tupAvulA	ulAgizik
+bipidA	idAgul
+tupAvulA	uzutupAv
+gizikAki	ulAgizik
+tupAvulA	uzutupAv
+guluzu	idAgul
+gizikAki	uzutupAv
+tidu	Akit
+vAbA	iduv
+gizikAki	ulAgizik
+tupAvulA	ulAgizik
+gizikAki	uzutupAv
+guluzu	AbAbip
+gizikAki	uzutupAv
+tidu	iduv
+bipidA	AbAbip
+vAbA	iduv
+tidu	Akit
+guluzu	idAgul
+tupAvulA	uzutupAv
+bipidA	AbAbip
+tupAvulA	uzutupAv
+guluzu	AbAbip
+bipidA	idAgul
+gizikAki	uzutupAv
+tidu	iduv
+vAbA	Akit
+bipidA	AbAbip
+tupAvulA	ulAgizik

@@ -1,0 +1,45 @@
+Lexicon: gM	kKJ	rVbR	
+
+Training Sentences:
+kKJgMkKJrVbR
+gMkKJgMkKJ
+kKJgMkKJgM
+kKJrVbRgMrVbR
+rVbRkKJrVbRgM
+gMrVbRgMrVbR
+rVbRkKJgMkKJ
+rVbRgMrVbRgM
+rVbRkKJgMkKJ
+kKJrVbRkKJrVbR
+
+Test Items:
+rVbR	JrVb
+gM	Rg
+rVbR	JrVb
+kKJ	MkK
+gM	Rg
+kKJ	MkK
+gM	Rg
+rVbR	JrVb
+gM	Rg
+rVbR	JrVb
+kKJ	MkK
+gM	Rg
+rVbR	JrVb
+kKJ	MkK
+gM	Rg
+kKJ	MkK
+gM	Rg
+kKJ	MkK
+gM	Rg
+kKJ	MkK
+gM	Rg
+kKJ	MkK
+gM	Rg
+rVbR	JrVb
+kKJ	MkK
+rVbR	JrVb
+gM	Rg
+rVbR	JrVb
+gM	Rg
+kKJ	MkK

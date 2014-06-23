@@ -1,0 +1,45 @@
+Lexicon: lB	LGg	mvRF	ZD	nVk	
+
+Training Sentences:
+LGglBnVkZD
+nVklBZDmvRF
+mvRFLGgZDnVk
+mvRFlBZDLGg
+lBnVkZDLGg
+nVklBZDmvRF
+nVkmvRFLGgZD
+ZDnVklBmvRF
+mvRFLGglBnVk
+LGglBmvRFLGg
+
+Test Items:
+LGg	DnV
+mvRF	gmvR
+ZD	kl
+mvRF	gmvR
+ZD	kl
+lB	kl
+ZD	FZ
+lB	kl
+mvRF	gmvR
+lB	FZ
+ZD	kl
+nVk	DnV
+lB	kl
+nVk	DnV
+lB	kl
+LGg	BLG
+lB	kl
+LGg	BLG
+lB	kl
+nVk	BLG
+ZD	kl
+nVk	DnV
+LGg	BLG
+lB	kl
+ZD	FZ
+lB	kl
+LGg	DnV
+ZD	FZ
+lB	FZ
+ZD	kl

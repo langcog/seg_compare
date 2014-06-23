@@ -1,0 +1,118 @@
+Lexicon: dupi	lulA	tukibi	tigukA	dAzuzivu	givAbApA	
+
+Training Sentences:
+dAzuzivululAtigukA
+lulAdAzuzivugivAbApA
+dAzuzivutukibitigukA
+dAzuzivululAdupi
+tigukAgivAbApAtukibi
+givAbApAlulAtukibi
+givAbApAtigukAdupi
+dupilulAdAzuzivu
+givAbApAdupitigukA
+tukibitigukAdupi
+tukibilulAdupi
+dAzuzivutigukAtukibi
+lulAdAzuzivugivAbApA
+
+Test Items:
+givAbApA	ukAdAzuz
+dAzuzivu	ivugivAb
+dupi	ApAd
+givAbApA	ukAdAzuz
+lulA	upil
+tigukA	ibitig
+dupi	ApAd
+givAbApA	ukAdAzuz
+dAzuzivu	ivugivAb
+lulA	ApAd
+tigukA	ibitig
+givAbApA	ukAdAzuz
+dAzuzivu	ivugivAb
+tukibi	ibitig
+tigukA	ulAtuk
+tukibi	ibitig
+dupi	ApAd
+lulA	upil
+tukibi	ibitig
+tigukA	ulAtuk
+givAbApA	ivugivAb
+tukibi	ibitig
+dAzuzivu	ukAdAzuz
+tukibi	ibitig
+tigukA	ulAtuk
+tukibi	ulAtuk
+givAbApA	ukAdAzuz
+lulA	ApAd
+tukibi	ibitig
+dAzuzivu	ukAdAzuz
+tukibi	ulAtuk
+dupi	ApAd
+lulA	upil
+tukibi	ulAtuk
+dupi	ApAd
+dAzuzivu	ukAdAzuz
+givAbApA	ivugivAb
+dAzuzivu	ukAdAzuz
+givAbApA	ukAdAzuz
+tukibi	ibitig
+tigukA	ulAtuk
+lulA	upil
+tukibi	ulAtuk
+dupi	upil
+givAbApA	ivugivAb
+tigukA	ibitig
+tukibi	ulAtuk
+dAzuzivu	ivugivAb
+tukibi	ibitig
+tigukA	ulAtuk
+dAzuzivu	ivugivAb
+dupi	upil
+givAbApA	ivugivAb
+lulA	ApAd
+dupi	upil
+givAbApA	ivugivAb
+tigukA	ulAtuk
+lulA	upil
+tigukA	ulAtuk
+givAbApA	ivugivAb
+tukibi	ulAtuk
+givAbApA	ukAdAzuz
+lulA	upil
+dAzuzivu	ivugivAb
+givAbApA	ukAdAzuz
+dupi	upil
+tigukA	ulAtuk
+lulA	ApAd
+tukibi	ibitig
+givAbApA	ukAdAzuz
+lulA	ApAd
+dupi	upil
+lulA	ApAd
+tukibi	ibitig
+givAbApA	ivugivAb
+dAzuzivu	ukAdAzuz
+lulA	upil
+dupi	ApAd
+givAbApA	ukAdAzuz
+tigukA	ibitig
+dupi	upil
+lulA	ApAd
+dupi	upil
+dAzuzivu	ukAdAzuz
+tigukA	ibitig
+dupi	ApAd
+lulA	upil
+dupi	ApAd
+dAzuzivu	ivugivAb
+tukibi	ulAtuk
+lulA	ApAd
+givAbApA	ivugivAb
+tukibi	ibitig
+dupi	ApAd
+dAzuzivu	ukAdAzuz
+tukibi	ulAtuk
+lulA	ApAd
+dAzuzivu	ukAdAzuz
+tukibi	ibitig
+dupi	upil

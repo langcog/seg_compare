@@ -1,0 +1,42 @@
+Lexicon: Fp	LGV	KdDr	
+
+Training Sentences:
+KdDrLGVKdDrLGV
+KdDrFpLGVFp
+LGVFpKdDrFp
+LGVFpLGVFp
+LGVFpLGVKdDr
+FpKdDrLGVKdDr
+KdDrLGVKdDrFp
+
+Test Items:
+KdDr	VKdD
+LGV	pLG
+Fp	rF
+KdDr	VKdD
+LGV	pLG
+Fp	rF
+KdDr	VKdD
+Fp	rF
+LGV	pLG
+Fp	rF
+LGV	pLG
+Fp	rF
+KdDr	VKdD
+Fp	rF
+KdDr	VKdD
+LGV	pLG
+Fp	rF
+LGV	pLG
+KdDr	VKdD
+Fp	rF
+LGV	pLG
+KdDr	VKdD
+Fp	rF
+KdDr	VKdD
+Fp	rF
+KdDr	VKdD
+LGV	pLG
+Fp	rF
+LGV	pLG
+Fp	rF

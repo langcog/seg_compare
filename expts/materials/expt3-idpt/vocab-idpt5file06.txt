@@ -1,0 +1,185 @@
+Lexicon: kd	pnR	TPJf	rZ	VgG	
+
+Training Sentences:
+TPJfpnRVgGkd
+VgGpnRTPJfkd
+rZVgGpnRTPJf
+pnRkdrZTPJf
+TPJfkdrZVgG
+pnRrZkdTPJf
+VgGkdTPJfpnR
+pnRTPJfVgGkd
+TPJfVgGrZpnR
+VgGkdpnRTPJf
+pnRVgGkdTPJf
+TPJfrZkdVgG
+VgGkdrZTPJf
+TPJfrZkdpnR
+VgGkdpnRTPJf
+rZkdVgGTPJf
+pnRVgGkdrZ
+TPJfpnRkdVgG
+kdpnRVgGrZ
+kdVgGrZTPJf
+kdTPJfpnRVgG
+kdrZpnRTPJf
+kdTPJfVgGrZ
+VgGrZkdTPJf
+TPJfVgGpnRrZ
+rZkdTPJfVgG
+TPJfkdVgGpnR
+kdpnRVgGrZ
+VgGkdrZpnR
+pnRrZTPJfVgG
+rZkdVgGTPJf
+VgGkdTPJfrZ
+kdpnRVgGTPJf
+TPJfpnRrZVgG
+TPJfVgGpnRrZ
+kdTPJfVgGpnR
+rZpnRTPJfVgG
+rZTPJfVgGpnR
+rZkdTPJfVgG
+VgGTPJfpnRkd
+kdrZTPJfpnR
+TPJfkdrZpnR
+TPJfkdpnRVgG
+kdTPJfpnRVgG
+TPJfkdVgGpnR
+kdVgGpnRrZ
+VgGpnRTPJfrZ
+VgGpnRTPJfrZ
+rZpnRkdTPJf
+TPJfrZkdVgG
+pnRTPJfVgGrZ
+rZkdTPJfVgG
+TPJfrZVgGpnR
+TPJfrZVgGkd
+pnRkdrZTPJf
+rZpnRkdVgG
+rZVgGpnRkd
+TPJfkdrZpnR
+pnRrZkdVgG
+TPJfpnRrZkd
+kdVgGrZTPJf
+VgGpnRkdrZ
+kdrZVgGTPJf
+kdTPJfVgGpnR
+VgGTPJfrZpnR
+pnRkdrZVgG
+rZVgGkdpnR
+rZpnRTPJfVgG
+VgGpnRkdTPJf
+VgGpnRrZkd
+kdTPJfpnRVgG
+VgGrZpnRkd
+rZTPJfpnRVgG
+kdrZVgGpnR
+pnRrZkdTPJf
+VgGTPJfpnRkd
+rZTPJfkdVgG
+VgGpnRkdrZ
+rZkdTPJfpnR
+rZTPJfkdpnR
+pnRrZVgGkd
+VgGkdrZTPJf
+kdVgGrZTPJf
+rZpnRkdTPJf
+pnRrZVgGTPJf
+kdTPJfpnRVgG
+VgGTPJfpnRrZ
+VgGpnRkdrZ
+pnRrZkdVgG
+TPJfVgGkdpnR
+VgGpnRTPJfkd
+pnRkdrZTPJf
+pnRVgGTPJfkd
+pnRkdrZVgG
+kdVgGrZpnR
+TPJfrZpnRVgG
+TPJfrZpnRkd
+rZpnRVgGTPJf
+rZkdpnRVgG
+pnRrZVgGTPJf
+kdrZVgGTPJf
+kdTPJfrZpnR
+kdrZpnRTPJf
+kdpnRrZVgG
+VgGTPJfkdpnR
+pnRkdVgGrZ
+rZkdpnRVgG
+kdVgGTPJfrZ
+rZVgGpnRTPJf
+pnRkdVgGTPJf
+rZkdVgGTPJf
+pnRkdTPJfrZ
+VgGpnRkdTPJf
+kdTPJfrZpnR
+VgGrZkdpnR
+pnRkdrZVgG
+kdrZTPJfpnR
+VgGpnRkdTPJf
+TPJfVgGkdpnR
+rZkdVgGTPJf
+TPJfVgGkdpnR
+pnRTPJfrZVgG
+kdrZpnRTPJf
+pnRkdrZTPJf
+VgGTPJfkdrZ
+rZTPJfkdVgG
+VgGkdrZTPJf
+pnRrZTPJfVgG
+TPJfVgGrZpnR
+rZpnRkdTPJf
+kdrZTPJfpnR
+rZpnRTPJfVgG
+rZpnRTPJfVgG
+VgGkdrZpnR
+rZTPJfkdpnR
+rZpnRTPJfkd
+TPJfpnRVgGrZ
+kdpnRTPJfVgG
+rZTPJfkdVgG
+rZpnRkdTPJf
+rZTPJfkdpnR
+TPJfpnRkdVgG
+VgGTPJfrZkd
+VgGpnRrZTPJf
+VgGpnRTPJfrZ
+VgGkdTPJfpnR
+TPJfkdVgGrZ
+kdrZVgGpnR
+rZpnRkdVgG
+rZrZrZrZ
+
+Test Items:
+kd	fr
+VgG	ZVg
+kd	Gk
+rZ	fr
+VgG	dpn
+TPJf	RTPJ
+VgG	dpn
+pnR	ZVg
+kd	Gk
+rZ	Gk
+VgG	dpn
+rZ	fr
+pnR	ZVg
+rZ	Gk
+VgG	ZVg
+rZ	Gk
+kd	fr
+pnR	ZVg
+kd	fr
+rZ	fr
+TPJf	RTPJ
+VgG	dpn
+kd	fr
+TPJf	RTPJ
+kd	Gk
+TPJf	RTPJ
+VgG	ZVg
+TPJf	RTPJ
+pnR	ZVg
+rZ	fr

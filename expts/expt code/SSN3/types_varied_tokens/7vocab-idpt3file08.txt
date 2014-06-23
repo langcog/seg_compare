@@ -1,0 +1,42 @@
+Lexicon: MK	vpz	gtNk	
+
+Training Sentences:
+MKgtNkvpzMK
+gtNkMKvpzgtNk
+vpzMKgtNkMK
+gtNkMKvpzgtNk
+gtNkvpzgtNkMK
+vpzgtNkMKvpz
+vpzgtNkvpzMK
+
+Test Items:
+vpz	Kvp
+gtNk	zgtN
+MK	kM
+vpz	Kvp
+gtNk	zgtN
+MK	kM
+vpz	Kvp
+gtNk	zgtN
+vpz	Kvp
+MK	kM
+vpz	Kvp
+gtNk	zgtN
+vpz	Kvp
+gtNk	zgtN
+MK	kM
+gtNk	zgtN
+vpz	Kvp
+MK	kM
+gtNk	zgtN
+vpz	Kvp
+MK	kM
+gtNk	zgtN
+MK	kM
+gtNk	zgtN
+vpz	Kvp
+gtNk	zgtN
+MK	kM
+gtNk	zgtN
+MK	kM
+gtNk	zgtN

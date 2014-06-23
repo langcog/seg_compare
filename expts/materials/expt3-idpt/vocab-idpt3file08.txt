@@ -1,0 +1,185 @@
+Lexicon: dr	Dlz	MNGF	
+
+Training Sentences:
+MNGFdrDlzdr
+DlzMNGFMNGFDlz
+DlzMNGFDlzMNGF
+MNGFMNGFDlzdr
+drDlzdrDlz
+DlzMNGFdrMNGF
+MNGFMNGFdrdr
+drdrDlzDlz
+MNGFMNGFdrDlz
+MNGFMNGFDlzDlz
+MNGFMNGFdrDlz
+drMNGFdrDlz
+MNGFDlzMNGFdr
+drdrMNGFMNGF
+MNGFdrDlzdr
+drdrMNGFDlz
+MNGFdrDlzMNGF
+DlzDlzdrdr
+drdrDlzMNGF
+drDlzDlzMNGF
+MNGFdrdrMNGF
+MNGFDlzMNGFDlz
+drMNGFMNGFDlz
+MNGFMNGFDlzDlz
+drDlzDlzdr
+DlzMNGFDlzMNGF
+MNGFMNGFDlzDlz
+MNGFdrDlzDlz
+MNGFMNGFDlzdr
+DlzMNGFMNGFdr
+MNGFDlzDlzMNGF
+DlzDlzMNGFdr
+MNGFMNGFDlzDlz
+MNGFDlzdrDlz
+DlzMNGFMNGFDlz
+drMNGFDlzdr
+drDlzDlzdr
+DlzMNGFMNGFDlz
+DlzMNGFDlzdr
+drdrMNGFMNGF
+MNGFdrMNGFdr
+drDlzDlzdr
+drDlzdrDlz
+DlzMNGFMNGFdr
+drMNGFDlzMNGF
+DlzDlzdrdr
+MNGFdrMNGFDlz
+drDlzdrMNGF
+drdrDlzMNGF
+DlzDlzdrMNGF
+DlzDlzMNGFMNGF
+DlzMNGFMNGFdr
+drdrDlzDlz
+MNGFdrDlzdr
+drdrDlzMNGF
+drMNGFMNGFDlz
+MNGFDlzMNGFDlz
+drMNGFdrMNGF
+DlzdrMNGFDlz
+drMNGFdrDlz
+MNGFDlzMNGFDlz
+MNGFMNGFdrDlz
+MNGFMNGFDlzdr
+MNGFDlzdrdr
+MNGFDlzMNGFdr
+drMNGFdrDlz
+DlzDlzMNGFdr
+MNGFdrDlzDlz
+MNGFdrdrMNGF
+drdrDlzDlz
+MNGFDlzDlzMNGF
+drdrMNGFMNGF
+MNGFMNGFDlzDlz
+MNGFdrMNGFDlz
+drMNGFDlzMNGF
+DlzMNGFMNGFdr
+drDlzDlzdr
+DlzdrdrDlz
+MNGFdrDlzDlz
+drMNGFMNGFDlz
+MNGFDlzdrdr
+drDlzMNGFDlz
+drDlzDlzMNGF
+drdrDlzMNGF
+drdrMNGFDlz
+drdrDlzDlz
+MNGFdrdrMNGF
+drMNGFMNGFdr
+MNGFdrMNGFDlz
+DlzDlzdrdr
+MNGFDlzMNGFDlz
+DlzdrDlzMNGF
+DlzDlzdrMNGF
+drDlzMNGFdr
+drDlzMNGFdr
+DlzMNGFdrDlz
+drDlzMNGFDlz
+MNGFDlzMNGFdr
+DlzdrDlzdr
+MNGFdrdrDlz
+DlzdrMNGFMNGF
+drDlzdrMNGF
+drMNGFdrDlz
+drdrMNGFMNGF
+drdrDlzDlz
+DlzdrDlzdr
+DlzdrMNGFdr
+MNGFMNGFdrdr
+drdrDlzMNGF
+drDlzdrMNGF
+MNGFMNGFDlzDlz
+MNGFdrDlzDlz
+DlzMNGFdrDlz
+MNGFDlzdrMNGF
+MNGFMNGFdrDlz
+DlzdrMNGFDlz
+drdrMNGFMNGF
+MNGFMNGFdrDlz
+MNGFMNGFdrdr
+MNGFMNGFdrdr
+DlzMNGFMNGFdr
+DlzdrdrMNGF
+MNGFDlzdrMNGF
+MNGFDlzDlzdr
+DlzdrMNGFMNGF
+DlzdrDlzMNGF
+DlzDlzMNGFdr
+drMNGFdrMNGF
+drdrDlzMNGF
+DlzdrMNGFdr
+drdrDlzMNGF
+drDlzDlzMNGF
+drdrMNGFDlz
+MNGFDlzMNGFdr
+MNGFdrDlzDlz
+drdrMNGFDlz
+drdrDlzDlz
+drMNGFDlzDlz
+MNGFDlzDlzMNGF
+MNGFMNGFDlzDlz
+MNGFdrdrMNGF
+DlzdrMNGFDlz
+DlzdrdrMNGF
+DlzDlzdrdr
+MNGFDlzDlzdr
+MNGFdrMNGFDlz
+MNGFdrMNGFDlz
+DlzMNGFDlzMNGF
+drdrDlzDlz
+drdrdrdr
+
+Test Items:
+Dlz	rDl
+dr	Fd
+MNGF	zMNG
+dr	Fd
+Dlz	rDl
+MNGF	zMNG
+dr	Fd
+MNGF	zMNG
+Dlz	rDl
+dr	Fd
+Dlz	rDl
+MNGF	zMNG
+dr	Fd
+Dlz	rDl
+MNGF	zMNG
+Dlz	rDl
+MNGF	zMNG
+Dlz	rDl
+MNGF	zMNG
+Dlz	rDl
+dr	Fd
+Dlz	rDl
+MNGF	zMNG
+dr	Fd
+MNGF	zMNG
+dr	Fd
+Dlz	rDl
+dr	Fd
+Dlz	rDl
+dr	Fd

@@ -1,0 +1,45 @@
+Lexicon: nG	Pvd	fMLB	lz	DFR	
+
+Training Sentences:
+fMLBnGlzDFR
+fMLBnGlzDFR
+DFRfMLBPvdlz
+fMLBPvdlznG
+lzPvdfMLBnG
+fMLBDFRnGlz
+PvdnGfMLBlz
+DFRnGPvdfMLB
+nGDFRlzPvd
+DFRPvdPvdDFR
+
+Test Items:
+lz	Bl
+nG	Rn
+Pvd	zDF
+nG	Rn
+DFR	GPv
+nG	Bl
+DFR	GPv
+nG	Bl
+DFR	zDF
+Pvd	GPv
+DFR	zDF
+Pvd	GPv
+lz	Rn
+Pvd	zDF
+lz	Rn
+fMLB	dfML
+Pvd	GPv
+nG	Rn
+Pvd	zDF
+DFR	GPv
+Pvd	zDF
+lz	Rn
+Pvd	zDF
+fMLB	dfML
+lz	Rn
+Pvd	zDF
+DFR	GPv
+fMLB	dfML
+nG	Rn
+Pvd	zDF

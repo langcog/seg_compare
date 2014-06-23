@@ -1,0 +1,55 @@
+Lexicon: gibi	vulu	pApizi	tutikA	zubAkidA	lAduguvA	
+
+Training Sentences:
+vulututikA
+pApizitutikA
+pApizitutikA
+lAduguvAvulu
+gibivulu
+vulututikA
+vulugibi
+zubAkidAlAduguvA
+gibilAduguvA
+pApizilAduguvA
+lAduguvAzubAkidA
+zubAkidAtutikA
+gibilAduguvA
+zubAkidAtutikA
+zubAkidAgibi
+gibipApizi
+vulututikA
+zubAkidAlAduguvA
+pApizigibi
+pApizizubAkidA
+
+Test Items:
+pApizi	izitut
+lAduguvA	ikAzubAk
+gibi	uvAg
+zubAkidA	idAlAdug
+tutikA	izitut
+gibi	ibiv
+tutikA	izitut
+pApizi	ulupAp
+vulu	ibiv
+lAduguvA	idAlAdug
+tutikA	ulupAp
+zubAkidA	ikAzubAk
+vulu	ibiv
+zubAkidA	idAlAdug
+lAduguvA	ikAzubAk
+tutikA	ulupAp
+gibi	ibiv
+vulu	uvAg
+zubAkidA	ikAzubAk
+tutikA	ulupAp
+pApizi	ulupAp
+vulu	uvAg
+pApizi	izitut
+lAduguvA	ikAzubAk
+tutikA	izitut
+vulu	uvAg
+pApizi	izitut
+gibi	ibiv
+pApizi	ulupAp
+vulu	ibiv

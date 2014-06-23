@@ -1,0 +1,60 @@
+Lexicon: zg	ZvR	KPtn	ML	pkl	rNTm	
+
+Training Sentences:
+ZvRMLpklKPtn
+KPtnMLzgZvR
+ZvRpklzgKPtn
+rNTmMLzgKPtn
+pklzgKPtnML
+KPtnZvRpklrNTm
+zgMLpklZvR
+pklZvRzgKPtn
+zgKPtnpklZvR
+rNTmpklMLKPtn
+MLpklrNTmzg
+pklrNTmzgZvR
+pklZvRKPtnML
+MLKPtnzgpkl
+MLzgKPtnZvR
+KPtnZvRrNTmzg
+pklKPtnzgrNTm
+zgrNTmKPtnML
+MLpklrNTmZvR
+rNTmzgMLpkl
+ZvRrNTmMLpkl
+ZvRKPtnrNTmpkl
+rNTmKPtnZvRzg
+ZvRrNTmMLzg
+rNTmMLZvRrNTm
+
+Test Items:
+ZvR	Lpk
+KPtn	RKPt
+rNTm	RKPt
+ML	mz
+ZvR	gZv
+ML	nM
+zg	mz
+ZvR	Lpk
+ML	mz
+KPtn	lrNT
+ZvR	Lpk
+ML	nM
+KPtn	RKPt
+ML	nM
+pkl	gZv
+zg	nM
+ML	mz
+zg	nM
+rNTm	RKPt
+KPtn	lrNT
+rNTm	RKPt
+pkl	gZv
+ML	mz
+KPtn	RKPt
+zg	nM
+KPtn	RKPt
+pkl	gZv
+zg	nM
+rNTm	RKPt
+pkl	Lpk

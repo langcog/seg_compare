@@ -1,0 +1,42 @@
+Lexicon: pB	Gml	vrZK	Vg	dbt	
+
+Training Sentences:
+GmldbtvrZKpB
+VgdbtpBvrZK
+VgdbtvrZKpB
+VgGmlvrZKdbt
+vrZKpBVgGml
+VgGmldbtpB
+dbtVgGmlvrZK
+
+Test Items:
+vrZK	lvrZ
+Gml	gdb
+vrZK	lvrZ
+dbt	gdb
+vrZK	lvrZ
+Vg	tp
+Gml	BGm
+Vg	KV
+Gml	gdb
+Vg	tp
+Gml	gdb
+vrZK	lvrZ
+Gml	gdb
+dbt	BGm
+pB	KV
+dbt	BGm
+Vg	tp
+dbt	BGm
+Gml	BGm
+Vg	KV
+Gml	BGm
+dbt	gdb
+vrZK	lvrZ
+dbt	gdb
+Gml	BGm
+dbt	gdb
+Gml	gdb
+pB	tp
+vrZK	lvrZ
+pB	tp

@@ -1,0 +1,465 @@
+Lexicon: vAbA	zuki	dApAdu	luzigi	gubivupi	lAkAtitu	
+
+Training Sentences:
+gubivupilAkAtituzuki
+dApAdugubivupivAbA
+lAkAtituluzigigubivupi
+lAkAtituvAbAdApAdu
+lAkAtituzukivAbA
+vAbAdApAduluzigi
+gubivupiluzigivAbA
+dApAdulAkAtitugubivupi
+zukivAbAluzigi
+zukiluzigigubivupi
+zukiluzigigubivupi
+dApAduluzigizuki
+gubivupiluzigilAkAtitu
+gubivupivAbAdApAdu
+dApAdulAkAtituzuki
+gubivupiluzigilAkAtitu
+dApAduluzigizuki
+vAbAlAkAtituluzigi
+lAkAtituluzigivAbA
+luzigigubivupilAkAtitu
+dApAduluzigigubivupi
+lAkAtitugubivupidApAdu
+gubivupidApAduvAbA
+gubivupidApAdulAkAtitu
+vAbAzukilAkAtitu
+dApAdugubivupilAkAtitu
+luzigizukivAbA
+luzigigubivupilAkAtitu
+gubivupiluzigilAkAtitu
+gubivupivAbAdApAdu
+lAkAtituluzigizuki
+vAbAlAkAtitugubivupi
+gubivupivAbAluzigi
+zukivAbAluzigi
+zukiluzigivAbA
+dApAduluzigizuki
+zukidApAduvAbA
+vAbAgubivupidApAdu
+dApAduluzigivAbA
+lAkAtituzukidApAdu
+vAbAluzigilAkAtitu
+luzigizukivAbA
+dApAduzukigubivupi
+zukivAbAlAkAtitu
+luzigidApAduzuki
+gubivupidApAduzuki
+zukivAbAdApAdu
+dApAduvAbAgubivupi
+zukivAbAluzigi
+luzigidApAdugubivupi
+dApAduluzigigubivupi
+gubivupivAbAlAkAtitu
+vAbAzukigubivupi
+vAbAgubivupilAkAtitu
+dApAdulAkAtituvAbA
+luzigidApAduzuki
+zukivAbAdApAdu
+vAbAgubivupizuki
+lAkAtitudApAdugubivupi
+lAkAtitudApAduzuki
+lAkAtituvAbAluzigi
+luzigilAkAtitudApAdu
+luzigivAbAdApAdu
+vAbAgubivupizuki
+zukigubivupilAkAtitu
+lAkAtituvAbAzuki
+lAkAtituvAbAdApAdu
+lAkAtituzukiluzigi
+zukilAkAtitugubivupi
+lAkAtitudApAdugubivupi
+lAkAtituvAbAgubivupi
+luzigizukivAbA
+gubivupidApAdulAkAtitu
+gubivupizukiluzigi
+dApAduluzigivAbA
+luzigizukivAbA
+vAbAlAkAtituluzigi
+zukilAkAtitudApAdu
+gubivupivAbAlAkAtitu
+gubivupilAkAtituluzigi
+vAbAdApAduluzigi
+vAbAluzigigubivupi
+vAbAluzigilAkAtitu
+gubivupidApAduluzigi
+dApAduzukigubivupi
+lAkAtitugubivupiluzigi
+luzigidApAduzuki
+luzigilAkAtituzuki
+luzigilAkAtitugubivupi
+dApAduluzigilAkAtitu
+zukidApAduvAbA
+dApAdugubivupilAkAtitu
+zukidApAduvAbA
+dApAduzukilAkAtitu
+vAbAzukigubivupi
+gubivupiluzigidApAdu
+lAkAtituzukidApAdu
+vAbAlAkAtitudApAdu
+dApAduvAbAluzigi
+gubivupiluzigivAbA
+lAkAtitugubivupidApAdu
+luzigigubivupizuki
+luzigigubivupizuki
+gubivupiluzigilAkAtitu
+lAkAtitudApAdugubivupi
+lAkAtitugubivupizuki
+dApAduluzigivAbA
+lAkAtituluzigigubivupi
+lAkAtituvAbAdApAdu
+dApAdulAkAtituzuki
+zukilAkAtitugubivupi
+zukiluzigivAbA
+lAkAtitugubivupivAbA
+vAbAlAkAtituluzigi
+lAkAtitudApAduzuki
+luzigidApAdugubivupi
+dApAduzukilAkAtitu
+gubivupizukilAkAtitu
+vAbAzukigubivupi
+vAbAgubivupilAkAtitu
+vAbAdApAdulAkAtitu
+zukigubivupilAkAtitu
+vAbAzukigubivupi
+dApAdugubivupiluzigi
+vAbAlAkAtitugubivupi
+zukivAbAlAkAtitu
+lAkAtituluzigigubivupi
+lAkAtituluzigizuki
+gubivupizukidApAdu
+lAkAtituvAbAdApAdu
+luzigidApAduzuki
+luzigivAbAlAkAtitu
+zukidApAdulAkAtitu
+gubivupidApAduvAbA
+luzigivAbAzuki
+vAbAzukiluzigi
+lAkAtituvAbAzuki
+dApAduvAbAzuki
+luzigilAkAtitugubivupi
+zukiluzigivAbA
+luzigivAbAlAkAtitu
+luzigidApAduvAbA
+dApAduvAbAgubivupi
+luzigivAbAgubivupi
+dApAdugubivupiluzigi
+zukigubivupivAbA
+gubivupiluzigizuki
+zukidApAdugubivupi
+lAkAtituluzigivAbA
+luzigigubivupilAkAtitu
+luzigigubivupilAkAtitu
+dApAdugubivupilAkAtitu
+zukivAbAdApAdu
+luzigigubivupilAkAtitu
+gubivupizukilAkAtitu
+vAbAluzigilAkAtitu
+lAkAtituzukivAbA
+gubivupilAkAtituzuki
+luzigilAkAtitudApAdu
+zukigubivupilAkAtitu
+vAbAzukigubivupi
+luzigidApAdugubivupi
+luzigidApAdulAkAtitu
+dApAdugubivupiluzigi
+dApAdugubivupilAkAtitu
+luzigizukilAkAtitu
+luzigizukidApAdu
+zukidApAdulAkAtitu
+lAkAtituvAbAdApAdu
+zukiluzigidApAdu
+zukivAbAlAkAtitu
+dApAdulAkAtituvAbA
+dApAduvAbAgubivupi
+dApAduzukigubivupi
+vAbAzukilAkAtitu
+vAbAgubivupiluzigi
+lAkAtitudApAdugubivupi
+dApAdulAkAtituzuki
+vAbAdApAduzuki
+dApAduzukigubivupi
+zukilAkAtituvAbA
+gubivupivAbAlAkAtitu
+zukiluzigilAkAtitu
+zukilAkAtituvAbA
+zukidApAdugubivupi
+vAbAluzigilAkAtitu
+dApAdugubivupilAkAtitu
+vAbAgubivupizuki
+lAkAtitudApAduzuki
+lAkAtituzukiluzigi
+gubivupiluzigivAbA
+luzigivAbAlAkAtitu
+zukivAbAgubivupi
+vAbAlAkAtituluzigi
+dApAduvAbAgubivupi
+gubivupiluzigidApAdu
+luzigidApAdugubivupi
+vAbAzukidApAdu
+gubivupilAkAtitudApAdu
+vAbAluzigizuki
+zukiluzigivAbA
+dApAduluzigilAkAtitu
+luzigigubivupidApAdu
+lAkAtitugubivupiluzigi
+dApAdulAkAtitugubivupi
+zukigubivupilAkAtitu
+zukidApAdugubivupi
+vAbAdApAduluzigi
+dApAduluzigivAbA
+gubivupilAkAtitudApAdu
+vAbAdApAdugubivupi
+gubivupivAbAzuki
+gubivupizukiluzigi
+dApAduvAbAgubivupi
+gubivupivAbAlAkAtitu
+lAkAtituluzigidApAdu
+dApAduluzigivAbA
+luzigizukivAbA
+dApAduluzigizuki
+zukilAkAtitudApAdu
+dApAdulAkAtitugubivupi
+vAbAgubivupiluzigi
+luzigidApAduzuki
+luzigigubivupidApAdu
+dApAduzukilAkAtitu
+gubivupiluzigilAkAtitu
+zukigubivupivAbA
+zukiluzigigubivupi
+zukivAbAlAkAtitu
+luzigizukivAbA
+zukiluzigigubivupi
+luzigizukivAbA
+dApAduvAbAzuki
+dApAdugubivupilAkAtitu
+lAkAtituvAbAdApAdu
+zukiluzigidApAdu
+lAkAtituluzigidApAdu
+lAkAtituzukiluzigi
+gubivupiluzigizuki
+zukivAbAluzigi
+zukilAkAtituluzigi
+dApAdulAkAtituzuki
+vAbAluzigizuki
+vAbAluzigigubivupi
+zukigubivupiluzigi
+dApAduvAbAlAkAtitu
+luzigigubivupizuki
+zukidApAduvAbA
+luzigilAkAtitugubivupi
+dApAduluzigivAbA
+zukidApAduluzigi
+dApAdugubivupilAkAtitu
+lAkAtituluzigigubivupi
+luzigivAbAzuki
+luzigigubivupivAbA
+gubivupidApAduvAbA
+dApAdulAkAtituzuki
+vAbAluzigizuki
+lAkAtituvAbAgubivupi
+zukivAbAdApAdu
+gubivupiluzigidApAdu
+gubivupiluzigivAbA
+zukigubivupidApAdu
+gubivupidApAduvAbA
+luzigigubivupizuki
+gubivupidApAdulAkAtitu
+dApAduvAbAlAkAtitu
+luzigizukilAkAtitu
+vAbAdApAdulAkAtitu
+dApAdulAkAtitugubivupi
+lAkAtitugubivupivAbA
+gubivupilAkAtituzuki
+gubivupilAkAtitudApAdu
+dApAduvAbAzuki
+vAbAdApAdulAkAtitu
+dApAduluzigigubivupi
+dApAduluzigivAbA
+zukigubivupilAkAtitu
+lAkAtitudApAdugubivupi
+vAbAdApAdulAkAtitu
+zukiluzigilAkAtitu
+zukilAkAtitudApAdu
+lAkAtituvAbAgubivupi
+vAbAlAkAtitudApAdu
+zukilAkAtituluzigi
+vAbAgubivupilAkAtitu
+dApAduvAbAluzigi
+lAkAtituvAbAdApAdu
+luzigigubivupizuki
+lAkAtituzukiluzigi
+lAkAtitugubivupidApAdu
+lAkAtitudApAduzuki
+vAbAzukigubivupi
+zukilAkAtitugubivupi
+zukilAkAtituvAbA
+gubivupilAkAtituzuki
+luzigidApAdugubivupi
+lAkAtituvAbAzuki
+luzigigubivupilAkAtitu
+zukilAkAtituluzigi
+gubivupivAbAluzigi
+gubivupilAkAtituluzigi
+dApAdulAkAtitugubivupi
+gubivupivAbAdApAdu
+vAbAluzigizuki
+dApAduvAbAluzigi
+gubivupizukidApAdu
+lAkAtituluzigizuki
+dApAduzukilAkAtitu
+lAkAtituvAbAluzigi
+vAbAzukiluzigi
+vAbAluzigizuki
+lAkAtitugubivupivAbA
+zukigubivupilAkAtitu
+vAbAdApAdugubivupi
+dApAdugubivupilAkAtitu
+luzigigubivupizuki
+luzigizukilAkAtitu
+gubivupidApAduluzigi
+gubivupidApAduzuki
+luzigigubivupizuki
+lAkAtituluzigidApAdu
+vAbAzukilAkAtitu
+dApAdugubivupivAbA
+vAbAlAkAtituzuki
+zukidApAduvAbA
+luzigizukidApAdu
+zukivAbAdApAdu
+vAbAgubivupidApAdu
+lAkAtitugubivupidApAdu
+lAkAtituzukivAbA
+vAbAgubivupiluzigi
+gubivupilAkAtituvAbA
+vAbAluzigilAkAtitu
+gubivupilAkAtituluzigi
+vAbAzukidApAdu
+luzigivAbAzuki
+vAbAzukiluzigi
+gubivupidApAduzuki
+lAkAtitugubivupiluzigi
+vAbAlAkAtitugubivupi
+zukiluzigilAkAtitu
+vAbAluzigilAkAtitu
+dApAduluzigigubivupi
+gubivupivAbAdApAdu
+gubivupiluzigidApAdu
+gubivupidApAduluzigi
+luzigidApAdulAkAtitu
+vAbAdApAduluzigi
+vAbAzukigubivupi
+zukilAkAtitudApAdu
+dApAdugubivupizuki
+luzigizukidApAdu
+gubivupivAbAzuki
+dApAduzukilAkAtitu
+zukilAkAtitugubivupi
+gubivupivAbAlAkAtitu
+zukivAbAluzigi
+gubivupizukidApAdu
+gubivupilAkAtitudApAdu
+luzigigubivupizuki
+luzigivAbAzuki
+zukivAbAlAkAtitu
+zukidApAdulAkAtitu
+vAbAdApAdugubivupi
+gubivupivAbAlAkAtitu
+gubivupivAbAzuki
+dApAduvAbAgubivupi
+lAkAtituluzigidApAdu
+zukivAbAlAkAtitu
+vAbAdApAduzuki
+vAbAzukiluzigi
+vAbAdApAdugubivupi
+lAkAtitugubivupivAbA
+lAkAtitudApAduvAbA
+zukiluzigivAbA
+zukidApAdugubivupi
+luzigidApAduzuki
+zukilAkAtitudApAdu
+vAbAluzigidApAdu
+luzigidApAduzuki
+gubivupiluzigizuki
+gubivupiluzigizuki
+zukivAbAluzigi
+vAbAgubivupilAkAtitu
+dApAduvAbAlAkAtitu
+luzigivAbAdApAdu
+zukidApAduvAbA
+dApAduvAbAzuki
+zukidApAduvAbA
+vAbAlAkAtituluzigi
+zukilAkAtitudApAdu
+dApAduluzigilAkAtitu
+luzigidApAdugubivupi
+luzigizukivAbA
+luzigizukivAbA
+gubivupiluzigidApAdu
+luzigizukivAbA
+luzigiluzigiluzigi
+luzigiluzigiluzigi
+
+Test Items:
+zuki	bAzu
+gubivupi	pilAkAti
+vAbA	tuvA
+luzigi	duluzi
+vAbA	bAzu
+lAkAtitu	gigubivu
+dApAdu	duluzi
+lAkAtitu	pilAkAti
+dApAdu	duluzi
+zuki	tuvA
+luzigi	kidApA
+dApAdu	kidApA
+luzigi	duluzi
+zuki	tuvA
+vAbA	bAzu
+lAkAtitu	pilAkAti
+gubivupi	gigubivu
+lAkAtitu	pilAkAti
+dApAdu	kidApA
+vAbA	tuvA
+lAkAtitu	gigubivu
+dApAdu	kidApA
+vAbA	tuvA
+gubivupi	gigubivu
+zuki	bAzu
+gubivupi	pilAkAti
+vAbA	bAzu
+gubivupi	pilAkAti
+vAbA	bAzu
+zuki	tuvA
+vAbA	tuvA
+lAkAtitu	gigubivu
+luzigi	kidApA
+gubivupi	pilAkAti
+lAkAtitu	gigubivu
+zuki	tuvA
+vAbA	bAzu
+zuki	tuvA
+luzigi	duluzi
+vAbA	bAzu
+dApAdu	kidApA
+gubivupi	gigubivu
+vAbA	bAzu
+dApAdu	duluzi
+vAbA	tuvA
+gubivupi	pilAkAti
+luzigi	kidApA
+gubivupi	pilAkAti
+zuki	bAzu
+lAkAtitu	gigubivu
+vAbA	bAzu
+lAkAtitu	pilAkAti
+gubivupi	gigubivu
+zuki	tuvA
+dApAdu	kidApA
+luzigi	duluzi
+vAbA	bAzu
+dApAdu	duluzi
+luzigi	kidApA
+lAkAtitu	gigubivu

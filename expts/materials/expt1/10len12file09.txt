@@ -1,0 +1,38 @@
+Lexicon: vupA	bAtu	guziti	luzuvA	kAlApidu	dAgibiki	
+
+Training Sentences:
+kAlApidubAtuluzuvAvupAguzitivupAbAtuluzuvAdAgibikikAlApidudAgibikiguziti
+kAlApidudAgibikikAlApiduguzitibAtuguzitiluzuvAbAtudAgibikivupAluzuvAvupA
+guzitidAgibikibAtuluzuvAguzitibAtuluzuvAkAlApiduvupAdAgibikivupAkAlApidu
+
+Test Items:
+guziti	itiluz
+kAlApidu	idudAgib
+bAtu	ikiv
+luzuvA	itiluz
+dAgibiki	uvAkAlAp
+guziti	Atuguz
+dAgibiki	uvAkAlAp
+vupA	upAb
+dAgibiki	uvAkAlAp
+kAlApidu	idudAgib
+vupA	ikiv
+bAtu	upAb
+kAlApidu	uvAkAlAp
+vupA	ikiv
+guziti	Atuguz
+luzuvA	Atuguz
+kAlApidu	uvAkAlAp
+guziti	itiluz
+dAgibiki	uvAkAlAp
+vupA	upAb
+kAlApidu	uvAkAlAp
+guziti	itiluz
+bAtu	ikiv
+kAlApidu	uvAkAlAp
+luzuvA	itiluz
+bAtu	ikiv
+guziti	Atuguz
+bAtu	upAb
+guziti	itiluz
+luzuvA	Atuguz

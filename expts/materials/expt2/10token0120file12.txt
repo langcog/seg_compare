@@ -1,0 +1,65 @@
+Lexicon: kAdA	gilu	zupibA	duvAgu	vuzipAki	lAtibitu	
+
+Training Sentences:
+vuzipAkizupibAkAdAlAtibitu
+duvAguvuzipAkikAdAgilu
+vuzipAkigiluzupibAlAtibitu
+zupibAgiluduvAgulAtibitu
+lAtibituzupibAvuzipAkigilu
+kAdAvuzipAkiduvAgugilu
+zupibAvuzipAkiduvAgulAtibitu
+kAdAgilulAtibituduvAgu
+duvAguvuzipAkilAtibituzupibA
+zupibAlAtibitugiluduvAgu
+zupibAduvAguvuzipAkilAtibitu
+duvAguvuzipAkilAtibitugilu
+duvAgulAtibituzupibAgilu
+zupibAduvAgugilukAdA
+kAdAduvAgugilulAtibitu
+lAtibitukAdAgiluduvAgu
+lAtibituvuzipAkigilukAdA
+vuzipAkikAdAduvAguzupibA
+duvAguzupibAkAdAvuzipAki
+vuzipAkigilulAtibitukAdA
+lAtibituvuzipAkiduvAgukAdA
+kAdAduvAgugiluzupibA
+duvAgukAdAzupibAlAtibitu
+vuzipAkizupibAgilulAtibitu
+vuzipAkikAdAlAtibituzupibA
+gilulAtibitukAdAduvAgu
+vuzipAkikAdAzupibAgilu
+kAdAvuzipAkigiluzupibA
+zupibAkAdAduvAguvuzipAki
+vuzipAkikAdAgiluzupibA
+
+Test Items:
+vuzipAki	AkilAtib
+kAdA	ituk
+vuzipAki	AkilAtib
+gilu	ituk
+vuzipAki	Aguvuzip
+gilu	AdAg
+duvAgu	ibAduv
+gilu	AdAg
+zupibA	ibAduv
+kAdA	ituk
+duvAgu	ibAduv
+gilu	AdAg
+zupibA	iluzup
+gilu	AdAg
+vuzipAki	AkilAtib
+kAdA	AdAg
+lAtibitu	AkilAtib
+vuzipAki	Aguvuzip
+gilu	AdAg
+zupibA	ibAduv
+vuzipAki	Aguvuzip
+zupibA	ibAduv
+kAdA	AdAg
+zupibA	ibAduv
+vuzipAki	Aguvuzip
+lAtibitu	AkilAtib
+duvAgu	iluzup
+kAdA	ituk
+gilu	AdAg
+duvAgu	ibAduv

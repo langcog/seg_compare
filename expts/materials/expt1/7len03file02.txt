@@ -1,0 +1,44 @@
+Lexicon: kivu	lAtu	bigilu	bAtidA	kAdupAzu	pizivAgu	
+
+Training Sentences:
+kAdupAzubAtidAlAtu
+kAdupAzukivulAtu
+kAdupAzubigilupizivAgu
+lAtupizivAgukivu
+bAtidAkivupizivAgu
+kAdupAzubAtidAbigilu
+pizivAgubigilulAtu
+bAtidAkAdupAzukivu
+bAtidAlAtupizivAgu
+
+Test Items:
+kAdupAzu	idAkAdup
+lAtu	Aguk
+kAdupAzu	idAkAdup
+lAtu	Aguk
+kivu	ivul
+bAtidA	ilubAt
+lAtu	ivul
+kAdupAzu	idAkAdup
+lAtu	ivul
+pizivAgu	Azupiziv
+bAtidA	Atubig
+pizivAgu	Azupiziv
+bigilu	ilubAt
+kAdupAzu	idAkAdup
+lAtu	ivul
+pizivAgu	idAkAdup
+bigilu	ilubAt
+kAdupAzu	idAkAdup
+pizivAgu	Azupiziv
+kAdupAzu	idAkAdup
+lAtu	ivul
+pizivAgu	Azupiziv
+bAtidA	Atubig
+pizivAgu	idAkAdup
+bAtidA	Atubig
+kivu	ivul
+pizivAgu	Azupiziv
+bigilu	Atubig
+bAtidA	ilubAt
+kAdupAzu	Azupiziv

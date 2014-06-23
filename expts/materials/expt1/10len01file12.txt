@@ -1,0 +1,75 @@
+Lexicon: zuki	kAbA	zivAtu	dupAdA	bilupivu	gigulAti	
+
+Training Sentences:
+gigulAti
+gigulAti
+kAbA
+bilupivu
+zivAtu
+bilupivu
+zivAtu
+dupAdA
+kAbA
+dupAdA
+gigulAti
+dupAdA
+zuki
+kAbA
+zuki
+gigulAti
+zuki
+kAbA
+zuki
+zivAtu
+gigulAti
+kAbA
+zuki
+dupAdA
+zivAtu
+zuki
+gigulAti
+zivAtu
+dupAdA
+bilupivu
+kAbA
+bilupivu
+dupAdA
+dupAdA
+kAbA
+bilupivu
+zivAtu
+zivAtu
+bilupivu
+zuki
+
+Test Items:
+zuki	ukik
+dupAdA	AbAziv
+gigulAti	ivugigul
+zuki	Atiz
+dupAdA	AbAziv
+kAbA	Atiz
+zivAtu	Atudup
+bilupivu	ivugigul
+zuki	ukik
+gigulAti	AdAbilup
+dupAdA	Atudup
+kAbA	Atiz
+gigulAti	ivugigul
+zuki	Atiz
+zivAtu	Atudup
+bilupivu	ivugigul
+zuki	Atiz
+zivAtu	Atudup
+bilupivu	ivugigul
+dupAdA	AbAziv
+bilupivu	AdAbilup
+kAbA	Atiz
+dupAdA	Atudup
+zivAtu	AbAziv
+gigulAti	ivugigul
+bilupivu	AdAbilup
+zuki	Atiz
+gigulAti	AdAbilup
+zuki	ukik
+gigulAti	AdAbilup

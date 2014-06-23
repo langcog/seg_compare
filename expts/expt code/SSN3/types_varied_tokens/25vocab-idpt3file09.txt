@@ -1,0 +1,60 @@
+Lexicon: kf	gvr	VFmN	
+
+Training Sentences:
+gvrVFmNgvrVFmN
+gvrVFmNgvrVFmN
+kfgvrVFmNkf
+kfVFmNgvrVFmN
+VFmNkfVFmNkf
+kfgvrkfgvr
+kfgvrkfVFmN
+VFmNkfgvrkf
+kfgvrkfgvr
+VFmNkfgvrVFmN
+VFmNgvrVFmNgvr
+kfVFmNkfVFmN
+VFmNkfVFmNkf
+gvrkfgvrkf
+kfVFmNkfVFmN
+VFmNkfgvrkf
+VFmNkfVFmNgvr
+VFmNkfgvrVFmN
+gvrVFmNgvrVFmN
+VFmNkfgvrVFmN
+gvrkfgvrVFmN
+gvrVFmNkfgvr
+gvrVFmNkfVFmN
+kfgvrkfgvr
+kfgvrkfgvr
+
+Test Items:
+VFmN	rVFm
+kf	Nk
+gvr	fgv
+VFmN	rVFm
+kf	Nk
+gvr	fgv
+kf	Nk
+gvr	fgv
+kf	Nk
+gvr	fgv
+kf	Nk
+gvr	fgv
+kf	Nk
+gvr	fgv
+VFmN	rVFm
+gvr	fgv
+VFmN	rVFm
+kf	Nk
+gvr	fgv
+VFmN	rVFm
+kf	Nk
+gvr	fgv
+kf	Nk
+gvr	fgv
+VFmN	rVFm
+kf	Nk
+VFmN	rVFm
+gvr	fgv
+kf	Nk
+gvr	fgv

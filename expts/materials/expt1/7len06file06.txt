@@ -1,0 +1,39 @@
+Lexicon: bAti	lAdu	gudAtu	zuvupi	gikikAlu	bizipAvA	
+
+Training Sentences:
+bizipAvAlAdubAtigikikAluzuvupigudAtu
+gikikAlubAtizuvupigudAtulAdubizipAvA
+bizipAvAgudAtuzuvupigikikAlubAtilAdu
+gudAtubAtizuvupigikikAlubizipAvAlAdu
+
+Test Items:
+bizipAvA	Alubizip
+gudAtu	Atuzuv
+bizipAvA	Alubizip
+lAdu	Atil
+gikikAlu	upigikik
+lAdu	AvAb
+gudAtu	Atuzuv
+zuvupi	Adugud
+gudAtu	Adugud
+lAdu	Atil
+bAti	Atil
+gudAtu	Atuzuv
+zuvupi	Adugud
+bizipAvA	Alubizip
+bAti	Atil
+lAdu	AvAb
+gudAtu	Atuzuv
+bAti	AvAb
+bizipAvA	Alubizip
+bAti	Atil
+gikikAlu	upigikik
+bAti	Atil
+gudAtu	Atuzuv
+gikikAlu	Alubizip
+bAti	Atil
+lAdu	AvAb
+bizipAvA	upigikik
+lAdu	Atil
+gikikAlu	upigikik
+lAdu	AvAb

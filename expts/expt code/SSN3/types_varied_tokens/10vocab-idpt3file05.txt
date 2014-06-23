@@ -1,0 +1,45 @@
+Lexicon: gR	dVk	BlMD	
+
+Training Sentences:
+gRdVkBlMDgR
+dVkBlMDgRdVk
+dVkgRBlMDdVk
+gRBlMDdVkgR
+gRdVkBlMDgR
+dVkBlMDgRBlMD
+BlMDgRBlMDdVk
+gRdVkgRdVk
+gRdVkBlMDdVk
+BlMDdVkBlMDgR
+
+Test Items:
+BlMD	kBlM
+dVk	RdV
+BlMD	kBlM
+gR	Dg
+BlMD	kBlM
+dVk	RdV
+BlMD	kBlM
+gR	Dg
+dVk	RdV
+BlMD	kBlM
+dVk	RdV
+BlMD	kBlM
+gR	Dg
+BlMD	kBlM
+gR	Dg
+dVk	RdV
+gR	Dg
+BlMD	kBlM
+gR	Dg
+dVk	RdV
+BlMD	kBlM
+dVk	RdV
+BlMD	kBlM
+dVk	RdV
+BlMD	kBlM
+gR	Dg
+dVk	RdV
+gR	Dg
+BlMD	kBlM
+gR	Dg

@@ -1,0 +1,63 @@
+Lexicon: lApA	bidu	vAvudA	tigubA	zilupigi	kAkizutu	
+
+Training Sentences:
+tigubA
+tigubA
+lApA
+lApA
+zilupigi
+zilupigi
+vAvudA
+tigubA
+bidu
+bidu
+lApA
+tigubA
+bidu
+kAkizutu
+kAkizutu
+kAkizutu
+zilupigi
+tigubA
+zilupigi
+lApA
+lApA
+bidu
+vAvudA
+vAvudA
+kAkizutu
+vAvudA
+kAkizutu
+zilupigi
+
+Test Items:
+kAkizutu	ubAzilup
+zilupigi	igikAkiz
+vAvudA	iduvAv
+zilupigi	ubAzilup
+bidu	ApAb
+zilupigi	ubAzilup
+tigubA	iduvAv
+bidu	ApAb
+vAvudA	iduvAv
+kAkizutu	igikAkiz
+tigubA	iduvAv
+bidu	utul
+kAkizutu	igikAkiz
+tigubA	iduvAv
+bidu	utul
+zilupigi	igikAkiz
+lApA	utul
+vAvudA	iduvAv
+lApA	ApAb
+tigubA	udAtig
+bidu	ApAb
+vAvudA	udAtig
+tigubA	iduvAv
+lApA	ApAb
+kAkizutu	igikAkiz
+vAvudA	iduvAv
+lApA	ApAb
+tigubA	udAtig
+kAkizutu	ubAzilup
+bidu	utul

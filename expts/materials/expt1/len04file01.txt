@@ -1,0 +1,185 @@
+Lexicon: ZK	Vb	lzP	GTv	pgDB	tkdL	
+
+Training Sentences:
+pgDBlzPGTvVb
+VbtkdLGTvZK
+VbGTvZKtkdL
+pgDBGTvZKVb
+VblzPZKpgDB
+tkdLpgDBZKGTv
+pgDBZKGTvtkdL
+ZKlzPGTvpgDB
+tkdLGTvlzPZK
+ZKpgDBlzPtkdL
+ZKtkdLlzPVb
+lzPGTvtkdLVb
+GTvpgDBZKtkdL
+tkdLZKVbpgDB
+pgDBVblzPGTv
+lzPtkdLpgDBZK
+pgDBVbGTvZK
+VblzPZKGTv
+tkdLZKVbGTv
+VbtkdLGTvlzP
+pgDBlzPGTvZK
+ZKVbpgDBtkdL
+pgDBZKtkdLlzP
+ZKGTvpgDBlzP
+ZKpgDBtkdLGTv
+VbtkdLZKpgDB
+pgDBZKlzPtkdL
+ZKpgDBGTvtkdL
+tkdLZKVblzP
+lzPGTvpgDBtkdL
+VbGTvpgDBtkdL
+VblzPtkdLGTv
+lzPVbpgDBtkdL
+VblzPGTvpgDB
+pgDBlzPGTvVb
+tkdLlzPVbpgDB
+lzPpgDBVbGTv
+VbZKtkdLpgDB
+ZKpgDBlzPVb
+pgDBGTvtkdLZK
+VblzPtkdLZK
+tkdLVbZKlzP
+GTvZKlzPtkdL
+VblzPtkdLpgDB
+GTvpgDBtkdLlzP
+pgDBtkdLGTvlzP
+tkdLpgDBlzPGTv
+ZKtkdLVblzP
+lzPZKVbpgDB
+GTvpgDBlzPVb
+GTvtkdLVblzP
+GTvpgDBlzPtkdL
+ZKlzPGTvtkdL
+pgDBVbGTvZK
+ZKlzPGTvVb
+ZKlzPVbpgDB
+GTvlzPZKtkdL
+VbGTvpgDBtkdL
+pgDBlzPZKVb
+pgDBGTvtkdLlzP
+tkdLZKVbGTv
+ZKpgDBGTvlzP
+GTvVbtkdLlzP
+GTvpgDBtkdLVb
+tkdLlzPGTvZK
+tkdLpgDBVbZK
+pgDBtkdLlzPGTv
+lzPZKpgDBVb
+lzPVbZKGTv
+ZKVbtkdLpgDB
+ZKpgDBVbGTv
+lzPpgDBGTvVb
+ZKlzPGTvVb
+GTvVbZKpgDB
+lzPVbGTvtkdL
+tkdLZKlzPpgDB
+tkdLZKVbGTv
+lzPVbtkdLZK
+lzPVbtkdLGTv
+tkdLVbpgDBZK
+GTvpgDBtkdLZK
+pgDBlzPtkdLZK
+lzPZKVbGTv
+pgDBGTvZKlzP
+pgDBtkdLlzPGTv
+pgDBtkdLVblzP
+lzPtkdLZKpgDB
+lzPGTvpgDBtkdL
+tkdLlzPpgDBGTv
+VbtkdLGTvlzP
+VbGTvtkdLlzP
+tkdLpgDBlzPZK
+lzPVbpgDBGTv
+VbpgDBZKlzP
+ZKlzPtkdLVb
+ZKGTvlzPpgDB
+lzPGTvVbZK
+ZKlzPGTvpgDB
+GTvpgDBlzPVb
+GTvpgDBZKlzP
+tkdLZKGTvVb
+VbtkdLZKpgDB
+VbZKlzPtkdL
+lzPtkdLpgDBGTv
+tkdLVblzPpgDB
+VbpgDBGTvtkdL
+VbGTvtkdLZK
+pgDBlzPZKVb
+lzPGTvpgDBVb
+pgDBVbGTvlzP
+VbpgDBGTvtkdL
+VbZKpgDBtkdL
+VbGTvtkdLlzP
+lzPtkdLpgDBGTv
+ZKVbGTvtkdL
+pgDBZKVbGTv
+lzPZKVbtkdL
+GTvtkdLVbpgDB
+ZKpgDBlzPGTv
+pgDBZKGTvlzP
+lzPtkdLVbGTv
+GTvVbtkdLlzP
+tkdLlzPpgDBVb
+tkdLpgDBVbZK
+pgDBZKtkdLGTv
+lzPZKVbGTv
+tkdLGTvpgDBZK
+lzPZKpgDBGTv
+lzPZKVbtkdL
+lzPVbtkdLpgDB
+pgDBtkdLZKVb
+tkdLlzPVbGTv
+ZKlzPpgDBGTv
+ZKtkdLpgDBGTv
+GTvVbpgDBZK
+pgDBVbZKtkdL
+GTvZKVbtkdL
+tkdLGTvpgDBZK
+GTvZKpgDBlzP
+tkdLpgDBZKVb
+ZKlzPVbpgDB
+GTvZKpgDBlzP
+tkdLZKVblzP
+ZKlzPGTvVb
+VblzPtkdLGTv
+ZKVbGTvtkdL
+VbGTvtkdLlzP
+pgDBtkdLZKGTv
+VbpgDBZKtkdL
+VbZKVbZK
+
+Test Items:
+ZK	KV
+pgDB	Btkd
+lzP	PGT
+GTv	blz
+lzP	PGT
+ZK	LZ
+GTv	blz
+tkdL	vpgD
+Vb	LZ
+tkdL	vpgD
+ZK	KV
+pgDB	vpgD
+tkdL	vpgD
+Vb	LZ
+ZK	KV
+GTv	PGT
+lzP	blz
+tkdL	vpgD
+pgDB	Btkd
+lzP	PGT
+Vb	LZ
+GTv	PGT
+pgDB	vpgD
+tkdL	Btkd
+GTv	blz
+Vb	LZ
+lzP	blz
+pgDB	vpgD
+tkdL	Btkd
+pgDB	vpgD

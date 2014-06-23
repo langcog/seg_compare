@@ -1,0 +1,42 @@
+Lexicon: nz	Bmv	FfMR	PV	tNZ	plKD	
+
+Training Sentences:
+BmvnzFfMRPV
+BmvPVplKDtNZ
+FfMRplKDPVnz
+PVFfMRtNZnz
+BmvtNZplKDFfMR
+tNZBmvFfMRplKD
+BmvnztNZPV
+
+Test Items:
+FfMR	ZplK
+nz	RP
+PV	Dn
+FfMR	vFfM
+PV	RP
+plKD	ZplK
+Bmv	zBm
+FfMR	ZplK
+plKD	vFfM
+nz	RP
+FfMR	vFfM
+tNZ	zBm
+PV	RP
+nz	Dn
+tNZ	zBm
+Bmv	VtN
+nz	RP
+FfMR	vFfM
+plKD	ZplK
+Bmv	zBm
+PV	RP
+Bmv	VtN
+tNZ	zBm
+plKD	vFfM
+nz	Dn
+FfMR	ZplK
+PV	RP
+nz	Dn
+Bmv	VtN
+plKD	vFfM

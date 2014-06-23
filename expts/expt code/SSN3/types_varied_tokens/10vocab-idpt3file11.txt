@@ -1,0 +1,45 @@
+Lexicon: fN	vbD	mTFn	
+
+Training Sentences:
+vbDfNvbDfN
+fNmTFnvbDmTFn
+mTFnvbDfNvbD
+fNvbDfNvbD
+fNmTFnfNvbD
+vbDmTFnvbDmTFn
+fNmTFnvbDfN
+mTFnfNvbDmTFn
+fNmTFnfNmTFn
+mTFnfNmTFnvbD
+
+Test Items:
+fN	nf
+vbD	Nvb
+fN	nf
+vbD	Nvb
+fN	nf
+vbD	Nvb
+fN	nf
+mTFn	DmTF
+vbD	Nvb
+fN	nf
+vbD	Nvb
+mTFn	DmTF
+fN	nf
+mTFn	DmTF
+vbD	Nvb
+mTFn	DmTF
+fN	nf
+mTFn	DmTF
+fN	nf
+mTFn	DmTF
+fN	nf
+mTFn	DmTF
+fN	nf
+mTFn	DmTF
+vbD	Nvb
+mTFn	DmTF
+fN	nf
+mTFn	DmTF
+vbD	Nvb
+mTFn	DmTF

@@ -1,0 +1,49 @@
+Lexicon: guzi	gidu	tuzupA	lukAdA	vAlAvubA	tikibipi	
+
+Training Sentences:
+gidutikibipi
+lukAdAtuzupA
+gidulukAdA
+tuzupAguzi
+guzituzupA
+giduguzi
+vAlAvubAguzi
+lukAdAgidu
+vAlAvubAgidu
+vAlAvubAguzi
+tikibipituzupA
+tikibipivAlAvubA
+tikibipilukAdA
+tikibipivAlAvubA
+
+Test Items:
+tikibipi	ubAtikib
+vAlAvubA	ubAtikib
+lukAdA	upAluk
+guzi	uzig
+tikibipi	ubAtikib
+gidu	uzig
+tuzupA	upAluk
+lukAdA	idutuz
+tuzupA	upAluk
+lukAdA	idutuz
+tikibipi	ubAtikib
+tuzupA	upAluk
+tikibipi	AdAvAlAv
+guzi	uzig
+tuzupA	upAluk
+guzi	ipig
+lukAdA	idutuz
+vAlAvubA	AdAvAlAv
+lukAdA	upAluk
+gidu	uzig
+lukAdA	idutuz
+vAlAvubA	AdAvAlAv
+tikibipi	ubAtikib
+gidu	ipig
+tikibipi	AdAvAlAv
+guzi	uzig
+tuzupA	idutuz
+guzi	uzig
+gidu	ipig
+lukAdA	upAluk

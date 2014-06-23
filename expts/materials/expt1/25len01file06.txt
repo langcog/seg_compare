@@ -1,0 +1,145 @@
+Lexicon: kAlu	lAzi	pAbitu	dAdugu	pikivugi	zutivAbA	
+
+Training Sentences:
+lAzi
+zutivAbA
+pikivugi
+pikivugi
+pikivugi
+pAbitu
+dAdugu
+lAzi
+lAzi
+pikivugi
+kAlu
+zutivAbA
+pAbitu
+kAlu
+dAdugu
+pikivugi
+kAlu
+kAlu
+dAdugu
+dAdugu
+pAbitu
+zutivAbA
+pAbitu
+kAlu
+dAdugu
+pikivugi
+zutivAbA
+lAzi
+lAzi
+pAbitu
+pikivugi
+kAlu
+lAzi
+lAzi
+pAbitu
+zutivAbA
+zutivAbA
+dAdugu
+dAdugu
+zutivAbA
+
+Test Items:
+lAzi	AbAk
+zutivAbA	ugizutiv
+lAzi	Alul
+pAbitu	itudAd
+dAdugu	itudAd
+pAbitu	AzipAb
+kAlu	AbAk
+lAzi	Alul
+zutivAbA	ugupikiv
+dAdugu	AzipAb
+lAzi	AbAk
+kAlu	Alul
+dAdugu	AzipAb
+pAbitu	itudAd
+dAdugu	AzipAb
+pikivugi	ugizutiv
+lAzi	Alul
+dAdugu	itudAd
+pikivugi	ugupikiv
+zutivAbA	ugizutiv
+pAbitu	AzipAb
+lAzi	Alul
+kAlu	AbAk
+pikivugi	ugizutiv
+pAbitu	AzipAb
+zutivAbA	ugizutiv
+kAlu	AbAk
+lAzi	Alul
+zutivAbA	ugupikiv
+kAlu	AbAk
+lAzi	Alul
+dAdugu	itudAd
+lAzi	Alul
+dAdugu	itudAd
+zutivAbA	ugupikiv
+lAzi	AbAk
+dAdugu	itudAd
+lAzi	AbAk
+pikivugi	ugupikiv
+zutivAbA	ugizutiv
+kAlu	AbAk
+dAdugu	itudAd
+kAlu	Alul
+lAzi	AbAk
+dAdugu	itudAd
+zutivAbA	ugupikiv
+kAlu	AbAk
+pikivugi	ugupikiv
+lAzi	AbAk
+pAbitu	itudAd
+zutivAbA	ugizutiv
+pAbitu	AzipAb
+zutivAbA	ugupikiv
+dAdugu	itudAd
+kAlu	Alul
+lAzi	Alul
+kAlu	Alul
+pAbitu	AzipAb
+zutivAbA	ugizutiv
+pikivugi	ugupikiv
+kAlu	Alul
+zutivAbA	ugupikiv
+lAzi	AbAk
+kAlu	Alul
+lAzi	AbAk
+pAbitu	AzipAb
+pikivugi	ugupikiv
+dAdugu	AzipAb
+kAlu	AbAk
+pAbitu	AzipAb
+dAdugu	itudAd
+zutivAbA	ugizutiv
+pikivugi	ugupikiv
+zutivAbA	ugizutiv
+lAzi	AbAk
+pikivugi	ugizutiv
+dAdugu	AzipAb
+pAbitu	itudAd
+kAlu	Alul
+dAdugu	itudAd
+kAlu	AbAk
+zutivAbA	ugupikiv
+lAzi	AbAk
+zutivAbA	ugupikiv
+dAdugu	AzipAb
+pikivugi	ugizutiv
+pAbitu	itudAd
+kAlu	Alul
+zutivAbA	ugupikiv
+dAdugu	AzipAb
+kAlu	Alul
+zutivAbA	ugizutiv
+kAlu	Alul
+pAbitu	AzipAb
+pikivugi	ugupikiv
+zutivAbA	ugizutiv
+kAlu	Alul
+pikivugi	ugizutiv
+pAbitu	AzipAb
+zutivAbA	ugupikiv

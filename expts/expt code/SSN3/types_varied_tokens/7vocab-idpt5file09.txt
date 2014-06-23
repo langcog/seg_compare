@@ -1,0 +1,42 @@
+Lexicon: nT	gNf	zpZF	rV	Pdb	
+
+Training Sentences:
+nTgNfrVPdb
+gNfrVnTzpZF
+rVzpZFnTPdb
+gNfPdbrVzpZF
+zpZFPdbnTrV
+gNfzpZFnTPdb
+gNfzpZFPdbnT
+
+Test Items:
+Pdb	TgN
+nT	bn
+Pdb	TgN
+rV	bn
+gNf	VPd
+zpZF	fzpZ
+nT	bn
+rV	Fr
+gNf	VPd
+rV	bn
+gNf	TgN
+rV	Fr
+zpZF	fzpZ
+Pdb	TgN
+zpZF	fzpZ
+nT	Fr
+zpZF	fzpZ
+Pdb	VPd
+gNf	TgN
+zpZF	fzpZ
+Pdb	TgN
+zpZF	fzpZ
+gNf	TgN
+zpZF	fzpZ
+gNf	TgN
+zpZF	fzpZ
+Pdb	TgN
+nT	bn
+rV	Fr
+nT	Fr

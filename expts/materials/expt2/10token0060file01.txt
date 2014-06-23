@@ -1,0 +1,50 @@
+Lexicon: bivA	dApA	pikiti	zizutu	guvudukA	lAbAlugi	
+
+Training Sentences:
+lAbAlugibivApikitidApA
+pikitizizutuguvudukAdApA
+pikitizizutubivAdApA
+guvudukAlAbAlugidApAzizutu
+bivAguvudukAlAbAlugidApA
+guvudukAzizutubivApikiti
+lAbAlugiguvudukApikitidApA
+guvudukAlAbAlugizizutubivA
+dApAlAbAlugipikitizizutu
+zizutubivAlAbAlugipikiti
+dApAlAbAlugiguvudukAzizutu
+lAbAlugipikitibivAguvudukA
+dApAlAbAlugiguvudukAbivA
+bivAzizutupikitidApA
+pikitiguvudukAzizutubivA
+
+Test Items:
+bivA	ivAd
+zizutu	ApApik
+guvudukA	utuguvud
+zizutu	ApApik
+dApA	ivAd
+zizutu	ApApik
+pikiti	itiziz
+guvudukA	ukAlAbAl
+bivA	ugib
+dApA	ivAd
+guvudukA	ukAlAbAl
+pikiti	itiziz
+zizutu	ApApik
+lAbAlugi	utuguvud
+zizutu	ApApik
+dApA	ugib
+lAbAlugi	ukAlAbAl
+dApA	ugib
+guvudukA	ukAlAbAl
+pikiti	ApApik
+zizutu	itiziz
+lAbAlugi	ukAlAbAl
+pikiti	itiziz
+dApA	ivAd
+pikiti	ApApik
+lAbAlugi	ukAlAbAl
+pikiti	itiziz
+lAbAlugi	utuguvud
+zizutu	ApApik
+pikiti	ApApik

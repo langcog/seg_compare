@@ -1,0 +1,44 @@
+Lexicon: luki	bidu	gubAvA	gikAzi	pAdAvutu	lApizuti	
+
+Training Sentences:
+pAdAvutulukigikAzi
+lukipAdAvutubidu
+gikAzibidugubAvA
+bidugikAzilApizuti
+pAdAvutulApizutiluki
+bidugubAvAlApizuti
+gikAzilApizutigubAvA
+pAdAvutulukigikAzi
+lukipAdAvutubidu
+
+Test Items:
+gubAvA	AvAgik
+luki	ukib
+gikAzi	AvAgik
+luki	ukib
+gubAvA	idugub
+bidu	util
+gikAzi	idugub
+lApizuti	AzipAdAv
+gikAzi	AvAgik
+pAdAvutu	AzipAdAv
+luki	ukib
+bidu	util
+gubAvA	idugub
+luki	ukib
+bidu	util
+lApizuti	AzipAdAv
+gubAvA	AvAgik
+pAdAvutu	AzipAdAv
+luki	util
+gikAzi	AvAgik
+gubAvA	idugub
+luki	util
+gikAzi	idugub
+luki	util
+bidu	ukib
+lApizuti	AzipAdAv
+pAdAvutu	utulApiz
+bidu	util
+lApizuti	AzipAdAv
+gikAzi	idugub

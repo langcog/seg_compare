@@ -1,0 +1,73 @@
+Lexicon: VB	kp	bGg	zZK	vPdT	tLlD	
+
+Training Sentences:
+vPdTtLlDzZK
+VBzZKvPdT
+bGgkptLlD
+bGgvPdTtLlD
+bGgzZKVB
+tLlDvPdTkp
+VBkpbGg
+kpzZKVB
+
+Test Items:
+kp	Bk
+VB	DV
+zZK	gzZ
+vPdT	TtLl
+bGg	pbG
+kp	DV
+bGg	gzZ
+kp	Bk
+vPdT	KvPd
+bGg	pbG
+vPdT	KvPd
+VB	DV
+bGg	pbG
+vPdT	TtLl
+kp	Bk
+tLlD	TtLl
+zZK	pbG
+vPdT	TtLl
+zZK	gzZ
+kp	Bk
+bGg	gzZ
+tLlD	TtLl
+zZK	pbG
+bGg	gzZ
+zZK	pbG
+kp	Bk
+VB	DV
+tLlD	KvPd
+VB	DV
+tLlD	TtLl
+kp	Bk
+tLlD	TtLl
+zZK	gzZ
+vPdT	TtLl
+zZK	pbG
+kp	Bk
+VB	DV
+bGg	gzZ
+zZK	gzZ
+vPdT	TtLl
+VB	Bk
+kp	DV
+vPdT	TtLl
+zZK	pbG
+VB	Bk
+zZK	pbG
+bGg	pbG
+kp	Bk
+tLlD	TtLl
+kp	Bk
+bGg	gzZ
+kp	DV
+tLlD	KvPd
+VB	Bk
+bGg	pbG
+zZK	gzZ
+vPdT	KvPd
+kp	DV
+bGg	pbG
+zZK	gzZ

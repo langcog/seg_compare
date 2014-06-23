@@ -1,0 +1,45 @@
+Lexicon: zn	GMf	PTRv	Kr	
+
+Training Sentences:
+GMfKrPTRvzn
+GMfPTRvznKr
+GMfznPTRvKr
+KrGMfPTRvzn
+PTRvKrGMfzn
+znGMfPTRvKr
+PTRvznKrGMf
+PTRvKrGMfzn
+znKrGMfPTRv
+PTRvGMfKrzn
+
+Test Items:
+Kr	rz
+zn	vK
+GMf	nGM
+PTRv	fPTR
+Kr	rz
+GMf	nGM
+zn	rz
+PTRv	fPTR
+Kr	rz
+GMf	nGM
+Kr	rz
+zn	vK
+PTRv	fPTR
+zn	vK
+GMf	nGM
+Kr	rz
+PTRv	fPTR
+GMf	nGM
+zn	vK
+Kr	rz
+GMf	nGM
+Kr	vK
+PTRv	fPTR
+GMf	nGM
+PTRv	fPTR
+Kr	vK
+zn	vK
+GMf	nGM
+zn	rz
+GMf	nGM

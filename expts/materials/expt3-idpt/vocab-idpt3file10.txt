@@ -1,0 +1,185 @@
+Lexicon: Kn	dvr	lLJf	
+
+Training Sentences:
+dvrlLJfKnKn
+lLJfdvrdvrlLJf
+lLJfKnlLJfdvr
+KndvrKnlLJf
+KndvrdvrlLJf
+lLJfKnKndvr
+lLJflLJfdvrdvr
+dvrdvrlLJfKn
+KndvrdvrKn
+KndvrdvrlLJf
+KnlLJfdvrdvr
+dvrlLJflLJfKn
+KnKndvrdvr
+KnKndvrlLJf
+lLJflLJfKndvr
+lLJfdvrKndvr
+KndvrdvrKn
+lLJflLJfdvrKn
+KnKnlLJflLJf
+lLJfKnlLJfKn
+lLJflLJfdvrdvr
+dvrlLJfdvrKn
+KndvrlLJfKn
+dvrKnKndvr
+KndvrlLJfdvr
+dvrKndvrKn
+KnKndvrlLJf
+KndvrKnlLJf
+lLJfKnKndvr
+dvrKndvrlLJf
+dvrlLJflLJfKn
+dvrKndvrKn
+KnKndvrlLJf
+KndvrdvrKn
+KnKndvrdvr
+lLJfKnlLJfdvr
+lLJfKnlLJfdvr
+KndvrdvrKn
+dvrKnlLJfdvr
+lLJflLJfdvrdvr
+dvrlLJfdvrlLJf
+lLJfdvrdvrKn
+dvrdvrKnKn
+dvrdvrlLJflLJf
+lLJfKnKndvr
+dvrdvrlLJflLJf
+lLJfdvrdvrlLJf
+KndvrdvrKn
+KndvrKndvr
+lLJfKndvrdvr
+dvrlLJfdvrKn
+KnlLJflLJfKn
+lLJfdvrlLJfdvr
+lLJflLJfdvrKn
+KndvrlLJfdvr
+dvrlLJfdvrlLJf
+KnlLJflLJfKn
+dvrlLJfKnlLJf
+dvrKnlLJflLJf
+dvrKndvrlLJf
+dvrlLJfKnlLJf
+lLJfKnKnlLJf
+KnlLJflLJfKn
+dvrdvrKnKn
+lLJflLJfdvrKn
+KnlLJfKnlLJf
+dvrlLJfdvrKn
+KnKndvrdvr
+lLJflLJfdvrKn
+lLJfdvrlLJfdvr
+KnlLJflLJfdvr
+dvrdvrlLJflLJf
+dvrlLJfKndvr
+dvrdvrKnKn
+KnKndvrlLJf
+lLJfdvrlLJfKn
+lLJfdvrlLJfKn
+KnKnlLJflLJf
+dvrKnKnlLJf
+lLJfKnKndvr
+KndvrdvrKn
+lLJflLJfdvrKn
+dvrdvrlLJfKn
+dvrKnlLJfKn
+KndvrlLJflLJf
+lLJfdvrKnlLJf
+dvrlLJfdvrlLJf
+lLJflLJfKndvr
+lLJfdvrKndvr
+KnKndvrlLJf
+dvrlLJflLJfKn
+dvrlLJfKndvr
+KnKnlLJflLJf
+KnKndvrdvr
+dvrKndvrlLJf
+KnlLJfdvrlLJf
+dvrdvrKnlLJf
+lLJflLJfdvrKn
+KnKnlLJflLJf
+dvrKnlLJfKn
+lLJflLJfdvrdvr
+KndvrdvrKn
+dvrdvrlLJflLJf
+KnlLJfKndvr
+dvrKnlLJflLJf
+dvrdvrKnlLJf
+KndvrKndvr
+lLJflLJfdvrKn
+dvrdvrlLJfKn
+lLJfdvrdvrlLJf
+dvrlLJflLJfKn
+lLJflLJfKnKn
+dvrKnlLJfKn
+lLJfKnKndvr
+lLJfKnKnlLJf
+KnlLJflLJfKn
+dvrlLJflLJfKn
+lLJfdvrdvrlLJf
+KnlLJflLJfKn
+KnlLJfdvrdvr
+lLJfdvrKnKn
+KnKnlLJfdvr
+dvrdvrlLJflLJf
+lLJfKndvrdvr
+dvrlLJfKnlLJf
+lLJfKnlLJfKn
+lLJflLJfKndvr
+lLJflLJfdvrdvr
+dvrKnKndvr
+KndvrlLJfKn
+lLJfKnKndvr
+dvrKndvrlLJf
+dvrdvrKnKn
+lLJfKnlLJfdvr
+KnlLJfKnlLJf
+KnKnlLJflLJf
+KnlLJfKndvr
+dvrlLJflLJfKn
+dvrlLJfKndvr
+KndvrlLJfKn
+lLJflLJfKndvr
+dvrlLJfKnlLJf
+lLJfKnKnlLJf
+dvrlLJfKnKn
+lLJfKnKndvr
+lLJflLJfKnKn
+KnKnlLJfdvr
+KndvrlLJflLJf
+dvrdvrKnlLJf
+KnKndvrdvr
+
+Test Items:
+Kn	fK
+lLJf	rlLJ
+dvr	ndv
+Kn	fK
+dvr	ndv
+Kn	fK
+dvr	ndv
+Kn	fK
+lLJf	rlLJ
+Kn	fK
+lLJf	rlLJ
+dvr	ndv
+Kn	fK
+lLJf	rlLJ
+Kn	fK
+lLJf	rlLJ
+Kn	fK
+lLJf	rlLJ
+dvr	ndv
+lLJf	rlLJ
+Kn	fK
+dvr	ndv
+lLJf	rlLJ
+Kn	fK
+dvr	ndv
+Kn	fK
+dvr	ndv
+Kn	fK
+lLJf	rlLJ
+dvr	ndv

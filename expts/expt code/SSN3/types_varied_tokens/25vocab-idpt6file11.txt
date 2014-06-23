@@ -1,0 +1,60 @@
+Lexicon: Zk	JDz	MNbv	Vt	nrl	KpGP	
+
+Training Sentences:
+JDzVtKpGPZk
+ZkMNbvnrlVt
+ZknrlVtJDz
+nrlKpGPMNbvJDz
+KpGPVtMNbvZk
+MNbvZkKpGPVt
+KpGPJDzZknrl
+KpGPMNbvJDzVt
+ZkJDzKpGPnrl
+MNbvJDzKpGPVt
+VtMNbvZknrl
+JDznrlKpGPVt
+MNbvZkJDzVt
+KpGPVtnrlMNbv
+ZkMNbvJDznrl
+nrlZkMNbvJDz
+nrlZkMNbvJDz
+ZknrlJDzMNbv
+VtZkKpGPJDz
+MNbvnrlVtKpGP
+nrlZkMNbvVt
+JDznrlMNbvZk
+KpGPVtJDznrl
+nrlMNbvKpGPZk
+VtKpGPJDzVt
+
+Test Items:
+Vt	PZ
+nrl	tnr
+Vt	PZ
+Zk	vV
+KpGP	zMNb
+MNbv	zMNb
+KpGP	lKpG
+JDz	kJD
+KpGP	lKpG
+nrl	tnr
+Zk	PZ
+KpGP	zMNb
+MNbv	zMNb
+Zk	vV
+MNbv	lKpG
+Zk	PZ
+MNbv	zMNb
+JDz	tnr
+Zk	vV
+JDz	kJD
+nrl	tnr
+KpGP	zMNb
+MNbv	lKpG
+Vt	vV
+KpGP	zMNb
+Zk	PZ
+KpGP	zMNb
+Vt	vV
+Zk	vV
+Vt	PZ

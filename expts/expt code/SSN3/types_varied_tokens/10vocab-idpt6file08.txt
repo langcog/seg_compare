@@ -1,0 +1,45 @@
+Lexicon: MB	gbd	pzvk	lr	Jfm	NVTD	
+
+Training Sentences:
+lrJfmgbdpzvk
+NVTDlrgbdMB
+pzvkMBNVTDlr
+MBNVTDgbdpzvk
+JfmlrpzvkMB
+pzvkgbdNVTDMB
+JfmNVTDlrpzvk
+JfmMBpzvkgbd
+JfmlrNVTDgbd
+gbdMBJfmlr
+
+Test Items:
+lr	DM
+MB	kl
+Jfm	Bgb
+NVTD	mNVT
+pzvk	dpzv
+MB	DM
+NVTD	dpzv
+lr	DM
+gbd	Bgb
+Jfm	Bgb
+pzvk	mNVT
+Jfm	Bgb
+NVTD	mNVT
+lr	DM
+NVTD	mNVT
+pzvk	mNVT
+gbd	rJf
+lr	DM
+NVTD	dpzv
+MB	DM
+gbd	Bgb
+Jfm	rJf
+NVTD	dpzv
+Jfm	Bgb
+lr	kl
+MB	DM
+pzvk	mNVT
+lr	kl
+MB	DM
+pzvk	mNVT

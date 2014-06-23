@@ -1,0 +1,45 @@
+Lexicon: RV	PGl	dNrB	kL	KpJ	bfmv	
+
+Training Sentences:
+bfmvkLKpJdNrB
+kLPGlKpJdNrB
+dNrBRVKpJPGl
+PGlkLRVbfmv
+kLRVbfmvdNrB
+KpJPGlbfmvdNrB
+kLdNrBRVPGl
+bfmvkLKpJRV
+PGlKpJkLRV
+bfmvdNrBPGlKpJ
+
+Test Items:
+kL	vR
+PGl	VPG
+dNrB	Jbfm
+PGl	VPG
+KpJ	LKp
+bfmv	Jbfm
+kL	vR
+bfmv	ldNr
+RV	vR
+kL	Bk
+dNrB	Jbfm
+RV	vR
+dNrB	Jbfm
+kL	Bk
+RV	vR
+KpJ	VPG
+RV	Bk
+KpJ	VPG
+dNrB	ldNr
+kL	Bk
+KpJ	VPG
+RV	vR
+bfmv	ldNr
+kL	vR
+PGl	VPG
+KpJ	LKp
+bfmv	ldNr
+dNrB	Jbfm
+bfmv	ldNr
+kL	vR

@@ -1,0 +1,125 @@
+Lexicon: gilu	lAvu	bipAzu	tidAvA	bApikAgu	zidutuki	
+
+Training Sentences:
+tidAvAzidutuki
+bApikAgutidAvA
+bApikAgulAvu
+zidutukibApikAgu
+gilubipAzu
+gilulAvu
+gilubipAzu
+gilubApikAgu
+bApikAgulAvu
+bipAzugilu
+lAvuzidutuki
+zidutukitidAvA
+lAvuzidutuki
+lAvubApikAgu
+tidAvAgilu
+zidutukibipAzu
+giluzidutuki
+tidAvAbipAzu
+lAvutidAvA
+bipAzubApikAgu
+
+Test Items:
+bipAzu	Azutid
+tidAvA	Azutid
+bipAzu	Azutid
+lAvu	ukig
+bipAzu	Avubip
+zidutuki	Aguzidut
+lAvu	ukig
+gilu	ilul
+zidutuki	AvAbApik
+bipAzu	Avubip
+bApikAgu	Aguzidut
+zidutuki	AvAbApik
+lAvu	ilul
+bApikAgu	Aguzidut
+lAvu	ilul
+gilu	ukig
+tidAvA	Avubip
+bipAzu	Azutid
+gilu	ilul
+zidutuki	Aguzidut
+bApikAgu	AvAbApik
+tidAvA	Avubip
+gilu	ilul
+lAvu	ukig
+gilu	ilul
+bApikAgu	Aguzidut
+tidAvA	Avubip
+gilu	ilul
+bApikAgu	AvAbApik
+lAvu	ilul
+bipAzu	Avubip
+bApikAgu	Aguzidut
+bipAzu	Avubip
+gilu	ukig
+tidAvA	Avubip
+lAvu	ilul
+tidAvA	Avubip
+bApikAgu	Aguzidut
+lAvu	ilul
+tidAvA	Azutid
+bipAzu	Azutid
+tidAvA	Avubip
+bipAzu	Azutid
+zidutuki	AvAbApik
+lAvu	ukig
+bApikAgu	Aguzidut
+tidAvA	Avubip
+bipAzu	Azutid
+tidAvA	Azutid
+bipAzu	Avubip
+zidutuki	Aguzidut
+tidAvA	Avubip
+zidutuki	AvAbApik
+bApikAgu	AvAbApik
+zidutuki	Aguzidut
+lAvu	ukig
+bipAzu	Azutid
+bApikAgu	AvAbApik
+zidutuki	Aguzidut
+lAvu	ukig
+bApikAgu	Aguzidut
+lAvu	ilul
+gilu	ukig
+lAvu	ilul
+tidAvA	Avubip
+gilu	ukig
+lAvu	ilul
+zidutuki	Aguzidut
+bipAzu	Azutid
+zidutuki	Aguzidut
+tidAvA	Azutid
+lAvu	ukig
+bipAzu	Avubip
+lAvu	ukig
+bipAzu	Avubip
+zidutuki	AvAbApik
+bipAzu	Avubip
+gilu	ukig
+tidAvA	Avubip
+bipAzu	Azutid
+gilu	ilul
+zidutuki	Aguzidut
+gilu	ukig
+bApikAgu	AvAbApik
+bipAzu	Avubip
+zidutuki	Aguzidut
+tidAvA	Avubip
+zidutuki	Aguzidut
+tidAvA	Azutid
+bipAzu	Azutid
+bApikAgu	AvAbApik
+lAvu	ilul
+bApikAgu	AvAbApik
+tidAvA	Avubip
+bApikAgu	Aguzidut
+gilu	ilul
+bipAzu	Azutid
+tidAvA	Azutid
+bApikAgu	AvAbApik
+gilu	ukig

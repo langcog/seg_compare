@@ -1,0 +1,60 @@
+Lexicon: lG	PdN	vLpM	fR	BKn	TVtg	
+
+Training Sentences:
+PdNvLpMlGTVtg
+lGPdNvLpMfR
+vLpMfRPdNlG
+TVtgPdNvLpMBKn
+BKnfRTVtgvLpM
+PdNlGTVtgBKn
+fRPdNTVtgBKn
+lGfRPdNBKn
+BKnPdNfRTVtg
+vLpMTVtgfRlG
+vLpMfRBKnlG
+PdNvLpMBKnTVtg
+TVtglGvLpMPdN
+PdNlGBKnvLpM
+TVtgfRBKnlG
+lGTVtgfRvLpM
+fRBKnvLpMlG
+vLpMTVtgfRPdN
+BKnfRPdNTVtg
+lGBKnfRPdN
+lGfRTVtgvLpM
+BKnvLpMPdNTVtg
+vLpMTVtgBKnlG
+fRlGvLpMBKn
+TVtglGBKnfR
+
+Test Items:
+vLpM	nTVt
+TVtg	NvLp
+PdN	GPd
+TVtg	NvLp
+vLpM	NvLp
+BKn	GPd
+vLpM	nTVt
+TVtg	NvLp
+fR	gl
+vLpM	NvLp
+BKn	RBK
+fR	gl
+vLpM	nTVt
+TVtg	NvLp
+fR	gl
+TVtg	nTVt
+vLpM	NvLp
+BKn	RBK
+fR	gl
+BKn	GPd
+vLpM	nTVt
+fR	gl
+lG	Mf
+vLpM	NvLp
+PdN	GPd
+fR	Mf
+TVtg	NvLp
+lG	Mf
+vLpM	NvLp
+lG	Mf

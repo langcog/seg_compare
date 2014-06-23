@@ -1,0 +1,60 @@
+Lexicon: vt	DT	Ggp	Zbd	KkzB	VlLP	
+
+Training Sentences:
+DTvtZbdKkzB
+DTKkzBZbdGgp
+VlLPvtKkzBGgp
+ZbdGgpVlLPKkzB
+VlLPGgpvtDT
+vtVlLPKkzBDT
+ZbdDTvtGgp
+vtGgpDTVlLP
+KkzBGgpDTvt
+vtKkzBZbdGgp
+VlLPZbdGgpvt
+GgpZbdKkzBVlLP
+ZbdVlLPvtKkzB
+DTVlLPvtZbd
+GgpDTVlLPKkzB
+vtGgpZbdVlLP
+KkzBGgpDTZbd
+KkzBGgpvtDT
+vtDTZbdKkzB
+KkzBDTGgpZbd
+ZbdVlLPDTvt
+VlLPKkzBvtZbd
+DTZbdvtKkzB
+ZbdDTVlLPGgp
+VlLPDTKkzBGgp
+
+Test Items:
+KkzB	BVlL
+Zbd	TGg
+VlLP	BVlL
+Ggp	TGg
+Zbd	pZb
+Ggp	TGg
+DT	Pv
+Zbd	TGg
+KkzB	BVlL
+Ggp	pZb
+KkzB	BVlL
+Zbd	TGg
+vt	tD
+KkzB	BVlL
+Zbd	pZb
+Ggp	TGg
+vt	tD
+VlLP	BVlL
+vt	tD
+Ggp	TGg
+KkzB	dKkz
+VlLP	BVlL
+Zbd	TGg
+vt	tD
+DT	Pv
+VlLP	BVlL
+DT	tD
+vt	Pv
+Ggp	pZb
+KkzB	dKkz

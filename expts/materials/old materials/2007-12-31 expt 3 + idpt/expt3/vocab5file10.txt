@@ -1,0 +1,185 @@
+Lexicon: Fr	Lnz	fRNG	mD	ltJ	
+
+Training Sentences:
+FrmDltJLnz
+mDLnzltJFr
+fRNGFrLnzmD
+LnzFrltJmD
+mDltJfRNGFr
+FrltJmDfRNG
+FrltJLnzfRNG
+ltJfRNGmDLnz
+mDLnzFrltJ
+ltJfRNGLnzFr
+LnzltJfRNGFr
+FrLnzltJmD
+mDFrLnzfRNG
+fRNGltJmDLnz
+fRNGLnzltJFr
+FrLnzltJfRNG
+mDfRNGFrLnz
+mDFrLnzfRNG
+fRNGFrLnzmD
+LnzltJFrfRNG
+fRNGLnzmDFr
+fRNGFrmDLnz
+ltJLnzmDfRNG
+ltJLnzFrmD
+mDFrfRNGLnz
+ltJmDFrfRNG
+LnzfRNGFrltJ
+LnzmDfRNGFr
+LnzmDfRNGltJ
+mDFrfRNGLnz
+fRNGmDLnzFr
+ltJLnzFrfRNG
+FrmDLnzfRNG
+LnzfRNGmDltJ
+mDLnzltJfRNG
+LnzfRNGltJmD
+LnzmDfRNGFr
+fRNGltJFrLnz
+ltJmDLnzFr
+LnzltJFrfRNG
+ltJmDLnzfRNG
+LnzmDFrfRNG
+ltJLnzmDfRNG
+FrmDLnzfRNG
+mDfRNGltJLnz
+mDfRNGFrLnz
+fRNGFrLnzmD
+ltJFrmDLnz
+fRNGmDLnzFr
+mDfRNGltJFr
+FrLnzltJfRNG
+mDltJFrfRNG
+LnzmDltJfRNG
+FrltJmDfRNG
+ltJLnzFrfRNG
+mDFrfRNGltJ
+FrmDltJLnz
+fRNGltJmDFr
+mDLnzfRNGltJ
+LnzltJfRNGmD
+mDFrfRNGltJ
+mDfRNGFrltJ
+mDFrLnzltJ
+fRNGmDLnzFr
+mDFrLnzfRNG
+FrLnzltJmD
+ltJLnzFrfRNG
+ltJFrfRNGLnz
+FrfRNGltJLnz
+ltJmDFrLnz
+mDltJFrfRNG
+LnzmDltJfRNG
+FrltJLnzmD
+ltJfRNGFrmD
+LnzfRNGltJmD
+FrLnzltJfRNG
+LnzfRNGmDltJ
+fRNGmDFrLnz
+LnzltJfRNGmD
+ltJmDFrfRNG
+fRNGmDLnzltJ
+fRNGmDltJFr
+LnzltJfRNGFr
+FrltJmDfRNG
+ltJmDFrLnz
+mDltJfRNGLnz
+fRNGmDltJFr
+ltJFrfRNGLnz
+FrLnzfRNGltJ
+FrfRNGLnzltJ
+fRNGmDltJLnz
+LnzfRNGFrltJ
+FrltJLnzfRNG
+ltJmDFrLnz
+fRNGLnzltJmD
+fRNGmDFrLnz
+mDFrfRNGltJ
+LnzmDltJFr
+FrfRNGltJmD
+fRNGltJmDLnz
+LnzfRNGmDltJ
+LnzfRNGltJFr
+LnzfRNGFrmD
+FrltJLnzfRNG
+ltJFrmDfRNG
+ltJFrmDLnz
+mDltJfRNGFr
+LnzltJFrfRNG
+mDFrfRNGLnz
+ltJFrLnzmD
+mDltJLnzFr
+fRNGLnzltJmD
+FrmDltJfRNG
+ltJFrfRNGmD
+fRNGFrLnzmD
+ltJLnzfRNGFr
+fRNGmDltJLnz
+LnzfRNGmDltJ
+ltJFrfRNGLnz
+ltJFrLnzmD
+mDLnzFrltJ
+FrfRNGLnzltJ
+mDLnzFrfRNG
+ltJFrfRNGLnz
+fRNGltJFrmD
+LnzmDltJFr
+mDFrfRNGLnz
+mDFrLnzfRNG
+LnzltJfRNGFr
+FrmDfRNGltJ
+fRNGmDltJFr
+LnzmDltJFr
+LnzltJFrmD
+FrmDLnzltJ
+LnzfRNGmDFr
+ltJfRNGFrmD
+fRNGFrmDltJ
+LnzltJfRNGFr
+LnzltJmDFr
+fRNGltJmDLnz
+ltJmDLnzfRNG
+fRNGltJmDFr
+fRNGltJmDFr
+ltJFrfRNGmD
+mDFrltJLnz
+ltJfRNGmDLnz
+LnzmDFrltJ
+mDltJfRNGLnz
+mDLnzFrltJ
+LnzFrmDmD
+
+Test Items:
+Lnz	rLn
+fRNG	zfRN
+mD	JF
+fRNG	zfRN
+Lnz	rLn
+Fr	JF
+mD	Gm
+Lnz	rLn
+Fr	Gm
+mD	JF
+Lnz	Dlt
+Fr	Gm
+Lnz	rLn
+mD	JF
+Lnz	Dlt
+fRNG	zfRN
+mD	Gm
+Lnz	rLn
+fRNG	zfRN
+mD	Gm
+Lnz	rLn
+Fr	JF
+fRNG	zfRN
+Fr	JF
+fRNG	zfRN
+Lnz	Dlt
+fRNG	zfRN
+Fr	JF
+ltJ	Dlt
+mD	JF

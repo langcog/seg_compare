@@ -1,0 +1,45 @@
+Lexicon: Mp	Nft	lPrT	KR	LZm	
+
+Training Sentences:
+NftLZmKRMp
+MpNftLZmlPrT
+MpKRNftLZm
+MpKRlPrTNft
+lPrTLZmNftKR
+lPrTNftKRLZm
+KRNftLZmMp
+NftLZmKRlPrT
+lPrTMpKRLZm
+MplPrTMplPrT
+
+Test Items:
+Mp	mM
+LZm	pNf
+lPrT	tlPr
+LZm	RLZ
+Mp	mM
+KR	mM
+lPrT	tlPr
+Mp	mM
+Nft	pNf
+LZm	RLZ
+lPrT	tlPr
+Mp	TK
+Nft	RLZ
+lPrT	tlPr
+Nft	pNf
+LZm	RLZ
+KR	mM
+LZm	pNf
+Mp	TK
+Nft	RLZ
+LZm	pNf
+Nft	RLZ
+KR	TK
+LZm	pNf
+lPrT	tlPr
+Nft	pNf
+lPrT	tlPr
+Nft	pNf
+LZm	RLZ
+lPrT	tlPr

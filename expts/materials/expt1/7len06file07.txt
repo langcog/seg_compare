@@ -1,0 +1,39 @@
+Lexicon: vuki	lAdu	dAtivA	tugubi	pAgilupi	zibAzukA	
+
+Training Sentences:
+vukipAgilupizibAzukAlAdutugubidAtivA
+vukidAtivAtugubilAduzibAzukApAgilupi
+dAtivApAgilupizibAzukAtugubivukilAdu
+vukitugubizibAzukAlAdudAtivApAgilupi
+
+Test Items:
+dAtivA	ivAtug
+tugubi	AdudAt
+vuki	ukil
+zibAzukA	upizibAz
+pAgilupi	upizibAz
+lAdu	ukAv
+pAgilupi	upizibAz
+tugubi	AdudAt
+lAdu	ukil
+vuki	ukAv
+zibAzukA	ubipAgil
+dAtivA	ivAtug
+pAgilupi	ubipAgil
+vuki	ukAv
+tugubi	ivAtug
+vuki	ukil
+pAgilupi	upizibAz
+dAtivA	AdudAt
+vuki	ukAv
+pAgilupi	ubipAgil
+dAtivA	ivAtug
+tugubi	AdudAt
+dAtivA	ivAtug
+zibAzukA	ubipAgil
+vuki	ukAv
+dAtivA	AdudAt
+lAdu	ukAv
+dAtivA	AdudAt
+tugubi	ivAtug
+pAgilupi	ubipAgil

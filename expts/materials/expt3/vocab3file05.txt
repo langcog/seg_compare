@@ -1,0 +1,185 @@
+Lexicon: GT	vrp	kzRd	
+
+Training Sentences:
+vrpGTvrpkzRd
+vrpGTvrpkzRd
+vrpkzRdGTvrp
+kzRdvrpkzRdvrp
+GTvrpkzRdGT
+GTvrpkzRdvrp
+kzRdvrpGTkzRd
+GTvrpGTkzRd
+vrpGTkzRdGT
+kzRdGTvrpkzRd
+GTvrpGTkzRd
+GTvrpGTkzRd
+GTvrpkzRdvrp
+vrpGTvrpkzRd
+vrpGTkzRdvrp
+vrpkzRdvrpGT
+kzRdGTkzRdGT
+vrpGTvrpGT
+kzRdvrpGTkzRd
+vrpGTvrpkzRd
+GTkzRdGTvrp
+GTkzRdvrpkzRd
+GTvrpkzRdGT
+kzRdvrpkzRdvrp
+GTkzRdvrpGT
+kzRdGTkzRdGT
+kzRdGTvrpGT
+vrpGTkzRdGT
+kzRdGTkzRdvrp
+vrpGTkzRdvrp
+kzRdvrpkzRdvrp
+GTkzRdGTvrp
+GTkzRdvrpGT
+GTkzRdvrpGT
+GTkzRdvrpGT
+kzRdGTkzRdvrp
+vrpGTvrpkzRd
+GTvrpkzRdvrp
+kzRdvrpkzRdvrp
+GTkzRdvrpGT
+kzRdvrpGTvrp
+GTkzRdGTvrp
+vrpkzRdGTvrp
+vrpkzRdGTvrp
+kzRdvrpGTvrp
+vrpkzRdGTkzRd
+GTvrpkzRdGT
+kzRdGTvrpkzRd
+vrpkzRdvrpGT
+GTvrpGTkzRd
+vrpGTkzRdGT
+kzRdvrpkzRdGT
+kzRdvrpGTkzRd
+GTvrpGTkzRd
+kzRdvrpGTkzRd
+GTvrpkzRdGT
+kzRdvrpGTkzRd
+GTkzRdGTkzRd
+GTkzRdGTkzRd
+vrpkzRdGTkzRd
+vrpGTkzRdvrp
+GTkzRdGTkzRd
+vrpGTvrpkzRd
+kzRdvrpGTkzRd
+GTvrpGTkzRd
+vrpGTkzRdvrp
+GTkzRdvrpkzRd
+kzRdvrpGTvrp
+vrpGTkzRdGT
+vrpGTvrpGT
+GTkzRdvrpGT
+vrpGTkzRdGT
+vrpkzRdvrpkzRd
+vrpkzRdGTkzRd
+vrpGTvrpGT
+kzRdGTvrpkzRd
+kzRdvrpGTkzRd
+kzRdGTvrpGT
+vrpkzRdvrpGT
+vrpkzRdGTkzRd
+kzRdvrpGTkzRd
+kzRdGTkzRdGT
+GTvrpkzRdGT
+vrpkzRdGTvrp
+kzRdGTvrpkzRd
+vrpGTkzRdGT
+vrpkzRdvrpkzRd
+GTvrpGTkzRd
+vrpGTkzRdvrp
+GTvrpGTkzRd
+vrpkzRdvrpGT
+vrpkzRdGTvrp
+GTkzRdvrpkzRd
+vrpkzRdvrpGT
+GTvrpkzRdGT
+vrpGTkzRdvrp
+GTvrpGTkzRd
+vrpGTkzRdGT
+kzRdGTvrpkzRd
+vrpGTvrpGT
+GTkzRdvrpkzRd
+GTvrpkzRdGT
+kzRdvrpkzRdGT
+kzRdGTvrpkzRd
+vrpkzRdGTvrp
+vrpGTkzRdvrp
+kzRdvrpkzRdvrp
+vrpGTvrpkzRd
+GTvrpkzRdGT
+vrpGTvrpkzRd
+kzRdGTvrpGT
+kzRdvrpkzRdGT
+kzRdvrpGTkzRd
+kzRdGTvrpkzRd
+GTkzRdGTkzRd
+GTvrpGTvrp
+GTvrpGTvrp
+vrpGTkzRdvrp
+GTvrpkzRdGT
+GTvrpkzRdvrp
+vrpGTkzRdvrp
+vrpkzRdGTvrp
+kzRdvrpGTvrp
+GTvrpGTkzRd
+kzRdvrpGTvrp
+kzRdGTvrpGT
+GTvrpkzRdvrp
+GTvrpGTkzRd
+GTkzRdvrpGT
+vrpGTkzRdvrp
+kzRdvrpkzRdGT
+GTkzRdGTkzRd
+vrpkzRdvrpkzRd
+kzRdvrpkzRdGT
+kzRdvrpkzRdvrp
+vrpGTvrpGT
+vrpkzRdGTvrp
+kzRdGTvrpkzRd
+GTkzRdvrpGT
+vrpGTvrpkzRd
+kzRdvrpGTkzRd
+kzRdGTkzRdGT
+GTkzRdvrpGT
+kzRdvrpGTkzRd
+vrpkzRdGTvrp
+vrpkzRdGTvrp
+kzRdvrpkzRdvrp
+kzRdGTvrpkzRd
+GTkzRdGTkzRd
+GTkzRdkzRdkzRd
+
+Test Items:
+kzRd	pkzR
+vrp	Tvr
+kzRd	pkzR
+GT	dG
+kzRd	pkzR
+vrp	Tvr
+kzRd	pkzR
+vrp	Tvr
+kzRd	pkzR
+GT	dG
+vrp	Tvr
+GT	dG
+kzRd	pkzR
+vrp	Tvr
+GT	dG
+vrp	Tvr
+kzRd	pkzR
+vrp	Tvr
+kzRd	pkzR
+GT	dG
+vrp	Tvr
+GT	dG
+vrp	Tvr
+kzRd	pkzR
+vrp	Tvr
+GT	dG
+vrp	Tvr
+GT	dG
+kzRd	pkzR
+GT	dG

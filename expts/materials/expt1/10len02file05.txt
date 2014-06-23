@@ -1,0 +1,55 @@
+Lexicon: kApi	vAvu	pAduzi	tidAlu	zukigigu	bibAlAtu	
+
+Training Sentences:
+bibAlAtuzukigigu
+bibAlAtuvAvu
+zukigigubibAlAtu
+kApitidAlu
+tidAlupAduzi
+pAduzitidAlu
+kApivAvu
+kApivAvu
+pAduzikApi
+bibAlAtupAduzi
+pAduzivAvu
+pAduzibibAlAtu
+bibAlAtukApi
+zukigigukApi
+pAduzitidAlu
+tidAluzukigigu
+zukigigukApi
+vAvutidAlu
+vAvuzukigigu
+vAvuzukigigu
+
+Test Items:
+zukigigu	igubibAl
+vAvu	Apiv
+zukigigu	Aluzukig
+bibAlAtu	igubibAl
+zukigigu	Aluzukig
+vAvu	Apiv
+tidAlu	AvupAd
+pAduzi	uzitid
+bibAlAtu	igubibAl
+vAvu	Apiv
+kApi	Atuk
+zukigigu	Aluzukig
+kApi	Atuk
+vAvu	Apiv
+bibAlAtu	igubibAl
+tidAlu	uzitid
+pAduzi	AvupAd
+kApi	Apiv
+zukigigu	Aluzukig
+kApi	Apiv
+zukigigu	igubibAl
+pAduzi	AvupAd
+vAvu	Apiv
+tidAlu	uzitid
+bibAlAtu	Aluzukig
+kApi	Apiv
+zukigigu	igubibAl
+pAduzi	uzitid
+zukigigu	Aluzukig
+pAduzi	AvupAd

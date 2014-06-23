@@ -1,0 +1,36 @@
+Lexicon: bAtu	pidA	vubizu	tivAgi	lAlukigu	duzipAkA	
+
+Training Sentences:
+bAtutivAgivubizulAlukigupidAduzipAkAlAlukiguvubizuduzipAkAbAtulAlukigupidAvubizubAtulAlukigutivAgiduzipAkAbAtupidAtivAgiduzipAkApidAvubizutivAgi
+
+Test Items:
+lAlukigu	iguduzip
+tivAgi	idAvub
+pidA	Atup
+bAtu	AkAb
+duzipAkA	iguduzip
+vubizu	izutiv
+lAlukigu	iguduzip
+pidA	Atup
+duzipAkA	iguduzip
+lAlukigu	AgilAluk
+vubizu	idAvub
+duzipAkA	AgilAluk
+bAtu	AkAb
+tivAgi	idAvub
+vubizu	izutiv
+bAtu	AkAb
+duzipAkA	AgilAluk
+tivAgi	idAvub
+bAtu	Atup
+lAlukigu	iguduzip
+pidA	AkAb
+bAtu	Atup
+tivAgi	idAvub
+lAlukigu	AgilAluk
+tivAgi	idAvub
+bAtu	AkAb
+vubizu	idAvub
+pidA	Atup
+vubizu	izutiv
+duzipAkA	AgilAluk

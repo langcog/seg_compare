@@ -1,0 +1,45 @@
+Lexicon: guzi	tivu	kAluzu	kipApi	bidAtugi	dulAbAvA	
+
+Training Sentences:
+guzidulAbAvAkAluzubidAtugi
+kAluzukipApidulAbAvAtivu
+kipApidulAbAvAbidAtugikAluzu
+bidAtugitivukAluzudulAbAvA
+guzitivukipApibidAtugi
+kAluzudulAbAvAkipApibidAtugi
+kAluzutivuguzibidAtugi
+guzikipApitivubidAtugi
+guzidulAbAvAkipApitivu
+tivukAluzuguzidulAbAvA
+
+Test Items:
+bidAtugi	ApibidAt
+kipApi	uzukip
+tivu	AvAg
+bidAtugi	ugidulAb
+kipApi	ivukAl
+bidAtugi	ugidulAb
+dulAbAvA	ApibidAt
+guzi	uzit
+kipApi	ivukAl
+kAluzu	uzukip
+tivu	AvAg
+kipApi	ivukAl
+tivu	AvAg
+kipApi	ivukAl
+dulAbAvA	ugidulAb
+kAluzu	uzukip
+bidAtugi	ApibidAt
+guzi	AvAg
+kAluzu	uzukip
+dulAbAvA	ugidulAb
+kipApi	ivukAl
+kAluzu	uzukip
+tivu	uzit
+kAluzu	uzukip
+dulAbAvA	ApibidAt
+guzi	uzit
+tivu	AvAg
+dulAbAvA	ApibidAt
+tivu	AvAg
+bidAtugi	ApibidAt

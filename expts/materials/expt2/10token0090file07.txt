@@ -1,0 +1,57 @@
+Lexicon: gizu	lApA	tivAtu	guvupi	ludubizi	bAkAkidA	
+
+Training Sentences:
+ludubizigizutivAtubAkAkidA
+bAkAkidAlApAgizuguvupi
+ludubizigizutivAtuguvupi
+gizubAkAkidAludubizitivAtu
+guvupigizutivAtuludubizi
+lApAgizutivAtuguvupi
+lApAguvupibAkAkidAgizu
+lApAtivAtugizuguvupi
+tivAtuguvupilApAludubizi
+gizubAkAkidAlApAtivAtu
+tivAtuludubizilApAguvupi
+ludubizibAkAkidAgizutivAtu
+tivAtuludubizigizulApA
+bAkAkidAludubizilApAtivAtu
+bAkAkidAtivAtuludubizilApA
+guvupilApAludubizibAkAkidA
+guvupitivAtugizulApA
+bAkAkidAludubizilApAgizu
+gizubAkAkidAlApAguvupi
+guvupitivAtubAkAkidAludubizi
+bAkAkidAguvupilApAgizu
+bAkAkidAguvupiludubiziguvupi
+
+Test Items:
+gizu	izul
+guvupi	ApAtiv
+gizu	idAg
+ludubizi	upiludub
+bAkAkidA	izibAkAk
+lApA	idAg
+bAkAkidA	izibAkAk
+ludubizi	upiludub
+tivAtu	ApAtiv
+ludubizi	izibAkAk
+bAkAkidA	upiludub
+lApA	izul
+ludubizi	upiludub
+gizu	idAg
+guvupi	Atuguv
+ludubizi	upiludub
+gizu	idAg
+bAkAkidA	izibAkAk
+guvupi	ApAtiv
+gizu	idAg
+bAkAkidA	upiludub
+lApA	idAg
+guvupi	Atuguv
+gizu	izul
+lApA	idAg
+guvupi	ApAtiv
+bAkAkidA	upiludub
+gizu	idAg
+tivAtu	Atuguv
+gizu	izul

@@ -1,0 +1,49 @@
+Lexicon: gikA	zuzi	pAvAdA	tipigu	dubiluki	bAlAtuvu	
+
+Training Sentences:
+dubilukizuzi
+zuzipAvAdA
+bAlAtuvuzuzi
+pAvAdAdubiluki
+dubilukitipigu
+tipigubAlAtuvu
+bAlAtuvugikA
+pAvAdAbAlAtuvu
+zuzipAvAdA
+dubilukigikA
+gikAzuzi
+tipigupAvAdA
+bAlAtuvutipigu
+dubilukigikA
+
+Test Items:
+bAlAtuvu	igudubil
+pAvAdA	uzipAv
+dubiluki	ukibAlAt
+zuzi	uvug
+tipigu	AdAtip
+bAlAtuvu	ukibAlAt
+gikA	ikAz
+bAlAtuvu	igudubil
+gikA	uvug
+bAlAtuvu	ukibAlAt
+dubiluki	igudubil
+pAvAdA	uzipAv
+bAlAtuvu	ukibAlAt
+tipigu	uzipAv
+dubiluki	igudubil
+tipigu	AdAtip
+zuzi	uvug
+bAlAtuvu	igudubil
+pAvAdA	uzipAv
+dubiluki	ukibAlAt
+zuzi	ikAz
+pAvAdA	AdAtip
+bAlAtuvu	ukibAlAt
+pAvAdA	AdAtip
+zuzi	uvug
+pAvAdA	AdAtip
+tipigu	uzipAv
+zuzi	ikAz
+tipigu	uzipAv
+zuzi	ikAz

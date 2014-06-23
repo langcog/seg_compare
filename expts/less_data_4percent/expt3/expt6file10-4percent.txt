@@ -1,0 +1,41 @@
+Lexicon: NB	GLl	VrFz	Rp	tTK	Mmkb	
+
+Training Sentences:
+tTKRpMmkbNB
+GLlVrFzNBtTK
+RpNBMmkbVrFz
+tTKGLlRpVrFz
+MmkbNBGLlRp
+tTKGLlVrFzMmkb
+
+Test Items:
+VrFz	lVrF
+tTK	BGL
+NB	bN
+GLl	ptT
+Rp	zR
+NB	bN
+Rp	bN
+NB	bN
+Rp	bN
+Mmkb	lVrF
+NB	bN
+tTK	ptT
+GLl	BGL
+VrFz	lVrF
+Rp	zR
+tTK	BGL
+GLl	ptT
+Mmkb	KMmk
+VrFz	lVrF
+NB	bN
+Rp	bN
+tTK	BGL
+VrFz	lVrF
+Rp	zR
+Mmkb	lVrF
+NB	bN
+Rp	bN
+GLl	BGL
+VrFz	KMmk
+Mmkb	lVrF

@@ -1,0 +1,60 @@
+Lexicon: pk	TJD	rZMF	Bt	bmz	
+
+Training Sentences:
+rZMFBtpkTJD
+pkrZMFBtTJD
+rZMFTJDbmzBt
+TJDbmzpkrZMF
+rZMFpkbmzBt
+bmzTJDpkrZMF
+pkBtTJDrZMF
+pkrZMFbmzBt
+rZMFpkTJDBt
+TJDbmzrZMFBt
+TJDBtbmzrZMF
+rZMFpkbmzTJD
+BtTJDpkrZMF
+TJDBtbmzrZMF
+pkTJDbmzBt
+bmzpkBtrZMF
+bmzpkBtTJD
+pkbmzBtrZMF
+bmzTJDpkrZMF
+pkrZMFbmzTJD
+pkbmzTJDBt
+BtbmzpkTJD
+TJDpkrZMFBt
+rZMFbmzBtpk
+bmzBtTJDbmz
+
+Test Items:
+Bt	FB
+rZMF	DrZM
+TJD	tbm
+Bt	FB
+bmz	tbm
+TJD	tbm
+bmz	kTJ
+TJD	kTJ
+Bt	zp
+pk	zp
+bmz	kTJ
+Bt	FB
+TJD	kTJ
+rZMF	DrZM
+pk	FB
+TJD	kTJ
+pk	FB
+rZMF	DrZM
+pk	FB
+Bt	zp
+rZMF	DrZM
+Bt	zp
+bmz	tbm
+rZMF	DrZM
+Bt	zp
+rZMF	DrZM
+TJD	kTJ
+Bt	FB
+bmz	kTJ
+rZMF	DrZM

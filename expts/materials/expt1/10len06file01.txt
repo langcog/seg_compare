@@ -1,0 +1,41 @@
+Lexicon: pAvA	ludA	zibizu	pigiti	bAtuguvu	lAkidukA	
+
+Training Sentences:
+zibizuludApAvAbAtuguvupigitilAkidukA
+lAkidukApAvAludAbAtuguvuzibizupigiti
+pigitipAvAlAkidukAbAtuguvuzibizuludA
+pAvAlAkidukAzibizubAtuguvupigitiludA
+zibizupigitibAtuguvupAvAludAlAkidukA
+lAkidukApAvAbAtuguvuzibizupigitiludA
+
+Test Items:
+ludA	AvAl
+pAvA	ukAp
+zibizu	udAzib
+lAkidukA	uvulAkid
+bAtuguvu	itibAtug
+pAvA	ukAp
+zibizu	izupig
+ludA	AvAl
+pAvA	ukAp
+pigiti	udAzib
+lAkidukA	uvulAkid
+ludA	ukAp
+zibizu	izupig
+ludA	ukAp
+pAvA	AvAl
+lAkidukA	itibAtug
+ludA	ukAp
+bAtuguvu	itibAtug
+lAkidukA	itibAtug
+bAtuguvu	uvulAkid
+ludA	AvAl
+lAkidukA	itibAtug
+zibizu	udAzib
+bAtuguvu	itibAtug
+zibizu	izupig
+pigiti	udAzib
+zibizu	udAzib
+lAkidukA	uvulAkid
+pigiti	izupig
+pAvA	AvAl

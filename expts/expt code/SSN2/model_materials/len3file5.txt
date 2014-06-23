@@ -1,0 +1,465 @@
+Lexicon: lAki	vugi	pituvA	gutidA	dubibAlu	zipAzukA	
+
+Training Sentences:
+gutidApituvAvugi
+gutidAzipAzukAvugi
+gutidAlAkidubibAlu
+vugipituvAdubibAlu
+gutidAvugipituvA
+zipAzukAvugilAki
+dubibAluzipAzukAgutidA
+lAkigutidAzipAzukA
+gutidAlAkidubibAlu
+gutidAzipAzukAdubibAlu
+gutidApituvAdubibAlu
+zipAzukAgutidAlAki
+pituvAvugizipAzukA
+dubibAlulAkivugi
+lAkipituvAdubibAlu
+dubibAlugutidApituvA
+lAkigutidAvugi
+lAkidubibAlupituvA
+dubibAlulAkipituvA
+zipAzukAdubibAlulAki
+vugipituvAzipAzukA
+dubibAluvugilAki
+zipAzukAvugipituvA
+dubibAlugutidAvugi
+pituvAlAkidubibAlu
+dubibAluvugipituvA
+vugidubibAlugutidA
+pituvAgutidAzipAzukA
+vugizipAzukAgutidA
+vugilAkizipAzukA
+pituvAzipAzukAvugi
+pituvAzipAzukAvugi
+pituvAgutidAzipAzukA
+vugizipAzukApituvA
+vugilAkipituvA
+lAkizipAzukApituvA
+lAkidubibAlugutidA
+vugipituvAlAki
+zipAzukApituvAdubibAlu
+zipAzukApituvAvugi
+zipAzukAgutidAvugi
+zipAzukAgutidApituvA
+gutidApituvAvugi
+zipAzukAlAkidubibAlu
+pituvAgutidAlAki
+vugizipAzukAgutidA
+lAkidubibAluzipAzukA
+vugizipAzukApituvA
+zipAzukAgutidAvugi
+lAkigutidAvugi
+dubibAlupituvAzipAzukA
+vugipituvAgutidA
+zipAzukAlAkigutidA
+pituvAlAkizipAzukA
+pituvAgutidAvugi
+zipAzukAdubibAlupituvA
+pituvAzipAzukAgutidA
+dubibAlugutidApituvA
+pituvAzipAzukAdubibAlu
+pituvAvugizipAzukA
+dubibAluvugipituvA
+pituvAdubibAlugutidA
+lAkizipAzukAvugi
+lAkipituvAvugi
+zipAzukAvugidubibAlu
+vugipituvAgutidA
+lAkivugidubibAlu
+zipAzukApituvAgutidA
+vugidubibAlupituvA
+dubibAluvugigutidA
+pituvAlAkivugi
+pituvAzipAzukAgutidA
+lAkizipAzukAgutidA
+gutidAdubibAlupituvA
+vugidubibAlugutidA
+vugigutidAlAki
+lAkipituvAgutidA
+gutidAvugipituvA
+gutidAdubibAluzipAzukA
+vugigutidAdubibAlu
+lAkidubibAlugutidA
+dubibAlupituvAlAki
+gutidAvugipituvA
+dubibAlugutidAlAki
+vugidubibAlugutidA
+zipAzukAlAkipituvA
+gutidAzipAzukApituvA
+gutidApituvAzipAzukA
+vugigutidApituvA
+lAkipituvAzipAzukA
+dubibAlupituvAgutidA
+lAkidubibAlupituvA
+lAkizipAzukAgutidA
+pituvAlAkivugi
+zipAzukApituvAlAki
+gutidApituvAlAki
+dubibAlugutidApituvA
+pituvAdubibAlugutidA
+lAkizipAzukAdubibAlu
+vugizipAzukApituvA
+lAkigutidAvugi
+vugidubibAluzipAzukA
+pituvAzipAzukAlAki
+vugizipAzukAlAki
+zipAzukAlAkigutidA
+lAkigutidAzipAzukA
+gutidAlAkivugi
+dubibAluzipAzukAgutidA
+vugigutidAlAki
+dubibAlulAkizipAzukA
+lAkivugipituvA
+vugigutidAlAki
+dubibAluvugipituvA
+lAkizipAzukAvugi
+lAkidubibAluzipAzukA
+vugipituvAzipAzukA
+dubibAlupituvAzipAzukA
+gutidAlAkizipAzukA
+dubibAlupituvAzipAzukA
+dubibAluvugizipAzukA
+dubibAlugutidAvugi
+dubibAlulAkigutidA
+gutidAvugipituvA
+zipAzukAdubibAlupituvA
+dubibAluzipAzukAgutidA
+lAkizipAzukAdubibAlu
+zipAzukApituvAvugi
+gutidAvugilAki
+gutidAdubibAluvugi
+lAkizipAzukAdubibAlu
+pituvAzipAzukAgutidA
+lAkidubibAluvugi
+gutidAvugipituvA
+dubibAluzipAzukAvugi
+lAkidubibAluvugi
+gutidAzipAzukAdubibAlu
+pituvAzipAzukAgutidA
+vugilAkigutidA
+dubibAluzipAzukAgutidA
+pituvAdubibAlugutidA
+vugilAkidubibAlu
+gutidAlAkidubibAlu
+gutidAlAkivugi
+gutidAzipAzukAlAki
+dubibAluvugizipAzukA
+zipAzukAvugilAki
+pituvAvugilAki
+lAkidubibAlugutidA
+gutidAdubibAluvugi
+dubibAlupituvAvugi
+pituvAvugigutidA
+pituvAlAkidubibAlu
+gutidAzipAzukAlAki
+dubibAlupituvAgutidA
+pituvAlAkigutidA
+zipAzukAgutidAlAki
+dubibAlupituvAvugi
+gutidAdubibAlulAki
+dubibAlugutidAzipAzukA
+vugizipAzukAgutidA
+zipAzukAdubibAlupituvA
+gutidAvugidubibAlu
+pituvAgutidAlAki
+vugigutidAdubibAlu
+lAkivugizipAzukA
+pituvAvugizipAzukA
+vugipituvAgutidA
+lAkizipAzukApituvA
+pituvAdubibAlugutidA
+gutidAvugipituvA
+lAkigutidAzipAzukA
+lAkigutidAdubibAlu
+gutidApituvAvugi
+zipAzukAlAkigutidA
+lAkipituvAvugi
+gutidAlAkivugi
+gutidAdubibAlupituvA
+pituvAzipAzukAgutidA
+pituvAvugizipAzukA
+pituvAdubibAluvugi
+pituvAgutidAlAki
+gutidAdubibAlulAki
+zipAzukAdubibAlulAki
+gutidAdubibAlupituvA
+zipAzukAgutidAdubibAlu
+gutidAdubibAluvugi
+gutidApituvAlAki
+vugizipAzukAdubibAlu
+gutidAzipAzukAdubibAlu
+vugipituvAdubibAlu
+gutidAdubibAlupituvA
+vugipituvAzipAzukA
+vugipituvAlAki
+pituvAdubibAluzipAzukA
+lAkivugizipAzukA
+pituvAgutidAdubibAlu
+pituvAgutidAvugi
+gutidAlAkidubibAlu
+vugizipAzukAdubibAlu
+dubibAluvugilAki
+dubibAlulAkivugi
+gutidAzipAzukAvugi
+pituvAzipAzukAgutidA
+dubibAlupituvAzipAzukA
+vugidubibAlupituvA
+lAkivugigutidA
+lAkigutidAzipAzukA
+dubibAlugutidAzipAzukA
+pituvAlAkivugi
+vugilAkidubibAlu
+vugilAkidubibAlu
+pituvAdubibAlugutidA
+lAkipituvAgutidA
+vugipituvAlAki
+vugilAkigutidA
+gutidAlAkivugi
+lAkivugidubibAlu
+gutidAvugizipAzukA
+zipAzukApituvAvugi
+lAkidubibAlugutidA
+pituvAgutidAvugi
+gutidAlAkipituvA
+lAkipituvAzipAzukA
+lAkidubibAluzipAzukA
+lAkipituvAgutidA
+lAkizipAzukApituvA
+pituvAzipAzukAvugi
+dubibAluzipAzukAgutidA
+lAkipituvAdubibAlu
+gutidAvugidubibAlu
+dubibAlugutidAvugi
+lAkipituvAdubibAlu
+dubibAluvugipituvA
+vugipituvAdubibAlu
+lAkivugidubibAlu
+lAkizipAzukAgutidA
+pituvAdubibAlugutidA
+vugidubibAluzipAzukA
+lAkizipAzukApituvA
+lAkivugidubibAlu
+vugipituvAdubibAlu
+lAkipituvAgutidA
+lAkigutidApituvA
+zipAzukAgutidAdubibAlu
+vugipituvAdubibAlu
+pituvAzipAzukAdubibAlu
+pituvAzipAzukAgutidA
+dubibAlupituvAlAki
+zipAzukAvugipituvA
+vugilAkidubibAlu
+zipAzukAdubibAluvugi
+lAkigutidAdubibAlu
+lAkivugipituvA
+pituvAdubibAluvugi
+pituvAlAkizipAzukA
+zipAzukAlAkigutidA
+gutidAdubibAlupituvA
+dubibAluvugizipAzukA
+pituvAlAkizipAzukA
+gutidAdubibAlulAki
+gutidAvugizipAzukA
+zipAzukAdubibAluvugi
+zipAzukAlAkidubibAlu
+zipAzukApituvAgutidA
+lAkivugidubibAlu
+dubibAlupituvAzipAzukA
+zipAzukAgutidApituvA
+vugigutidAlAki
+zipAzukApituvAgutidA
+lAkizipAzukAdubibAlu
+dubibAlulAkizipAzukA
+pituvAlAkivugi
+pituvAlAkizipAzukA
+vugilAkizipAzukA
+pituvAzipAzukAlAki
+zipAzukAgutidAvugi
+vugipituvAzipAzukA
+dubibAluzipAzukAlAki
+vugilAkipituvA
+lAkidubibAlupituvA
+zipAzukAdubibAlugutidA
+lAkipituvAvugi
+gutidApituvAzipAzukA
+lAkigutidAzipAzukA
+vugilAkidubibAlu
+vugizipAzukAlAki
+vugipituvAdubibAlu
+dubibAlugutidAlAki
+zipAzukApituvAlAki
+pituvAzipAzukAdubibAlu
+pituvAgutidAvugi
+dubibAlulAkigutidA
+gutidAvugidubibAlu
+dubibAluzipAzukAlAki
+vugidubibAlulAki
+zipAzukAvugidubibAlu
+vugigutidApituvA
+pituvAgutidAvugi
+dubibAlugutidAlAki
+pituvAgutidAdubibAlu
+dubibAluvugilAki
+zipAzukAlAkipituvA
+pituvAvugizipAzukA
+pituvAzipAzukAdubibAlu
+gutidAvugipituvA
+zipAzukAdubibAluvugi
+lAkipituvAzipAzukA
+pituvAvugizipAzukA
+gutidAlAkipituvA
+vugilAkigutidA
+zipAzukAgutidAlAki
+zipAzukApituvAlAki
+lAkigutidAzipAzukA
+vugizipAzukAdubibAlu
+vugilAkidubibAlu
+vugilAkizipAzukA
+lAkivugigutidA
+lAkidubibAlupituvA
+vugilAkizipAzukA
+dubibAlulAkivugi
+zipAzukAgutidAdubibAlu
+vugizipAzukAdubibAlu
+gutidAlAkizipAzukA
+dubibAlupituvAvugi
+zipAzukAdubibAlupituvA
+dubibAluzipAzukAlAki
+dubibAlulAkigutidA
+lAkivugipituvA
+zipAzukApituvAlAki
+vugizipAzukAdubibAlu
+lAkigutidApituvA
+lAkipituvAzipAzukA
+dubibAluvugizipAzukA
+pituvAlAkivugi
+zipAzukAvugigutidA
+dubibAlupituvAlAki
+vugizipAzukAgutidA
+vugigutidAdubibAlu
+dubibAluvugigutidA
+gutidApituvAvugi
+gutidAlAkidubibAlu
+gutidAvugizipAzukA
+dubibAluzipAzukAlAki
+dubibAluvugipituvA
+dubibAlupituvAgutidA
+vugipituvAdubibAlu
+pituvAvugidubibAlu
+vugigutidApituvA
+lAkipituvAzipAzukA
+pituvAzipAzukAvugi
+dubibAluvugizipAzukA
+gutidAdubibAlulAki
+pituvAlAkizipAzukA
+dubibAlugutidAzipAzukA
+gutidAzipAzukAlAki
+vugidubibAlulAki
+dubibAluzipAzukAvugi
+zipAzukAgutidAlAki
+gutidAdubibAlupituvA
+lAkigutidAzipAzukA
+pituvAgutidAvugi
+dubibAluvugipituvA
+gutidAvugizipAzukA
+dubibAluvugigutidA
+vugidubibAluzipAzukA
+lAkivugipituvA
+dubibAlulAkigutidA
+vugizipAzukAgutidA
+lAkizipAzukAgutidA
+zipAzukApituvAdubibAlu
+pituvAlAkidubibAlu
+lAkizipAzukApituvA
+pituvAlAkizipAzukA
+pituvAgutidAzipAzukA
+lAkizipAzukAgutidA
+lAkipituvAzipAzukA
+lAkizipAzukAgutidA
+zipAzukAlAkivugi
+zipAzukAlAkipituvA
+lAkidubibAluzipAzukA
+dubibAluvugilAki
+lAkivugizipAzukA
+pituvAdubibAluzipAzukA
+zipAzukAdubibAluvugi
+gutidAlAkidubibAlu
+dubibAluvugipituvA
+zipAzukAlAkigutidA
+dubibAluvugilAki
+dubibAluzipAzukAgutidA
+gutidAlAkidubibAlu
+gutidAlAkidubibAlu
+gutidApituvAvugi
+dubibAlulAkivugi
+lAkivugizipAzukA
+zipAzukApituvAvugi
+zipAzukAdubibAlulAki
+pituvAzipAzukAdubibAlu
+pituvAgutidAdubibAlu
+gutidAvugilAki
+gutidAzipAzukAvugi
+
+Test Items:
+zipAzukA	dAdubibA
+pituvA	gipitu
+gutidA	vAguti
+dubibAlu	luzipAzu
+pituvA	vAguti
+gutidA	gipitu
+dubibAlu	dAdubibA
+lAki	kAlA
+zipAzukA	dAdubibA
+dubibAlu	luzipAzu
+lAki	kivu
+pituvA	vAguti
+vugi	kAlA
+dubibAlu	dAdubibA
+gutidA	gipitu
+lAki	kivu
+pituvA	vAguti
+lAki	kAlA
+dubibAlu	luzipAzu
+vugi	kAlA
+lAki	kivu
+pituvA	gipitu
+vugi	kAlA
+dubibAlu	dAdubibA
+vugi	kAlA
+pituvA	vAguti
+zipAzukA	dAdubibA
+pituvA	gipitu
+lAki	kAlA
+vugi	kivu
+zipAzukA	dAdubibA
+lAki	kAlA
+vugi	kivu
+zipAzukA	luzipAzu
+dubibAlu	dAdubibA
+gutidA	vAguti
+pituvA	gipitu
+dubibAlu	dAdubibA
+gutidA	vAguti
+lAki	kAlA
+zipAzukA	dAdubibA
+vugi	kivu
+zipAzukA	luzipAzu
+gutidA	gipitu
+zipAzukA	dAdubibA
+dubibAlu	luzipAzu
+pituvA	vAguti
+dubibAlu	luzipAzu
+vugi	kAlA
+dubibAlu	luzipAzu
+gutidA	vAguti
+lAki	kivu
+pituvA	vAguti
+vugi	kAlA
+dubibAlu	luzipAzu
+pituvA	vAguti
+zipAzukA	luzipAzu
+dubibAlu	dAdubibA
+vugi	kAlA
+lAki	kivu

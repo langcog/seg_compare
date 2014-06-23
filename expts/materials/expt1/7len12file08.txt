@@ -1,0 +1,37 @@
+Lexicon: lulA	vuti	dupAgi	pikikA	zivAbigu	dAbAzutu	
+
+Training Sentences:
+dupAgivutidupAgidAbAzutuvutizivAbigupikikAdAbAzutululAzivAbigululApikikA
+vutizivAbigudupAgidAbAzutudupAgizivAbigupikikAvutidAbAzutululApikikAlulA
+
+Test Items:
+dAbAzutu	ikAzivAb
+vuti	utul
+lulA	ulAv
+zivAbigu	ikAzivAb
+vuti	ulAv
+pikikA	utidup
+dAbAzutu	igudAbAz
+dupAgi	utidup
+lulA	utul
+pikikA	Agipik
+dAbAzutu	ikAzivAb
+vuti	utul
+dupAgi	utidup
+pikikA	Agipik
+dupAgi	utidup
+pikikA	Agipik
+dAbAzutu	igudAbAz
+dupAgi	utidup
+dAbAzutu	igudAbAz
+pikikA	Agipik
+dAbAzutu	ikAzivAb
+dupAgi	Agipik
+dAbAzutu	igudAbAz
+zivAbigu	ikAzivAb
+pikikA	utidup
+dAbAzutu	ikAzivAb
+dupAgi	Agipik
+pikikA	utidup
+lulA	ulAv
+vuti	ulAv

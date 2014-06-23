@@ -1,0 +1,41 @@
+Lexicon: Tr	LJB	bMlD	
+
+Training Sentences:
+TrLJBbMlDTr
+bMlDLJBbMlDTr
+bMlDLJBTrLJB
+TrbMlDLJBTr
+LJBbMlDLJBbMlD
+TrLJBbMlDTr
+
+Test Items:
+Tr	DT
+bMlD	BbMl
+Tr	DT
+bMlD	BbMl
+Tr	DT
+bMlD	BbMl
+Tr	DT
+LJB	rLJ
+Tr	DT
+bMlD	BbMl
+LJB	rLJ
+bMlD	BbMl
+LJB	rLJ
+bMlD	BbMl
+Tr	DT
+LJB	rLJ
+bMlD	BbMl
+LJB	rLJ
+Tr	DT
+LJB	rLJ
+Tr	DT
+LJB	rLJ
+Tr	DT
+bMlD	BbMl
+LJB	rLJ
+bMlD	BbMl
+LJB	rLJ
+bMlD	BbMl
+Tr	DT
+LJB	rLJ

@@ -1,0 +1,36 @@
+Lexicon: vAdA	lugu	zitizu	tupAkA	bipikigi	dulAbAvu	
+
+Training Sentences:
+vAdAluguzitizubipikigi
+
+Test Items:
+dulAbAvu	AkAbipik
+tupAkA	izutup
+vAdA	AdAl
+dulAbAvu	igidulAb
+bipikigi	AkAbipik
+zitizu	uguzit
+lugu	Avuv
+zitizu	uguzit
+bipikigi	AkAbipik
+zitizu	izutup
+bipikigi	AkAbipik
+tupAkA	uguzit
+vAdA	AdAl
+tupAkA	uguzit
+vAdA	AdAl
+bipikigi	AkAbipik
+lugu	Avuv
+tupAkA	uguzit
+lugu	Avuv
+vAdA	AdAl
+zitizu	izutup
+tupAkA	uguzit
+lugu	AdAl
+tupAkA	uguzit
+vAdA	Avuv
+zitizu	izutup
+lugu	AdAl
+zitizu	uguzit
+bipikigi	AkAbipik
+dulAbAvu	igidulAb

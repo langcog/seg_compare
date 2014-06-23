@@ -1,0 +1,38 @@
+Lexicon: bApA	tudA	kAbiki	vAzugi	tiduzipi	lugulAvu	
+
+Training Sentences:
+vAzugibApAtudAlugulAvutiduzipikAbikibApAvAzugi
+bApAkAbikibApAtiduzipivAzugitudAvAzugitudA
+kAbikibApAtiduzipilugulAvutiduzipilugulAvukAbikivAzugi
+
+Test Items:
+bApA	ApAt
+tiduzipi	ipilugul
+vAzugi	ikivAz
+tudA	Avub
+tiduzipi	ipilugul
+lugulAvu	ugitiduz
+tudA	ApAt
+vAzugi	ikivAz
+bApA	Avub
+tudA	Avub
+tiduzipi	ipilugul
+bApA	ApAt
+tudA	Avub
+vAzugi	udAkAb
+kAbiki	ikivAz
+lugulAvu	ipilugul
+bApA	Avub
+tiduzipi	ugitiduz
+vAzugi	udAkAb
+tudA	Avub
+vAzugi	udAkAb
+bApA	Avub
+tiduzipi	ipilugul
+lugulAvu	ugitiduz
+tudA	ApAt
+lugulAvu	ipilugul
+bApA	Avub
+lugulAvu	ugitiduz
+kAbiki	udAkAb
+bApA	Avub

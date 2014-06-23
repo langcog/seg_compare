@@ -1,0 +1,65 @@
+Lexicon: lubA	vuzu	bikApi	vAdAgi	tigutuki	pAzidulA	
+
+Training Sentences:
+vAdAgibikApivuzulubA
+lubApAzidulAvuzuvAdAgi
+lubApAzidulAtigutukivuzu
+lubAbikApitigutukivuzu
+lubAbikApipAzidulAtigutuki
+vuzubikApilubAvAdAgi
+vAdAgilubApAzidulAvuzu
+tigutukipAzidulAvAdAgilubA
+vAdAgipAzidulAvuzulubA
+vAdAgibikApipAzidulAtigutuki
+bikApilubAvAdAgipAzidulA
+lubAtigutukivuzupAzidulA
+bikApilubAtigutukivuzu
+vuzubikApitigutukilubA
+vuzutigutukibikApilubA
+tigutukivAdAgilubApAzidulA
+vuzutigutukibikApipAzidulA
+pAzidulAvAdAgitigutukibikApi
+vAdAgivuzubikApilubA
+pAzidulAvAdAgitigutukilubA
+vuzulubAtigutukivAdAgi
+tigutukipAzidulAbikApivAdAgi
+bikApipAzidulAvuzuvAdAgi
+tigutukivAdAgivuzubikApi
+bikApivuzupAzidulAvAdAgi
+vAdAgipAzidulAtigutukivuzu
+vAdAgipAzidulAbikApitigutuki
+bikApivAdAgipAzidulAlubA
+lubAbikApitigutukivuzu
+pAzidulAtigutukivuzubikApi
+
+Test Items:
+vuzu	ulAl
+pAzidulA	ukipAzid
+bikApi	ApivAd
+vuzu	ubAv
+vAdAgi	uzubik
+tigutuki	Agitigut
+vuzu	ulAl
+lubA	ubAv
+vuzu	ulAl
+pAzidulA	Agitigut
+vuzu	ubAv
+tigutuki	ukipAzid
+vuzu	ulAl
+vAdAgi	ApivAd
+pAzidulA	Agitigut
+vAdAgi	ApivAd
+vuzu	ubAv
+tigutuki	ukipAzid
+bikApi	uzubik
+vuzu	ulAl
+bikApi	ApivAd
+tigutuki	Agitigut
+vAdAgi	uzubik
+lubA	ubAv
+pAzidulA	ukipAzid
+lubA	ubAv
+vAdAgi	ApivAd
+lubA	ulAl
+tigutuki	ukipAzid
+vAdAgi	ApivAd

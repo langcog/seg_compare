@@ -1,0 +1,55 @@
+Lexicon: gubi	zuki	vAlupi	tuziti	kApAgidu	vubAlAdA	
+
+Training Sentences:
+vAlupikApAgidu
+tuzitigubi
+vubAlAdAzuki
+tuzitigubi
+vAlupituziti
+vAlupikApAgidu
+vubAlAdAgubi
+zukivAlupi
+vAlupivubAlAdA
+vubAlAdAvAlupi
+vAlupigubi
+tuzitigubi
+gubituziti
+kApAgiduzuki
+tuzitikApAgidu
+zukivubAlAdA
+gubivubAlAdA
+kApAgiduzuki
+tuzitikApAgidu
+zukikApAgidu
+
+Test Items:
+kApAgidu	iduvubAl
+tuziti	ukivAl
+vubAlAdA	iduvubAl
+vAlupi	upituz
+zuki	ubiz
+kApAgidu	itikApAg
+vubAlAdA	iduvubAl
+zuki	ubiz
+gubi	AdAg
+kApAgidu	iduvubAl
+gubi	AdAg
+zuki	ubiz
+gubi	AdAg
+vubAlAdA	iduvubAl
+kApAgidu	itikApAg
+vubAlAdA	iduvubAl
+zuki	ubiz
+vubAlAdA	iduvubAl
+tuziti	ukivAl
+gubi	AdAg
+vAlupi	ukivAl
+tuziti	ukivAl
+zuki	AdAg
+vAlupi	ukivAl
+vubAlAdA	itikApAg
+kApAgidu	itikApAg
+tuziti	upituz
+kApAgidu	itikApAg
+vAlupi	ukivAl
+vubAlAdA	itikApAg

@@ -1,0 +1,50 @@
+Lexicon: gupA	kigi	zulukA	bAlApi	vAvuduzi	tutidAbi	
+
+Training Sentences:
+vAvuduzizulukAkigitutidAbi
+kigibAlApigupAtutidAbi
+zulukAkigigupAbAlApi
+kigizulukAbAlApitutidAbi
+gupAvAvuduzitutidAbibAlApi
+tutidAbivAvuduzibAlApizulukA
+vAvuduzikigizulukAtutidAbi
+kigizulukAbAlApivAvuduzi
+tutidAbigupAzulukAkigi
+zulukAkigivAvuduzibAlApi
+bAlApitutidAbigupAvAvuduzi
+vAvuduzizulukAgupAbAlApi
+kigivAvuduzizulukAtutidAbi
+kigigupAtutidAbivAvuduzi
+bAlApigupAgupAgupA
+
+Test Items:
+kigi	upAk
+gupA	Abig
+tutidAbi	ApivAvud
+bAlApi	igizul
+kigi	upAk
+zulukA	igizul
+vAvuduzi	ApivAvud
+zulukA	ukAbAl
+vAvuduzi	ApivAvud
+bAlApi	igizul
+zulukA	ukAbAl
+bAlApi	igizul
+kigi	upAk
+zulukA	igizul
+gupA	upAk
+tutidAbi	uzitutid
+gupA	Abig
+zulukA	igizul
+vAvuduzi	ApivAvud
+kigi	Abig
+zulukA	ukAbAl
+gupA	upAk
+kigi	upAk
+bAlApi	ukAbAl
+zulukA	igizul
+kigi	Abig
+bAlApi	igizul
+tutidAbi	ApivAvud
+vAvuduzi	ApivAvud
+bAlApi	igizul

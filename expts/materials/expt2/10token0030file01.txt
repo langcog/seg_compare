@@ -1,0 +1,42 @@
+Lexicon: pizu	bApA	dAtivA	guludu	bikikAtu	zigivulA	
+
+Training Sentences:
+bikikAtuzigivulAbApAguludu
+dAtivAguludubikikAtupizu
+gulududAtivAbApAbikikAtu
+zigivulAdAtivAguludubikikAtu
+zigivulApizubApAdAtivA
+bApApizudAtivAzigivulA
+guludubApAbikikAtupizu
+
+Test Items:
+zigivulA	Atuzigiv
+dAtivA	ApAdAt
+bApA	ulAp
+guludu	ApAdAt
+bikikAtu	udubikik
+pizu	ulAp
+bApA	ulAp
+dAtivA	ivAgul
+bApA	ulAp
+dAtivA	ApAdAt
+bikikAtu	Atuzigiv
+dAtivA	ApAdAt
+bikikAtu	udubikik
+bApA	ulAp
+guludu	ivAgul
+bikikAtu	udubikik
+dAtivA	ApAdAt
+zigivulA	udubikik
+pizu	izub
+bikikAtu	udubikik
+bApA	ulAp
+zigivulA	Atuzigiv
+bApA	ulAp
+zigivulA	udubikik
+dAtivA	ivAgul
+bApA	ulAp
+bikikAtu	Atuzigiv
+dAtivA	ivAgul
+guludu	ApAdAt
+zigivulA	Atuzigiv

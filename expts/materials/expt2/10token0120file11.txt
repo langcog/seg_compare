@@ -1,0 +1,65 @@
+Lexicon: duti	pivA	guzugi	zikilA	vukAdApA	tulubibA	
+
+Training Sentences:
+vukAdApAtulubibAdutipivA
+tulubibAvukAdApAzikilAduti
+dutivukAdApAguzugizikilA
+tulubibAdutipivAguzugi
+dutiguzugivukAdApApivA
+zikilApivAvukAdApAguzugi
+pivAvukAdApAguzugitulubibA
+vukAdApApivAtulubibAduti
+tulubibAdutizikilApivA
+pivAguzugidutizikilA
+vukAdApAguzugidutizikilA
+dutizikilAtulubibAvukAdApA
+guzugitulubibAzikilApivA
+pivAguzugizikilAtulubibA
+pivAvukAdApAguzugizikilA
+zikilAguzugipivAtulubibA
+vukAdApAtulubibAdutipivA
+guzugitulubibAzikilAvukAdApA
+tulubibAvukAdApAzikilAduti
+guzugizikilAdutivukAdApA
+tulubibAguzugidutizikilA
+vukAdApAzikilApivAtulubibA
+tulubibAdutiguzugivukAdApA
+zikilAdutiguzugitulubibA
+guzugipivAtulubibAduti
+zikilAvukAdApAdutiguzugi
+zikilApivAvukAdApAguzugi
+tulubibAvukAdApApivAzikilA
+pivAdutivukAdApAguzugi
+pivAtulubibAdutipivA
+
+Test Items:
+tulubibA	ApAtulub
+zikilA	ivAguz
+guzugi	ugizik
+duti	utip
+tulubibA	ApAtulub
+zikilA	ugizik
+pivA	utip
+guzugi	ivAguz
+vukAdApA	ApAtulub
+pivA	utip
+vukAdApA	ApAtulub
+duti	utip
+vukAdApA	ilAvukAd
+tulubibA	ApAtulub
+zikilA	ivAguz
+tulubibA	ilAvukAd
+zikilA	ugizik
+tulubibA	ilAvukAd
+vukAdApA	ilAvukAd
+zikilA	ugizik
+pivA	ibAd
+guzugi	ivAguz
+zikilA	ugizik
+pivA	ibAd
+tulubibA	ilAvukAd
+pivA	ibAd
+guzugi	ivAguz
+pivA	ibAd
+tulubibA	ApAtulub
+pivA	utip

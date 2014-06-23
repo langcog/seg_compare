@@ -1,0 +1,118 @@
+Lexicon: dubA	giti	lAvAvu	tuzubi	pAgukilu	kAdAzipi	
+
+Training Sentences:
+lAvAvutuzubikAdAzipi
+gitituzubipAgukilu
+gitipAgukilukAdAzipi
+kAdAzipidubAgiti
+dubAtuzubipAgukilu
+kAdAzipituzubidubA
+dubAgitipAgukilu
+tuzubilAvAvukAdAzipi
+dubAkAdAzipilAvAvu
+dubAtuzubipAgukilu
+gitilAvAvukAdAzipi
+dubAlAvAvutuzubi
+gitilAvAvupAgukilu
+
+Test Items:
+pAgukilu	ubipAguk
+kAdAzipi	ilukAdAz
+lAvAvu	Avutuz
+giti	ubAg
+tuzubi	itilAv
+dubA	ipid
+kAdAzipi	ubipAguk
+pAgukilu	ubipAguk
+dubA	ipid
+pAgukilu	ubipAguk
+kAdAzipi	ilukAdAz
+dubA	ubAg
+kAdAzipi	ilukAdAz
+tuzubi	itilAv
+kAdAzipi	ilukAdAz
+dubA	ipid
+pAgukilu	ilukAdAz
+dubA	ipid
+giti	ubAg
+lAvAvu	Avutuz
+dubA	ubAg
+kAdAzipi	ilukAdAz
+tuzubi	Avutuz
+dubA	ipid
+pAgukilu	ubipAguk
+lAvAvu	Avutuz
+kAdAzipi	ilukAdAz
+tuzubi	itilAv
+kAdAzipi	ubipAguk
+lAvAvu	itilAv
+giti	ubAg
+tuzubi	Avutuz
+kAdAzipi	ubipAguk
+dubA	ipid
+tuzubi	itilAv
+pAgukilu	ubipAguk
+giti	ipid
+lAvAvu	itilAv
+pAgukilu	ilukAdAz
+tuzubi	Avutuz
+dubA	ipid
+tuzubi	Avutuz
+dubA	ipid
+kAdAzipi	ilukAdAz
+pAgukilu	ubipAguk
+kAdAzipi	ilukAdAz
+pAgukilu	ubipAguk
+tuzubi	itilAv
+dubA	ipid
+kAdAzipi	ilukAdAz
+tuzubi	Avutuz
+giti	ubAg
+dubA	ubAg
+lAvAvu	itilAv
+giti	ubAg
+dubA	ipid
+lAvAvu	itilAv
+dubA	ipid
+kAdAzipi	ilukAdAz
+tuzubi	itilAv
+kAdAzipi	ubipAguk
+pAgukilu	ilukAdAz
+dubA	ubAg
+giti	ubAg
+kAdAzipi	ubipAguk
+pAgukilu	ubipAguk
+giti	ipid
+kAdAzipi	ilukAdAz
+dubA	ubAg
+kAdAzipi	ubipAguk
+tuzubi	Avutuz
+lAvAvu	itilAv
+dubA	ubAg
+giti	ipid
+dubA	ipid
+kAdAzipi	ubipAguk
+giti	ubAg
+lAvAvu	Avutuz
+giti	ipid
+kAdAzipi	ubipAguk
+lAvAvu	Avutuz
+pAgukilu	ubipAguk
+tuzubi	itilAv
+dubA	ipid
+kAdAzipi	ubipAguk
+pAgukilu	ilukAdAz
+kAdAzipi	ubipAguk
+tuzubi	Avutuz
+lAvAvu	itilAv
+tuzubi	Avutuz
+dubA	ubAg
+lAvAvu	itilAv
+dubA	ubAg
+giti	ipid
+lAvAvu	itilAv
+kAdAzipi	ubipAguk
+lAvAvu	itilAv
+dubA	ipid
+tuzubi	itilAv
+lAvAvu	Avutuz

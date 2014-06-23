@@ -1,0 +1,145 @@
+Lexicon: vApA	luti	kizidA	guvukA	bidubAgi	zupilAtu	
+
+Training Sentences:
+kizidA
+bidubAgi
+luti
+bidubAgi
+bidubAgi
+guvukA
+kizidA
+zupilAtu
+kizidA
+luti
+zupilAtu
+luti
+bidubAgi
+luti
+luti
+vApA
+zupilAtu
+vApA
+vApA
+bidubAgi
+vApA
+luti
+bidubAgi
+guvukA
+zupilAtu
+vApA
+bidubAgi
+guvukA
+vApA
+zupilAtu
+guvukA
+zupilAtu
+kizidA
+guvukA
+luti
+vApA
+kizidA
+guvukA
+kizidA
+guvukA
+
+Test Items:
+guvukA	utikiz
+kizidA	utikiz
+luti	Atuv
+zupilAtu	Agizupil
+guvukA	idAguv
+luti	Atuv
+kizidA	idAguv
+vApA	Atuv
+bidubAgi	ukAbidub
+vApA	Atuv
+luti	ApAl
+vApA	Atuv
+bidubAgi	Agizupil
+guvukA	utikiz
+vApA	ApAl
+guvukA	utikiz
+kizidA	idAguv
+vApA	Atuv
+guvukA	idAguv
+luti	Atuv
+vApA	Atuv
+kizidA	utikiz
+vApA	ApAl
+zupilAtu	Agizupil
+luti	Atuv
+guvukA	idAguv
+luti	Atuv
+vApA	ApAl
+luti	Atuv
+guvukA	idAguv
+luti	ApAl
+vApA	Atuv
+luti	ApAl
+guvukA	utikiz
+bidubAgi	Agizupil
+zupilAtu	Agizupil
+kizidA	utikiz
+guvukA	idAguv
+bidubAgi	ukAbidub
+zupilAtu	ukAbidub
+bidubAgi	Agizupil
+luti	ApAl
+kizidA	idAguv
+luti	ApAl
+bidubAgi	ukAbidub
+kizidA	idAguv
+bidubAgi	ukAbidub
+vApA	ApAl
+luti	Atuv
+kizidA	utikiz
+zupilAtu	Agizupil
+bidubAgi	ukAbidub
+zupilAtu	Agizupil
+vApA	Atuv
+bidubAgi	ukAbidub
+zupilAtu	Agizupil
+kizidA	utikiz
+zupilAtu	ukAbidub
+luti	Atuv
+kizidA	utikiz
+luti	Atuv
+guvukA	idAguv
+vApA	Atuv
+zupilAtu	ukAbidub
+luti	ApAl
+vApA	Atuv
+luti	ApAl
+guvukA	idAguv
+vApA	Atuv
+guvukA	utikiz
+vApA	Atuv
+guvukA	idAguv
+zupilAtu	Agizupil
+luti	Atuv
+guvukA	utikiz
+bidubAgi	Agizupil
+luti	ApAl
+kizidA	idAguv
+vApA	Atuv
+zupilAtu	ukAbidub
+luti	Atuv
+zupilAtu	Agizupil
+luti	Atuv
+kizidA	idAguv
+vApA	ApAl
+luti	Atuv
+kizidA	utikiz
+vApA	ApAl
+kizidA	idAguv
+vApA	Atuv
+guvukA	idAguv
+luti	Atuv
+zupilAtu	ukAbidub
+bidubAgi	ukAbidub
+kizidA	utikiz
+vApA	ApAl
+zupilAtu	ukAbidub
+guvukA	utikiz
+vApA	Atuv
+guvukA	idAguv

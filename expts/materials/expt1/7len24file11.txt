@@ -1,0 +1,36 @@
+Lexicon: pAbA	lAgu	dAdugi	vAtizi	piluzuvu	bitukAki	
+
+Training Sentences:
+piluzuvubitukAkivAtizilAgudAdugilAgudAdugibitukAkipiluzuvupAbAbitukAkivAtizidAdugipiluzuvudAdugipiluzuvubitukAkivAtizipAbAvAtizipAbAlAgupAbAlAgu
+
+Test Items:
+vAtizi	AgudAd
+piluzuvu	izipiluz
+bitukAki	uvubituk
+lAgu	AbAl
+dAdugi	ugivAt
+vAtizi	AgudAd
+pAbA	Akip
+dAdugi	AgudAd
+vAtizi	ugivAt
+pAbA	Akip
+dAdugi	ugivAt
+bitukAki	izipiluz
+lAgu	Akip
+dAdugi	AgudAd
+lAgu	AbAl
+piluzuvu	uvubituk
+vAtizi	ugivAt
+lAgu	AbAl
+vAtizi	ugivAt
+pAbA	Akip
+piluzuvu	uvubituk
+pAbA	AbAl
+dAdugi	AgudAd
+bitukAki	uvubituk
+piluzuvu	uvubituk
+lAgu	AbAl
+dAdugi	AgudAd
+piluzuvu	izipiluz
+dAdugi	ugivAt
+bitukAki	uvubituk

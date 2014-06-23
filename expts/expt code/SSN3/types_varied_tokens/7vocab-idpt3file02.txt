@@ -1,0 +1,42 @@
+Lexicon: vR	pBk	VTNM	
+
+Training Sentences:
+pBkVTNMvRpBk
+pBkVTNMvRVTNM
+VTNMpBkVTNMpBk
+VTNMvRpBkVTNM
+vRpBkVTNMvR
+vRpBkvRVTNM
+pBkvRpBkvR
+
+Test Items:
+VTNM	kVTN
+pBk	RpB
+VTNM	kVTN
+pBk	RpB
+VTNM	kVTN
+vR	Mv
+pBk	RpB
+vR	Mv
+VTNM	kVTN
+vR	Mv
+VTNM	kVTN
+vR	Mv
+pBk	RpB
+VTNM	kVTN
+vR	Mv
+pBk	RpB
+vR	Mv
+pBk	RpB
+VTNM	kVTN
+vR	Mv
+pBk	RpB
+VTNM	kVTN
+pBk	RpB
+VTNM	kVTN
+pBk	RpB
+vR	Mv
+pBk	RpB
+VTNM	kVTN
+vR	Mv
+pBk	RpB

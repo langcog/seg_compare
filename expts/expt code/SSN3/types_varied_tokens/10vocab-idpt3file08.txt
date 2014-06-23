@@ -1,0 +1,45 @@
+Lexicon: LR	pGF	ZBzf	
+
+Training Sentences:
+LRpGFLRpGF
+pGFZBzfpGFLR
+ZBzfpGFLRZBzf
+ZBzfLRZBzfLR
+ZBzfpGFZBzfLR
+pGFZBzfLRZBzf
+ZBzfLRpGFZBzf
+ZBzfLRZBzfpGF
+pGFLRpGFLR
+pGFLRZBzfLR
+
+Test Items:
+LR	fL
+pGF	RpG
+LR	fL
+pGF	RpG
+ZBzf	FZBz
+LR	fL
+ZBzf	FZBz
+pGF	RpG
+LR	fL
+pGF	RpG
+ZBzf	FZBz
+LR	fL
+pGF	RpG
+ZBzf	FZBz
+LR	fL
+ZBzf	FZBz
+pGF	RpG
+LR	fL
+ZBzf	FZBz
+LR	fL
+pGF	RpG
+ZBzf	FZBz
+pGF	RpG
+LR	fL
+ZBzf	FZBz
+LR	fL
+pGF	RpG
+ZBzf	FZBz
+pGF	RpG
+ZBzf	FZBz

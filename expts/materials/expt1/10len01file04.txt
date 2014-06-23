@@ -1,0 +1,75 @@
+Lexicon: guki	gitu	zivuti	pAlubA	zududAlA	vAkAbipi	
+
+Training Sentences:
+zududAlA
+guki
+guki
+zivuti
+vAkAbipi
+zivuti
+vAkAbipi
+pAlubA
+vAkAbipi
+zivuti
+pAlubA
+zududAlA
+pAlubA
+vAkAbipi
+pAlubA
+zivuti
+gitu
+vAkAbipi
+zivuti
+zivuti
+vAkAbipi
+guki
+guki
+guki
+pAlubA
+gitu
+gitu
+pAlubA
+gitu
+vAkAbipi
+zududAlA
+guki
+gitu
+gitu
+pAlubA
+gitu
+zivuti
+zududAlA
+zududAlA
+zududAlA
+
+Test Items:
+zududAlA	AlAvAkAb
+vAkAbipi	ubAzudud
+zududAlA	AlAvAkAb
+gitu	ukig
+pAlubA	utipAl
+guki	ipig
+pAlubA	utipAl
+guki	ukig
+pAlubA	utipAl
+zududAlA	AlAvAkAb
+gitu	ipig
+vAkAbipi	ubAzudud
+zududAlA	AlAvAkAb
+zivuti	ituziv
+vAkAbipi	AlAvAkAb
+zududAlA	ubAzudud
+vAkAbipi	AlAvAkAb
+guki	ukig
+zududAlA	ubAzudud
+zivuti	utipAl
+guki	ipig
+gitu	ipig
+zududAlA	AlAvAkAb
+guki	ipig
+vAkAbipi	ubAzudud
+pAlubA	utipAl
+zududAlA	AlAvAkAb
+gitu	ipig
+zivuti	utipAl
+pAlubA	ituziv

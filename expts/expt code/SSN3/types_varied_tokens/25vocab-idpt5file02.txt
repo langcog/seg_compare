@@ -1,0 +1,60 @@
+Lexicon: Fd	zJG	PvBk	lr	pnD	
+
+Training Sentences:
+PvBkpnDlrzJG
+lrpnDPvBkzJG
+pnDFdzJGlr
+lrzJGPvBkFd
+pnDzJGFdPvBk
+zJGpnDFdlr
+pnDFdPvBkzJG
+FdPvBkzJGlr
+lrpnDPvBkFd
+pnDFdzJGPvBk
+FdzJGPvBklr
+pnDzJGPvBklr
+zJGFdlrpnD
+pnDlrPvBkFd
+pnDPvBkzJGlr
+lrzJGpnDFd
+lrzJGpnDPvBk
+pnDlrFdzJG
+lrpnDFdPvBk
+pnDFdPvBklr
+FdpnDPvBklr
+FdzJGlrPvBk
+PvBkFdlrpnD
+PvBkFdzJGpnD
+zJGFdPvBkzJG
+
+Test Items:
+PvBk	GPvB
+Fd	DF
+pnD	rpn
+PvBk	GPvB
+pnD	dzJ
+PvBk	GPvB
+zJG	dzJ
+lr	DF
+Fd	kl
+lr	DF
+zJG	rpn
+Fd	kl
+pnD	rpn
+PvBk	GPvB
+Fd	kl
+zJG	rpn
+lr	kl
+zJG	rpn
+PvBk	GPvB
+zJG	rpn
+PvBk	GPvB
+Fd	DF
+zJG	dzJ
+lr	kl
+PvBk	GPvB
+pnD	rpn
+Fd	kl
+pnD	rpn
+PvBk	GPvB
+pnD	dzJ

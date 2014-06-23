@@ -1,0 +1,41 @@
+Lexicon: mD	NTP	Vkrf	Lb	zMR	dtZG	Jl	Bgp	nvKF	
+
+Training Sentences:
+dtZGmDJlVkrf
+BgpzMRdtZGJl
+zMRBgpNTPVkrf
+BgpmDLbnvKF
+VkrfdtZGzMRnvKF
+LbmDnvKFJl
+
+Test Items:
+mD	GJ
+zMR	bzM
+Lb	Fm
+mD	GJ
+nvKF	PVkr
+zMR	DNT
+Vkrf	PVkr
+nvKF	pnvK
+Bgp	DNT
+mD	fL
+Bgp	bzM
+Jl	Fm
+NTP	bzM
+dtZG	pnvK
+nvKF	pnvK
+dtZG	RdtZ
+NTP	lBg
+Jl	Fm
+Vkrf	PVkr
+Jl	fL
+NTP	lBg
+Jl	Fm
+Bgp	DNT
+Lb	GJ
+dtZG	RdtZ
+mD	GJ
+NTP	DNT
+Jl	GJ
+zMR	DNT
+Lb	fL

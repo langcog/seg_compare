@@ -1,0 +1,45 @@
+Lexicon: GZ	RKD	tBfn	lM	Vgv	
+
+Training Sentences:
+tBfnVgvGZlM
+tBfnGZVgvRKD
+RKDtBfnGZlM
+lMGZtBfnRKD
+VgvRKDtBfnGZ
+GZtBfnlMVgv
+lMtBfnGZVgv
+RKDlMtBfnVgv
+GZRKDlMVgv
+RKDVgvlMRKD
+
+Test Items:
+RKD	MVg
+GZ	nl
+lM	vG
+tBfn	DtBf
+GZ	nl
+tBfn	DtBf
+lM	nl
+tBfn	DtBf
+Vgv	ZRK
+GZ	vG
+tBfn	DtBf
+RKD	ZRK
+tBfn	DtBf
+RKD	MVg
+Vgv	ZRK
+lM	nl
+RKD	ZRK
+tBfn	DtBf
+GZ	vG
+Vgv	ZRK
+tBfn	DtBf
+RKD	MVg
+lM	nl
+Vgv	ZRK
+lM	nl
+tBfn	DtBf
+RKD	ZRK
+lM	vG
+tBfn	DtBf
+RKD	MVg

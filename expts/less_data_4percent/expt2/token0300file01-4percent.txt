@@ -1,0 +1,38 @@
+Lexicon: vP	gT	bpt	GBD	lVZK	Lkzd	
+
+Training Sentences:
+bptlVZKLkzdgT
+GBDLkzdvPgT
+lVZKvPbptGBD
+
+Test Items:
+gT	Pg
+bpt	Tbp
+Lkzd	DlVZ
+GBD	tGB
+gT	dv
+lVZK	DlVZ
+GBD	tGB
+gT	Pg
+lVZK	KLkz
+gT	Pg
+bpt	Tbp
+vP	Pg
+GBD	Tbp
+vP	dv
+Lkzd	DlVZ
+GBD	Tbp
+vP	Pg
+Lkzd	DlVZ
+lVZK	DlVZ
+vP	dv
+lVZK	KLkz
+Lkzd	DlVZ
+gT	Pg
+lVZK	KLkz
+GBD	tGB
+Lkzd	DlVZ
+lVZK	KLkz
+bpt	Tbp
+Lkzd	DlVZ
+vP	dv

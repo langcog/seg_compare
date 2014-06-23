@@ -1,0 +1,60 @@
+Lexicon: Pp	vtg	RBND	
+
+Training Sentences:
+PpRBNDPpRBND
+vtgRBNDvtgPp
+PpRBNDvtgRBND
+RBNDPpvtgRBND
+PpRBNDvtgPp
+RBNDPpvtgRBND
+vtgRBNDPpvtg
+PpvtgRBNDvtg
+RBNDvtgRBNDPp
+vtgPpRBNDvtg
+vtgRBNDvtgRBND
+PpvtgRBNDvtg
+PpvtgRBNDPp
+PpRBNDvtgRBND
+RBNDvtgPpvtg
+vtgPpvtgPp
+PpRBNDPpRBND
+vtgRBNDPpRBND
+RBNDPpvtgPp
+PpvtgRBNDvtg
+vtgRBNDvtgPp
+RBNDPpRBNDPp
+vtgRBNDPpvtg
+vtgPpRBNDPp
+PpvtgPpvtg
+
+Test Items:
+vtg	pvt
+Pp	DP
+vtg	pvt
+Pp	DP
+vtg	pvt
+Pp	DP
+RBND	gRBN
+vtg	pvt
+RBND	gRBN
+Pp	DP
+RBND	gRBN
+vtg	pvt
+Pp	DP
+vtg	pvt
+RBND	gRBN
+Pp	DP
+RBND	gRBN
+Pp	DP
+RBND	gRBN
+vtg	pvt
+RBND	gRBN
+Pp	DP
+vtg	pvt
+Pp	DP
+vtg	pvt
+RBND	gRBN
+vtg	pvt
+RBND	gRBN
+vtg	pvt
+Pp	DP

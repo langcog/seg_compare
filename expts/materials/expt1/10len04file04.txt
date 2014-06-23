@@ -1,0 +1,45 @@
+Lexicon: vutu	pAlA	zibivA	gipiki	bAzudAti	kAludugu	
+
+Training Sentences:
+vutuzibivAgipikibAzudAti
+kAluduguvutugipikibAzudAti
+bAzudAtivutuzibivApAlA
+gipikibAzudAtipAlAvutu
+zibivAkAludugugipikivutu
+pAlAkAluduguzibivAvutu
+kAluduguzibivAvutugipiki
+gipikipAlAzibivAbAzudAti
+zibivAkAludugupAlAbAzudAti
+gipikikAludugupAlAbAzudAti
+
+Test Items:
+zibivA	ivAgip
+kAludugu	AtikAlud
+pAlA	utup
+kAludugu	ikibAzud
+pAlA	uguv
+gipiki	ivAgip
+zibivA	ivAgip
+pAlA	uguv
+zibivA	ivAgip
+vutu	utup
+gipiki	AlAzib
+pAlA	utup
+zibivA	AlAzib
+bAzudAti	AtikAlud
+zibivA	AlAzib
+pAlA	utup
+gipiki	ivAgip
+vutu	utup
+pAlA	uguv
+kAludugu	AtikAlud
+bAzudAti	ikibAzud
+vutu	uguv
+pAlA	utup
+bAzudAti	AtikAlud
+vutu	utup
+kAludugu	ikibAzud
+bAzudAti	AtikAlud
+pAlA	utup
+gipiki	ivAgip
+kAludugu	AtikAlud

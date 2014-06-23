@@ -1,0 +1,45 @@
+Lexicon: RB	GPt	mTNb	KZ	zvL	rFkJ	
+
+Training Sentences:
+RBGPtKZrFkJ
+zvLKZrFkJmTNb
+GPtzvLKZRB
+mTNbGPtKZRB
+rFkJKZmTNbzvL
+mTNbrFkJGPtKZ
+mTNbzvLRBKZ
+rFkJRBzvLGPt
+zvLrFkJGPtRB
+zvLmTNbrFkJGPt
+
+Test Items:
+GPt	Zzv
+rFkJ	LrFk
+RB	bK
+KZ	JR
+RB	bK
+KZ	JR
+rFkJ	tmTN
+zvL	Zzv
+GPt	BGP
+mTNb	tmTN
+RB	JR
+rFkJ	LrFk
+zvL	BGP
+KZ	JR
+rFkJ	LrFk
+GPt	Zzv
+KZ	bK
+rFkJ	LrFk
+GPt	Zzv
+RB	bK
+rFkJ	tmTN
+zvL	BGP
+rFkJ	LrFk
+mTNb	tmTN
+KZ	JR
+rFkJ	LrFk
+RB	bK
+GPt	BGP
+KZ	bK
+rFkJ	tmTN

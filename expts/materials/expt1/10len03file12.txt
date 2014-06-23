@@ -1,0 +1,48 @@
+Lexicon: zipA	dAti	vubAki	tuzukA	vAbilugi	lAgupidu	
+
+Training Sentences:
+zipAvubAkidAti
+lAgupiduzipAdAti
+vubAkizipAtuzukA
+tuzukAvAbilugivubAki
+dAtilAgupiduvubAki
+lAgupidudAtivAbilugi
+vAbilugituzukAlAgupidu
+tuzukAdAtivAbilugi
+tuzukAvAbilugidAti
+lAgupiduzipAvAbilugi
+vubAkituzukAlAgupidu
+vAbilugivubAkizipA
+vubAkituzukAlAgupidu
+
+Test Items:
+dAti	iduz
+tuzukA	Akituz
+zipA	ipAd
+tuzukA	Akituz
+dAti	ipAd
+tuzukA	Akituz
+dAti	iduz
+tuzukA	Ativub
+zipA	iduz
+tuzukA	Akituz
+lAgupidu	ukAvAbil
+zipA	iduz
+vubAki	Akituz
+lAgupidu	ukAvAbil
+dAti	ipAd
+vAbilugi	ugilAgup
+zipA	iduz
+dAti	ipAd
+tuzukA	Ativub
+dAti	iduz
+vubAki	Ativub
+zipA	iduz
+vAbilugi	ukAvAbil
+tuzukA	Ativub
+lAgupidu	ugilAgup
+dAti	iduz
+zipA	ipAd
+vAbilugi	ugilAgup
+tuzukA	Akituz
+vubAki	Ativub

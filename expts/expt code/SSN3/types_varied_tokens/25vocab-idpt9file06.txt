@@ -1,0 +1,60 @@
+Lexicon: Kp	GNk	JBvz	fT	VDF	bRdP	LM	gmr	tZnl	
+
+Training Sentences:
+VDFKpfTGNk
+gmrGNkbRdPfT
+bRdPKpLMtZnl
+GNktZnlLMfT
+LMGNkbRdPtZnl
+bRdPtZnlfTKp
+LMfTgmrbRdP
+KpJBvztZnlfT
+VDFGNkgmrKp
+LMbRdPJBvzgmr
+tZnlbRdPgmrLM
+fTLMgmrKp
+fTJBvzGNktZnl
+tZnlfTgmrVDF
+KpVDFLMJBvz
+JBvzGNktZnlVDF
+bRdPGNkVDFKp
+GNkVDFJBvztZnl
+LMfTtZnlbRdP
+KpgmrJBvzGNk
+JBvzVDFbRdPtZnl
+VDFLMKpJBvz
+KpGNkgmrVDF
+GNkJBvzgmrbRdP
+KpJBvzgmrfT
+
+Test Items:
+fT	PL
+GNk	Mgm
+bRdP	FbRd
+gmr	Mgm
+fT	PL
+VDF	pGN
+Kp	lK
+gmr	TVD
+VDF	pGN
+Kp	lK
+LM	PL
+Kp	lK
+GNk	pGN
+VDF	TVD
+LM	lK
+fT	PL
+Kp	lK
+tZnl	FbRd
+gmr	Mgm
+bRdP	kJBv
+LM	lK
+bRdP	rtZn
+LM	zf
+tZnl	rtZn
+gmr	pGN
+tZnl	rtZn
+gmr	TVD
+VDF	Mgm
+GNk	pGN
+gmr	Mgm

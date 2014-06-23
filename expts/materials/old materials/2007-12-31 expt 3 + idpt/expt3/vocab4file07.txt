@@ -1,0 +1,185 @@
+Lexicon: fM	lRN	nGDp	rV	
+
+Training Sentences:
+lRNrVfMnGDp
+lRNfMrVnGDp
+lRNrVnGDpfM
+rVnGDpfMlRN
+lRNrVnGDpfM
+nGDprVfMlRN
+rVnGDplRNfM
+fMlRNrVnGDp
+nGDplRNrVfM
+rVfMlRNnGDp
+fMlRNnGDprV
+fMlRNrVnGDp
+rVnGDplRNfM
+nGDplRNrVfM
+fMlRNrVnGDp
+nGDprVlRNfM
+rVnGDpfMlRN
+nGDpfMrVlRN
+lRNrVfMnGDp
+fMrVnGDplRN
+fMnGDplRNrV
+nGDplRNfMrV
+lRNfMrVnGDp
+fMrVlRNnGDp
+rVlRNnGDpfM
+lRNfMrVnGDp
+rVnGDplRNfM
+rVlRNnGDpfM
+fMnGDplRNrV
+rVnGDpfMlRN
+lRNnGDprVfM
+rVnGDplRNfM
+lRNnGDprVfM
+lRNnGDprVfM
+nGDprVfMlRN
+lRNnGDpfMrV
+nGDpfMrVlRN
+lRNfMnGDprV
+lRNrVnGDpfM
+fMnGDprVlRN
+lRNrVfMnGDp
+lRNfMnGDprV
+fMnGDplRNrV
+rVfMlRNnGDp
+lRNfMnGDprV
+fMrVnGDplRN
+nGDprVlRNfM
+lRNfMnGDprV
+rVnGDpfMlRN
+rVfMlRNnGDp
+rVfMlRNnGDp
+nGDpfMlRNrV
+nGDplRNrVfM
+fMrVlRNnGDp
+rVnGDplRNfM
+nGDplRNfMrV
+lRNnGDprVfM
+rVfMnGDplRN
+fMnGDplRNrV
+rVfMlRNnGDp
+nGDpfMrVlRN
+rVnGDplRNfM
+rVfMlRNnGDp
+fMrVnGDplRN
+fMnGDplRNrV
+rVnGDplRNfM
+rVfMnGDplRN
+fMrVnGDplRN
+rVlRNfMnGDp
+rVlRNnGDpfM
+rVlRNfMnGDp
+nGDpfMrVlRN
+lRNfMrVnGDp
+rVlRNfMnGDp
+rVlRNfMnGDp
+fMnGDplRNrV
+nGDplRNrVfM
+nGDpfMrVlRN
+nGDplRNfMrV
+lRNfMnGDprV
+lRNfMnGDprV
+fMrVnGDplRN
+nGDprVlRNfM
+rVfMlRNnGDp
+fMnGDprVlRN
+nGDprVlRNfM
+rVfMlRNnGDp
+nGDpfMlRNrV
+rVfMnGDplRN
+nGDpfMlRNrV
+lRNnGDprVfM
+rVlRNnGDpfM
+nGDpfMrVlRN
+rVnGDpfMlRN
+fMrVnGDplRN
+lRNrVfMnGDp
+nGDpfMrVlRN
+fMrVnGDplRN
+lRNnGDprVfM
+lRNnGDpfMrV
+lRNfMnGDprV
+fMlRNrVnGDp
+lRNrVfMnGDp
+lRNnGDpfMrV
+nGDpfMlRNrV
+rVlRNfMnGDp
+rVfMlRNnGDp
+fMlRNrVnGDp
+nGDpfMrVlRN
+nGDprVfMlRN
+fMnGDplRNrV
+nGDpfMlRNrV
+fMlRNnGDprV
+lRNnGDprVfM
+nGDplRNrVfM
+fMnGDplRNrV
+nGDprVfMlRN
+lRNrVfMnGDp
+fMrVnGDplRN
+rVlRNnGDpfM
+rVfMnGDplRN
+lRNrVnGDpfM
+fMlRNnGDprV
+rVlRNnGDpfM
+fMlRNrVnGDp
+lRNnGDprVfM
+nGDprVlRNfM
+fMlRNnGDprV
+fMrVnGDplRN
+nGDprVfMlRN
+rVfMlRNnGDp
+fMnGDprVlRN
+lRNrVnGDpfM
+fMlRNrVnGDp
+rVfMnGDplRN
+nGDpfMlRNrV
+lRNrVnGDpfM
+fMnGDplRNrV
+rVnGDpfMlRN
+rVfMlRNnGDp
+fMlRNnGDprV
+fMlRNnGDprV
+rVnGDpfMlRN
+nGDpfMlRNrV
+fMrVnGDplRN
+nGDpfMlRNrV
+lRNnGDprVfM
+nGDprVfMlRN
+rVlRNnGDpfM
+nGDprVlRNfM
+
+Test Items:
+nGDp	NnGD
+fM	pr
+lRN	MlR
+rV	Vf
+nGDp	NnGD
+fM	Vf
+nGDp	NnGD
+lRN	MlR
+rV	Vf
+lRN	MlR
+nGDp	NnGD
+rV	pr
+nGDp	NnGD
+fM	Vf
+lRN	MlR
+rV	pr
+nGDp	NnGD
+rV	pr
+fM	Vf
+lRN	MlR
+rV	Vf
+fM	pr
+lRN	MlR
+rV	pr
+lRN	MlR
+nGDp	NnGD
+rV	Vf
+fM	pr
+lRN	MlR
+fM	Vf

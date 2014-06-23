@@ -1,0 +1,36 @@
+Lexicon: vudu	lAzu	dAbAvA	gutubi	kitigilu	zipipAkA	
+
+Training Sentences:
+kitigilulAzugutubivududAbAvAkitigilulAzuzipipAkAkitigilugutubivuduzipipAkAdAbAvAvududAbAvAgutubizipipAkAlAzuzipipAkAlAzugutubivudukitigiludAbAvA
+
+Test Items:
+kitigilu	ubikitig
+dAbAvA	AvAgut
+vudu	AkAv
+kitigilu	ubikitig
+vudu	AkAv
+gutubi	AvAgut
+dAbAvA	AzudAb
+zipipAkA	iluzipip
+kitigilu	ubikitig
+gutubi	AvAgut
+dAbAvA	AzudAb
+gutubi	AvAgut
+dAbAvA	AzudAb
+kitigilu	ubikitig
+gutubi	AvAgut
+kitigilu	iluzipip
+gutubi	AvAgut
+vudu	udul
+lAzu	AkAv
+vudu	udul
+gutubi	AvAgut
+dAbAvA	AzudAb
+zipipAkA	iluzipip
+lAzu	udul
+kitigilu	ubikitig
+vudu	AkAv
+gutubi	AvAgut
+zipipAkA	ubikitig
+dAbAvA	AzudAb
+zipipAkA	iluzipip

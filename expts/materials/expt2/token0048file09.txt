@@ -1,0 +1,47 @@
+Lexicon: vV	tL	Gpl	zdk	ZTPg	DBbK	
+
+Training Sentences:
+GplDBbKZTPgvV
+DBbKvVGplzdk
+GpltLDBbKzdk
+tLvVZTPgDBbK
+DBbKGplZTPgvV
+tLzdkZTPgDBbK
+DBbKZTPgtLGpl
+ZTPgzdktLGpl
+tLzdkZTPgvV
+vVtLGplzdk
+vVzdkDBbKGpl
+ZTPgvVtLzdk
+
+Test Items:
+Gpl	lzd
+zdk	LGp
+Gpl	lzd
+DBbK	kZTP
+Gpl	LGp
+tL	Kv
+zdk	LGp
+DBbK	kZTP
+vV	Kv
+DBbK	gDBb
+Gpl	LGp
+ZTPg	kZTP
+zdk	lzd
+ZTPg	gDBb
+tL	Vt
+ZTPg	gDBb
+Gpl	LGp
+vV	Vt
+DBbK	gDBb
+tL	Kv
+zdk	lzd
+DBbK	gDBb
+ZTPg	kZTP
+zdk	LGp
+ZTPg	gDBb
+Gpl	LGp
+DBbK	gDBb
+zdk	LGp
+Gpl	LGp
+zdk	lzd

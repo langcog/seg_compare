@@ -1,0 +1,75 @@
+Lexicon: vulA	pAki	gulukA	zitupi	bAzuduvA	bidAgiti	
+
+Training Sentences:
+vulA
+pAki
+zitupi
+bidAgiti
+bAzuduvA
+gulukA
+vulA
+gulukA
+bidAgiti
+pAki
+zitupi
+vulA
+gulukA
+bAzuduvA
+gulukA
+gulukA
+pAki
+zitupi
+bAzuduvA
+bAzuduvA
+vulA
+gulukA
+bidAgiti
+pAki
+zitupi
+vulA
+bidAgiti
+pAki
+pAki
+zitupi
+bAzuduvA
+bidAgiti
+bidAgiti
+vulA
+zitupi
+bidAgiti
+bAzuduvA
+gulukA
+pAki
+vulA
+
+Test Items:
+bAzuduvA	uvAbidAg
+zitupi	Akigul
+pAki	ulAp
+vulA	itiv
+zitupi	ukAzit
+bAzuduvA	upibAzud
+bidAgiti	uvAbidAg
+vulA	itiv
+gulukA	ukAzit
+vulA	itiv
+bidAgiti	upibAzud
+bAzuduvA	uvAbidAg
+vulA	itiv
+bAzuduvA	uvAbidAg
+bidAgiti	upibAzud
+bAzuduvA	uvAbidAg
+zitupi	ukAzit
+bAzuduvA	uvAbidAg
+gulukA	ukAzit
+vulA	itiv
+zitupi	Akigul
+vulA	itiv
+bAzuduvA	uvAbidAg
+vulA	itiv
+bidAgiti	upibAzud
+zitupi	ukAzit
+vulA	itiv
+bidAgiti	upibAzud
+vulA	ulAp
+bAzuduvA	uvAbidAg

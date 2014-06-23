@@ -1,0 +1,40 @@
+Lexicon: lubi	dApA	kAgizi	pivAki	tivuzutu	gulAdubA	
+
+Training Sentences:
+tivuzutupivAkitivuzutukAgizidApAgulAdubAkAgizilubi
+lubikAgizitivuzutukAgizipivAkigulAdubAdApAgulAdubA
+pivAkidApApivAkikAgizilubidApAtivuzutukAgizi
+dApAgulAdubAlubipivAkilubipivAkigulAdubAtivuzutu
+kAgizidApAgulAdubAtivuzutudApAlubipivAkitivuzutu
+
+Test Items:
+lubi	ubid
+tivuzutu	Akitivuz
+dApA	ubid
+lubi	ubAl
+tivuzutu	utugulAd
+pivAki	ApAkAg
+dApA	ubid
+tivuzutu	Akitivuz
+gulAdubA	utugulAd
+pivAki	izipiv
+kAgizi	ApAkAg
+tivuzutu	utugulAd
+lubi	ubid
+pivAki	izipiv
+gulAdubA	Akitivuz
+dApA	ubid
+gulAdubA	utugulAd
+kAgizi	izipiv
+lubi	ubAl
+pivAki	ApAkAg
+kAgizi	izipiv
+gulAdubA	utugulAd
+tivuzutu	Akitivuz
+kAgizi	ApAkAg
+lubi	ubid
+pivAki	ApAkAg
+tivuzutu	Akitivuz
+dApA	ubAl
+pivAki	izipiv
+gulAdubA	utugulAd

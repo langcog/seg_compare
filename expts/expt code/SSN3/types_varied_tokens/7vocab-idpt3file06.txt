@@ -1,0 +1,42 @@
+Lexicon: Bz	GJk	ZnVP	
+
+Training Sentences:
+ZnVPGJkZnVPBz
+GJkBzZnVPBz
+GJkBzGJkZnVP
+BzGJkBzGJk
+GJkZnVPBzZnVP
+BzZnVPGJkZnVP
+ZnVPGJkZnVPGJk
+
+Test Items:
+ZnVP	kZnV
+Bz	PB
+GJk	zGJ
+ZnVP	kZnV
+Bz	PB
+ZnVP	kZnV
+GJk	zGJ
+ZnVP	kZnV
+Bz	PB
+GJk	zGJ
+ZnVP	kZnV
+Bz	PB
+GJk	zGJ
+ZnVP	kZnV
+Bz	PB
+ZnVP	kZnV
+GJk	zGJ
+Bz	PB
+GJk	zGJ
+ZnVP	kZnV
+Bz	PB
+ZnVP	kZnV
+GJk	zGJ
+Bz	PB
+GJk	zGJ
+Bz	PB
+ZnVP	kZnV
+Bz	PB
+GJk	zGJ
+Bz	PB

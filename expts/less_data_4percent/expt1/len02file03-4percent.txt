@@ -1,0 +1,77 @@
+Lexicon: kD	Vp	BLd	Tvl	PzKg	GZbt	
+
+Training Sentences:
+kDGZbt
+TvlBLd
+VpBLd
+TvlBLd
+PzKgGZbt
+PzKgVp
+TvlPzKg
+kDBLd
+VpPzKg
+GZbtVp
+kDGZbt
+TvlkD
+
+Test Items:
+Vp	tk
+GZbt	gGZb
+kD	tk
+Tvl	dTv
+BLd	dTv
+PzKg	gGZb
+BLd	dTv
+GZbt	lPzK
+kD	tk
+GZbt	gGZb
+BLd	pBL
+Tvl	dTv
+GZbt	gGZb
+Vp	DV
+Tvl	pBL
+PzKg	lPzK
+kD	DV
+Vp	tk
+Tvl	dTv
+Vp	DV
+BLd	pBL
+PzKg	gGZb
+Vp	tk
+PzKg	gGZb
+GZbt	lPzK
+kD	DV
+BLd	pBL
+Tvl	dTv
+GZbt	gGZb
+Tvl	pBL
+Vp	tk
+kD	DV
+GZbt	gGZb
+Vp	tk
+PzKg	lPzK
+BLd	dTv
+Vp	tk
+BLd	pBL
+Tvl	dTv
+GZbt	lPzK
+kD	DV
+Tvl	dTv
+GZbt	lPzK
+Vp	DV
+PzKg	lPzK
+BLd	dTv
+kD	DV
+GZbt	lPzK
+Vp	DV
+BLd	dTv
+Tvl	pBL
+BLd	dTv
+Tvl	pBL
+PzKg	lPzK
+Tvl	pBL
+kD	DV
+BLd	dTv
+PzKg	gGZb
+GZbt	lPzK
+kD	tk

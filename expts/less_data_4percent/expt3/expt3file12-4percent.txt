@@ -1,0 +1,41 @@
+Lexicon: tv	kGp	JlDb	
+
+Training Sentences:
+kGptvkGpJlDb
+kGptvkGptv
+JlDbkGpJlDbkGp
+tvkGpJlDbtv
+tvJlDbkGptv
+JlDbtvJlDbJlDb
+
+Test Items:
+tv	bt
+kGp	vkG
+tv	bt
+JlDb	pJlD
+tv	bt
+kGp	vkG
+JlDb	pJlD
+kGp	vkG
+JlDb	pJlD
+tv	bt
+kGp	vkG
+JlDb	pJlD
+kGp	vkG
+JlDb	pJlD
+kGp	vkG
+JlDb	pJlD
+kGp	vkG
+tv	bt
+kGp	vkG
+tv	bt
+kGp	vkG
+tv	bt
+kGp	vkG
+JlDb	pJlD
+tv	bt
+kGp	vkG
+tv	bt
+JlDb	pJlD
+kGp	vkG
+JlDb	pJlD

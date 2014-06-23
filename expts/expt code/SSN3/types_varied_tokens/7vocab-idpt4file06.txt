@@ -1,0 +1,42 @@
+Lexicon: Jb	Pkd	tTvF	pM	
+
+Training Sentences:
+tTvFpMPkdJb
+pMtTvFPkdJb
+tTvFJbpMPkd
+PkdpMJbtTvF
+tTvFJbPkdpM
+tTvFPkdpMJb
+pMtTvFPkdJb
+
+Test Items:
+Pkd	bPk
+tTvF	dtTv
+Pkd	bPk
+tTvF	dtTv
+Pkd	bPk
+Jb	Fp
+tTvF	dtTv
+pM	Fp
+Jb	Fp
+tTvF	dtTv
+pM	MJ
+Jb	Fp
+tTvF	dtTv
+Jb	MJ
+Pkd	bPk
+tTvF	dtTv
+Jb	Fp
+pM	MJ
+tTvF	dtTv
+Jb	Fp
+pM	MJ
+Pkd	bPk
+pM	Fp
+Jb	MJ
+pM	Fp
+tTvF	dtTv
+Jb	MJ
+Pkd	bPk
+Jb	MJ
+pM	Fp

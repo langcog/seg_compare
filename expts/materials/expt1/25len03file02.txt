@@ -1,0 +1,118 @@
+Lexicon: pAki	lutu	gitivu	zidugu	bAkApilA	vAzudAbi	
+
+Training Sentences:
+pAkizidugulutu
+vAzudAbibAkApilAzidugu
+lutubAkApilAvAzudAbi
+vAzudAbigitivuzidugu
+zidugubAkApilApAki
+gitivubAkApilApAki
+zidugulutuvAzudAbi
+bAkApilAlutupAki
+gitivulutuvAzudAbi
+pAkivAzudAbigitivu
+gitivuvAzudAbibAkApilA
+pAkilutuzidugu
+pAkibAkApilAzidugu
+
+Test Items:
+pAki	Akil
+lutu	Abip
+pAki	Akil
+bAkApilA	ugubAkAp
+pAki	Abip
+zidugu	ivuzid
+vAzudAbi	ilAvAzud
+pAki	Abip
+vAzudAbi	ugubAkAp
+lutu	Abip
+gitivu	utugit
+bAkApilA	ugubAkAp
+zidugu	ivuzid
+lutu	Akil
+gitivu	utugit
+bAkApilA	ugubAkAp
+zidugu	utugit
+pAki	Akil
+bAkApilA	ugubAkAp
+vAzudAbi	ilAvAzud
+zidugu	utugit
+gitivu	ivuzid
+zidugu	utugit
+pAki	Abip
+bAkApilA	ilAvAzud
+gitivu	utugit
+lutu	Akil
+zidugu	ivuzid
+lutu	Abip
+bAkApilA	ugubAkAp
+lutu	Abip
+pAki	Akil
+vAzudAbi	ugubAkAp
+pAki	Akil
+bAkApilA	ugubAkAp
+lutu	Akil
+bAkApilA	ugubAkAp
+lutu	Akil
+gitivu	ivuzid
+zidugu	utugit
+lutu	Akil
+pAki	Abip
+zidugu	utugit
+pAki	Akil
+bAkApilA	ugubAkAp
+vAzudAbi	ugubAkAp
+pAki	Akil
+zidugu	utugit
+vAzudAbi	ugubAkAp
+zidugu	utugit
+lutu	Akil
+bAkApilA	ugubAkAp
+vAzudAbi	ilAvAzud
+gitivu	ivuzid
+pAki	Akil
+gitivu	utugit
+vAzudAbi	ilAvAzud
+zidugu	ivuzid
+bAkApilA	ugubAkAp
+pAki	Akil
+gitivu	ivuzid
+lutu	Abip
+zidugu	ivuzid
+pAki	Akil
+zidugu	utugit
+gitivu	ivuzid
+bAkApilA	ugubAkAp
+gitivu	utugit
+vAzudAbi	ugubAkAp
+zidugu	utugit
+lutu	Akil
+gitivu	utugit
+bAkApilA	ugubAkAp
+lutu	Akil
+vAzudAbi	ilAvAzud
+gitivu	ivuzid
+bAkApilA	ugubAkAp
+lutu	Abip
+pAki	Akil
+vAzudAbi	ugubAkAp
+gitivu	ivuzid
+bAkApilA	ilAvAzud
+pAki	Abip
+bAkApilA	ilAvAzud
+pAki	Akil
+gitivu	utugit
+pAki	Abip
+zidugu	utugit
+vAzudAbi	ugubAkAp
+pAki	Akil
+bAkApilA	ugubAkAp
+vAzudAbi	ugubAkAp
+pAki	Abip
+bAkApilA	ugubAkAp
+zidugu	ivuzid
+pAki	Akil
+zidugu	ivuzid
+vAzudAbi	ilAvAzud
+bAkApilA	ugubAkAp
+pAki	Akil

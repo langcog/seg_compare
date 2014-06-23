@@ -1,0 +1,185 @@
+Lexicon: dv	KVg	tDTF	fB	zbl	mpRr	nk	GML	PZNJ	
+
+Training Sentences:
+nkKVgGMLtDTF
+fBdvmpRrPZNJ
+fBtDTFPZNJKVg
+dvfBmpRrPZNJ
+dvzblKVgGML
+PZNJnkfBtDTF
+tDTFmpRrKVgfB
+fBKVgtDTFnk
+GMLKVgzbldv
+PZNJtDTFKVgfB
+dvKVgzblPZNJ
+zbltDTFfBnk
+fBdvPZNJmpRr
+dvKVgtDTFnk
+nkfBzblPZNJ
+tDTFGMLKVgdv
+dvPZNJGMLKVg
+tDTFKVgdvPZNJ
+KVgtDTFnkmpRr
+dvtDTFfBKVg
+mpRrGMLfBPZNJ
+mpRrzblnkGML
+fBtDTFGMLnk
+fBPZNJGMLzbl
+PZNJzblfBtDTF
+zblKVgPZNJtDTF
+tDTFmpRrfBPZNJ
+GMLfBKVgtDTF
+tDTFnkdvzbl
+mpRrnkPZNJKVg
+PZNJmpRrzbltDTF
+mpRrPZNJdvnk
+tDTFGMLnkmpRr
+zblPZNJnkfB
+PZNJtDTFGMLdv
+GMLKVgfBPZNJ
+zbltDTFfBdv
+nktDTFKVgdv
+GMLtDTFKVgPZNJ
+fBnkzbldv
+fBmpRrnkzbl
+dvzblPZNJmpRr
+mpRrfBtDTFGML
+KVgfBnkGML
+tDTFmpRrzbldv
+tDTFzbldvmpRr
+GMLdvzblPZNJ
+zbltDTFdvmpRr
+PZNJGMLfBzbl
+PZNJmpRrGMLtDTF
+fBdvPZNJtDTF
+nkmpRrzbldv
+nkzbldvmpRr
+nkzblGMLPZNJ
+KVgmpRrfBdv
+nkfBmpRrPZNJ
+fBdvGMLPZNJ
+fBKVgdvtDTF
+zblGMLmpRrPZNJ
+tDTFfBnkdv
+dvGMLnkmpRr
+dvKVgzblnk
+nkzblPZNJtDTF
+KVgzblGMLfB
+PZNJnkfBmpRr
+fBzbldvmpRr
+zblPZNJdvGML
+fBKVgnkPZNJ
+zblmpRrdvfB
+mpRrKVgnkfB
+mpRrdvtDTFfB
+PZNJmpRrfBzbl
+zblGMLfBdv
+fBGMLPZNJnk
+dvKVgzblPZNJ
+PZNJmpRrnkfB
+dvmpRrKVgzbl
+nkKVgdvtDTF
+nkmpRrzblKVg
+GMLKVgdvmpRr
+nkKVgtDTFGML
+GMLmpRrKVgfB
+PZNJfBzblKVg
+tDTFGMLmpRrnk
+KVgtDTFdvPZNJ
+zblfBnkmpRr
+mpRrGMLtDTFPZNJ
+tDTFKVgmpRrGML
+mpRrKVgnkzbl
+dvPZNJfBtDTF
+nkdvPZNJGML
+GMLzblnkfB
+KVgmpRrPZNJGML
+mpRrPZNJGMLdv
+GMLtDTFmpRrfB
+nkGMLPZNJKVg
+KVgtDTFGMLPZNJ
+PZNJzblGMLKVg
+zbldvtDTFfB
+fBPZNJnkzbl
+nktDTFdvPZNJ
+mpRrdvKVgtDTF
+fBmpRrzblKVg
+nkdvGMLzbl
+dvtDTFGMLnk
+nkfBGMLdv
+PZNJdvKVgnk
+KVgtDTFzblPZNJ
+GMLmpRrnktDTF
+tDTFKVgdvGML
+zbldvKVgGML
+fBzblnkmpRr
+tDTFfBzblmpRr
+nkKVgPZNJzbl
+KVgnkzbldv
+nktDTFdvGML
+mpRrzblPZNJGML
+PZNJmpRrtDTFfB
+dvKVgzblPZNJ
+fBdvKVgtDTF
+zblKVgGMLdv
+fBPZNJtDTFGML
+nkfBGMLmpRr
+PZNJzbltDTFKVg
+KVgPZNJnkzbl
+GMLtDTFfBnk
+KVgmpRrfBGML
+PZNJmpRrdvGML
+fBKVgtDTFPZNJ
+GMLfBzblnk
+dvzblmpRrfB
+tDTFdvKVgmpRr
+fBKVgtDTFPZNJ
+zblnkfBPZNJ
+GMLnkKVgzbl
+PZNJnktDTFGML
+nkPZNJfBtDTF
+dvKVgGMLzbl
+mpRrKVgtDTFfB
+mpRrzblGMLnk
+dvmpRrnkzbl
+mpRrKVgGMLzbl
+mpRrGMLdvtDTF
+KVgnkdvGML
+GMLnkmpRrtDTF
+GMLnkzbltDTF
+zblnkPZNJKVg
+tDTFGMLnkmpRr
+KVgzbldvmpRr
+mpRrnkKVgGML
+
+Test Items:
+PZNJ	gtDT
+zbl	Bzb
+tDTF	LPZN
+mpRr	lmpR
+nk	Jd
+mpRr	LPZN
+nk	Jd
+PZNJ	LPZN
+fB	Jd
+dv	rn
+tDTF	LPZN
+PZNJ	gtDT
+KVg	vKV
+dv	Jd
+GML	Bzb
+nk	Ff
+tDTF	gtDT
+fB	Ff
+nk	rn
+tDTF	gtDT
+dv	Jd
+KVg	kGM
+PZNJ	LPZN
+GML	Bzb
+tDTF	LPZN
+PZNJ	lmpR
+KVg	vKV
+dv	rn
+zbl	Bzb
+dv	Jd

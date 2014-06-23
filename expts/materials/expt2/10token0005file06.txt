@@ -1,0 +1,36 @@
+Lexicon: tudA	gibA	kAtivu	bigulA	zipApiki	vAluduzu	
+
+Training Sentences:
+kAtivuvAluduzugibAzipApiki
+
+Test Items:
+gibA	uzut
+kAtivu	ibAkAt
+bigulA	ibAkAt
+kAtivu	ivubig
+bigulA	ibAkAt
+kAtivu	ibAkAt
+tudA	udAg
+gibA	uzut
+bigulA	ibAkAt
+gibA	udAg
+tudA	uzut
+zipApiki	ulAzipAp
+kAtivu	ivubig
+vAluduzu	ulAzipAp
+tudA	udAg
+vAluduzu	ikivAlud
+tudA	udAg
+kAtivu	ivubig
+gibA	uzut
+bigulA	ivubig
+kAtivu	ibAkAt
+zipApiki	ikivAlud
+gibA	udAg
+kAtivu	ivubig
+bigulA	ibAkAt
+gibA	udAg
+zipApiki	ikivAlud
+kAtivu	ivubig
+gibA	udAg
+vAluduzu	ulAzipAp

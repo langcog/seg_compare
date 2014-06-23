@@ -1,0 +1,42 @@
+Lexicon: lL	mvt	ZJVM	RK	
+
+Training Sentences:
+ZJVMRKlLmvt
+ZJVMRKlLmvt
+RKlLmvtZJVM
+mvtlLRKZJVM
+mvtlLZJVMRK
+RKmvtZJVMlL
+mvtlLRKZJVM
+
+Test Items:
+RK	Kl
+ZJVM	tZJV
+lL	Kl
+mvt	Lmv
+RK	Kl
+lL	MR
+RK	Kl
+ZJVM	tZJV
+mvt	Lmv
+ZJVM	tZJV
+mvt	Lmv
+ZJVM	tZJV
+mvt	Lmv
+ZJVM	tZJV
+mvt	Lmv
+ZJVM	tZJV
+mvt	Lmv
+RK	MR
+lL	Kl
+ZJVM	tZJV
+mvt	Lmv
+lL	MR
+mvt	Lmv
+ZJVM	tZJV
+mvt	Lmv
+ZJVM	tZJV
+lL	MR
+mvt	Lmv
+lL	MR
+ZJVM	tZJV

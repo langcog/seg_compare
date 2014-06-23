@@ -1,0 +1,60 @@
+Lexicon: mv	rFn	zgkB	td	
+
+Training Sentences:
+zgkBmvrFntd
+zgkBtdmvrFn
+tdrFnzgkBmv
+zgkBmvtdrFn
+mvrFntdzgkB
+tdmvzgkBrFn
+zgkBrFnmvtd
+zgkBtdmvrFn
+tdzgkBmvrFn
+zgkBtdmvrFn
+zgkBtdrFnmv
+tdrFnzgkBmv
+zgkBrFnmvtd
+zgkBmvtdrFn
+rFnmvtdzgkB
+mvrFntdzgkB
+tdrFnzgkBmv
+tdzgkBmvrFn
+mvzgkBrFntd
+mvtdzgkBrFn
+zgkBmvrFntd
+mvtdrFnzgkB
+zgkBmvrFntd
+rFntdzgkBmv
+tdrFnzgkBmv
+
+Test Items:
+rFn	vrF
+td	dm
+zgkB	nzgk
+rFn	vrF
+zgkB	nzgk
+mv	Bt
+zgkB	nzgk
+rFn	vrF
+zgkB	nzgk
+td	Bt
+rFn	vrF
+mv	dm
+rFn	vrF
+zgkB	nzgk
+rFn	vrF
+mv	Bt
+zgkB	nzgk
+td	Bt
+mv	dm
+rFn	vrF
+td	Bt
+mv	dm
+td	Bt
+rFn	vrF
+mv	Bt
+rFn	vrF
+zgkB	nzgk
+rFn	vrF
+zgkB	nzgk
+rFn	vrF

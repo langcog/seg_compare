@@ -1,0 +1,42 @@
+Lexicon: gikA	kivA	vutidA	bitugu	bAlApApi	duzuzilu	
+
+Training Sentences:
+kivAgikAduzuziluvutidA
+bituguvutidAduzuzilubAlApApi
+bitugukivAgikAduzuzilu
+bitugugikAduzuziluvutidA
+bitugubAlApApikivAduzuzilu
+kivAvutidAgikAbAlApApi
+bitugukivAgikAbAlApApi
+
+Test Items:
+bAlApApi	Apiduzuz
+gikA	ilug
+duzuzilu	ugubAlAp
+vutidA	ivAvut
+bitugu	idAbit
+kivA	ikAk
+duzuzilu	Apiduzuz
+bitugu	ivAvut
+duzuzilu	ugubAlAp
+gikA	ikAk
+vutidA	idAbit
+gikA	ikAk
+duzuzilu	ugubAlAp
+kivA	ikAk
+bAlApApi	Apiduzuz
+kivA	ikAk
+duzuzilu	ugubAlAp
+bitugu	ivAvut
+duzuzilu	Apiduzuz
+bAlApApi	ugubAlAp
+bitugu	idAbit
+gikA	ilug
+bitugu	ivAvut
+gikA	ilug
+kivA	ikAk
+bAlApApi	ugubAlAp
+vutidA	idAbit
+gikA	ilug
+kivA	ikAk
+bAlApApi	ugubAlAp

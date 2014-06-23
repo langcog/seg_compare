@@ -1,0 +1,41 @@
+Lexicon: MV	RdG	pLvn	Kz	FZB	JTbP	
+
+Training Sentences:
+FZBKzMVRdG
+JTbPRdGpLvnFZB
+MVRdGFZBJTbP
+pLvnKzMVJTbP
+RdGKzpLvnJTbP
+KzMVFZBpLvn
+
+Test Items:
+JTbP	BJTb
+pLvn	GpLv
+FZB	VRd
+MV	PM
+Kz	nK
+RdG	zFZ
+JTbP	GpLv
+RdG	VRd
+FZB	zFZ
+RdG	VRd
+Kz	nK
+MV	PM
+JTbP	BJTb
+FZB	zFZ
+RdG	VRd
+JTbP	BJTb
+Kz	PM
+RdG	zFZ
+FZB	VRd
+RdG	VRd
+Kz	PM
+pLvn	BJTb
+Kz	nK
+FZB	zFZ
+MV	PM
+JTbP	BJTb
+RdG	VRd
+MV	nK
+RdG	zFZ
+pLvn	GpLv

@@ -1,0 +1,37 @@
+Lexicon: gulA	tugi	vAzupA	luvudA	kAtizibA	dubikipi	
+
+Training Sentences:
+vAzupAtugidubikipiluvudA
+gulAkAtizibAtugiluvudA
+
+Test Items:
+vAzupA	upAluv
+dubikipi	udAkAtiz
+tugi	ipig
+luvudA	upAluv
+gulA	ipig
+kAtizibA	udAkAtiz
+gulA	ulAt
+dubikipi	ibAdubik
+tugi	ipig
+dubikipi	ibAdubik
+vAzupA	ugivAz
+tugi	ipig
+gulA	ulAt
+tugi	ipig
+dubikipi	ibAdubik
+gulA	ipig
+kAtizibA	udAkAtiz
+gulA	ipig
+tugi	ulAt
+dubikipi	udAkAtiz
+kAtizibA	udAkAtiz
+luvudA	upAluv
+gulA	ipig
+luvudA	ugivAz
+tugi	ulAt
+vAzupA	upAluv
+gulA	ipig
+tugi	ulAt
+gulA	ulAt
+kAtizibA	udAkAtiz

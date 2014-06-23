@@ -1,0 +1,89 @@
+Lexicon: DK	kP	dlz	ZGp	vBTV	gLtb	
+
+Training Sentences:
+dlz
+kP
+vBTV
+gLtb
+gLtb
+vBTV
+kP
+ZGp
+DK
+DK
+kP
+DK
+ZGp
+DK
+gLtb
+vBTV
+gLtb
+dlz
+ZGp
+vBTV
+dlz
+kP
+ZGp
+dlz
+
+Test Items:
+kP	Kk
+DK	bD
+kP	Kk
+ZGp	zZG
+DK	bD
+vBTV	VgLt
+ZGp	zZG
+kP	bD
+DK	bD
+gLtb	VgLt
+DK	Kk
+vBTV	pvBT
+gLtb	pvBT
+dlz	zZG
+gLtb	VgLt
+DK	Kk
+ZGp	zZG
+vBTV	pvBT
+kP	bD
+ZGp	Pdl
+kP	Kk
+DK	Kk
+dlz	Pdl
+kP	bD
+dlz	zZG
+kP	bD
+DK	Kk
+ZGp	zZG
+dlz	Pdl
+vBTV	pvBT
+dlz	zZG
+vBTV	pvBT
+kP	bD
+vBTV	VgLt
+ZGp	zZG
+vBTV	VgLt
+dlz	Pdl
+vBTV	VgLt
+DK	bD
+kP	Kk
+gLtb	pvBT
+DK	bD
+dlz	zZG
+gLtb	VgLt
+dlz	Pdl
+kP	Kk
+dlz	Pdl
+kP	Kk
+ZGp	Pdl
+vBTV	VgLt
+DK	Kk
+ZGp	zZG
+DK	bD
+vBTV	pvBT
+dlz	zZG
+kP	Kk
+gLtb	pvBT
+DK	Kk
+vBTV	pvBT
+ZGp	Pdl

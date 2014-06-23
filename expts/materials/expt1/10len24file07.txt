@@ -1,0 +1,36 @@
+Lexicon: kAki	gizi	tiguzu	bAlupA	vAdutubi	lAvudApi	
+
+Training Sentences:
+kAkivAdutubilAvudApitiguzubAlupAvAdutubikAkigizitiguzugizibAlupAvAdutubibAlupAtiguzuvAdutubilAvudApigizikAkibAlupAlAvudApikAkigizitiguzulAvudApi
+
+Test Items:
+bAlupA	uzubAl
+tiguzu	izitig
+bAlupA	uzubAl
+gizi	Akig
+bAlupA	uzubAl
+kAki	Akig
+gizi	Akig
+vAdutubi	upAvAdut
+tiguzu	uzubAl
+vAdutubi	upAvAdut
+gizi	Akig
+bAlupA	izitig
+tiguzu	uzubAl
+bAlupA	izitig
+gizi	Akig
+kAki	Apik
+vAdutubi	upAvAdut
+gizi	Apik
+lAvudApi	ubilAvud
+vAdutubi	upAvAdut
+lAvudApi	ubilAvud
+vAdutubi	upAvAdut
+gizi	Akig
+vAdutubi	ubilAvud
+bAlupA	izitig
+tiguzu	uzubAl
+vAdutubi	upAvAdut
+lAvudApi	ubilAvud
+bAlupA	uzubAl
+kAki	Apik

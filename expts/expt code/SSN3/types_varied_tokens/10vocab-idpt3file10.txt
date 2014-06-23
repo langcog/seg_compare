@@ -1,0 +1,45 @@
+Lexicon: rK	pNL	kfVz	
+
+Training Sentences:
+rKpNLrKkfVz
+kfVzrKpNLrK
+pNLrKpNLrK
+kfVzrKpNLrK
+kfVzrKpNLrK
+kfVzpNLkfVzrK
+kfVzpNLkfVzpNL
+pNLkfVzrKkfVz
+rKkfVzrKkfVz
+pNLkfVzpNLkfVz
+
+Test Items:
+kfVz	LkfV
+pNL	KpN
+rK	zr
+pNL	KpN
+rK	zr
+pNL	KpN
+kfVz	LkfV
+pNL	KpN
+rK	zr
+kfVz	LkfV
+pNL	KpN
+kfVz	LkfV
+rK	zr
+pNL	KpN
+kfVz	LkfV
+rK	zr
+kfVz	LkfV
+pNL	KpN
+kfVz	LkfV
+pNL	KpN
+rK	zr
+pNL	KpN
+rK	zr
+kfVz	LkfV
+pNL	KpN
+kfVz	LkfV
+rK	zr
+pNL	KpN
+kfVz	LkfV
+pNL	KpN

@@ -1,0 +1,36 @@
+Lexicon: tidA	piki	vupAzu	tukAgi	duvAbibA	lAguzilu	
+
+Training Sentences:
+pikilAguziluduvAbibAvupAzuduvAbibAvupAzutukAgitidAvupAzupikitidApikitukAgivupAzutukAgilAguziluduvAbibAtukAgiduvAbibAlAguzilutidApikitidAlAguzilu
+
+Test Items:
+vupAzu	Azutuk
+tukAgi	ikivup
+tidA	idAp
+tukAgi	Azutuk
+duvAbibA	ibAlAguz
+lAguzilu	AgiduvAb
+duvAbibA	AgiduvAb
+lAguzilu	ibAlAguz
+duvAbibA	AgiduvAb
+tidA	idAp
+tukAgi	ikivup
+lAguzilu	ibAlAguz
+tidA	idAp
+lAguzilu	ibAlAguz
+tidA	idAp
+tukAgi	ikivup
+piki	ilut
+tukAgi	ikivup
+vupAzu	Azutuk
+tukAgi	ikivup
+lAguzilu	AgiduvAb
+duvAbibA	ibAlAguz
+vupAzu	ikivup
+piki	ilut
+vupAzu	Azutuk
+piki	idAp
+duvAbibA	AgiduvAb
+tidA	idAp
+tukAgi	Azutuk
+duvAbibA	AgiduvAb

@@ -1,0 +1,6 @@
+Now it's time for the test.  We'll play you two strings and your job is to 
+decide which one sounds more like a word in the language you just heard. To
+choose the first one, press the key marked with the '1' sticker, and to 
+choose the second one, press the key marked with the '2' sticker. 
+
+Press any key to go on. 

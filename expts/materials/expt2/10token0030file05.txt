@@ -1,0 +1,42 @@
+Lexicon: lAzu	lukA	gibAvu	bikidu	gudApivA	pAtizitu	
+
+Training Sentences:
+gudApivAlAzupAtizitugibAvu
+bikidupAtizitulAzulukA
+gibAvugudApivAlAzulukA
+bikidupAtizitulukAgudApivA
+lAzupAtizitugibAvugudApivA
+bikidugudApivApAtizitugibAvu
+lAzugibAvulukAbikidu
+
+Test Items:
+lukA	itul
+gibAvu	Avubik
+pAtizitu	ivApAtiz
+lukA	itul
+bikidu	ukAgib
+gibAvu	Avubik
+pAtizitu	ivApAtiz
+gudApivA	idugudAp
+pAtizitu	ivApAtiz
+bikidu	ukAgib
+gibAvu	Avubik
+lAzu	Azul
+lukA	Azul
+gibAvu	ukAgib
+lAzu	Azul
+lukA	itul
+pAtizitu	idugudAp
+gibAvu	ukAgib
+pAtizitu	ivApAtiz
+gibAvu	ukAgib
+lukA	itul
+gudApivA	idugudAp
+bikidu	Avubik
+gudApivA	ivApAtiz
+lukA	Azul
+gibAvu	ukAgib
+lAzu	itul
+gudApivA	ivApAtiz
+pAtizitu	idugudAp
+gibAvu	ukAgib

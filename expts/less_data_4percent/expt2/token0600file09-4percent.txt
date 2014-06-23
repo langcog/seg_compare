@@ -1,0 +1,41 @@
+Lexicon: vZ	Dp	gPl	KGL	dbTt	VzkB	
+
+Training Sentences:
+DpdbTtvZKGL
+VzkBKGLdbTtvZ
+DpgPlKGLdbTt
+DpKGLdbTtVzkB
+VzkBgPlvZDp
+VzkBgPlvZgPl
+
+Test Items:
+VzkB	LdbT
+Dp	Bv
+gPl	pgP
+vZ	ZD
+Dp	Bv
+VzkB	tVzk
+dbTt	LdbT
+gPl	lKG
+vZ	ZD
+gPl	pgP
+Dp	ZD
+VzkB	LdbT
+gPl	lKG
+vZ	ZD
+VzkB	tVzk
+vZ	ZD
+dbTt	LdbT
+vZ	ZD
+Dp	Bv
+gPl	lKG
+vZ	Bv
+dbTt	LdbT
+VzkB	tVzk
+dbTt	LdbT
+KGL	pgP
+dbTt	LdbT
+Dp	Bv
+VzkB	tVzk
+KGL	lKG
+vZ	Bv

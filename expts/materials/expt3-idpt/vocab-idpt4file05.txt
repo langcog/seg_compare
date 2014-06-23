@@ -1,0 +1,185 @@
+Lexicon: LT	lBf	zrMg	Zk	
+
+Training Sentences:
+LTlBfzrMgZk
+LTzrMglBfZk
+zrMgLTZklBf
+lBfzrMgLTZk
+zrMglBfLTZk
+LTZkzrMglBf
+ZkLTlBfzrMg
+LTZklBfzrMg
+LTzrMgZklBf
+zrMgLTlBfZk
+lBfzrMgZkLT
+lBfZkzrMgLT
+zrMglBfLTZk
+ZkLTzrMglBf
+LTlBfZkzrMg
+lBfzrMgZkLT
+zrMgZklBfLT
+lBfZkLTzrMg
+ZkLTzrMglBf
+LTzrMglBfZk
+zrMglBfZkLT
+zrMgLTZklBf
+LTzrMgZklBf
+LTlBfZkzrMg
+zrMgLTZklBf
+LTzrMgZklBf
+LTzrMglBfZk
+ZklBfzrMgLT
+LTzrMglBfZk
+ZkLTzrMglBf
+ZklBfzrMgLT
+LTzrMglBfZk
+lBfzrMgZkLT
+ZklBfzrMgLT
+lBfzrMgZkLT
+ZklBfzrMgLT
+ZklBfzrMgLT
+LTZkzrMglBf
+zrMgZklBfLT
+zrMglBfZkLT
+lBfZkzrMgLT
+ZkzrMglBfLT
+lBfLTZkzrMg
+ZkzrMgLTlBf
+zrMgLTlBfZk
+ZkzrMglBfLT
+ZkLTlBfzrMg
+lBfzrMgLTZk
+ZkLTlBfzrMg
+zrMgLTZklBf
+lBfLTZkzrMg
+ZkzrMgLTlBf
+ZkzrMgLTlBf
+zrMgLTlBfZk
+zrMgLTlBfZk
+LTzrMglBfZk
+lBfLTzrMgZk
+lBfLTzrMgZk
+LTZklBfzrMg
+ZkLTlBfzrMg
+zrMglBfZkLT
+zrMgLTZklBf
+zrMgLTZklBf
+ZkLTzrMglBf
+ZklBfzrMgLT
+LTzrMglBfZk
+lBfZkLTzrMg
+LTZklBfzrMg
+lBfZkzrMgLT
+lBfLTZkzrMg
+lBfzrMgZkLT
+lBfzrMgLTZk
+zrMglBfZkLT
+zrMgLTlBfZk
+zrMglBfLTZk
+ZklBfzrMgLT
+ZkLTzrMglBf
+ZkzrMgLTlBf
+zrMgLTlBfZk
+zrMgLTlBfZk
+zrMgLTlBfZk
+zrMglBfLTZk
+LTzrMglBfZk
+zrMgLTlBfZk
+zrMglBfLTZk
+ZkLTzrMglBf
+ZklBfLTzrMg
+ZkzrMgLTlBf
+LTZkzrMglBf
+lBfzrMgLTZk
+lBfzrMgZkLT
+LTzrMgZklBf
+zrMgZkLTlBf
+zrMgLTZklBf
+lBfLTZkzrMg
+ZkzrMgLTlBf
+zrMgZklBfLT
+ZkLTzrMglBf
+LTlBfZkzrMg
+lBfLTZkzrMg
+ZkLTlBfzrMg
+LTZkzrMglBf
+lBfzrMgZkLT
+zrMgZkLTlBf
+zrMgZklBfLT
+LTzrMglBfZk
+lBfzrMgLTZk
+lBfLTZkzrMg
+LTlBfzrMgZk
+lBfLTzrMgZk
+lBfZkzrMgLT
+lBfzrMgLTZk
+LTzrMglBfZk
+lBfLTZkzrMg
+ZkzrMglBfLT
+ZkzrMglBfLT
+ZkLTlBfzrMg
+lBfZkLTzrMg
+LTZklBfzrMg
+lBfLTZkzrMg
+lBfzrMgLTZk
+lBfZkzrMgLT
+LTZklBfzrMg
+zrMgZklBfLT
+lBfzrMgLTZk
+lBfLTzrMgZk
+LTZklBfzrMg
+zrMgZklBfLT
+lBfZkLTzrMg
+zrMglBfZkLT
+LTzrMglBfZk
+lBfZkLTzrMg
+lBfzrMgZkLT
+ZkzrMgLTlBf
+LTZklBfzrMg
+lBfZkzrMgLT
+zrMgZkLTlBf
+LTZkzrMglBf
+lBfZkzrMgLT
+LTlBfZkzrMg
+lBfLTZkzrMg
+lBfZkLTzrMg
+LTlBfZkzrMg
+ZklBfLTzrMg
+lBfzrMgLTZk
+zrMgLTZklBf
+ZklBfLTzrMg
+LTzrMgZklBf
+lBfZkzrMgLT
+LTzrMglBfZk
+
+Test Items:
+LT	kL
+Zk	gZ
+lBf	TlB
+LT	gZ
+lBf	TlB
+LT	kL
+lBf	TlB
+Zk	kL
+lBf	TlB
+Zk	gZ
+zrMg	fzrM
+lBf	TlB
+zrMg	fzrM
+lBf	TlB
+zrMg	fzrM
+Zk	gZ
+zrMg	fzrM
+Zk	kL
+zrMg	fzrM
+LT	kL
+lBf	TlB
+LT	gZ
+Zk	kL
+zrMg	fzrM
+Zk	gZ
+lBf	TlB
+Zk	kL
+zrMg	fzrM
+Zk	gZ
+lBf	TlB

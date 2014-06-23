@@ -1,0 +1,63 @@
+Lexicon: bivA	ziti	lAtudA	kAgugi	bApApivu	kiluduzu	
+
+Training Sentences:
+kiluduzu
+ziti
+kiluduzu
+bivA
+kAgugi
+bivA
+lAtudA
+kAgugi
+bApApivu
+lAtudA
+ziti
+kAgugi
+kiluduzu
+ziti
+kAgugi
+bApApivu
+lAtudA
+bivA
+bApApivu
+kiluduzu
+ziti
+bivA
+bApApivu
+kAgugi
+lAtudA
+kiluduzu
+lAtudA
+bivA
+
+Test Items:
+kAgugi	udAkAg
+ziti	uzub
+bApApivu	ugibApAp
+ziti	uzub
+lAtudA	udAkAg
+bivA	uzub
+lAtudA	itilAt
+ziti	ivAz
+lAtudA	udAkAg
+ziti	uzub
+kiluduzu	ugibApAp
+lAtudA	itilAt
+bApApivu	ivukilud
+lAtudA	udAkAg
+kAgugi	itilAt
+kiluduzu	ugibApAp
+lAtudA	itilAt
+kiluduzu	ugibApAp
+ziti	ivAz
+kiluduzu	ugibApAp
+kAgugi	udAkAg
+kiluduzu	ugibApAp
+kAgugi	udAkAg
+lAtudA	itilAt
+kAgugi	udAkAg
+ziti	ivAz
+bApApivu	ivukilud
+kiluduzu	ugibApAp
+bivA	uzub
+bApApivu	ugibApAp

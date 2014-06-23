@@ -1,0 +1,38 @@
+Lexicon: kigu	lupA	giduzu	zitibA	tupidAvA	bilAvukA	
+
+Training Sentences:
+kiguzitibAtupidAvAzitibAbilAvukAlupAbilAvukAgiduzulupAkigugiduzutupidAvA
+tupidAvAzitibAbilAvukAtupidAvAlupAgiduzukigulupAkigubilAvukAgiduzuzitibA
+kigugiduzutupidAvAzitibAgiduzubilAvukAkigutupidAvAzitibAlupAbilAvukAlupA
+
+Test Items:
+tupidAvA	AvAbilAv
+zitibA	uzuzit
+giduzu	uzuzit
+tupidAvA	AvAbilAv
+giduzu	uzuzit
+lupA	ukAk
+tupidAvA	ibAtupid
+lupA	igul
+kigu	ukAk
+tupidAvA	AvAbilAv
+lupA	ukAk
+tupidAvA	AvAbilAv
+kigu	igul
+lupA	ukAk
+kigu	igul
+bilAvukA	AvAbilAv
+lupA	ukAk
+zitibA	upAgid
+lupA	igul
+tupidAvA	AvAbilAv
+giduzu	uzuzit
+lupA	ukAk
+bilAvukA	AvAbilAv
+giduzu	upAgid
+lupA	ukAk
+tupidAvA	AvAbilAv
+kigu	ukAk
+lupA	igul
+giduzu	upAgid
+lupA	ukAk

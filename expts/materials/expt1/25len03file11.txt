@@ -1,0 +1,118 @@
+Lexicon: bApi	zulA	vAdAvu	pAkAzi	kidutigi	gutulubi	
+
+Training Sentences:
+gutulubikidutigizulA
+bApigutulubizulA
+zulAgutulubibApi
+gutulubibApipAkAzi
+pAkAzikidutigizulA
+gutulubivAdAvubApi
+gutulubikidutigipAkAzi
+vAdAvuzulApAkAzi
+pAkAzikidutigibApi
+vAdAvukidutigipAkAzi
+gutulubizulAbApi
+kidutigivAdAvuzulA
+kidutigibApipAkAzi
+
+Test Items:
+zulA	Apiz
+bApi	ubib
+kidutigi	igigutul
+bApi	Apiz
+pAkAzi	ulAvAd
+zulA	Apiz
+gutulubi	igigutul
+zulA	ubib
+kidutigi	Azikidut
+pAkAzi	AvupAk
+zulA	Apiz
+pAkAzi	ulAvAd
+zulA	ubib
+kidutigi	Azikidut
+vAdAvu	ulAvAd
+kidutigi	igigutul
+zulA	Apiz
+kidutigi	igigutul
+vAdAvu	ulAvAd
+bApi	Apiz
+zulA	ubib
+pAkAzi	AvupAk
+bApi	ubib
+kidutigi	Azikidut
+bApi	ubib
+zulA	Apiz
+pAkAzi	AvupAk
+bApi	ubib
+gutulubi	Azikidut
+pAkAzi	AvupAk
+gutulubi	Azikidut
+pAkAzi	AvupAk
+kidutigi	Azikidut
+zulA	ubib
+vAdAvu	ulAvAd
+kidutigi	igigutul
+bApi	Apiz
+kidutigi	igigutul
+pAkAzi	ulAvAd
+gutulubi	Azikidut
+vAdAvu	AvupAk
+kidutigi	igigutul
+vAdAvu	ulAvAd
+pAkAzi	AvupAk
+vAdAvu	ulAvAd
+gutulubi	igigutul
+kidutigi	igigutul
+pAkAzi	ulAvAd
+gutulubi	igigutul
+vAdAvu	AvupAk
+pAkAzi	ulAvAd
+gutulubi	Azikidut
+vAdAvu	AvupAk
+zulA	Apiz
+kidutigi	igigutul
+vAdAvu	ulAvAd
+bApi	Apiz
+gutulubi	igigutul
+bApi	ubib
+gutulubi	igigutul
+vAdAvu	AvupAk
+gutulubi	igigutul
+vAdAvu	AvupAk
+pAkAzi	ulAvAd
+gutulubi	Azikidut
+vAdAvu	ulAvAd
+kidutigi	Azikidut
+gutulubi	igigutul
+pAkAzi	ulAvAd
+gutulubi	igigutul
+kidutigi	Azikidut
+bApi	Apiz
+pAkAzi	AvupAk
+zulA	Apiz
+gutulubi	Azikidut
+kidutigi	igigutul
+zulA	ubib
+bApi	ubib
+gutulubi	Azikidut
+bApi	Apiz
+vAdAvu	AvupAk
+kidutigi	Azikidut
+vAdAvu	ulAvAd
+pAkAzi	AvupAk
+bApi	Apiz
+vAdAvu	AvupAk
+zulA	ubib
+gutulubi	Azikidut
+zulA	ubib
+gutulubi	Azikidut
+bApi	ubib
+pAkAzi	ulAvAd
+vAdAvu	AvupAk
+zulA	Apiz
+vAdAvu	AvupAk
+gutulubi	igigutul
+zulA	Apiz
+bApi	ubib
+pAkAzi	AvupAk
+vAdAvu	ulAvAd

@@ -1,0 +1,185 @@
+Lexicon: PZ	Tmf	DLFp	tv	
+
+Training Sentences:
+TmfPZDLFptv
+PZDLFpTmftv
+PZtvTmfDLFp
+TmftvPZDLFp
+DLFptvPZTmf
+TmfPZDLFptv
+tvTmfDLFpPZ
+TmfDLFpPZtv
+PZtvDLFpTmf
+DLFptvPZTmf
+DLFptvTmfPZ
+PZTmfDLFptv
+TmfPZtvDLFp
+TmfDLFpPZtv
+tvTmfDLFpPZ
+TmftvDLFpPZ
+TmftvDLFpPZ
+DLFpTmfPZtv
+TmftvPZDLFp
+tvTmfPZDLFp
+DLFpTmftvPZ
+tvPZDLFpTmf
+TmfPZDLFptv
+tvPZDLFpTmf
+PZtvDLFpTmf
+PZTmftvDLFp
+TmfPZDLFptv
+TmfPZDLFptv
+TmftvPZDLFp
+PZtvDLFpTmf
+PZtvDLFpTmf
+DLFpTmfPZtv
+TmfPZtvDLFp
+tvDLFpTmfPZ
+TmfPZDLFptv
+TmfPZDLFptv
+PZTmfDLFptv
+PZTmftvDLFp
+PZTmfDLFptv
+PZDLFpTmftv
+PZTmfDLFptv
+TmfDLFpPZtv
+tvTmfDLFpPZ
+tvDLFpPZTmf
+TmftvDLFpPZ
+TmfPZtvDLFp
+tvPZDLFpTmf
+tvTmfPZDLFp
+PZtvDLFpTmf
+DLFptvTmfPZ
+PZDLFpTmftv
+DLFpTmftvPZ
+TmfPZDLFptv
+tvTmfDLFpPZ
+PZDLFptvTmf
+DLFpTmfPZtv
+DLFpPZtvTmf
+TmftvPZDLFp
+DLFpPZTmftv
+tvTmfDLFpPZ
+TmfPZtvDLFp
+tvPZTmfDLFp
+PZDLFptvTmf
+PZtvTmfDLFp
+PZDLFptvTmf
+DLFpPZtvTmf
+TmfPZDLFptv
+TmfDLFptvPZ
+TmftvDLFpPZ
+DLFpTmfPZtv
+DLFpTmfPZtv
+tvPZTmfDLFp
+TmftvDLFpPZ
+DLFpTmfPZtv
+tvDLFpPZTmf
+TmfPZtvDLFp
+DLFpPZtvTmf
+DLFpTmfPZtv
+tvTmfPZDLFp
+tvTmfDLFpPZ
+TmfPZDLFptv
+TmfDLFptvPZ
+PZDLFpTmftv
+PZtvTmfDLFp
+TmftvPZDLFp
+TmfDLFpPZtv
+tvDLFpTmfPZ
+PZtvDLFpTmf
+DLFpPZtvTmf
+tvPZTmfDLFp
+TmfPZtvDLFp
+DLFptvTmfPZ
+TmftvDLFpPZ
+TmfPZDLFptv
+TmfDLFpPZtv
+PZtvDLFpTmf
+tvPZDLFpTmf
+DLFpPZTmftv
+tvDLFpPZTmf
+DLFpTmftvPZ
+TmfDLFptvPZ
+tvPZTmfDLFp
+tvTmfPZDLFp
+DLFpPZtvTmf
+DLFpPZtvTmf
+TmftvPZDLFp
+tvDLFpTmfPZ
+tvDLFpPZTmf
+tvDLFpPZTmf
+PZtvDLFpTmf
+DLFpPZtvTmf
+tvPZTmfDLFp
+PZtvTmfDLFp
+DLFptvPZTmf
+PZtvTmfDLFp
+tvPZTmfDLFp
+TmfDLFptvPZ
+TmfDLFpPZtv
+TmftvPZDLFp
+DLFpTmftvPZ
+PZTmfDLFptv
+TmfPZDLFptv
+DLFptvPZTmf
+PZTmftvDLFp
+DLFpTmftvPZ
+DLFpPZtvTmf
+DLFpTmftvPZ
+TmfPZDLFptv
+DLFpTmftvPZ
+PZDLFptvTmf
+tvTmfDLFpPZ
+tvTmfDLFpPZ
+DLFpPZTmftv
+DLFpPZtvTmf
+DLFptvPZTmf
+PZDLFptvTmf
+TmftvPZDLFp
+DLFptvTmfPZ
+PZDLFpTmftv
+PZtvTmfDLFp
+DLFpTmfPZtv
+PZTmftvDLFp
+DLFptvTmfPZ
+DLFptvPZTmf
+DLFptvTmfPZ
+TmfDLFptvPZ
+DLFpTmftvPZ
+tvDLFpPZTmf
+PZTmftvDLFp
+PZtvTmfDLFp
+
+Test Items:
+PZ	vP
+DLFp	fDLF
+PZ	pt
+Tmf	ZTm
+DLFp	fDLF
+tv	pt
+Tmf	ZTm
+DLFp	fDLF
+PZ	pt
+DLFp	fDLF
+Tmf	ZTm
+tv	pt
+PZ	vP
+DLFp	fDLF
+tv	vP
+PZ	pt
+tv	pt
+DLFp	fDLF
+PZ	vP
+tv	vP
+PZ	pt
+tv	pt
+DLFp	fDLF
+Tmf	ZTm
+tv	pt
+DLFp	fDLF
+tv	pt
+Tmf	ZTm
+DLFp	fDLF
+PZ	pt

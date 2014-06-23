@@ -1,0 +1,65 @@
+Lexicon: dugu	bipi	vulAbA	tizitu	pAkizukA	dAgivAlu	
+
+Training Sentences:
+pAkizukAtizitudugubipi
+bipipAkizukAvulAbAdugu
+dAgivAluduguvulAbAbipi
+dAgivAluvulAbAbipitizitu
+duguvulAbAbipidAgivAlu
+tizitupAkizukAbipidugu
+vulAbAdAgivAlupAkizukAdugu
+bipipAkizukAdAgivAluvulAbA
+bipitizitudAgivAluvulAbA
+dugupAkizukAvulAbAbipi
+pAkizukAbipitizitudugu
+bipivulAbAdugupAkizukA
+duguvulAbAbipidAgivAlu
+bipidAgivAlutizitupAkizukA
+dAgivAlutizitupAkizukAdugu
+pAkizukAvulAbAtizitudAgivAlu
+dAgivAluvulAbAdugubipi
+tizitudugudAgivAlubipi
+tizituvulAbAdugupAkizukA
+pAkizukAbipidAgivAlutizitu
+pAkizukAtizitudAgivAludugu
+pAkizukAvulAbAdAgivAlutizitu
+dugubipitizituvulAbA
+vulAbAtizitudugudAgivAlu
+dAgivAlutizitudugupAkizukA
+pAkizukAdAgivAluvulAbAtizitu
+bipidugutizitupAkizukA
+vulAbAdAgivAlupAkizukAdugu
+pAkizukAtizitubipivulAbA
+dAgivAluvulAbAtizitubipi
+
+Test Items:
+tizitu	ipivul
+bipi	Alud
+vulAbA	AbAtiz
+pAkizukA	ukAdAgiv
+vulAbA	AbAtiz
+dugu	Alud
+dAgivAlu	ukAdAgiv
+tizitu	AbAtiz
+bipi	ugub
+pAkizukA	ukAdAgiv
+tizitu	ipivul
+dAgivAlu	itupAkiz
+vulAbA	AbAtiz
+tizitu	ipivul
+vulAbA	AbAtiz
+bipi	Alud
+dugu	ugub
+bipi	Alud
+tizitu	ipivul
+vulAbA	AbAtiz
+dAgivAlu	ukAdAgiv
+dugu	ugub
+vulAbA	AbAtiz
+tizitu	ipivul
+dugu	ugub
+pAkizukA	ukAdAgiv
+bipi	ugub
+pAkizukA	ukAdAgiv
+tizitu	ipivul
+vulAbA	AbAtiz

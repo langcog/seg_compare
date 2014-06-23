@@ -1,0 +1,48 @@
+Lexicon: zigi	kigu	pAvAti	lutuzu	bAvulAdu	kApibidA	
+
+Training Sentences:
+kApibidApAvAtilutuzu
+pAvAtilutuzubAvulAdu
+pAvAtilutuzukApibidA
+kApibidAzigibAvulAdu
+zigikigupAvAti
+pAvAtibAvulAdulutuzu
+kigukApibidAlutuzu
+kiguzigibAvulAdu
+pAvAtibAvulAduzigi
+kigukApibidAlutuzu
+bAvulAdupAvAtizigi
+kigulutuzuzigi
+kApibidAzigibAvulAdu
+
+Test Items:
+pAvAti	igupAv
+bAvulAdu	AdukApib
+kigu	idAz
+bAvulAdu	AdukApib
+lutuzu	igupAv
+pAvAti	Atilut
+kApibidA	AdukApib
+kigu	igik
+zigi	idAz
+lutuzu	Atilut
+zigi	idAz
+kigu	igik
+bAvulAdu	AdukApib
+zigi	idAz
+lutuzu	Atilut
+kigu	igik
+pAvAti	igupAv
+lutuzu	igupAv
+kApibidA	uzubAvul
+lutuzu	igupAv
+pAvAti	Atilut
+zigi	igik
+kApibidA	uzubAvul
+bAvulAdu	AdukApib
+kApibidA	uzubAvul
+kigu	igik
+bAvulAdu	uzubAvul
+kigu	igik
+pAvAti	igupAv
+zigi	igik

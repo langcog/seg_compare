@@ -1,0 +1,41 @@
+Lexicon: mJ	KZz	npvr	df	Dgt	
+
+Training Sentences:
+KZznpvrmJDgt
+npvrKZzdfDgt
+mJdfnpvrKZz
+KZzmJnpvrDgt
+mJdfDgtnpvr
+dfmJDgtKZz
+
+Test Items:
+mJ	tm
+Dgt	JKZ
+df	rd
+KZz	JKZ
+df	rd
+KZz	JKZ
+npvr	znpv
+KZz	JKZ
+mJ	rd
+npvr	znpv
+KZz	JKZ
+Dgt	JKZ
+KZz	fDg
+mJ	rd
+npvr	znpv
+df	tm
+KZz	fDg
+Dgt	JKZ
+mJ	rd
+df	tm
+npvr	znpv
+Dgt	JKZ
+mJ	rd
+Dgt	JKZ
+mJ	rd
+KZz	JKZ
+npvr	znpv
+Dgt	fDg
+npvr	znpv
+KZz	fDg

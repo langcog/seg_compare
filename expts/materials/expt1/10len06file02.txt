@@ -1,0 +1,41 @@
+Lexicon: kAvu	zugi	bAtidA	kibilA	lutuvApi	dupAzigu	
+
+Training Sentences:
+lutuvApikAvubAtidAzugikibilAdupAzigu
+bAtidAdupAzigukibilAlutuvApikAvuzugi
+kAvudupAzigubAtidAkibilAzugilutuvApi
+zugilutuvApikibilAdupAzigubAtidAkAvu
+kibilAzugibAtidAdupAzigulutuvApikAvu
+kAvukibilAlutuvApizugidupAzigubAtidA
+
+Test Items:
+kibilA	idAkib
+kAvu	iguk
+lutuvApi	ilAlutuv
+dupAzigu	ApidupAz
+zugi	iguk
+bAtidA	idAkib
+dupAzigu	ApidupAz
+kAvu	Avuz
+dupAzigu	ApidupAz
+kibilA	idAkib
+dupAzigu	ilAlutuv
+kAvu	Avuz
+kibilA	ugibAt
+dupAzigu	ilAlutuv
+lutuvApi	ApidupAz
+dupAzigu	ilAlutuv
+zugi	Avuz
+bAtidA	ugibAt
+dupAzigu	ilAlutuv
+lutuvApi	ApidupAz
+dupAzigu	ilAlutuv
+kibilA	ugibAt
+zugi	Avuz
+dupAzigu	ApidupAz
+kAvu	Avuz
+bAtidA	ugibAt
+lutuvApi	ApidupAz
+kibilA	idAkib
+dupAzigu	ilAlutuv
+zugi	Avuz

@@ -1,0 +1,68 @@
+Lexicon: Kg	Tv	GVL	Dtz	kPBb	lZpd	
+
+Training Sentences:
+TvGVLkPBbDtzKgTvKgDtz
+DtzkPBblZpdKgTvlZpdDtzGVL
+KgkPBbGVLkPBbTvlZpdGVLlZpd
+
+Test Items:
+Tv	gT
+kPBb	zkPB
+lZpd	blZp
+Kg	dK
+lZpd	blZp
+kPBb	zkPB
+Tv	dK
+lZpd	zkPB
+Tv	gT
+Dtz	vGV
+Tv	gT
+Kg	dK
+GVL	LDt
+Kg	dK
+Dtz	LDt
+GVL	vGV
+Kg	gT
+GVL	LDt
+lZpd	blZp
+Tv	dK
+Dtz	vGV
+kPBb	blZp
+GVL	vGV
+Dtz	LDt
+Kg	gT
+Dtz	vGV
+kPBb	zkPB
+GVL	LDt
+lZpd	blZp
+Dtz	LDt
+Kg	dK
+Dtz	LDt
+Kg	dK
+Dtz	vGV
+GVL	LDt
+Dtz	vGV
+lZpd	blZp
+Tv	gT
+GVL	LDt
+Dtz	LDt
+Kg	dK
+kPBb	blZp
+GVL	LDt
+kPBb	zkPB
+Dtz	vGV
+Kg	dK
+Dtz	LDt
+lZpd	blZp
+Kg	gT
+lZpd	blZp
+Tv	gT
+kPBb	zkPB
+Tv	dK
+Kg	gT
+kPBb	zkPB
+Dtz	LDt
+GVL	LDt
+Dtz	vGV
+kPBb	zkPB
+lZpd	blZp

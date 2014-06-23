@@ -1,0 +1,37 @@
+Lexicon: tigu	lulA	pizuzi	duvubi	vAkitubA	gikApAdA	
+
+Training Sentences:
+duvubitigupizuzivAkitubA
+duvubilulApizuzigikApAdA
+
+Test Items:
+duvubi	uziduv
+pizuzi	ulApiz
+tigu	AdAt
+gikApAdA	ubivAkit
+lulA	igul
+tigu	AdAt
+vAkitubA	ubAgikAp
+pizuzi	ulApiz
+gikApAdA	ubivAkit
+tigu	AdAt
+duvubi	ulApiz
+lulA	AdAt
+gikApAdA	ubivAkit
+vAkitubA	ubAgikAp
+tigu	igul
+pizuzi	uziduv
+tigu	AdAt
+duvubi	ulApiz
+gikApAdA	ubAgikAp
+pizuzi	uziduv
+duvubi	ulApiz
+vAkitubA	ubAgikAp
+pizuzi	uziduv
+gikApAdA	ubivAkit
+tigu	AdAt
+pizuzi	ulApiz
+vAkitubA	ubivAkit
+pizuzi	uziduv
+tigu	AdAt
+duvubi	ulApiz

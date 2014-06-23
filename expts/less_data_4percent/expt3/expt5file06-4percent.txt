@@ -1,0 +1,41 @@
+Lexicon: Fv	gmV	MTRp	GN	Dkn	
+
+Training Sentences:
+GNDknFvgmV
+gmVMTRpFvDkn
+DknFvMTRpgmV
+DknMTRpFvGN
+GNDknFvgmV
+GNMTRpgmVMTRp
+
+Test Items:
+MTRp	VMTR
+gmV	NDk
+Dkn	vgm
+GN	pG
+Dkn	vgm
+gmV	NDk
+GN	nF
+gmV	vgm
+Fv	pG
+gmV	NDk
+MTRp	VMTR
+GN	nF
+Dkn	NDk
+MTRp	VMTR
+Dkn	vgm
+Fv	pG
+gmV	vgm
+GN	nF
+Fv	pG
+Dkn	vgm
+GN	pG
+Fv	nF
+Dkn	vgm
+MTRp	VMTR
+GN	nF
+gmV	NDk
+Fv	pG
+Dkn	vgm
+MTRp	VMTR
+Fv	pG

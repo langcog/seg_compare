@@ -1,0 +1,60 @@
+Lexicon: kl	RtG	MTBn	Zd	FgK	
+
+Training Sentences:
+klFgKZdRtG
+RtGklMTBnZd
+MTBnZdFgKkl
+ZdMTBnFgKRtG
+ZdklFgKMTBn
+klRtGMTBnZd
+klMTBnFgKRtG
+RtGMTBnZdkl
+klZdRtGMTBn
+FgKZdRtGkl
+RtGFgKklMTBn
+MTBnZdRtGFgK
+FgKklRtGMTBn
+ZdFgKklMTBn
+ZdRtGFgKMTBn
+FgKRtGMTBnZd
+FgKMTBnZdkl
+RtGklMTBnFgK
+ZdFgKRtGMTBn
+klZdFgKMTBn
+klZdRtGFgK
+FgKklRtGMTBn
+RtGFgKklZd
+klZdMTBnFgK
+klRtGZdRtG
+
+Test Items:
+RtG	lRt
+FgK	dFg
+Zd	nZ
+FgK	dFg
+kl	nZ
+RtG	dFg
+Zd	nZ
+FgK	dFg
+kl	nZ
+RtG	dFg
+MTBn	GMTB
+Zd	Kk
+MTBn	GMTB
+FgK	lRt
+Zd	Kk
+RtG	lRt
+FgK	dFg
+Zd	Kk
+MTBn	GMTB
+FgK	lRt
+Zd	Kk
+kl	nZ
+RtG	dFg
+kl	nZ
+RtG	lRt
+Zd	Kk
+FgK	lRt
+RtG	dFg
+Zd	nZ
+FgK	lRt

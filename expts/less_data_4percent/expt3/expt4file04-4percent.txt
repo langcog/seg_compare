@@ -1,0 +1,41 @@
+Lexicon: gb	TGr	VMLF	nl	
+
+Training Sentences:
+VMLFTGrgbnl
+VMLFnlgbTGr
+VMLFnlgbTGr
+VMLFgbnlTGr
+TGrgbVMLFnl
+TGrnlgbVMLF
+
+Test Items:
+TGr	bTG
+gb	Fn
+TGr	bTG
+nl	Fn
+VMLF	rVML
+TGr	bTG
+VMLF	rVML
+TGr	bTG
+VMLF	rVML
+TGr	bTG
+VMLF	rVML
+gb	lg
+TGr	bTG
+nl	lg
+gb	Fn
+VMLF	rVML
+gb	lg
+TGr	bTG
+VMLF	rVML
+nl	lg
+VMLF	rVML
+gb	Fn
+VMLF	rVML
+gb	lg
+nl	Fn
+TGr	bTG
+VMLF	rVML
+nl	Fn
+TGr	bTG
+nl	lg

@@ -1,0 +1,36 @@
+Lexicon: lugi	tubA	kAdugu	kizuvu	pAlAtizi	dApibivA	
+
+Training Sentences:
+lugidApibivAlugidApibivAkAdugukizuvulugitubApAlAtizidApibivApAlAtizitubAkAdugupAlAtizikAdugudApibivAkizuvukAdugupAlAtizilugitubAkizuvutubAkizuvu
+
+Test Items:
+kAdugu	ugukiz
+dApibivA	uvupAlAt
+lugi	ivAl
+pAlAtizi	izidApib
+tubA	ivAl
+kizuvu	ugukiz
+lugi	ivAl
+pAlAtizi	uvupAlAt
+lugi	ugit
+pAlAtizi	izidApib
+kizuvu	ugukiz
+tubA	ugit
+pAlAtizi	uvupAlAt
+dApibivA	izidApib
+pAlAtizi	uvupAlAt
+kAdugu	ugukiz
+kizuvu	ubAkAd
+dApibivA	uvupAlAt
+lugi	ugit
+kAdugu	ugukiz
+kizuvu	ubAkAd
+pAlAtizi	uvupAlAt
+dApibivA	izidApib
+tubA	ivAl
+kAdugu	ubAkAd
+pAlAtizi	uvupAlAt
+kizuvu	ugukiz
+dApibivA	uvupAlAt
+pAlAtizi	izidApib
+lugi	ugit

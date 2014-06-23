@@ -1,0 +1,42 @@
+Lexicon: Zp	NkG	fFdK	rP	
+
+Training Sentences:
+NkGrPZpfFdK
+ZpNkGfFdKrP
+rPZpNkGfFdK
+ZpNkGrPfFdK
+fFdKNkGrPZp
+rPNkGZpfFdK
+rPfFdKNkGZp
+
+Test Items:
+fFdK	GfFd
+rP	Kr
+Zp	Kr
+NkG	pNk
+Zp	Kr
+NkG	pNk
+rP	PZ
+fFdK	GfFd
+Zp	Kr
+fFdK	GfFd
+NkG	pNk
+Zp	Kr
+fFdK	GfFd
+rP	PZ
+Zp	Kr
+rP	Kr
+Zp	PZ
+rP	Kr
+NkG	pNk
+rP	Kr
+fFdK	GfFd
+rP	Kr
+NkG	pNk
+Zp	Kr
+rP	Kr
+Zp	PZ
+fFdK	GfFd
+Zp	PZ
+fFdK	GfFd
+NkG	pNk

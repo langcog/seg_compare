@@ -1,0 +1,60 @@
+Lexicon: PT	bRB	rZzf	Vd	klL	
+
+Training Sentences:
+VdklLbRBrZzf
+bRBklLrZzfPT
+bRBVdPTrZzf
+bRBklLVdPT
+bRBVdPTklL
+klLPTrZzfVd
+bRBVdrZzfklL
+PTVdklLrZzf
+PTbRBrZzfVd
+VdklLbRBPT
+klLbRBPTrZzf
+klLrZzfPTbRB
+klLVdrZzfPT
+bRBklLPTVd
+klLrZzfVdPT
+klLPTbRBrZzf
+PTbRBrZzfVd
+klLrZzfbRBPT
+klLVdbRBrZzf
+PTrZzfbRBVd
+rZzfVdPTbRB
+PTVdrZzfklL
+klLbRBPTVd
+bRBVdklLrZzf
+klLbRBVdrZzf
+
+Test Items:
+bRB	dkl
+klL	TbR
+bRB	TbR
+rZzf	BrZz
+Vd	fV
+rZzf	BrZz
+klL	dkl
+Vd	LP
+PT	fV
+bRB	TbR
+klL	dkl
+PT	LP
+rZzf	BrZz
+klL	dkl
+rZzf	BrZz
+PT	LP
+bRB	dkl
+Vd	LP
+bRB	dkl
+Vd	fV
+rZzf	BrZz
+klL	dkl
+rZzf	BrZz
+bRB	TbR
+Vd	fV
+klL	dkl
+bRB	TbR
+PT	LP
+klL	dkl
+rZzf	BrZz

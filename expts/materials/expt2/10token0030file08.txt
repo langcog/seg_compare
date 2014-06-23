@@ -1,0 +1,42 @@
+Lexicon: pivA	kAdu	pAvuti	bAzuki	zidAgilA	tugubilu	
+
+Training Sentences:
+zidAgilAkAdubAzukipivA
+pAvutikAduzidAgilApivA
+bAzukitugubilukAduzidAgilA
+pAvutipivAbAzukitugubilu
+pivAtugubilupAvutizidAgilA
+tugubilupivApAvutikAdu
+bAzukizidAgilApAvutitugubilu
+
+Test Items:
+pivA	ivAk
+zidAgilA	ukizidAg
+pAvuti	utibAz
+zidAgilA	ilAtugub
+tugubilu	ukizidAg
+pivA	ivAk
+tugubilu	ukizidAg
+pAvuti	AdupAv
+kAdu	ivAk
+zidAgilA	ukizidAg
+bAzuki	AdupAv
+pivA	ivAk
+tugubilu	ilAtugub
+pAvuti	utibAz
+tugubilu	ilAtugub
+bAzuki	AdupAv
+zidAgilA	ilAtugub
+kAdu	ilup
+pivA	ilup
+kAdu	ivAk
+pivA	ilup
+zidAgilA	ukizidAg
+pivA	ilup
+bAzuki	AdupAv
+tugubilu	ilAtugub
+bAzuki	utibAz
+tugubilu	ukizidAg
+pivA	ilup
+bAzuki	utibAz
+zidAgilA	ukizidAg

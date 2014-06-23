@@ -1,0 +1,185 @@
+Lexicon: kL	vpg	KPJn	lm	
+
+Training Sentences:
+KPJnkLlmvpg
+vpglmKPJnkL
+vpgkLKPJnlm
+kLKPJnvpglm
+vpgKPJnlmkL
+lmKPJnkLvpg
+vpgKPJnkLlm
+KPJnlmkLvpg
+KPJnkLlmvpg
+lmKPJnkLvpg
+kLKPJnlmvpg
+vpglmkLKPJn
+KPJnlmvpgkL
+kLvpgKPJnlm
+lmvpgKPJnkL
+vpgKPJnkLlm
+lmkLvpgKPJn
+KPJnkLvpglm
+KPJnvpglmkL
+kLvpgKPJnlm
+vpgkLKPJnlm
+vpgkLKPJnlm
+KPJnkLvpglm
+lmKPJnkLvpg
+lmkLKPJnvpg
+vpglmkLKPJn
+kLKPJnlmvpg
+KPJnlmvpgkL
+vpglmKPJnkL
+lmKPJnkLvpg
+vpgkLKPJnlm
+KPJnlmkLvpg
+vpgkLKPJnlm
+vpgKPJnlmkL
+KPJnkLlmvpg
+lmkLvpgKPJn
+lmkLvpgKPJn
+kLvpglmKPJn
+lmKPJnkLvpg
+kLvpglmKPJn
+vpgkLKPJnlm
+kLlmvpgKPJn
+KPJnlmkLvpg
+kLKPJnvpglm
+lmKPJnkLvpg
+KPJnkLvpglm
+kLvpgKPJnlm
+lmKPJnkLvpg
+KPJnkLlmvpg
+vpglmkLKPJn
+KPJnkLvpglm
+kLlmvpgKPJn
+lmvpgKPJnkL
+kLvpgKPJnlm
+KPJnkLvpglm
+vpgKPJnkLlm
+KPJnkLlmvpg
+KPJnlmvpgkL
+lmKPJnvpgkL
+KPJnlmkLvpg
+kLKPJnvpglm
+vpgkLKPJnlm
+lmvpgkLKPJn
+kLvpglmKPJn
+lmvpgKPJnkL
+KPJnvpgkLlm
+kLKPJnlmvpg
+lmKPJnkLvpg
+vpgKPJnlmkL
+lmKPJnkLvpg
+KPJnkLvpglm
+KPJnvpglmkL
+vpgKPJnkLlm
+kLvpgKPJnlm
+KPJnkLlmvpg
+lmkLvpgKPJn
+kLvpglmKPJn
+KPJnlmvpgkL
+lmvpgKPJnkL
+vpglmkLKPJn
+lmvpgKPJnkL
+lmkLvpgKPJn
+kLKPJnlmvpg
+vpgKPJnkLlm
+KPJnvpgkLlm
+lmvpgkLKPJn
+vpgKPJnkLlm
+kLKPJnvpglm
+vpgKPJnlmkL
+KPJnvpgkLlm
+vpgKPJnlmkL
+kLKPJnlmvpg
+kLKPJnvpglm
+vpgkLlmKPJn
+lmKPJnvpgkL
+vpgkLlmKPJn
+vpglmKPJnkL
+KPJnvpglmkL
+kLlmKPJnvpg
+vpglmkLKPJn
+vpglmKPJnkL
+lmkLKPJnvpg
+KPJnlmkLvpg
+KPJnkLvpglm
+vpgkLlmKPJn
+KPJnvpglmkL
+kLlmKPJnvpg
+kLKPJnvpglm
+vpgKPJnkLlm
+vpgKPJnkLlm
+lmvpgkLKPJn
+kLlmKPJnvpg
+vpgkLKPJnlm
+KPJnkLlmvpg
+kLKPJnlmvpg
+lmvpgkLKPJn
+KPJnlmvpgkL
+KPJnvpgkLlm
+lmvpgkLKPJn
+KPJnkLvpglm
+lmkLKPJnvpg
+kLKPJnvpglm
+KPJnvpgkLlm
+vpgkLKPJnlm
+lmKPJnvpgkL
+kLKPJnvpglm
+KPJnkLvpglm
+lmKPJnkLvpg
+vpgkLKPJnlm
+KPJnkLlmvpg
+KPJnkLlmvpg
+lmvpgkLKPJn
+lmkLKPJnvpg
+vpglmKPJnkL
+KPJnvpgkLlm
+vpglmKPJnkL
+kLvpglmKPJn
+lmkLKPJnvpg
+vpglmkLKPJn
+vpglmkLKPJn
+lmvpgKPJnkL
+vpgkLKPJnlm
+lmKPJnvpgkL
+lmkLKPJnvpg
+KPJnvpglmkL
+kLvpglmKPJn
+lmvpgKPJnkL
+lmKPJnkLvpg
+KPJnkLlmvpg
+KPJnkLlmvpg
+
+Test Items:
+KPJn	gKPJ
+lm	nl
+KPJn	gKPJ
+lm	mk
+KPJn	gKPJ
+kL	nl
+KPJn	gKPJ
+kL	mk
+KPJn	gKPJ
+vpg	Lvp
+kL	mk
+lm	nl
+kL	mk
+KPJn	gKPJ
+lm	mk
+KPJn	gKPJ
+lm	nl
+kL	nl
+vpg	Lvp
+lm	mk
+kL	mk
+lm	nl
+kL	mk
+KPJn	gKPJ
+lm	nl
+KPJn	gKPJ
+vpg	Lvp
+lm	mk
+vpg	Lvp
+lm	nl

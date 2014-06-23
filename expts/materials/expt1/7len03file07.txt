@@ -1,0 +1,44 @@
+Lexicon: gilu	lAvA	dupizi	kikAgu	bibAzuti	tuvupAdA	
+
+Training Sentences:
+gilukikAgubibAzuti
+dupizibibAzutilAvA
+dupizibibAzutituvupAdA
+kikAgugilutuvupAdA
+tuvupAdAgilubibAzuti
+kikAgulAvAtuvupAdA
+lAvAgilukikAgu
+lAvAbibAzutigilu
+dupizilAvAtuvupAdA
+
+Test Items:
+lAvA	ilul
+tuvupAdA	utituvup
+lAvA	AdAg
+kikAgu	AvAdup
+tuvupAdA	AgubibAz
+dupizi	AvAdup
+lAvA	ilul
+tuvupAdA	AgubibAz
+dupizi	AvAdup
+lAvA	ilul
+dupizi	izikik
+tuvupAdA	utituvup
+dupizi	izikik
+bibAzuti	utituvup
+dupizi	izikik
+gilu	ilul
+tuvupAdA	AgubibAz
+gilu	AdAg
+tuvupAdA	AgubibAz
+gilu	ilul
+dupizi	AvAdup
+bibAzuti	AgubibAz
+gilu	ilul
+dupizi	AvAdup
+bibAzuti	AgubibAz
+kikAgu	AvAdup
+tuvupAdA	utituvup
+dupizi	AvAdup
+lAvA	AdAg
+dupizi	AvAdup

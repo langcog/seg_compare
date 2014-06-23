@@ -1,0 +1,57 @@
+Lexicon: pAbi	vugu	zibAki	tikAdu	zupivAdA	gilAlutu	
+
+Training Sentences:
+vugutikAdugilAlutuzupivAdA
+tikAduzupivAdApAbigilAlutu
+pAbitikAduzupivAdAvugu
+zibAkigilAlutupAbitikAdu
+gilAlutuzibAkivuguzupivAdA
+zupivAdAgilAlututikAduzibAki
+pAbizupivAdAgilAlutuzibAki
+tikAduzibAkizupivAdApAbi
+gilAlutuzupivAdApAbivugu
+gilAlutuzibAkizupivAdAvugu
+zibAkipAbivugugilAlutu
+vugugilAlutupAbitikAdu
+zibAkivuguzupivAdAtikAdu
+pAbitikAduzibAkigilAlutu
+pAbivugutikAdugilAlutu
+vuguzibAkizupivAdApAbi
+pAbitikAduvugugilAlutu
+gilAlutuvugupAbizibAki
+gilAlutuzibAkizupivAdApAbi
+tikAduvuguzupivAdApAbi
+tikAduzupivAdAvuguzibAki
+tikAduzupivAdAzibAkivugu
+
+Test Items:
+zibAki	Akitik
+vugu	utup
+pAbi	utup
+vugu	Abiv
+zibAki	Akitik
+pAbi	utup
+tikAdu	uguzib
+vugu	Abiv
+zupivAdA	Aduzupiv
+vugu	Abiv
+zupivAdA	AdAgilAl
+zibAki	uguzib
+zupivAdA	AdAgilAl
+zibAki	Akitik
+gilAlutu	Aduzupiv
+zibAki	uguzib
+gilAlutu	AdAgilAl
+tikAdu	uguzib
+zupivAdA	AdAgilAl
+zibAki	Akitik
+tikAdu	uguzib
+pAbi	utup
+gilAlutu	AdAgilAl
+vugu	utup
+zupivAdA	AdAgilAl
+gilAlutu	Aduzupiv
+tikAdu	Akitik
+vugu	Abiv
+zupivAdA	AdAgilAl
+vugu	utup

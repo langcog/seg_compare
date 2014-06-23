@@ -1,0 +1,37 @@
+Lexicon: tuvu	ziki	dAtipA	gulAlu	vAbigizu	bAdukApi	
+
+Training Sentences:
+zikidAtipAtuvuzikivAbigizutuvudAtipAvAbigizubAdukApigulAlubAdukApigulAlu
+zikigulAludAtipAtuvudAtipAvAbigizugulAlutuvuzikivAbigizubAdukApigulAlu
+
+Test Items:
+ziki	uvuz
+vAbigizu	izubAduk
+ziki	Apit
+bAdukApi	AluvAbig
+gulAlu	ikidAt
+dAtipA	ipAgul
+gulAlu	ikidAt
+dAtipA	ipAgul
+tuvu	Apit
+gulAlu	ikidAt
+tuvu	Apit
+vAbigizu	izubAduk
+tuvu	Apit
+dAtipA	ikidAt
+ziki	Apit
+tuvu	uvuz
+vAbigizu	AluvAbig
+bAdukApi	izubAduk
+tuvu	Apit
+ziki	uvuz
+gulAlu	ipAgul
+vAbigizu	izubAduk
+gulAlu	ipAgul
+bAdukApi	izubAduk
+vAbigizu	AluvAbig
+gulAlu	ikidAt
+tuvu	uvuz
+dAtipA	ipAgul
+bAdukApi	izubAduk
+ziki	uvuz

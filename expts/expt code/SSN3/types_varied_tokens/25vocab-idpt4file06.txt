@@ -1,0 +1,60 @@
+Lexicon: Nd	TlG	Mnvp	Pg	
+
+Training Sentences:
+TlGNdMnvpPg
+PgMnvpTlGNd
+PgNdTlGMnvp
+NdTlGMnvpPg
+NdMnvpPgTlG
+PgMnvpNdTlG
+PgMnvpNdTlG
+PgNdMnvpTlG
+PgNdMnvpTlG
+TlGMnvpPgNd
+TlGMnvpPgNd
+PgTlGMnvpNd
+MnvpPgNdTlG
+PgNdTlGMnvp
+TlGNdPgMnvp
+TlGMnvpPgNd
+TlGPgMnvpNd
+PgNdTlGMnvp
+TlGPgNdMnvp
+MnvpTlGPgNd
+PgTlGMnvpNd
+TlGPgMnvpNd
+NdTlGMnvpPg
+PgNdTlGMnvp
+MnvpNdTlGPg
+
+Test Items:
+Pg	pP
+Nd	gN
+TlG	dTl
+Nd	pP
+TlG	dTl
+Mnvp	GMnv
+Pg	pP
+Mnvp	GMnv
+Nd	gN
+Pg	pP
+Nd	gN
+Mnvp	GMnv
+TlG	dTl
+Pg	pP
+Mnvp	GMnv
+Nd	pP
+Pg	pP
+Nd	gN
+TlG	dTl
+Nd	pP
+Mnvp	GMnv
+Pg	pP
+Mnvp	GMnv
+Nd	pP
+Pg	gN
+TlG	dTl
+Nd	gN
+TlG	dTl
+Mnvp	GMnv
+Pg	gN

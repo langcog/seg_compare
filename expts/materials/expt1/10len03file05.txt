@@ -1,0 +1,48 @@
+Lexicon: tikA	zigi	pibigu	pAtuzu	kivAdAdu	bAlulAvu	
+
+Training Sentences:
+pAtuzutikAkivAdAdu
+kivAdAdupibigutikA
+zigipAtuzutikA
+pibigutikAzigi
+pibiguzigibAlulAvu
+bAlulAvupAtuzutikA
+bAlulAvukivAdAdupibigu
+kivAdAduzigipibigu
+zigitikApAtuzu
+bAlulAvupAtuzupibigu
+zigipAtuzutikA
+zigipAtuzubAlulAvu
+kivAdAdubAlulAvupibigu
+
+Test Items:
+bAlulAvu	AdubAlul
+pibigu	igupAt
+kivAdAdu	uzukivAd
+tikA	ikAz
+pAtuzu	igipib
+pibigu	igupAt
+bAlulAvu	uzukivAd
+zigi	ikAz
+tikA	Avut
+pAtuzu	igipib
+kivAdAdu	uzukivAd
+pAtuzu	igipib
+tikA	Avut
+bAlulAvu	uzukivAd
+pAtuzu	igipib
+zigi	Avut
+tikA	ikAz
+kivAdAdu	uzukivAd
+tikA	Avut
+kivAdAdu	uzukivAd
+pibigu	igipib
+zigi	ikAz
+pibigu	igipib
+tikA	Avut
+pAtuzu	igipib
+pibigu	igupAt
+zigi	Avut
+pAtuzu	igupAt
+kivAdAdu	AdubAlul
+pibigu	igupAt

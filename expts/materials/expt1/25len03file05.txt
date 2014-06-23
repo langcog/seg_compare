@@ -1,0 +1,118 @@
+Lexicon: lukA	dAbi	tugupA	bAzilA	gizukivA	vupitidu	
+
+Training Sentences:
+bAzilAlukAgizukivA
+vupitidutugupAgizukivA
+vupitidulukAtugupA
+bAzilAlukAdAbi
+dAbigizukivAvupitidu
+dAbigizukivAtugupA
+tugupAlukAbAzilA
+dAbilukAgizukivA
+vupitidubAzilAlukA
+vupitidugizukivAlukA
+dAbivupitidutugupA
+bAzilAtugupAvupitidu
+dAbibAzilAgizukivA
+
+Test Items:
+lukA	ukAd
+vupitidu	ivAvupit
+bAzilA	upAbAz
+lukA	idul
+vupitidu	ilAgizuk
+dAbi	idul
+tugupA	upAbAz
+vupitidu	ilAgizuk
+tugupA	upAbAz
+bAzilA	Abitug
+gizukivA	ivAvupit
+lukA	idul
+dAbi	ukAd
+lukA	idul
+vupitidu	ivAvupit
+tugupA	Abitug
+dAbi	idul
+gizukivA	ivAvupit
+tugupA	upAbAz
+vupitidu	ivAvupit
+bAzilA	upAbAz
+gizukivA	ilAgizuk
+lukA	idul
+dAbi	ukAd
+gizukivA	ivAvupit
+lukA	ukAd
+gizukivA	ivAvupit
+dAbi	idul
+tugupA	upAbAz
+bAzilA	Abitug
+gizukivA	ilAgizuk
+lukA	idul
+gizukivA	ivAvupit
+dAbi	ukAd
+lukA	idul
+gizukivA	ivAvupit
+vupitidu	ivAvupit
+tugupA	Abitug
+gizukivA	ivAvupit
+dAbi	ukAd
+vupitidu	ilAgizuk
+dAbi	ukAd
+tugupA	upAbAz
+gizukivA	ilAgizuk
+vupitidu	ivAvupit
+dAbi	ukAd
+gizukivA	ilAgizuk
+dAbi	idul
+gizukivA	ivAvupit
+dAbi	idul
+bAzilA	upAbAz
+dAbi	idul
+gizukivA	ilAgizuk
+bAzilA	Abitug
+dAbi	ukAd
+lukA	idul
+vupitidu	ivAvupit
+dAbi	idul
+vupitidu	ivAvupit
+tugupA	upAbAz
+vupitidu	ivAvupit
+dAbi	ukAd
+vupitidu	ivAvupit
+dAbi	idul
+tugupA	Abitug
+lukA	idul
+bAzilA	Abitug
+gizukivA	ilAgizuk
+vupitidu	ivAvupit
+dAbi	idul
+vupitidu	ivAvupit
+bAzilA	Abitug
+vupitidu	ivAvupit
+dAbi	ukAd
+vupitidu	ilAgizuk
+tugupA	upAbAz
+vupitidu	ilAgizuk
+dAbi	idul
+bAzilA	Abitug
+dAbi	ukAd
+bAzilA	Abitug
+lukA	idul
+vupitidu	ilAgizuk
+lukA	ukAd
+tugupA	upAbAz
+lukA	ukAd
+tugupA	upAbAz
+vupitidu	ilAgizuk
+bAzilA	upAbAz
+gizukivA	ivAvupit
+lukA	idul
+gizukivA	ivAvupit
+lukA	ukAd
+tugupA	Abitug
+lukA	ukAd
+gizukivA	ivAvupit
+tugupA	upAbAz
+dAbi	ukAd
+lukA	idul
+vupitidu	ivAvupit

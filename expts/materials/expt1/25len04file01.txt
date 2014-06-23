@@ -1,0 +1,115 @@
+Lexicon: kibi	gizi	tikApA	vAgulu	pivulAzu	tudAbAdu	
+
+Training Sentences:
+tikApAvAgulukibigizi
+kibipivulAzugizivAgulu
+pivulAzukibitudAbAduvAgulu
+tudAbAduvAgulugizikibi
+tikApAgizipivulAzukibi
+tudAbAdutikApAgizipivulAzu
+pivulAzugizitikApAvAgulu
+tudAbAdutikApAvAgulupivulAzu
+kibitudAbAdugizipivulAzu
+kibitudAbAdutikApAvAgulu
+
+Test Items:
+vAgulu	izitik
+kibi	ibig
+pivulAzu	ulupivul
+vAgulu	ApAvAg
+tudAbAdu	AzutudAb
+kibi	ibig
+vAgulu	izitik
+tikApA	ApAvAg
+pivulAzu	AzutudAb
+kibi	ibig
+pivulAzu	ulupivul
+tikApA	izitik
+gizi	ibig
+vAgulu	ApAvAg
+pivulAzu	ulupivul
+gizi	Aduk
+vAgulu	izitik
+gizi	Aduk
+kibi	ibig
+gizi	Aduk
+vAgulu	izitik
+tikApA	ApAvAg
+tudAbAdu	ulupivul
+pivulAzu	ulupivul
+vAgulu	ApAvAg
+gizi	ibig
+pivulAzu	ulupivul
+kibi	Aduk
+gizi	Aduk
+kibi	ibig
+gizi	Aduk
+pivulAzu	AzutudAb
+vAgulu	ApAvAg
+tikApA	izitik
+gizi	Aduk
+vAgulu	izitik
+tikApA	ApAvAg
+vAgulu	ApAvAg
+tikApA	izitik
+kibi	ibig
+vAgulu	ApAvAg
+kibi	Aduk
+vAgulu	ApAvAg
+tudAbAdu	AzutudAb
+vAgulu	ApAvAg
+gizi	Aduk
+vAgulu	ApAvAg
+pivulAzu	AzutudAb
+tikApA	ApAvAg
+vAgulu	izitik
+pivulAzu	AzutudAb
+gizi	Aduk
+tikApA	ApAvAg
+vAgulu	izitik
+tudAbAdu	AzutudAb
+gizi	Aduk
+tudAbAdu	ulupivul
+tikApA	ApAvAg
+gizi	Aduk
+vAgulu	ApAvAg
+pivulAzu	AzutudAb
+kibi	Aduk
+tudAbAdu	AzutudAb
+gizi	ibig
+tudAbAdu	ulupivul
+vAgulu	ApAvAg
+tikApA	ApAvAg
+kibi	ibig
+tudAbAdu	ulupivul
+tikApA	ApAvAg
+kibi	ibig
+tudAbAdu	ulupivul
+pivulAzu	AzutudAb
+tudAbAdu	ulupivul
+gizi	ibig
+pivulAzu	AzutudAb
+tikApA	ApAvAg
+tudAbAdu	AzutudAb
+tikApA	ApAvAg
+tudAbAdu	AzutudAb
+tikApA	ApAvAg
+tudAbAdu	AzutudAb
+vAgulu	ApAvAg
+pivulAzu	AzutudAb
+tikApA	ApAvAg
+pivulAzu	AzutudAb
+vAgulu	izitik
+kibi	ibig
+vAgulu	ApAvAg
+pivulAzu	AzutudAb
+tudAbAdu	ulupivul
+pivulAzu	AzutudAb
+gizi	Aduk
+vAgulu	ApAvAg
+tudAbAdu	AzutudAb
+tikApA	izitik
+gizi	Aduk
+kibi	ibig
+gizi	Aduk
+vAgulu	izitik

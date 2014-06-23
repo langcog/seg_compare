@@ -1,0 +1,185 @@
+Lexicon: lb	zJM	RDVm	Tp	GLd	
+
+Training Sentences:
+lbGLdTpzJM
+lbRDVmTpGLd
+RDVmlbGLdTp
+GLdTpRDVmlb
+zJMlbRDVmGLd
+TpRDVmzJMGLd
+TpzJMGLdRDVm
+lbTpzJMRDVm
+TpzJMRDVmlb
+zJMGLdTpRDVm
+lbGLdzJMRDVm
+GLdlbzJMRDVm
+RDVmTpGLdlb
+GLdTpzJMRDVm
+GLdlbzJMTp
+lbGLdzJMTp
+GLdTpzJMRDVm
+GLdzJMlbRDVm
+lbGLdRDVmzJM
+zJMlbRDVmGLd
+RDVmzJMGLdTp
+GLdTpzJMRDVm
+TpRDVmGLdlb
+RDVmlbGLdzJM
+GLdTpzJMlb
+RDVmGLdlbzJM
+GLdTpRDVmlb
+zJMGLdlbRDVm
+TplbzJMRDVm
+lbTpzJMRDVm
+zJMGLdlbRDVm
+GLdlbRDVmzJM
+GLdlbRDVmzJM
+GLdRDVmzJMTp
+GLdzJMRDVmTp
+RDVmGLdlbTp
+RDVmTpGLdlb
+GLdTpzJMlb
+TpGLdzJMRDVm
+lbzJMGLdTp
+zJMRDVmGLdlb
+GLdRDVmTpzJM
+RDVmzJMTpGLd
+zJMGLdlbRDVm
+RDVmzJMTplb
+zJMTpRDVmlb
+zJMTplbGLd
+zJMTpGLdlb
+GLdlbRDVmTp
+lbRDVmGLdTp
+zJMGLdRDVmTp
+zJMTpRDVmGLd
+zJMRDVmTplb
+GLdRDVmTplb
+TpRDVmlbzJM
+lbTpRDVmzJM
+RDVmGLdlbTp
+zJMTplbGLd
+lbTpzJMRDVm
+GLdzJMTplb
+TplbRDVmzJM
+GLdTpzJMlb
+RDVmGLdTplb
+RDVmzJMlbGLd
+RDVmTplbGLd
+lbTpGLdRDVm
+TpGLdzJMRDVm
+TpGLdlbzJM
+zJMRDVmGLdlb
+RDVmGLdlbTp
+zJMTpGLdRDVm
+lbGLdTpzJM
+GLdRDVmzJMTp
+TpRDVmlbGLd
+zJMlbTpRDVm
+TpzJMGLdlb
+zJMRDVmlbGLd
+zJMTplbGLd
+TpGLdzJMRDVm
+lbRDVmTpGLd
+lbTpRDVmGLd
+lbzJMRDVmGLd
+GLdzJMTpRDVm
+TpRDVmGLdzJM
+zJMlbGLdRDVm
+lbRDVmTpzJM
+GLdlbzJMRDVm
+TpRDVmzJMGLd
+GLdzJMlbTp
+RDVmTpzJMGLd
+GLdRDVmTplb
+TpzJMRDVmlb
+lbRDVmTpGLd
+RDVmlbTpzJM
+zJMRDVmlbTp
+lbzJMGLdTp
+RDVmzJMTplb
+GLdzJMTplb
+lbTpzJMRDVm
+GLdRDVmzJMlb
+RDVmTplbzJM
+lbTpGLdRDVm
+lbRDVmTpGLd
+zJMTpGLdRDVm
+RDVmTpzJMlb
+zJMTplbGLd
+RDVmlbTpGLd
+lbGLdTpRDVm
+GLdTplbRDVm
+GLdRDVmTpzJM
+lbzJMTpRDVm
+TplbzJMGLd
+lbTpRDVmzJM
+TplbRDVmzJM
+lbTpGLdzJM
+GLdlbRDVmzJM
+lbzJMTpGLd
+zJMGLdTpRDVm
+GLdTpRDVmlb
+lbGLdTpzJM
+lbRDVmzJMTp
+TpGLdRDVmzJM
+TpGLdRDVmlb
+RDVmlbGLdTp
+TpRDVmzJMlb
+zJMRDVmGLdlb
+RDVmlbTpzJM
+GLdlbTpzJM
+GLdzJMTplb
+RDVmTpzJMGLd
+lbzJMGLdRDVm
+TplbzJMRDVm
+zJMTpRDVmlb
+TplbzJMRDVm
+RDVmTpGLdlb
+TpRDVmzJMGLd
+TpzJMGLdlb
+lbRDVmTpGLd
+GLdzJMlbRDVm
+GLdTpRDVmlb
+GLdzJMRDVmTp
+GLdzJMTplb
+zJMlbTpGLd
+TpGLdRDVmzJM
+RDVmGLdzJMlb
+zJMGLdTplb
+GLdzJMlbRDVm
+RDVmzJMGLdlb
+zJMlbGLdRDVm
+zJMlbzJMzJM
+
+Test Items:
+Tp	mT
+lb	mT
+zJM	pGL
+RDVm	MRDV
+GLd	bzJ
+RDVm	MRDV
+lb	dl
+GLd	bzJ
+zJM	pGL
+RDVm	MRDV
+GLd	pGL
+zJM	pGL
+lb	dl
+zJM	pGL
+Tp	dl
+RDVm	MRDV
+GLd	pGL
+lb	mT
+GLd	bzJ
+lb	mT
+GLd	pGL
+RDVm	MRDV
+Tp	mT
+RDVm	MRDV
+GLd	bzJ
+zJM	bzJ
+Tp	mT
+zJM	bzJ
+RDVm	MRDV
+Tp	mT

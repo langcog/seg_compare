@@ -1,0 +1,36 @@
+Lexicon: gipA	tivA	dukilu	tuzigu	vubipilA	bAdAzukA	
+
+Training Sentences:
+tivAgipAdukilubAdAzukAvubipilAbAdAzukAvubipilAbAdAzukAtivAbAdAzukAvubipilAdukilutivAdukilugipAvubipilAtuzigugipAdukilutuzigutivAgipAtuzigugipA
+
+Test Items:
+vubipilA	ilAbAdAz
+tivA	ipAt
+bAdAzukA	iguvubip
+gipA	ukAg
+dukilu	ivAduk
+gipA	ukAg
+dukilu	ilutuz
+gipA	ukAg
+bAdAzukA	iguvubip
+vubipilA	ilAbAdAz
+gipA	ipAt
+vubipilA	iguvubip
+tuzigu	ilutuz
+bAdAzukA	iguvubip
+vubipilA	ilAbAdAz
+tuzigu	ivAduk
+dukilu	ilutuz
+vubipilA	ilAbAdAz
+bAdAzukA	iguvubip
+gipA	ipAt
+vubipilA	iguvubip
+tivA	ipAt
+bAdAzukA	ilAbAdAz
+vubipilA	iguvubip
+tuzigu	ilutuz
+dukilu	ivAduk
+vubipilA	ilAbAdAz
+gipA	ukAg
+vubipilA	ilAbAdAz
+tuzigu	ivAduk

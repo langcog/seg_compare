@@ -1,0 +1,37 @@
+Lexicon: pAlA	zupi	lukAbA	zidubi	tutikigi	guvudAvA	
+
+Training Sentences:
+zupizidubitutikigiguvudAvAzupizidubipAlAguvudAvAlukAbAtutikigilukAbApAlA
+tutikigizupitutikigiguvudAvApAlAzupiguvudAvAzidubipAlAlukAbAzidubilukAbA
+
+Test Items:
+tutikigi	igiguvud
+pAlA	AlAz
+guvudAvA	igiguvud
+lukAbA	AbAzid
+zupi	AvAp
+pAlA	AlAz
+zidubi	upiluk
+guvudAvA	ubitutik
+zidubi	AbAzid
+guvudAvA	igiguvud
+lukAbA	upiluk
+pAlA	AvAp
+tutikigi	igiguvud
+guvudAvA	ubitutik
+zupi	AlAz
+pAlA	AvAp
+zupi	AlAz
+pAlA	AlAz
+guvudAvA	ubitutik
+zidubi	upiluk
+pAlA	AvAp
+lukAbA	upiluk
+pAlA	AlAz
+lukAbA	AbAzid
+zupi	AlAz
+zidubi	AbAzid
+tutikigi	ubitutik
+guvudAvA	igiguvud
+zupi	AlAz
+tutikigi	ubitutik

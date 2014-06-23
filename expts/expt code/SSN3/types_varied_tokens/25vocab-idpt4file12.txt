@@ -1,0 +1,60 @@
+Lexicon: nf	zDk	mKNp	Zt	
+
+Training Sentences:
+zDknfmKNpZt
+nfmKNpZtzDk
+mKNpZtzDknf
+mKNpZtzDknf
+ZtnfmKNpzDk
+mKNpZtnfzDk
+mKNpnfZtzDk
+zDknfZtmKNp
+zDkmKNpnfZt
+mKNpzDkZtnf
+mKNpnfzDkZt
+nfZtmKNpzDk
+zDknfmKNpZt
+mKNpnfzDkZt
+mKNpZtnfzDk
+ZtnfmKNpzDk
+ZtmKNpnfzDk
+zDkZtmKNpnf
+mKNpzDkZtnf
+zDkmKNpZtnf
+nfZtmKNpzDk
+ZtnfzDkmKNp
+zDkZtnfmKNp
+zDknfmKNpZt
+zDkmKNpZtnf
+
+Test Items:
+Zt	tn
+mKNp	kmKN
+zDk	fzD
+nf	tn
+Zt	pZ
+nf	tn
+Zt	tn
+zDk	fzD
+Zt	tn
+mKNp	kmKN
+Zt	pZ
+nf	tn
+Zt	pZ
+zDk	fzD
+Zt	pZ
+zDk	fzD
+nf	tn
+zDk	fzD
+Zt	pZ
+nf	tn
+zDk	fzD
+Zt	pZ
+nf	tn
+mKNp	kmKN
+Zt	pZ
+nf	tn
+mKNp	kmKN
+nf	tn
+Zt	pZ
+mKNp	kmKN

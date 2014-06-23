@@ -1,0 +1,41 @@
+Lexicon: Vp	ZvL	dgbn	
+
+Training Sentences:
+dgbnVpdgbnZvL
+ZvLVpZvLdgbn
+dgbnZvLVpdgbn
+VpdgbnVpZvL
+dgbnZvLVpdgbn
+VpZvLVpZvL
+
+Test Items:
+Vp	nV
+dgbn	Ldgb
+Vp	nV
+dgbn	Ldgb
+ZvL	pZv
+dgbn	Ldgb
+Vp	nV
+ZvL	pZv
+Vp	nV
+ZvL	pZv
+dgbn	Ldgb
+ZvL	pZv
+Vp	nV
+ZvL	pZv
+dgbn	Ldgb
+ZvL	pZv
+Vp	nV
+ZvL	pZv
+dgbn	Ldgb
+Vp	nV
+ZvL	pZv
+dgbn	Ldgb
+ZvL	pZv
+Vp	nV
+ZvL	pZv
+dgbn	Ldgb
+ZvL	pZv
+dgbn	Ldgb
+ZvL	pZv
+Vp	nV

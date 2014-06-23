@@ -1,0 +1,45 @@
+Lexicon: kz	pgf	MRBV	TP	
+
+Training Sentences:
+TPpgfMRBVkz
+MRBVTPpgfkz
+TPMRBVpgfkz
+MRBVpgfTPkz
+pgfkzTPMRBV
+pgfkzTPMRBV
+MRBVTPpgfkz
+MRBVTPkzpgf
+pgfTPkzMRBV
+pgfkzMRBVTP
+
+Test Items:
+TP	Pk
+MRBV	fMRB
+TP	VT
+MRBV	fMRB
+TP	Pk
+pgf	zpg
+TP	Pk
+pgf	zpg
+kz	VT
+pgf	zpg
+kz	VT
+TP	Pk
+pgf	zpg
+kz	VT
+TP	Pk
+MRBV	fMRB
+pgf	zpg
+TP	Pk
+kz	VT
+TP	Pk
+MRBV	fMRB
+TP	Pk
+kz	VT
+MRBV	fMRB
+kz	VT
+TP	Pk
+kz	VT
+pgf	zpg
+TP	Pk
+MRBV	fMRB

@@ -1,0 +1,75 @@
+Lexicon: kikA	bitu	zivulu	pAguzu	dutilAdA	vApibAgi	
+
+Training Sentences:
+pAguzu
+dutilAdA
+vApibAgi
+kikA
+dutilAdA
+dutilAdA
+zivulu
+zivulu
+kikA
+zivulu
+kikA
+kikA
+dutilAdA
+dutilAdA
+pAguzu
+vApibAgi
+dutilAdA
+bitu
+kikA
+pAguzu
+bitu
+bitu
+bitu
+pAguzu
+zivulu
+dutilAdA
+pAguzu
+kikA
+vApibAgi
+zivulu
+bitu
+bitu
+zivulu
+vApibAgi
+vApibAgi
+zivulu
+kikA
+vApibAgi
+pAguzu
+pAguzu
+
+Test Items:
+vApibAgi	AdAvApib
+kikA	Agik
+pAguzu	ituziv
+kikA	Agik
+bitu	ikAb
+dutilAdA	AdAvApib
+zivulu	ulupAg
+kikA	Agik
+vApibAgi	AdAvApib
+pAguzu	ulupAg
+vApibAgi	uzudutil
+bitu	ikAb
+zivulu	ulupAg
+dutilAdA	uzudutil
+vApibAgi	AdAvApib
+dutilAdA	uzudutil
+pAguzu	ulupAg
+bitu	Agik
+pAguzu	ulupAg
+dutilAdA	AdAvApib
+pAguzu	ulupAg
+kikA	ikAb
+pAguzu	ulupAg
+bitu	ikAb
+kikA	Agik
+dutilAdA	AdAvApib
+zivulu	ituziv
+vApibAgi	AdAvApib
+bitu	ikAb
+dutilAdA	AdAvApib

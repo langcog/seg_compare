@@ -1,0 +1,185 @@
+Lexicon: Bv	VLr	ngRT	
+
+Training Sentences:
+VLrngRTngRTVLr
+VLrngRTBvBv
+BvBvngRTVLr
+BvngRTngRTVLr
+ngRTBvVLrBv
+VLrBvBvVLr
+ngRTngRTVLrVLr
+VLrVLrngRTngRT
+BvBvVLrVLr
+VLrVLrngRTngRT
+ngRTBvVLrngRT
+VLrVLrBvBv
+ngRTBvngRTBv
+VLrngRTngRTBv
+BvBvVLrVLr
+BvBvngRTngRT
+ngRTBvBvngRT
+BvngRTBvngRT
+ngRTVLrVLrngRT
+ngRTVLrngRTBv
+ngRTVLrVLrBv
+VLrngRTngRTBv
+VLrVLrngRTngRT
+ngRTVLrngRTBv
+BvBvVLrngRT
+ngRTBvBvngRT
+VLrngRTVLrngRT
+VLrVLrngRTBv
+ngRTngRTVLrBv
+VLrVLrBvBv
+ngRTngRTBvVLr
+BvVLrBvVLr
+BvVLrngRTVLr
+BvngRTngRTBv
+BvBvVLrngRT
+BvVLrBvVLr
+ngRTVLrVLrngRT
+VLrVLrBvBv
+VLrVLrngRTBv
+VLrVLrngRTngRT
+BvVLrngRTVLr
+VLrVLrngRTngRT
+VLrVLrBvBv
+VLrVLrngRTngRT
+BvBvngRTngRT
+VLrVLrngRTngRT
+BvngRTVLrngRT
+ngRTVLrVLrBv
+ngRTVLrBvVLr
+ngRTVLrVLrngRT
+ngRTVLrVLrBv
+VLrVLrngRTngRT
+BvBvngRTngRT
+ngRTVLrngRTBv
+ngRTBvngRTBv
+VLrngRTVLrBv
+VLrVLrBvBv
+ngRTngRTVLrBv
+ngRTVLrVLrngRT
+VLrVLrBvBv
+VLrngRTBvBv
+VLrBvBvngRT
+BvBvngRTngRT
+VLrBvVLrngRT
+BvBvVLrVLr
+BvngRTngRTBv
+BvBvngRTVLr
+VLrVLrBvngRT
+VLrVLrBvngRT
+ngRTBvBvVLr
+ngRTBvVLrVLr
+ngRTngRTBvVLr
+VLrngRTBvBv
+VLrngRTBvVLr
+ngRTBvVLrngRT
+VLrBvngRTngRT
+BvngRTBvngRT
+VLrngRTBvBv
+BvBvVLrVLr
+VLrBvVLrBv
+VLrngRTBvBv
+VLrBvngRTngRT
+BvngRTBvngRT
+ngRTBvngRTVLr
+ngRTVLrBvngRT
+ngRTngRTBvBv
+BvngRTngRTVLr
+BvBvVLrngRT
+VLrBvngRTVLr
+VLrBvBvVLr
+BvBvngRTngRT
+ngRTngRTVLrBv
+BvVLrBvngRT
+VLrVLrngRTBv
+ngRTBvBvVLr
+BvBvngRTngRT
+BvBvngRTVLr
+BvngRTBvVLr
+ngRTngRTBvBv
+VLrVLrBvngRT
+VLrngRTngRTBv
+VLrBvBvVLr
+ngRTngRTVLrVLr
+BvBvngRTngRT
+BvVLrngRTBv
+ngRTVLrBvVLr
+BvngRTBvngRT
+ngRTVLrBvVLr
+ngRTngRTVLrVLr
+BvBvngRTVLr
+BvVLrBvngRT
+BvngRTBvngRT
+VLrngRTVLrBv
+BvngRTVLrBv
+BvVLrVLrngRT
+ngRTVLrngRTBv
+BvngRTVLrBv
+ngRTBvngRTVLr
+VLrngRTBvBv
+BvBvVLrngRT
+VLrBvngRTBv
+ngRTngRTVLrVLr
+VLrVLrngRTngRT
+BvVLrngRTVLr
+VLrngRTVLrngRT
+ngRTngRTBvVLr
+VLrVLrngRTBv
+BvVLrVLrBv
+BvBvVLrVLr
+VLrngRTVLrngRT
+ngRTBvBvVLr
+VLrVLrBvngRT
+ngRTngRTVLrVLr
+ngRTBvBvngRT
+VLrngRTVLrngRT
+ngRTBvBvVLr
+VLrBvBvVLr
+VLrngRTngRTBv
+VLrVLrBvBv
+BvngRTBvngRT
+BvVLrBvVLr
+VLrngRTVLrBv
+ngRTngRTBvBv
+ngRTVLrngRTBv
+BvngRTBvVLr
+BvBvngRTngRT
+VLrBvBvngRT
+BvVLrVLrBv
+VLrVLrngRTngRT
+VLrVLrVLrVLr
+
+Test Items:
+ngRT	rngR
+VLr	vVL
+ngRT	rngR
+VLr	vVL
+ngRT	rngR
+Bv	TB
+ngRT	rngR
+Bv	TB
+ngRT	rngR
+VLr	vVL
+ngRT	rngR
+VLr	vVL
+Bv	TB
+ngRT	rngR
+VLr	vVL
+ngRT	rngR
+VLr	vVL
+Bv	TB
+VLr	vVL
+Bv	TB
+VLr	vVL
+ngRT	rngR
+Bv	TB
+VLr	vVL
+Bv	TB
+ngRT	rngR
+Bv	TB
+ngRT	rngR
+VLr	vVL
+ngRT	rngR

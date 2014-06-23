@@ -1,0 +1,45 @@
+Lexicon: JG	Nbk	ZvlT	rp	
+
+Training Sentences:
+JGZvlTrpNbk
+JGrpNbkZvlT
+NbkJGZvlTrp
+JGZvlTNbkrp
+ZvlTNbkJGrp
+rpJGZvlTNbk
+JGZvlTrpNbk
+NbkrpJGZvlT
+ZvlTJGNbkrp
+ZvlTJGrpNbk
+
+Test Items:
+ZvlT	kZvl
+Nbk	GNb
+JG	pJ
+rp	Tr
+ZvlT	kZvl
+rp	Tr
+JG	pJ
+rp	Tr
+JG	pJ
+Nbk	GNb
+JG	Tr
+ZvlT	kZvl
+JG	pJ
+ZvlT	kZvl
+JG	pJ
+Nbk	GNb
+JG	pJ
+ZvlT	kZvl
+rp	Tr
+JG	pJ
+rp	Tr
+Nbk	GNb
+JG	Tr
+ZvlT	kZvl
+rp	pJ
+JG	Tr
+Nbk	GNb
+JG	pJ
+rp	Tr
+ZvlT	kZvl

@@ -1,0 +1,39 @@
+Lexicon: bAki	pibi	vupAdA	lAvAtu	gidukAzi	gulutizu	
+
+Training Sentences:
+pibilAvAtuvupAdAgidukAzigulutizubAki
+gulutizugidukAzibAkivupAdApibilAvAtu
+gidukAzilAvAtugulutizuvupAdApibibAki
+gidukAzibAkilAvAtupibigulutizuvupAdA
+
+Test Items:
+gidukAzi	Azigulut
+lAvAtu	AdAlAv
+bAki	Akip
+gidukAzi	Atugiduk
+pibi	izub
+bAki	Akip
+vupAdA	ibivup
+pibi	Akip
+lAvAtu	ibivup
+bAki	izub
+vupAdA	AdAlAv
+gulutizu	Atugiduk
+lAvAtu	AdAlAv
+vupAdA	ibivup
+bAki	izub
+gulutizu	Azigulut
+pibi	izub
+gulutizu	Azigulut
+pibi	Akip
+gulutizu	Azigulut
+gidukAzi	Atugiduk
+lAvAtu	ibivup
+bAki	izub
+gulutizu	Azigulut
+vupAdA	ibivup
+lAvAtu	AdAlAv
+bAki	izub
+gidukAzi	Azigulut
+gulutizu	Atugiduk
+bAki	Akip

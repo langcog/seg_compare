@@ -1,0 +1,185 @@
+Lexicon: kf	NRD	BgMm	Pl	
+
+Training Sentences:
+kfPlBgMmNRD
+BgMmNRDkfPl
+kfNRDPlBgMm
+kfPlBgMmNRD
+NRDBgMmPlkf
+kfPlNRDBgMm
+BgMmkfPlNRD
+NRDBgMmkfPl
+BgMmPlkfNRD
+BgMmPlNRDkf
+BgMmkfNRDPl
+NRDkfPlBgMm
+NRDPlkfBgMm
+NRDPlBgMmkf
+NRDkfBgMmPl
+NRDPlBgMmkf
+kfPlNRDBgMm
+NRDPlBgMmkf
+PlkfBgMmNRD
+kfNRDBgMmPl
+kfNRDPlBgMm
+kfPlBgMmNRD
+kfPlBgMmNRD
+kfPlNRDBgMm
+BgMmNRDPlkf
+NRDPlBgMmkf
+kfPlBgMmNRD
+kfBgMmPlNRD
+PlNRDkfBgMm
+kfBgMmPlNRD
+BgMmkfPlNRD
+kfBgMmNRDPl
+kfPlBgMmNRD
+kfNRDBgMmPl
+kfNRDPlBgMm
+PlBgMmkfNRD
+BgMmkfPlNRD
+NRDBgMmkfPl
+BgMmNRDPlkf
+PlkfBgMmNRD
+kfNRDBgMmPl
+kfNRDBgMmPl
+kfPlBgMmNRD
+BgMmNRDkfPl
+kfPlNRDBgMm
+PlkfNRDBgMm
+kfNRDPlBgMm
+kfPlNRDBgMm
+BgMmPlNRDkf
+kfNRDPlBgMm
+BgMmkfPlNRD
+PlBgMmkfNRD
+PlBgMmNRDkf
+NRDBgMmPlkf
+kfNRDPlBgMm
+PlNRDBgMmkf
+kfBgMmNRDPl
+BgMmPlNRDkf
+NRDkfPlBgMm
+kfPlNRDBgMm
+NRDBgMmPlkf
+kfPlNRDBgMm
+kfBgMmNRDPl
+PlBgMmNRDkf
+NRDkfBgMmPl
+NRDPlBgMmkf
+kfNRDBgMmPl
+BgMmkfPlNRD
+PlBgMmkfNRD
+PlNRDBgMmkf
+kfNRDPlBgMm
+NRDBgMmPlkf
+NRDPlBgMmkf
+kfBgMmNRDPl
+BgMmNRDPlkf
+NRDPlBgMmkf
+NRDBgMmkfPl
+kfPlNRDBgMm
+NRDBgMmPlkf
+NRDBgMmPlkf
+PlBgMmNRDkf
+kfNRDPlBgMm
+kfPlBgMmNRD
+BgMmPlkfNRD
+BgMmNRDPlkf
+PlNRDBgMmkf
+PlkfBgMmNRD
+PlBgMmNRDkf
+NRDPlBgMmkf
+NRDBgMmPlkf
+BgMmkfNRDPl
+BgMmkfNRDPl
+kfPlBgMmNRD
+kfPlNRDBgMm
+BgMmPlNRDkf
+BgMmNRDPlkf
+kfBgMmNRDPl
+PlBgMmkfNRD
+BgMmNRDPlkf
+PlNRDkfBgMm
+BgMmNRDkfPl
+PlkfNRDBgMm
+kfPlNRDBgMm
+BgMmNRDPlkf
+BgMmNRDPlkf
+PlNRDkfBgMm
+kfPlBgMmNRD
+NRDkfBgMmPl
+BgMmkfPlNRD
+BgMmNRDPlkf
+kfBgMmPlNRD
+kfBgMmPlNRD
+kfPlBgMmNRD
+BgMmPlNRDkf
+NRDPlBgMmkf
+PlBgMmkfNRD
+kfNRDPlBgMm
+BgMmNRDkfPl
+BgMmPlkfNRD
+PlNRDkfBgMm
+kfPlBgMmNRD
+NRDPlBgMmkf
+NRDPlBgMmkf
+BgMmkfNRDPl
+NRDkfPlBgMm
+kfPlNRDBgMm
+BgMmPlkfNRD
+kfBgMmPlNRD
+kfPlBgMmNRD
+kfNRDPlBgMm
+BgMmPlkfNRD
+NRDPlBgMmkf
+NRDPlBgMmkf
+PlkfNRDBgMm
+kfPlNRDBgMm
+BgMmPlkfNRD
+NRDPlBgMmkf
+kfPlBgMmNRD
+BgMmPlkfNRD
+PlBgMmkfNRD
+NRDPlBgMmkf
+BgMmNRDPlkf
+NRDkfPlBgMm
+NRDBgMmkfPl
+PlNRDkfBgMm
+NRDBgMmPlkf
+PlkfBgMmNRD
+kfPlBgMmNRD
+kfNRDBgMmPl
+PlNRDkfBgMm
+
+Test Items:
+BgMm	DBgM
+Pl	lk
+NRD	fNR
+kf	mP
+Pl	mP
+NRD	fNR
+BgMm	DBgM
+kf	mP
+Pl	lk
+kf	mP
+Pl	mP
+NRD	fNR
+kf	mP
+NRD	fNR
+BgMm	DBgM
+NRD	fNR
+Pl	lk
+kf	mP
+Pl	lk
+kf	lk
+BgMm	DBgM
+Pl	mP
+BgMm	DBgM
+Pl	mP
+NRD	fNR
+BgMm	DBgM
+kf	lk
+BgMm	DBgM
+kf	mP
+Pl	lk

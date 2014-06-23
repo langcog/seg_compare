@@ -1,0 +1,44 @@
+Lexicon: tibA	tuki	lupizi	pAgizu	gulAkAdu	vudAvAbi	
+
+Training Sentences:
+vudAvAbigulAkAdutibA
+tukitibAlupizi
+pAgizugulAkAduvudAvAbi
+tukigulAkAduvudAvAbi
+tukilupizivudAvAbi
+tibApAgizutuki
+tibApAgizulupizi
+gulAkAduvudAvAbilupizi
+pAgizugulAkAdutuki
+
+Test Items:
+vudAvAbi	izugulAk
+gulAkAdu	AduvudAv
+vudAvAbi	izugulAk
+lupizi	izipAg
+gulAkAdu	izugulAk
+tibA	Abit
+lupizi	izipAg
+pAgizu	izipAg
+vudAvAbi	izugulAk
+tibA	Abit
+lupizi	ukilup
+gulAkAdu	izugulAk
+tibA	Abit
+lupizi	ukilup
+vudAvAbi	AduvudAv
+lupizi	izipAg
+pAgizu	izipAg
+tuki	ibAt
+lupizi	ukilup
+tuki	Abit
+lupizi	izipAg
+pAgizu	ukilup
+lupizi	izipAg
+tibA	Abit
+gulAkAdu	izugulAk
+tibA	ibAt
+vudAvAbi	AduvudAv
+gulAkAdu	izugulAk
+vudAvAbi	AduvudAv
+pAgizu	ukilup

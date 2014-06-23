@@ -1,0 +1,63 @@
+Lexicon: bilu	giki	piduzu	zivudA	kApAbAvA	gutilAtu	
+
+Training Sentences:
+bilu
+piduzu
+piduzu
+kApAbAvA
+bilu
+zivudA
+piduzu
+giki
+kApAbAvA
+kApAbAvA
+gutilAtu
+bilu
+giki
+kApAbAvA
+zivudA
+gutilAtu
+zivudA
+gutilAtu
+giki
+bilu
+bilu
+gutilAtu
+zivudA
+piduzu
+zivudA
+gutilAtu
+piduzu
+kApAbAvA
+
+Test Items:
+giki	ilug
+piduzu	ikipid
+gutilAtu	AvAgutil
+piduzu	uzuziv
+bilu	Atub
+piduzu	ikipid
+gutilAtu	udAkApAb
+piduzu	uzuziv
+giki	Atub
+gutilAtu	AvAgutil
+kApAbAvA	AvAgutil
+gutilAtu	udAkApAb
+zivudA	uzuziv
+bilu	ilug
+kApAbAvA	AvAgutil
+zivudA	ikipid
+piduzu	uzuziv
+zivudA	ikipid
+kApAbAvA	AvAgutil
+piduzu	ikipid
+gutilAtu	udAkApAb
+zivudA	uzuziv
+gutilAtu	udAkApAb
+bilu	Atub
+gutilAtu	AvAgutil
+zivudA	uzuziv
+kApAbAvA	AvAgutil
+zivudA	ikipid
+giki	Atub
+zivudA	ikipid

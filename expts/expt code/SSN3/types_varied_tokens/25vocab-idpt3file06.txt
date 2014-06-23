@@ -1,0 +1,60 @@
+Lexicon: Ln	VbG	ltMk	
+
+Training Sentences:
+LnVbGltMkLn
+LnltMkLnltMk
+ltMkLnVbGLn
+LnVbGltMkVbG
+VbGltMkLnVbG
+VbGltMkLnVbG
+ltMkVbGLnltMk
+ltMkVbGLnltMk
+ltMkLnltMkLn
+LnltMkLnVbG
+VbGltMkLnltMk
+LnVbGltMkLn
+ltMkVbGltMkVbG
+ltMkLnltMkLn
+VbGltMkVbGltMk
+VbGltMkLnVbG
+VbGLnVbGltMk
+VbGLnltMkLn
+LnVbGltMkLn
+VbGLnltMkVbG
+LnVbGLnltMk
+VbGltMkVbGLn
+LnVbGltMkVbG
+LnVbGLnVbG
+VbGltMkVbGltMk
+
+Test Items:
+Ln	kL
+ltMk	GltM
+VbG	nVb
+Ln	kL
+VbG	nVb
+ltMk	GltM
+Ln	kL
+VbG	nVb
+ltMk	GltM
+VbG	nVb
+Ln	kL
+VbG	nVb
+Ln	kL
+VbG	nVb
+Ln	kL
+ltMk	GltM
+Ln	kL
+ltMk	GltM
+VbG	nVb
+ltMk	GltM
+Ln	kL
+VbG	nVb
+ltMk	GltM
+VbG	nVb
+Ln	kL
+VbG	nVb
+ltMk	GltM
+Ln	kL
+VbG	nVb
+Ln	kL

@@ -1,0 +1,40 @@
+Lexicon: kidu	pilA	pAvukA	gugilu	zutizidA	tuvAbibA	
+
+Training Sentences:
+kidupAvukAtuvAbibApAvukApilAtuvAbibApilAgugilu
+kidugugiluzutizidApilAkidugugilupilAzutizidA
+pilAzutizidAgugilutuvAbibAkiduzutizidAgugilukidu
+tuvAbibApAvukAkiduzutizidApAvukAgugiluzutizidAtuvAbibA
+pilAgugilupilAtuvAbibApAvukAzutizidAkidupAvukA
+
+Test Items:
+pAvukA	ukAgug
+gugilu	ilApAv
+tuvAbibA	idAtuvAb
+zutizidA	iluzutiz
+tuvAbibA	idAtuvAb
+kidu	ibAk
+zutizidA	idAtuvAb
+tuvAbibA	iluzutiz
+kidu	idup
+tuvAbibA	idAtuvAb
+pAvukA	ukAgug
+kidu	ibAk
+tuvAbibA	iluzutiz
+zutizidA	idAtuvAb
+kidu	ibAk
+pAvukA	ilApAv
+pilA	idup
+gugilu	ilApAv
+pilA	ibAk
+zutizidA	idAtuvAb
+tuvAbibA	iluzutiz
+gugilu	ukAgug
+pilA	ibAk
+kidu	ibAk
+pAvukA	ukAgug
+kidu	idup
+pilA	ibAk
+zutizidA	idAtuvAb
+tuvAbibA	iluzutiz
+pilA	idup

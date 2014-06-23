@@ -1,0 +1,42 @@
+Lexicon: Pl	nrD	RMzJ	mN	kVZ	bBft	pT	KgG	LdFv	
+
+Training Sentences:
+kVZLdFvmNRMzJ
+nrDbBftpTkVZ
+KgGpTLdFvRMzJ
+PlKgGmNbBft
+LdFvkVZRMzJpT
+nrDRMzJPlmN
+LdFvKgGpTPl
+
+Test Items:
+kVZ	TKg
+mN	tp
+RMzJ	GLdF
+mN	tp
+LdFv	DRMz
+KgG	TKg
+mN	tp
+LdFv	GLdF
+mN	Jm
+RMzJ	ZbBf
+nrD	lnr
+Pl	Jm
+pT	vP
+LdFv	DRMz
+nrD	NkV
+bBft	DRMz
+pT	vP
+LdFv	GLdF
+KgG	NkV
+bBft	ZbBf
+KgG	NkV
+bBft	GLdF
+KgG	TKg
+Pl	tp
+kVZ	NkV
+pT	vP
+RMzJ	GLdF
+bBft	ZbBf
+RMzJ	GLdF
+kVZ	lnr

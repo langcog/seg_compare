@@ -1,0 +1,41 @@
+Lexicon: rV	BRf	GkKp	
+
+Training Sentences:
+GkKpBRfGkKpBRf
+rVGkKprVBRf
+GkKprVGkKprV
+GkKpBRfrVGkKp
+rVGkKpBRfrV
+BRfrVBRfBRf
+
+Test Items:
+BRf	VBR
+GkKp	fGkK
+rV	pr
+BRf	VBR
+rV	pr
+GkKp	fGkK
+BRf	VBR
+rV	pr
+GkKp	fGkK
+rV	pr
+BRf	VBR
+GkKp	fGkK
+BRf	VBR
+rV	pr
+BRf	VBR
+GkKp	fGkK
+rV	pr
+BRf	VBR
+GkKp	fGkK
+rV	pr
+GkKp	fGkK
+rV	pr
+BRf	VBR
+GkKp	fGkK
+rV	pr
+BRf	VBR
+rV	pr
+GkKp	fGkK
+BRf	VBR
+GkKp	fGkK

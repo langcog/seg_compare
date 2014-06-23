@@ -1,0 +1,125 @@
+Lexicon: dAti	bAtu	zipAki	luguvu	vAdubilA	kAzugipi	
+
+Training Sentences:
+bAtuzipAki
+zipAkiluguvu
+bAtukAzugipi
+dAtikAzugipi
+bAtukAzugipi
+luguvukAzugipi
+bAtudAti
+vAdubilAdAti
+vAdubilAdAti
+vAdubilAzipAki
+bAtuzipAki
+vAdubilAluguvu
+dAtivAdubilA
+zipAkikAzugipi
+kAzugipiluguvu
+dAtikAzugipi
+vAdubilAdAti
+luguvuzipAki
+vAdubilAbAtu
+luguvubAtu
+
+Test Items:
+luguvu	Akilug
+dAti	Atib
+luguvu	Atuzip
+kAzugipi	ilAkAzug
+luguvu	Atuzip
+kAzugipi	uvuvAdub
+dAti	Atib
+vAdubilA	ilAkAzug
+dAti	Atib
+kAzugipi	uvuvAdub
+bAtu	Atib
+zipAki	Atuzip
+dAti	Atib
+kAzugipi	ilAkAzug
+vAdubilA	uvuvAdub
+dAti	ipid
+vAdubilA	ilAkAzug
+dAti	ipid
+vAdubilA	ilAkAzug
+zipAki	Atuzip
+luguvu	Akilug
+dAti	Atib
+luguvu	Atuzip
+bAtu	Atib
+vAdubilA	ilAkAzug
+bAtu	Atib
+dAti	ipid
+vAdubilA	ilAkAzug
+bAtu	ipid
+kAzugipi	ilAkAzug
+bAtu	ipid
+zipAki	Atuzip
+kAzugipi	ilAkAzug
+zipAki	Atuzip
+bAtu	Atib
+zipAki	Atuzip
+kAzugipi	uvuvAdub
+zipAki	Atuzip
+bAtu	ipid
+kAzugipi	uvuvAdub
+dAti	ipid
+zipAki	Akilug
+dAti	Atib
+vAdubilA	ilAkAzug
+bAtu	ipid
+kAzugipi	ilAkAzug
+bAtu	ipid
+zipAki	Akilug
+kAzugipi	uvuvAdub
+luguvu	Atuzip
+kAzugipi	uvuvAdub
+dAti	ipid
+vAdubilA	uvuvAdub
+kAzugipi	ilAkAzug
+luguvu	Akilug
+vAdubilA	uvuvAdub
+kAzugipi	ilAkAzug
+bAtu	Atib
+zipAki	Akilug
+dAti	ipid
+vAdubilA	uvuvAdub
+bAtu	ipid
+vAdubilA	ilAkAzug
+luguvu	Akilug
+zipAki	Atuzip
+dAti	ipid
+luguvu	Atuzip
+zipAki	Akilug
+bAtu	Atib
+luguvu	Atuzip
+dAti	ipid
+zipAki	Atuzip
+luguvu	Akilug
+zipAki	Akilug
+vAdubilA	ilAkAzug
+bAtu	ipid
+vAdubilA	uvuvAdub
+kAzugipi	uvuvAdub
+bAtu	ipid
+zipAki	Atuzip
+kAzugipi	ilAkAzug
+bAtu	ipid
+zipAki	Akilug
+bAtu	ipid
+vAdubilA	ilAkAzug
+kAzugipi	uvuvAdub
+vAdubilA	ilAkAzug
+kAzugipi	uvuvAdub
+zipAki	Akilug
+kAzugipi	uvuvAdub
+bAtu	Atib
+kAzugipi	uvuvAdub
+dAti	ipid
+kAzugipi	ilAkAzug
+zipAki	Atuzip
+luguvu	Akilug
+kAzugipi	ilAkAzug
+vAdubilA	uvuvAdub
+bAtu	Atib
+luguvu	Akilug
